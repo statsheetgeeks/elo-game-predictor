@@ -1,0 +1,16 @@
+as_of_date,game_pk,home_team,home_combined_rating,away_team,away_combined_rating,elo_diff,home_win_prob
+2026-07-10,824252,Detroit Tigers,1504.8,Philadelphia Phillies,1539.5,-34.7,47.9
+2026-07-10,823357,Pittsburgh Pirates,1512.0,Milwaukee Brewers,1583.6,-71.6,42.3
+2026-07-10,822709,Washington Nationals,1509.4,New York Yankees,1531.3,-21.9,47.6
+2026-07-10,824817,Baltimore Orioles,1507.9,Kansas City Royals,1472.8,35.1,54.9
+2026-07-10,824493,Cincinnati Reds,1494.9,Chicago Cubs,1540.6,-45.7,46.0
+2026-07-10,822955,Tampa Bay Rays,1525.0,Seattle Mariners,1518.3,6.7,56.0
+2026-07-10,823845,Miami Marlins,1529.6,Cleveland Guardians,1520.0,9.6,54.5
+2026-07-10,823604,New York Mets,1477.3,Boston Red Sox,1535.0,-57.7,45.5
+2026-07-10,824575,Chicago White Sox,1507.0,Athletics,1461.9,45.1,61.1
+2026-07-10,822878,Texas Rangers,1516.4,Houston Astros,1492.3,24.1,56.6
+2026-07-10,823685,Minnesota Twins,1484.5,Los Angeles Angels,1455.6,28.9,58.0
+2026-07-10,823033,St. Louis Cardinals,1516.6,Atlanta Braves,1531.8,-15.2,50.7
+2026-07-10,823278,San Diego Padres,1502.5,Toronto Blue Jays,1501.6,0.9,53.8
+2026-07-10,823927,Los Angeles Dodgers,1570.5,Arizona Diamondbacks,1498.4,72.1,66.1
+2026-07-10,823200,San Francisco Giants,1477.1,Colorado Rockies,1440.8,36.3,60.1

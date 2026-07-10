@@ -1,0 +1,974 @@
+game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable_pitcher,away_probable_pitcher
+630851,2020-07-23,2020,Final,Washington Nationals,New York Yankees,1.0,4.0,Max Scherzer,Gerrit Cole
+631377,2020-07-23,2020,Final,Los Angeles Dodgers,San Francisco Giants,8.0,1.0,Dustin May,Johnny Cueto
+631242,2020-07-24,2020,Final,New York Mets,Atlanta Braves,1.0,0.0,Jacob deGrom,Michael Soroka
+631589,2020-07-24,2020,Final,Cincinnati Reds,Detroit Tigers,7.0,1.0,Sonny Gray,Matthew Boyd
+630966,2020-07-24,2020,Final,Tampa Bay Rays,Toronto Blue Jays,4.0,6.0,Charlie Morton,Hyun Jin Ryu
+631121,2020-07-24,2020,Final,Philadelphia Phillies,Miami Marlins,2.0,5.0,Aaron Nola,Sandy Alcantara
+631563,2020-07-24,2020,Final,Cleveland Indians,Kansas City Royals,2.0,0.0,Shane Bieber,Danny Duffy
+631641,2020-07-24,2020,Final,Chicago Cubs,Milwaukee Brewers,3.0,0.0,Kyle Hendricks,Brandon Woodruff
+631664,2020-07-24,2020,Final,Boston Red Sox,Baltimore Orioles,13.0,2.0,Nathan Eovaldi,Tommy Milone
+630941,2020-07-24,2020,Final,Texas Rangers,Colorado Rockies,1.0,0.0,Lance Lynn,Germán Márquez
+631514,2020-07-24,2020,Final,Chicago White Sox,Minnesota Twins,5.0,10.0,Lucas Giolito,José Berríos
+630989,2020-07-24,2020,Final,St. Louis Cardinals,Pittsburgh Pirates,5.0,4.0,Jack Flaherty,Joe Musgrove
+631091,2020-07-24,2020,Final,San Diego Padres,Arizona Diamondbacks,7.0,2.0,Chris Paddack,Madison Bumgarner
+631438,2020-07-24,2020,Final,Houston Astros,Seattle Mariners,8.0,2.0,Justin Verlander,Marco Gonzales
+631378,2020-07-24,2020,Final,Los Angeles Dodgers,San Francisco Giants,9.0,1.0,Ross Stripling,Tyler Anderson
+631182,2020-07-24,2020,Final,Oakland Athletics,Los Angeles Angels,7.0,3.0,Frankie Montas,Andrew Heaney
+631642,2020-07-25,2020,Final,Chicago Cubs,Milwaukee Brewers,3.0,8.0,Yu Darvish,Corbin Burnes
+631666,2020-07-25,2020,Final,Boston Red Sox,Baltimore Orioles,2.0,7.0,Martín Pérez,Alex Cobb
+631515,2020-07-25,2020,Final,Chicago White Sox,Minnesota Twins,10.0,3.0,Dallas Keuchel,Randy Dobnak
+630992,2020-07-25,2020,Final,St. Louis Cardinals,Pittsburgh Pirates,9.0,1.0,Adam Wainwright,Trevor Williams
+630967,2020-07-25,2020,Final,Tampa Bay Rays,Toronto Blue Jays,4.0,1.0,Ryan Yarbrough,Matt Shoemaker
+630942,2020-07-25,2020,Final,Texas Rangers,Colorado Rockies,2.0,3.0,Mike Minor,Jon Gray
+631108,2020-07-25,2020,Final,Philadelphia Phillies,Miami Marlins,7.0,1.0,Zack Wheeler,Caleb Smith
+631181,2020-07-25,2020,Final,Oakland Athletics,Los Angeles Angels,1.0,4.0,Sean Manaea,Dylan Bundy
+631453,2020-07-25,2020,Final,Houston Astros,Seattle Mariners,7.0,2.0,Lance McCullers Jr.,Taijuan Walker
+631382,2020-07-25,2020,Final,Los Angeles Dodgers,San Francisco Giants,4.0,5.0,Alex Wood,Logan Webb
+631241,2020-07-25,2020,Final,New York Mets,Atlanta Braves,3.0,5.0,Steven Matz,Max Fried
+631603,2020-07-25,2020,Final,Cincinnati Reds,Detroit Tigers,4.0,6.0,Luis Castillo,Iván Nova
+631565,2020-07-25,2020,Final,Cleveland Indians,Kansas City Royals,2.0,3.0,Mike Clevinger,Brady Singer
+630899,2020-07-25,2020,Final,Washington Nationals,New York Yankees,9.0,2.0,Erick Fedde,James Paxton
+631092,2020-07-25,2020,Final,San Diego Padres,Arizona Diamondbacks,5.0,1.0,Dinelson Lamet,Robbie Ray
+631126,2020-07-26,2020,Final,Philadelphia Phillies,Miami Marlins,6.0,11.0,Vince Velasquez,Robert Dugger
+630856,2020-07-26,2020,Final,Washington Nationals,New York Yankees,2.0,3.0,Patrick Corbin,Jonathan Loáisiga
+631591,2020-07-26,2020,Final,Cincinnati Reds,Detroit Tigers,2.0,3.0,Trevor Bauer,Spencer Turnbull
+631566,2020-07-26,2020,Final,Cleveland Indians,Kansas City Royals,9.0,2.0,Carlos Carrasco,Ronald Bolaños
+630968,2020-07-26,2020,Final,Tampa Bay Rays,Toronto Blue Jays,6.0,5.0,Blake Snell,Thomas Hatch
+631668,2020-07-26,2020,Final,Boston Red Sox,Baltimore Orioles,4.0,7.0,Ryan Weber,Wade LeBlanc
+631441,2020-07-26,2020,Final,Houston Astros,Seattle Mariners,6.0,7.0,Zack Greinke,Yusei Kikuchi
+631517,2020-07-26,2020,Final,Chicago White Sox,Minnesota Twins,2.0,14.0,Reynaldo López,Kenta Maeda
+630993,2020-07-26,2020,Final,St. Louis Cardinals,Pittsburgh Pirates,1.0,5.0,Dakota Hudson,Mitch Keller
+631643,2020-07-26,2020,Final,Chicago Cubs,Milwaukee Brewers,9.0,1.0,Tyler Chatwood,Freddy Peralta
+630943,2020-07-26,2020,Final,Texas Rangers,Colorado Rockies,2.0,5.0,Corey Kluber,Kyle Freeland
+631165,2020-07-26,2020,Final,Oakland Athletics,Los Angeles Angels,6.0,4.0,Mike Fiers,Shohei Ohtani
+631097,2020-07-26,2020,Final,San Diego Padres,Arizona Diamondbacks,3.0,4.0,Garrett Richards,Zac Gallen
+631240,2020-07-26,2020,Final,New York Mets,Atlanta Braves,1.0,14.0,Rick Porcello,Sean Newcomb
+631384,2020-07-26,2020,Final,Los Angeles Dodgers,San Francisco Giants,1.0,3.0,Julio Urías,Drew Smyly
+631168,2020-07-27,2020,Final,Oakland Athletics,Los Angeles Angels,3.0,0.0,Chris Bassitt,Griffin Canning
+631098,2020-07-27,2020,Final,San Diego Padres,Arizona Diamondbacks,6.0,2.0,Joey Lucchesi,Luke Weaver
+630861,2020-07-27,2020,Final,Washington Nationals,Toronto Blue Jays,1.0,4.0,Aníbal Sánchez,Trent Thornton
+631592,2020-07-27,2020,Final,Cincinnati Reds,Chicago Cubs,7.0,8.0,Wade Miley,Jon Lester
+630969,2020-07-27,2020,Final,Tampa Bay Rays,Atlanta Braves,14.0,5.0,Tyler Glasnow,Mike Foltynewicz
+631130,2020-07-27,2020,Final,Pittsburgh Pirates,Milwaukee Brewers,5.0,6.0,Steven Brault,Adrian Houser
+631489,2020-07-27,2020,Final,Detroit Tigers,Kansas City Royals,6.0,14.0,Michael Fulmer,Mike Montgomery
+631442,2020-07-27,2020,Final,Houston Astros,Seattle Mariners,8.0,5.0,Josh James,Kendall Graveman
+631669,2020-07-27,2020,Final,Boston Red Sox,New York Mets,4.0,7.0,Josh Osich,Michael Wacha
+631127,2020-07-27,2020,Final,Philadelphia Phillies,New York Yankees,,,Jake Arrieta,J.A. Happ
+631567,2020-07-27,2020,Final,Cleveland Indians,Chicago White Sox,,,Aaron Civale,Dylan Cease
+631339,2020-07-27,2020,Final,Miami Marlins,Baltimore Orioles,,,Pablo López,Asher Wojciechowski
+631573,2020-07-28,2020,Final,Cleveland Indians,Chicago White Sox,4.0,3.0,Aaron Civale,Dylan Cease
+631567,2020-07-28,2020,Final,Cleveland Indians,Chicago White Sox,5.0,3.0,Adam Plutko,Carlos Rodón
+630866,2020-07-28,2020,Final,Washington Nationals,Toronto Blue Jays,1.0,5.0,Austin Voth,Tanner Roark
+631593,2020-07-28,2020,Final,Cincinnati Reds,Chicago Cubs,5.0,8.0,Tyler Mahle,Alec Mills
+630970,2020-07-28,2020,Final,Tampa Bay Rays,Atlanta Braves,5.0,2.0,Yonny Chirinos,Kyle Wright
+631132,2020-07-28,2020,Final,Pittsburgh Pirates,Milwaukee Brewers,8.0,6.0,Derek Holland,Josh Lindblom
+631490,2020-07-28,2020,Final,Detroit Tigers,Kansas City Royals,4.0,3.0,Rony García,Kyle Zimmer
+631663,2020-07-28,2020,Final,Boston Red Sox,New York Mets,3.0,8.0,Matt Hall,David Peterson
+631269,2020-07-28,2020,Final,Minnesota Twins,St. Louis Cardinals,6.0,3.0,Homer Bailey,Carlos Martinez
+630944,2020-07-28,2020,Final,Texas Rangers,Arizona Diamondbacks,1.0,4.0,Kyle Gibson,Merrill Kelly
+631443,2020-07-28,2020,Final,Houston Astros,Los Angeles Dodgers,2.0,5.0,Framber Valdez,Walker Buehler
+631171,2020-07-28,2020,Final,Oakland Athletics,Colorado Rockies,3.0,8.0,Daniel Mengden,Antonio Senzatela
+631387,2020-07-28,2020,Final,Los Angeles Angels,Seattle Mariners,10.0,2.0,Patrick Sandoval,Justus Sheffield
+631014,2020-07-28,2020,Final,San Francisco Giants,San Diego Padres,3.0,5.0,Jeff Samardzija,Zach Davies
+631129,2020-07-28,2020,Final,Philadelphia Phillies,New York Yankees,,,Zach Eflin,Gerrit Cole
+631340,2020-07-28,2020,Final,Miami Marlins,Baltimore Orioles,,,Elieser Hernández,Kohl Stewart
+631172,2020-07-29,2020,Final,Oakland Athletics,Colorado Rockies,1.0,5.0,Frankie Montas,Germán Márquez
+630940,2020-07-29,2020,Final,Texas Rangers,Arizona Diamondbacks,7.0,4.0,Lance Lynn,Madison Bumgarner
+630916,2020-07-29,2020,Final,Toronto Blue Jays,Washington Nationals,0.0,4.0,Nate Pearson,Max Scherzer
+631569,2020-07-29,2020,Final,Cleveland Indians,Chicago White Sox,0.0,4.0,Zach Plesac,Lucas Giolito
+631594,2020-07-29,2020,Final,Cincinnati Reds,Chicago Cubs,12.0,7.0,Sonny Gray,Kyle Hendricks
+631137,2020-07-29,2020,Final,Pittsburgh Pirates,Milwaukee Brewers,0.0,3.0,Joe Musgrove,Brandon Woodruff
+631492,2020-07-29,2020,Final,Detroit Tigers,Kansas City Royals,5.0,4.0,Matthew Boyd,Danny Duffy
+631444,2020-07-29,2020,Final,Houston Astros,Los Angeles Dodgers,2.0,4.0,Cristian Javier,Dustin May
+631239,2020-07-29,2020,Final,New York Mets,Boston Red Sox,5.0,6.0,Jacob deGrom,Nathan Eovaldi
+630272,2020-07-29,2020,Final,Atlanta Braves,Tampa Bay Rays,7.0,4.0,Michael Soroka,Charlie Morton
+630495,2020-07-29,2020,Final,Baltimore Orioles,New York Yankees,3.0,9.0,Asher Wojciechowski,Gerrit Cole
+631270,2020-07-29,2020,Final,Minnesota Twins,St. Louis Cardinals,3.0,0.0,Rich Hill,Daniel Ponce de Leon
+631033,2020-07-29,2020,Final,San Francisco Giants,San Diego Padres,7.0,6.0,Johnny Cueto,Chris Paddack
+631389,2020-07-29,2020,Final,Los Angeles Angels,Seattle Mariners,7.0,10.0,Andrew Heaney,Justin Dunn
+631219,2020-07-29,2020,Final,New York Yankees,Philadelphia Phillies,,,Gerrit Cole,Zach Eflin
+630575,2020-07-29,2020,Final,Baltimore Orioles,Miami Marlins,,,Tommy Milone,Sandy Alcantara
+630917,2020-07-30,2020,Final,Toronto Blue Jays,Washington Nationals,4.0,6.0,Hyun Jin Ryu,Erick Fedde
+630496,2020-07-30,2020,Final,Baltimore Orioles,New York Yankees,6.0,8.0,John Means,J.A. Happ
+631238,2020-07-30,2020,Final,New York Mets,Boston Red Sox,2.0,4.0,Steven Matz,Martín Pérez
+631271,2020-07-30,2020,Final,Minnesota Twins,Cleveland Indians,0.0,2.0,José Berríos,Shane Bieber
+631494,2020-07-30,2020,Final,Detroit Tigers,Kansas City Royals,3.0,5.0,Iván Nova,Brady Singer
+630346,2020-07-30,2020,Final,Atlanta Braves,Tampa Bay Rays,2.0,1.0,Max Fried,Ryan Yarbrough
+630145,2020-07-30,2020,Final,Arizona Diamondbacks,Los Angeles Dodgers,3.0,6.0,Robbie Ray,Ross Stripling
+631390,2020-07-30,2020,Final,Los Angeles Angels,Seattle Mariners,5.0,8.0,Dylan Bundy,Marco Gonzales
+631018,2020-07-30,2020,Final,San Francisco Giants,San Diego Padres,7.0,12.0,Kevin Gausman,Dinelson Lamet
+631595,2020-07-30,2020,Final,Cincinnati Reds,Chicago Cubs,,,Luis Castillo,Yu Darvish
+631220,2020-07-30,2020,Final,New York Yankees,Philadelphia Phillies,,,,Zack Wheeler
+630591,2020-07-30,2020,Final,Baltimore Orioles,Miami Marlins,,,,Caleb Smith
+631222,2020-07-31,2020,Final,New York Yankees,Boston Red Sox,5.0,1.0,Jordan Montgomery,Ryan Weber
+631480,2020-07-31,2020,Final,Detroit Tigers,Cincinnati Reds,7.0,2.0,Spencer Turnbull,Luis Castillo
+630275,2020-07-31,2020,Final,Atlanta Braves,New York Mets,11.0,10.0,Sean Newcomb,Rick Porcello
+630592,2020-07-31,2020,Final,Baltimore Orioles,Tampa Bay Rays,6.0,3.0,Alex Cobb,Blake Snell
+631410,2020-07-31,2020,Final,Kansas City Royals,Chicago White Sox,2.0,3.0,Kris Bubic,Dallas Keuchel
+631539,2020-07-31,2020,Final,Colorado Rockies,San Diego Padres,7.0,8.0,Jon Gray,Garrett Richards
+631272,2020-07-31,2020,Final,Minnesota Twins,Cleveland Indians,4.0,1.0,Randy Dobnak,Mike Clevinger
+631647,2020-07-31,2020,Final,Chicago Cubs,Pittsburgh Pirates,6.0,3.0,Yu Darvish,Trevor Williams
+631391,2020-07-31,2020,Final,Los Angeles Angels,Houston Astros,6.0,9.0,Matt Andriese,Lance McCullers Jr.
+631019,2020-07-31,2020,Final,San Francisco Giants,Texas Rangers,9.0,2.0,Logan Webb,Mike Minor
+630201,2020-07-31,2020,Final,Arizona Diamondbacks,Los Angeles Dodgers,5.0,3.0,Zac Gallen,Tony Gonsolin
+631066,2020-07-31,2020,Final,Seattle Mariners,Oakland Athletics,5.0,3.0,Taijuan Walker,Sean Manaea
+631289,2020-07-31,2020,Final,Milwaukee Brewers,St. Louis Cardinals,,,Brett Anderson,Jack Flaherty
+631341,2020-07-31,2020,Final,Miami Marlins,Washington Nationals,,,,
+631413,2020-08-01,2020,Final,Kansas City Royals,Chicago White Sox,5.0,11.0,Ronald Bolaños,Gio Gonzalez
+631392,2020-08-01,2020,Final,Los Angeles Angels,Houston Astros,5.0,4.0,Griffin Canning,Zack Greinke
+631224,2020-08-01,2020,Final,New York Yankees,Boston Red Sox,5.0,2.0,Masahiro Tanaka,Zack Godley
+631273,2020-08-01,2020,Final,Minnesota Twins,Cleveland Indians,3.0,0.0,Kenta Maeda,Carlos Carrasco
+630278,2020-08-01,2020,Final,Atlanta Braves,New York Mets,7.0,1.0,Touki Toussaint,Michael Wacha
+630492,2020-08-01,2020,Final,Baltimore Orioles,Tampa Bay Rays,5.0,4.0,Wade LeBlanc,Tyler Glasnow
+630100,2020-08-01,2020,Final,Arizona Diamondbacks,Los Angeles Dodgers,2.0,11.0,Luke Weaver,Julio Urías
+631540,2020-08-01,2020,Final,Colorado Rockies,San Diego Padres,6.0,1.0,Kyle Freeland,Joey Lucchesi
+631622,2020-08-01,2020,Final,Chicago Cubs,Pittsburgh Pirates,4.0,3.0,Tyler Chatwood,Mitch Keller
+631067,2020-08-01,2020,Final,Seattle Mariners,Oakland Athletics,2.0,3.0,Yusei Kikuchi,Mike Fiers
+631020,2020-08-01,2020,Final,San Francisco Giants,Texas Rangers,7.0,3.0,Drew Smyly,Jordan Lyles
+631469,2020-08-01,2020,Final,Detroit Tigers,Cincinnati Reds,,,Michael Fulmer,Trevor Bauer
+630919,2020-08-01,2020,Final,Toronto Blue Jays,Philadelphia Phillies,,,,
+630918,2020-08-01,2020,Final,Toronto Blue Jays,Philadelphia Phillies,,,,
+631342,2020-08-01,2020,Final,Miami Marlins,Washington Nationals,,,,
+631288,2020-08-01,2020,Final,Milwaukee Brewers,St. Louis Cardinals,,,Brett Anderson,Jack Flaherty
+631470,2020-08-02,2020,Final,Detroit Tigers,Cincinnati Reds,3.0,4.0,Rony García,Anthony DeSclafani
+631469,2020-08-02,2020,Final,Detroit Tigers,Cincinnati Reds,0.0,4.0,Daniel Norris,Trevor Bauer
+630493,2020-08-02,2020,Final,Baltimore Orioles,Tampa Bay Rays,5.0,1.0,Tommy Milone,Yonny Chirinos
+630280,2020-08-02,2020,Final,Atlanta Braves,New York Mets,4.0,0.0,Kyle Wright,David Peterson
+631415,2020-08-02,2020,Final,Kansas City Royals,Chicago White Sox,2.0,9.0,Jakob Junis,Dylan Cease
+631274,2020-08-02,2020,Final,Minnesota Twins,Cleveland Indians,3.0,1.0,Tyler Clippard,Aaron Civale
+631606,2020-08-02,2020,Final,Chicago Cubs,Pittsburgh Pirates,2.0,1.0,Jon Lester,Steven Brault
+631541,2020-08-02,2020,Final,Colorado Rockies,San Diego Padres,9.0,6.0,Antonio Senzatela,Zach Davies
+631021,2020-08-02,2020,Final,San Francisco Giants,Texas Rangers,5.0,9.0,Jeff Samardzija,Kolby Allard
+631393,2020-08-02,2020,Final,Los Angeles Angels,Houston Astros,5.0,6.0,Shohei Ohtani,Josh James
+630101,2020-08-02,2020,Final,Arizona Diamondbacks,Los Angeles Dodgers,0.0,3.0,Merrill Kelly,Clayton Kershaw
+631068,2020-08-02,2020,Final,Seattle Mariners,Oakland Athletics,2.0,3.0,Kendall Graveman,Chris Bassitt
+631210,2020-08-02,2020,Final,New York Yankees,Boston Red Sox,9.0,7.0,James Paxton,Austin Brice
+631329,2020-08-02,2020,Final,Miami Marlins,Washington Nationals,,,,
+631292,2020-08-02,2020,Final,Milwaukee Brewers,St. Louis Cardinals,,,Adrian Houser,Adam Wainwright
+631289,2020-08-02,2020,Final,Milwaukee Brewers,St. Louis Cardinals,,,,
+630907,2020-08-02,2020,Final,Toronto Blue Jays,Philadelphia Phillies,,,,Jake Arrieta
+631596,2020-08-03,2020,Final,Cincinnati Reds,Cleveland Indians,3.0,2.0,Sonny Gray,Zach Plesac
+631219,2020-08-03,2020,Final,New York Yankees,Philadelphia Phillies,6.0,3.0,Gerrit Cole,Jake Arrieta
+630281,2020-08-03,2020,Final,Atlanta Braves,New York Mets,2.0,7.0,Michael Soroka,Jacob deGrom
+631275,2020-08-03,2020,Final,Minnesota Twins,Pittsburgh Pirates,5.0,4.0,Lewis Thorpe,Derek Holland
+631293,2020-08-03,2020,Final,Milwaukee Brewers,Chicago White Sox,4.0,6.0,Brett Anderson,Carlos Rodón
+631645,2020-08-03,2020,Final,Chicago Cubs,Kansas City Royals,2.0,0.0,Alec Mills,Danny Duffy
+631542,2020-08-03,2020,Final,Colorado Rockies,San Francisco Giants,7.0,6.0,Chi Chi González,Johnny Cueto
+631090,2020-08-03,2020,Final,San Diego Padres,Los Angeles Dodgers,5.0,4.0,Chris Paddack,Walker Buehler
+631070,2020-08-03,2020,Final,Seattle Mariners,Oakland Athletics,1.0,11.0,Justus Sheffield,Frankie Montas
+631276,2020-08-04,2020,Final,Minnesota Twins,Pittsburgh Pirates,7.0,3.0,José Berríos,Joe Musgrove
+631597,2020-08-04,2020,Final,Cincinnati Reds,Cleveland Indians,2.0,4.0,Tyler Mahle,Shane Bieber
+630971,2020-08-04,2020,Final,Tampa Bay Rays,Boston Red Sox,5.0,1.0,Charlie Morton,Nathan Eovaldi
+630874,2020-08-04,2020,Final,Washington Nationals,New York Mets,5.0,3.0,Patrick Corbin,Steven Matz
+630284,2020-08-04,2020,Final,Atlanta Braves,Toronto Blue Jays,10.0,1.0,Max Fried,Matt Shoemaker
+630575,2020-08-04,2020,Final,Baltimore Orioles,Miami Marlins,0.0,4.0,John Means,Pablo López
+631294,2020-08-04,2020,Final,Milwaukee Brewers,Chicago White Sox,2.0,3.0,Brandon Woodruff,Lucas Giolito
+631608,2020-08-04,2020,Final,Chicago Cubs,Kansas City Royals,5.0,4.0,Kyle Hendricks,Brady Singer
+631543,2020-08-04,2020,Final,Colorado Rockies,San Francisco Giants,5.0,2.0,Germán Márquez,Kevin Gausman
+630109,2020-08-04,2020,Final,Arizona Diamondbacks,Houston Astros,2.0,8.0,Madison Bumgarner,Cristian Javier
+631069,2020-08-04,2020,Final,San Diego Padres,Los Angeles Dodgers,2.0,5.0,Dinelson Lamet,Dustin May
+631173,2020-08-04,2020,Final,Oakland Athletics,Texas Rangers,5.0,1.0,Jesús Luzardo,Lance Lynn
+631057,2020-08-04,2020,Final,Seattle Mariners,Los Angeles Angels,3.0,5.0,Justin Dunn,Andrew Heaney
+631472,2020-08-04,2020,Final,Detroit Tigers,St. Louis Cardinals,,,,
+631318,2020-08-04,2020,Final,Miami Marlins,Philadelphia Phillies,,,,
+631220,2020-08-05,2020,Final,New York Yankees,Philadelphia Phillies,7.0,11.0,J.A. Happ,Zack Wheeler
+631127,2020-08-05,2020,Final,Philadelphia Phillies,New York Yankees,1.0,3.0,Aaron Nola,Jonathan Loáisiga
+630591,2020-08-05,2020,Final,Baltimore Orioles,Miami Marlins,0.0,1.0,Alex Cobb,Elieser Hernández
+631339,2020-08-05,2020,Final,Miami Marlins,Baltimore Orioles,2.0,1.0,Josh A. Smith,Asher Wojciechowski
+630878,2020-08-05,2020,Final,Washington Nationals,New York Mets,1.0,3.0,Max Scherzer,Rick Porcello
+630972,2020-08-05,2020,Final,Tampa Bay Rays,Boston Red Sox,0.0,5.0,Ryan Yarbrough,Martín Pérez
+631140,2020-08-05,2020,Final,Pittsburgh Pirates,Minnesota Twins,2.0,5.0,Trevor Williams,Randy Dobnak
+631570,2020-08-05,2020,Final,Cleveland Indians,Cincinnati Reds,2.0,0.0,Mike Clevinger,Tejay Antone
+630307,2020-08-05,2020,Final,Atlanta Braves,Toronto Blue Jays,1.0,2.0,Sean Newcomb,Hyun Jin Ryu
+631417,2020-08-05,2020,Final,Kansas City Royals,Chicago Cubs,1.0,6.0,Kris Bubic,Yu Darvish
+631518,2020-08-05,2020,Final,Chicago White Sox,Milwaukee Brewers,0.0,1.0,Dallas Keuchel,Adrian Houser
+631544,2020-08-05,2020,Final,Colorado Rockies,San Francisco Giants,3.0,4.0,Jon Gray,Logan Webb
+630110,2020-08-05,2020,Final,Arizona Diamondbacks,Houston Astros,14.0,7.0,Robbie Ray,Lance McCullers Jr.
+631085,2020-08-05,2020,Final,San Diego Padres,Los Angeles Dodgers,6.0,7.0,Garrett Richards,Ross Stripling
+631174,2020-08-05,2020,Final,Oakland Athletics,Texas Rangers,6.0,4.0,Sean Manaea,Kyle Gibson
+631043,2020-08-05,2020,Final,Seattle Mariners,Los Angeles Angels,7.0,6.0,Marco Gonzales,Julio Teheran
+631471,2020-08-05,2020,Final,Detroit Tigers,St. Louis Cardinals,,,,
+630994,2020-08-05,2020,Final,St. Louis Cardinals,Detroit Tigers,,,,
+631320,2020-08-05,2020,Final,Miami Marlins,Philadelphia Phillies,,,,
+630497,2020-08-05,2020,Final,Baltimore Orioles,New York Yankees,,,,
+631148,2020-08-06,2020,Final,Pittsburgh Pirates,Minnesota Twins,6.0,5.0,JT Brubaker,Kenta Maeda
+631545,2020-08-06,2020,Final,Colorado Rockies,San Francisco Giants,6.0,4.0,Kyle Freeland,Tyler Anderson
+631175,2020-08-06,2020,Final,Oakland Athletics,Texas Rangers,6.0,4.0,Mike Fiers,Mike Minor
+631042,2020-08-06,2020,Final,Seattle Mariners,Los Angeles Angels,1.0,6.0,Taijuan Walker,Dylan Bundy
+631129,2020-08-06,2020,Final,Philadelphia Phillies,New York Yankees,5.0,4.0,Zach Eflin,Jordan Montgomery
+631571,2020-08-06,2020,Final,Cleveland Indians,Cincinnati Reds,13.0,0.0,Carlos Carrasco,Luis Castillo
+630111,2020-08-06,2020,Final,Arizona Diamondbacks,Houston Astros,5.0,4.0,Zac Gallen,Brandon Bielak
+631425,2020-08-06,2020,Final,Kansas City Royals,Chicago Cubs,13.0,2.0,Brad Keller,Tyler Chatwood
+630313,2020-08-06,2020,Final,Atlanta Braves,Toronto Blue Jays,4.0,3.0,Touki Toussaint,Nate Pearson
+631340,2020-08-06,2020,Final,Miami Marlins,Baltimore Orioles,8.0,7.0,Jordan Yamamoto,Wade LeBlanc
+631513,2020-08-06,2020,Final,Chicago White Sox,Milwaukee Brewers,3.0,8.0,Gio Gonzalez,Josh Lindblom
+630995,2020-08-06,2020,Final,St. Louis Cardinals,Detroit Tigers,,,,
+631321,2020-08-06,2020,Final,Miami Marlins,Philadelphia Phillies,,,,
+630879,2020-08-07,2020,Final,Washington Nationals,Baltimore Orioles,0.0,11.0,Aníbal Sánchez,Tommy Milone
+630974,2020-08-07,2020,Final,Tampa Bay Rays,New York Yankees,1.0,0.0,Blake Snell,Masahiro Tanaka
+631105,2020-08-07,2020,Final,Pittsburgh Pirates,Detroit Tigers,13.0,17.0,Chad Kuhl,Matthew Boyd
+631237,2020-08-07,2020,Final,New York Mets,Miami Marlins,3.0,4.0,Michael Wacha,Humberto Mejía
+631623,2020-08-07,2020,Final,Boston Red Sox,Toronto Blue Jays,5.0,3.0,Ryan Weber,Tanner Roark
+631419,2020-08-07,2020,Final,Kansas City Royals,Minnesota Twins,3.0,2.0,Jakob Junis,Devin Smeltzer
+631504,2020-08-07,2020,Final,Chicago White Sox,Cleveland Indians,2.0,0.0,Dylan Cease,Aaron Civale
+631295,2020-08-07,2020,Final,Milwaukee Brewers,Cincinnati Reds,3.0,8.0,Eric Lauer,Trevor Bauer
+630920,2020-08-07,2020,Final,Texas Rangers,Los Angeles Angels,4.0,3.0,Jordan Lyles,Griffin Canning
+631176,2020-08-07,2020,Final,Oakland Athletics,Houston Astros,3.0,2.0,Chris Bassitt,Zack Greinke
+631073,2020-08-07,2020,Final,San Diego Padres,Arizona Diamondbacks,3.0,0.0,Zach Davies,Luke Weaver
+631045,2020-08-07,2020,Final,Seattle Mariners,Colorado Rockies,4.0,8.0,Yusei Kikuchi,Antonio Senzatela
+631358,2020-08-07,2020,Final,Los Angeles Dodgers,San Francisco Giants,7.0,2.0,Julio Urías,Jeff Samardzija
+631131,2020-08-07,2020,Final,Philadelphia Phillies,Atlanta Braves,,,Vince Velasquez,Kyle Wright
+630996,2020-08-07,2020,Final,St. Louis Cardinals,Chicago Cubs,,,Daniel Ponce de Leon,Jon Lester
+631503,2020-08-08,2020,Final,Chicago White Sox,Cleveland Indians,1.0,7.0,Matt Foster,Zach Plesac
+630962,2020-08-08,2020,Final,Tampa Bay Rays,New York Yankees,4.0,8.0,Tyler Glasnow,Gerrit Cole
+630973,2020-08-08,2020,Final,Tampa Bay Rays,New York Yankees,5.0,3.0,Ryan Thompson,Michael King
+631106,2020-08-08,2020,Final,Pittsburgh Pirates,Detroit Tigers,5.0,11.0,Derek Holland,Iván Nova
+631177,2020-08-08,2020,Final,Oakland Athletics,Houston Astros,3.0,1.0,Frankie Montas,Framber Valdez
+630880,2020-08-08,2020,Final,Washington Nationals,Baltimore Orioles,3.0,5.0,Austin Voth,Thomas Eshelman
+631133,2020-08-08,2020,Final,Philadelphia Phillies,Atlanta Braves,5.0,0.0,Jake Arrieta,Kyle Wright
+630935,2020-08-08,2020,Final,Texas Rangers,Los Angeles Angels,2.0,0.0,Kolby Allard,Patrick Sandoval
+631420,2020-08-08,2020,Final,Kansas City Royals,Minnesota Twins,9.0,6.0,Danny Duffy,Jake Odorizzi
+631236,2020-08-08,2020,Final,New York Mets,Miami Marlins,8.0,4.0,David Peterson,Daniel Castano
+631296,2020-08-08,2020,Final,Milwaukee Brewers,Cincinnati Reds,1.0,4.0,Brett Anderson,Anthony DeSclafani
+631658,2020-08-08,2020,Final,Boston Red Sox,Toronto Blue Jays,1.0,2.0,Zack Godley,Chase Anderson
+631074,2020-08-08,2020,Final,San Diego Padres,Arizona Diamondbacks,2.0,3.0,Chris Paddack,Merrill Kelly
+631046,2020-08-08,2020,Final,Seattle Mariners,Colorado Rockies,0.0,5.0,Nick Margevicius,Ryan Castellani
+631343,2020-08-08,2020,Final,Los Angeles Dodgers,San Francisco Giants,4.0,5.0,Clayton Kershaw,Johnny Cueto
+630997,2020-08-08,2020,Final,St. Louis Cardinals,Chicago Cubs,,,,
+630882,2020-08-09,2020,Final,Washington Nationals,Baltimore Orioles,2.0,6.0,Stephen Strasburg,Asher Wojciechowski
+631136,2020-08-09,2020,Final,Philadelphia Phillies,Atlanta Braves,2.0,5.0,Vince Velasquez,Huascar Ynoa
+631131,2020-08-09,2020,Final,Philadelphia Phillies,Atlanta Braves,0.0,8.0,Spencer Howard,Max Fried
+631235,2020-08-09,2020,Final,New York Mets,Miami Marlins,4.0,2.0,Jacob deGrom,Pablo López
+630946,2020-08-09,2020,Final,Tampa Bay Rays,New York Yankees,4.0,3.0,Charlie Morton,James Paxton
+631110,2020-08-09,2020,Final,Pittsburgh Pirates,Detroit Tigers,1.0,2.0,Steven Brault,Spencer Turnbull
+631630,2020-08-09,2020,Final,Boston Red Sox,Toronto Blue Jays,5.0,3.0,Nathan Eovaldi,Matt Shoemaker
+631421,2020-08-09,2020,Final,Kansas City Royals,Minnesota Twins,4.0,2.0,Brady Singer,José Berríos
+631297,2020-08-09,2020,Final,Milwaukee Brewers,Cincinnati Reds,9.0,3.0,Brandon Woodruff,Sonny Gray
+630922,2020-08-09,2020,Final,Texas Rangers,Los Angeles Angels,7.0,3.0,Lance Lynn,Andrew Heaney
+631178,2020-08-09,2020,Final,Oakland Athletics,Houston Astros,7.0,2.0,Jesús Luzardo,Cristian Javier
+631075,2020-08-09,2020,Final,San Diego Padres,Arizona Diamondbacks,9.0,5.0,Dinelson Lamet,Madison Bumgarner
+631047,2020-08-09,2020,Final,Seattle Mariners,Colorado Rockies,5.0,3.0,Justus Sheffield,Germán Márquez
+631373,2020-08-09,2020,Final,Los Angeles Dodgers,San Francisco Giants,6.0,2.0,Walker Buehler,Kevin Gausman
+631506,2020-08-09,2020,Final,Chicago White Sox,Cleveland Indians,4.0,5.0,Lucas Giolito,Shane Bieber
+630998,2020-08-09,2020,Final,St. Louis Cardinals,Chicago Cubs,,,,
+631138,2020-08-10,2020,Final,Philadelphia Phillies,Atlanta Braves,13.0,8.0,Aaron Nola,Sean Newcomb
+631233,2020-08-10,2020,Final,New York Mets,Washington Nationals,4.0,16.0,Steven Matz,Patrick Corbin
+631473,2020-08-10,2020,Final,Detroit Tigers,Chicago White Sox,5.0,1.0,Michael Fulmer,Dallas Keuchel
+631631,2020-08-10,2020,Final,Boston Red Sox,Tampa Bay Rays,7.0,8.0,Ryan Brasier,Ryan Yarbrough
+631298,2020-08-10,2020,Final,Milwaukee Brewers,Minnesota Twins,2.0,4.0,Adrian Houser,Randy Dobnak
+631546,2020-08-10,2020,Final,Colorado Rockies,Arizona Diamondbacks,8.0,12.0,Jon Gray,Robbie Ray
+630923,2020-08-10,2020,Final,Texas Rangers,Seattle Mariners,2.0,10.0,Kyle Gibson,Justin Dunn
+631445,2020-08-10,2020,Final,Houston Astros,San Francisco Giants,6.0,4.0,Lance McCullers Jr.,Logan Webb
+631395,2020-08-10,2020,Final,Los Angeles Angels,Oakland Athletics,10.0,9.0,Julio Teheran,Sean Manaea
+631346,2020-08-10,2020,Final,Los Angeles Dodgers,San Diego Padres,1.0,2.0,Dustin May,Luis Perdomo
+630999,2020-08-10,2020,Final,St. Louis Cardinals,Pittsburgh Pirates,,,Daniel Ponce de Leon,Trevor Williams
+630901,2020-08-11,2020,Final,Toronto Blue Jays,Miami Marlins,5.0,4.0,Hyun Jin Ryu,Elieser Hernández
+631598,2020-08-11,2020,Final,Cincinnati Reds,Kansas City Royals,6.0,5.0,Luis Castillo,Kris Bubic
+631139,2020-08-11,2020,Final,Philadelphia Phillies,Baltimore Orioles,9.0,10.0,Zack Wheeler,Alex Cobb
+631192,2020-08-11,2020,Final,New York Yankees,Atlanta Braves,9.0,6.0,Jordan Montgomery,Touki Toussaint
+631572,2020-08-11,2020,Final,Cleveland Indians,Chicago Cubs,1.0,7.0,Adam Plutko,Jon Lester
+631243,2020-08-11,2020,Final,New York Mets,Washington Nationals,1.0,2.0,Rick Porcello,Max Scherzer
+631474,2020-08-11,2020,Final,Detroit Tigers,Chicago White Sox,4.0,8.0,Tyler Alexander,Gio Gonzalez
+631646,2020-08-11,2020,Final,Boston Red Sox,Tampa Bay Rays,2.0,8.0,Martín Pérez,Andrew Kittredge
+631299,2020-08-11,2020,Final,Milwaukee Brewers,Minnesota Twins,6.0,4.0,Josh Lindblom,Tyler Clippard
+631547,2020-08-11,2020,Final,Colorado Rockies,Arizona Diamondbacks,8.0,7.0,Kyle Freeland,Zac Gallen
+630924,2020-08-11,2020,Final,Texas Rangers,Seattle Mariners,4.0,2.0,Mike Minor,Marco Gonzales
+631446,2020-08-11,2020,Final,Houston Astros,San Francisco Giants,6.0,7.0,Brandon Bielak,Tyler Anderson
+631396,2020-08-11,2020,Final,Los Angeles Angels,Oakland Athletics,6.0,0.0,Dylan Bundy,Mike Fiers
+631347,2020-08-11,2020,Final,Los Angeles Dodgers,San Diego Padres,2.0,6.0,Ross Stripling,Garrett Richards
+631000,2020-08-11,2020,Final,St. Louis Cardinals,Pittsburgh Pirates,,,,
+631475,2020-08-12,2020,Final,Detroit Tigers,Chicago White Sox,5.0,7.0,Matthew Boyd,Dylan Cease
+631535,2020-08-12,2020,Final,Colorado Rockies,Arizona Diamondbacks,7.0,13.0,Antonio Senzatela,Luke Weaver
+631397,2020-08-12,2020,Final,Los Angeles Angels,Oakland Athletics,4.0,8.0,Griffin Canning,Chris Bassitt
+631568,2020-08-12,2020,Final,Cleveland Indians,Chicago Cubs,2.0,7.0,Carlos Carrasco,Kyle Hendricks
+630902,2020-08-12,2020,Final,Toronto Blue Jays,Miami Marlins,11.0,14.0,Nate Pearson,Jordan Yamamoto
+631599,2020-08-12,2020,Final,Cincinnati Reds,Kansas City Royals,4.0,5.0,Wade Miley,Brad Keller
+631141,2020-08-12,2020,Final,Philadelphia Phillies,Baltimore Orioles,4.0,5.0,Zach Eflin,Wade LeBlanc
+631208,2020-08-12,2020,Final,New York Yankees,Atlanta Braves,6.0,3.0,Masahiro Tanaka,Huascar Ynoa
+631232,2020-08-12,2020,Final,New York Mets,Washington Nationals,11.0,6.0,Robert Gsellman,Aníbal Sánchez
+631447,2020-08-12,2020,Final,Houston Astros,San Francisco Giants,5.0,1.0,Zack Greinke,Trevor Cahill
+631300,2020-08-12,2020,Final,Milwaukee Brewers,Minnesota Twins,2.0,12.0,Eric Lauer,Kenta Maeda
+631648,2020-08-12,2020,Final,Boston Red Sox,Tampa Bay Rays,5.0,9.0,Zack Godley,Blake Snell
+630926,2020-08-12,2020,Final,Texas Rangers,Seattle Mariners,7.0,4.0,Jordan Lyles,Taijuan Walker
+631350,2020-08-12,2020,Final,Los Angeles Dodgers,San Diego Padres,6.0,0.0,Tony Gonsolin,Zach Davies
+630987,2020-08-12,2020,Final,St. Louis Cardinals,Pittsburgh Pirates,,,,
+631231,2020-08-13,2020,Final,New York Mets,Washington Nationals,8.0,2.0,David Peterson,Austin Voth
+631142,2020-08-13,2020,Final,Philadelphia Phillies,Baltimore Orioles,4.0,11.0,Jake Arrieta,Thomas Eshelman
+631650,2020-08-13,2020,Final,Boston Red Sox,Tampa Bay Rays,8.0,17.0,Kyle Hart,Tyler Glasnow
+631600,2020-08-13,2020,Final,Cincinnati Reds,Pittsburgh Pirates,6.0,9.0,Anthony DeSclafani,Trevor Williams
+631609,2020-08-13,2020,Final,Chicago Cubs,Milwaukee Brewers,4.0,2.0,Yu Darvish,Brett Anderson
+631351,2020-08-13,2020,Final,Los Angeles Dodgers,San Diego Padres,11.0,2.0,Julio Urías,Chris Paddack
+631472,2020-08-13,2020,Final,Detroit Tigers,St. Louis Cardinals,,,,
+631471,2020-08-13,2020,Final,Detroit Tigers,St. Louis Cardinals,,,,
+630882,2020-08-14,2020,Final,Washington Nationals,Baltimore Orioles,2.0,6.0,Stephen Strasburg,Asher Wojciechowski
+630903,2020-08-14,2020,Final,Toronto Blue Jays,Tampa Bay Rays,12.0,4.0,Tanner Roark,Trevor Richards
+631683,2020-08-14,2020,Final,Baltimore Orioles,Washington Nationals,3.0,15.0,Tommy Milone,Stephen Strasburg
+631150,2020-08-14,2020,Final,Philadelphia Phillies,New York Mets,6.0,5.0,Spencer Howard,Walker Lockett
+631196,2020-08-14,2020,Final,New York Yankees,Boston Red Sox,10.0,3.0,Gerrit Cole,Colten Brewer
+631476,2020-08-14,2020,Final,Detroit Tigers,Cleveland Indians,5.0,10.0,Iván Nova,Aaron Civale
+631601,2020-08-14,2020,Final,Cincinnati Reds,Pittsburgh Pirates,8.0,1.0,Sonny Gray,Chad Kuhl
+631322,2020-08-14,2020,Final,Miami Marlins,Atlanta Braves,8.0,2.0,Pablo López,Kyle Wright
+631610,2020-08-14,2020,Final,Chicago Cubs,Milwaukee Brewers,3.0,4.0,Alec Mills,Brandon Woodruff
+631516,2020-08-14,2020,Final,Colorado Rockies,Texas Rangers,2.0,3.0,Ryan Castellani,Lance Lynn
+631448,2020-08-14,2020,Final,Houston Astros,Seattle Mariners,11.0,1.0,Framber Valdez,Nestor Cortes
+631381,2020-08-14,2020,Final,Los Angeles Angels,Los Angeles Dodgers,4.0,7.0,Patrick Sandoval,Clayton Kershaw
+630115,2020-08-14,2020,Final,Arizona Diamondbacks,San Diego Padres,5.0,1.0,Merrill Kelly,Dinelson Lamet
+631022,2020-08-14,2020,Final,San Francisco Giants,Oakland Athletics,7.0,8.0,Johnny Cueto,Jesús Luzardo
+631279,2020-08-14,2020,Final,Minnesota Twins,Kansas City Royals,,,Jake Odorizzi,Jakob Junis
+631507,2020-08-14,2020,Final,Chicago White Sox,St. Louis Cardinals,,,,Adam Wainwright
+631508,2020-08-15,2020,Final,Chicago White Sox,St. Louis Cardinals,1.0,5.0,Lucas Giolito,Adam Wainwright
+631507,2020-08-15,2020,Final,Chicago White Sox,St. Louis Cardinals,3.0,6.0,Matt Foster,Jake Woodford
+631280,2020-08-15,2020,Final,Minnesota Twins,Kansas City Royals,4.0,2.0,Jake Odorizzi,Ian Kennedy
+631279,2020-08-15,2020,Final,Minnesota Twins,Kansas City Royals,2.0,4.0,,
+631611,2020-08-15,2020,Final,Chicago Cubs,Milwaukee Brewers,5.0,6.0,Colin Rea,Adrian Houser
+631151,2020-08-15,2020,Final,Philadelphia Phillies,New York Mets,6.0,2.0,Aaron Nola,Steven Matz
+631477,2020-08-15,2020,Final,Detroit Tigers,Cleveland Indians,1.0,3.0,Spencer Turnbull,Shane Bieber
+631330,2020-08-15,2020,Final,Miami Marlins,Atlanta Braves,1.0,2.0,Daniel Castano,Max Fried
+630905,2020-08-15,2020,Final,Toronto Blue Jays,Tampa Bay Rays,2.0,3.0,Chase Anderson,Ryan Yarbrough
+631023,2020-08-15,2020,Final,San Francisco Giants,Oakland Athletics,6.0,7.0,Kevin Gausman,Sean Manaea
+631197,2020-08-15,2020,Final,New York Yankees,Boston Red Sox,11.0,5.0,James Paxton,Nathan Eovaldi
+631449,2020-08-15,2020,Final,Houston Astros,Seattle Mariners,2.0,1.0,Cristian Javier,Nick Margevicius
+630568,2020-08-15,2020,Final,Baltimore Orioles,Washington Nationals,7.0,3.0,Asher Wojciechowski,Patrick Corbin
+630116,2020-08-15,2020,Final,Arizona Diamondbacks,San Diego Padres,7.0,6.0,Alex Young,Cal Quantrill
+631533,2020-08-15,2020,Final,Colorado Rockies,Texas Rangers,4.0,6.0,Germán Márquez,Kyle Gibson
+631363,2020-08-15,2020,Final,Los Angeles Angels,Los Angeles Dodgers,5.0,6.0,Andrew Heaney,Walker Buehler
+631602,2020-08-15,2020,Final,Cincinnati Reds,Pittsburgh Pirates,,,Trevor Bauer,Steven Brault
+631679,2020-08-16,2020,Final,Baltimore Orioles,Washington Nationals,5.0,6.0,John Means,Max Scherzer
+631124,2020-08-16,2020,Final,Philadelphia Phillies,New York Mets,6.0,2.0,Zack Wheeler,Rick Porcello
+630905,2020-08-16,2020,Final,Toronto Blue Jays,Tampa Bay Rays,2.0,3.0,Chase Anderson,Ryan Yarbrough
+631479,2020-08-16,2020,Final,Detroit Tigers,Cleveland Indians,5.0,8.0,Michael Fulmer,Adam Plutko
+631324,2020-08-16,2020,Final,Miami Marlins,Atlanta Braves,0.0,4.0,Elieser Hernández,Robbie Erlin
+630872,2020-08-16,2020,Final,Toronto Blue Jays,Tampa Bay Rays,5.0,7.0,Matt Shoemaker,Yonny Chirinos
+631450,2020-08-16,2020,Final,Houston Astros,Seattle Mariners,3.0,2.0,Lance McCullers Jr.,Justus Sheffield
+631252,2020-08-16,2020,Final,Minnesota Twins,Kansas City Royals,4.0,2.0,Randy Dobnak,Brady Singer
+631491,2020-08-16,2020,Final,Chicago White Sox,St. Louis Cardinals,7.0,2.0,Dallas Keuchel,Dakota Hudson
+631612,2020-08-16,2020,Final,Chicago Cubs,Milwaukee Brewers,5.0,6.0,Jon Lester,Josh Lindblom
+631521,2020-08-16,2020,Final,Colorado Rockies,Texas Rangers,10.0,6.0,Jon Gray,Kolby Allard
+631024,2020-08-16,2020,Final,San Francisco Giants,Oakland Athletics,3.0,15.0,Logan Webb,Mike Fiers
+631364,2020-08-16,2020,Final,Los Angeles Angels,Los Angeles Dodgers,3.0,8.0,Julio Teheran,Dustin May
+630117,2020-08-16,2020,Final,Arizona Diamondbacks,San Diego Padres,5.0,4.0,Robbie Ray,Garrett Richards
+631198,2020-08-16,2020,Final,New York Yankees,Boston Red Sox,4.0,2.0,J.A. Happ,Chris Mazza
+631590,2020-08-16,2020,Final,Cincinnati Reds,Pittsburgh Pirates,,,,
+631613,2020-08-17,2020,Final,Chicago Cubs,St. Louis Cardinals,1.0,3.0,Kyle Hendricks,Kwang Hyun Kim
+630996,2020-08-17,2020,Final,St. Louis Cardinals,Chicago Cubs,4.0,5.0,Alex Reyes,Tyson Miller
+631199,2020-08-17,2020,Final,New York Yankees,Boston Red Sox,6.0,3.0,Jordan Montgomery,Martín Pérez
+630316,2020-08-17,2020,Final,Atlanta Braves,Washington Nationals,7.0,6.0,Touki Toussaint,Aníbal Sánchez
+631325,2020-08-17,2020,Final,Miami Marlins,New York Mets,4.0,11.0,Jordan Yamamoto,Robert Gsellman
+631678,2020-08-17,2020,Final,Baltimore Orioles,Toronto Blue Jays,2.0,7.0,Alex Cobb,Hyun Jin Ryu
+631258,2020-08-17,2020,Final,Minnesota Twins,Kansas City Royals,4.0,1.0,Matt Wisler,Kris Bubic
+631493,2020-08-17,2020,Final,Chicago White Sox,Detroit Tigers,7.0,2.0,Gio Gonzalez,Matthew Boyd
+630927,2020-08-17,2020,Final,Texas Rangers,San Diego Padres,4.0,14.0,Jordan Lyles,Zach Davies
+631451,2020-08-17,2020,Final,Houston Astros,Colorado Rockies,2.0,1.0,Brandon Bielak,Kyle Freeland
+630118,2020-08-17,2020,Final,Arizona Diamondbacks,Oakland Athletics,4.0,3.0,Zac Gallen,Chris Bassitt
+631352,2020-08-17,2020,Final,Los Angeles Dodgers,Seattle Mariners,11.0,9.0,Ross Stripling,Justin Dunn
+631365,2020-08-17,2020,Final,Los Angeles Angels,San Francisco Giants,7.0,6.0,Griffin Canning,Tyler Anderson
+631452,2020-08-18,2020,Final,Houston Astros,Colorado Rockies,2.0,1.0,Zack Greinke,Antonio Senzatela
+630928,2020-08-18,2020,Final,Texas Rangers,San Diego Padres,4.0,6.0,Mike Minor,Adrian Morejon
+631366,2020-08-18,2020,Final,Los Angeles Angels,San Francisco Giants,2.0,8.0,Dylan Bundy,Trevor Cahill
+630174,2020-08-18,2020,Final,Arizona Diamondbacks,Oakland Athletics,10.0,1.0,Luke Weaver,Frankie Montas
+631114,2020-08-18,2020,Final,Pittsburgh Pirates,Cleveland Indians,3.0,6.0,JT Brubaker,Carlos Carrasco
+631200,2020-08-18,2020,Final,New York Yankees,Tampa Bay Rays,3.0,6.0,Masahiro Tanaka,Blake Snell
+631353,2020-08-18,2020,Final,Los Angeles Dodgers,Seattle Mariners,2.0,1.0,Tony Gonsolin,Marco Gonzales
+630322,2020-08-18,2020,Final,Atlanta Braves,Washington Nationals,5.0,8.0,Josh Tomlin,Austin Voth
+631326,2020-08-18,2020,Final,Miami Marlins,New York Mets,3.0,8.0,Humberto Mejía,Corey Oswalt
+631651,2020-08-18,2020,Final,Boston Red Sox,Philadelphia Phillies,6.0,13.0,Zack Godley,Zach Eflin
+631681,2020-08-18,2020,Final,Baltimore Orioles,Toronto Blue Jays,7.0,8.0,Wade LeBlanc,Nate Pearson
+631496,2020-08-18,2020,Final,Chicago White Sox,Detroit Tigers,10.0,4.0,Dylan Cease,Tarik Skubal
+631260,2020-08-18,2020,Final,Minnesota Twins,Milwaukee Brewers,4.0,3.0,Kenta Maeda,Corbin Burnes
+631620,2020-08-18,2020,Final,Chicago Cubs,St. Louis Cardinals,6.0,3.0,Yu Darvish,Daniel Ponce de Leon
+631422,2020-08-18,2020,Final,Kansas City Royals,Cincinnati Reds,,,Brad Keller,Luis Castillo
+631682,2020-08-19,2020,Final,Baltimore Orioles,Toronto Blue Jays,2.0,5.0,Tommy Milone,Tanner Roark
+631652,2020-08-19,2020,Final,Boston Red Sox,Philadelphia Phillies,6.0,3.0,Kyle Hart,Jake Arrieta
+631621,2020-08-19,2020,Final,Chicago Cubs,St. Louis Cardinals,3.0,9.0,Alec Mills,Jack Flaherty
+630997,2020-08-19,2020,Final,St. Louis Cardinals,Chicago Cubs,2.0,4.0,Johan Oviedo,Adbert Alzolay
+631418,2020-08-19,2020,Final,Kansas City Royals,Cincinnati Reds,4.0,0.0,Brad Keller,Luis Castillo
+631422,2020-08-19,2020,Final,Kansas City Royals,Cincinnati Reds,0.0,5.0,Matt Harvey,Trevor Bauer
+631120,2020-08-19,2020,Final,Pittsburgh Pirates,Cleveland Indians,1.0,6.0,Steven Brault,Aaron Civale
+631201,2020-08-19,2020,Final,New York Yankees,Tampa Bay Rays,2.0,4.0,Gerrit Cole,Tyler Glasnow
+631327,2020-08-19,2020,Final,Miami Marlins,New York Mets,3.0,5.0,Pablo López,Jacob deGrom
+631497,2020-08-19,2020,Final,Chicago White Sox,Detroit Tigers,5.0,3.0,Dane Dunning,Casey Mize
+631249,2020-08-19,2020,Final,Minnesota Twins,Milwaukee Brewers,3.0,9.0,Rich Hill,Brett Anderson
+631522,2020-08-19,2020,Final,Colorado Rockies,Houston Astros,6.0,13.0,Ryan Castellani,Framber Valdez
+631076,2020-08-19,2020,Final,San Diego Padres,Texas Rangers,6.0,3.0,Chris Paddack,Lance Lynn
+631179,2020-08-19,2020,Final,Oakland Athletics,Arizona Diamondbacks,4.0,1.0,Jesús Luzardo,Merrill Kelly
+631048,2020-08-19,2020,Final,Seattle Mariners,Los Angeles Dodgers,6.0,4.0,Taijuan Walker,Julio Urías
+631025,2020-08-19,2020,Final,San Francisco Giants,Los Angeles Angels,7.0,2.0,Johnny Cueto,Patrick Sandoval
+630323,2020-08-19,2020,Final,Atlanta Braves,Washington Nationals,,,Kyle Wright,Erick Fedde
+631202,2020-08-20,2020,Final,New York Yankees,Tampa Bay Rays,5.0,10.0,James Paxton,John Curtiss
+630919,2020-08-20,2020,Final,Toronto Blue Jays,Philadelphia Phillies,3.0,2.0,Chase Anderson,Spencer Howard
+630918,2020-08-20,2020,Final,Toronto Blue Jays,Philadelphia Phillies,9.0,8.0,Trent Thornton,Vince Velasquez
+631498,2020-08-20,2020,Final,Chicago White Sox,Detroit Tigers,9.0,0.0,Lucas Giolito,Spencer Turnbull
+631523,2020-08-20,2020,Final,Colorado Rockies,Houston Astros,8.0,10.0,Germán Márquez,Cristian Javier
+631118,2020-08-20,2020,Final,Pittsburgh Pirates,Cleveland Indians,0.0,2.0,Trevor Williams,Shane Bieber
+631049,2020-08-20,2020,Final,Seattle Mariners,Los Angeles Dodgers,1.0,6.0,Yusei Kikuchi,Clayton Kershaw
+631248,2020-08-20,2020,Final,Minnesota Twins,Milwaukee Brewers,7.0,1.0,José Berríos,Brandon Woodruff
+631684,2020-08-20,2020,Final,Baltimore Orioles,Boston Red Sox,1.0,7.0,Asher Wojciechowski,Nathan Eovaldi
+631077,2020-08-20,2020,Final,San Diego Padres,Texas Rangers,8.0,7.0,Dinelson Lamet,Kyle Gibson
+630986,2020-08-20,2020,Final,St. Louis Cardinals,Cincinnati Reds,5.0,4.0,Adam Wainwright,Sonny Gray
+631180,2020-08-20,2020,Final,Oakland Athletics,Arizona Diamondbacks,5.0,1.0,Sean Manaea,Alex Young
+631026,2020-08-20,2020,Final,San Francisco Giants,Los Angeles Angels,10.0,5.0,Kevin Gausman,José Suarez
+631323,2020-08-20,2020,Final,Miami Marlins,New York Mets,,,Daniel Castano,Seth Lugo
+630886,2020-08-21,2020,Final,Washington Nationals,Miami Marlins,2.0,3.0,Patrick Corbin,Elieser Hernández
+630960,2020-08-21,2020,Final,Tampa Bay Rays,Toronto Blue Jays,5.0,6.0,Ryan Yarbrough,Matt Shoemaker
+631103,2020-08-21,2020,Final,Pittsburgh Pirates,Milwaukee Brewers,7.0,2.0,Chad Kuhl,Adrian Houser
+631548,2020-08-21,2020,Final,Cleveland Indians,Detroit Tigers,5.0,10.0,Adam Plutko,Michael Fulmer
+630324,2020-08-21,2020,Final,Atlanta Braves,Philadelphia Phillies,11.0,2.0,Max Fried,Aaron Nola
+631665,2020-08-21,2020,Final,Baltimore Orioles,Boston Red Sox,5.0,8.0,John Means,Colten Brewer
+631409,2020-08-21,2020,Final,Kansas City Royals,Minnesota Twins,7.0,2.0,Danny Duffy,Jake Odorizzi
+630990,2020-08-21,2020,Final,St. Louis Cardinals,Cincinnati Reds,2.0,4.0,Dakota Hudson,Anthony DeSclafani
+631633,2020-08-21,2020,Final,Chicago Cubs,Chicago White Sox,1.0,10.0,Jon Lester,Dallas Keuchel
+631078,2020-08-21,2020,Final,San Diego Padres,Houston Astros,4.0,3.0,Garrett Richards,Lance McCullers Jr.
+631050,2020-08-21,2020,Final,Seattle Mariners,Texas Rangers,7.0,4.0,Nick Margevicius,Kolby Allard
+631348,2020-08-21,2020,Final,Los Angeles Dodgers,Colorado Rockies,5.0,1.0,Walker Buehler,Jon Gray
+631186,2020-08-21,2020,Final,Oakland Athletics,Los Angeles Angels,5.0,3.0,Mike Fiers,Andrew Heaney
+631027,2020-08-21,2020,Final,San Francisco Giants,Arizona Diamondbacks,6.0,2.0,Logan Webb,Robbie Ray
+631230,2020-08-21,2020,Final,New York Mets,New York Yankees,,,Rick Porcello,J.A. Happ
+630890,2020-08-22,2020,Final,Washington Nationals,Miami Marlins,5.0,4.0,Max Scherzer,Daniel Castano
+631341,2020-08-22,2020,Final,Miami Marlins,Washington Nationals,5.0,3.0,Sixto Sánchez,Wil Crowe
+631104,2020-08-22,2020,Final,Pittsburgh Pirates,Milwaukee Brewers,12.0,5.0,Derek Holland,Josh Lindblom
+631154,2020-08-22,2020,Final,Oakland Athletics,Los Angeles Angels,3.0,4.0,Chris Bassitt,Griffin Canning
+630948,2020-08-22,2020,Final,Tampa Bay Rays,Toronto Blue Jays,2.0,1.0,Aaron Slegers,Hyun Jin Ryu
+631403,2020-08-22,2020,Final,Kansas City Royals,Minnesota Twins,2.0,7.0,Brady Singer,Randy Dobnak
+631564,2020-08-22,2020,Final,Cleveland Indians,Detroit Tigers,6.0,1.0,Triston McKenzie,Matthew Boyd
+630338,2020-08-22,2020,Final,Atlanta Braves,Philadelphia Phillies,6.0,5.0,Robbie Erlin,Zack Wheeler
+631667,2020-08-22,2020,Final,Baltimore Orioles,Boston Red Sox,5.0,4.0,Alex Cobb,Martín Pérez
+630991,2020-08-22,2020,Final,St. Louis Cardinals,Cincinnati Reds,3.0,0.0,Kwang Hyun Kim,Wade Miley
+631638,2020-08-22,2020,Final,Chicago Cubs,Chicago White Sox,4.0,7.0,Kyle Hendricks,Reynaldo López
+631349,2020-08-22,2020,Final,Los Angeles Dodgers,Colorado Rockies,4.0,3.0,Dustin May,Kyle Freeland
+631079,2020-08-22,2020,Final,San Diego Padres,Houston Astros,13.0,2.0,Zach Davies,Brandon Bielak
+631051,2020-08-22,2020,Final,Seattle Mariners,Texas Rangers,10.0,1.0,Justus Sheffield,Jordan Lyles
+631028,2020-08-22,2020,Final,San Francisco Giants,Arizona Diamondbacks,5.0,1.0,Tyler Anderson,Zac Gallen
+631229,2020-08-22,2020,Final,New York Mets,New York Yankees,,,,
+630897,2020-08-23,2020,Final,Washington Nationals,Miami Marlins,9.0,3.0,Aníbal Sánchez,Humberto Mejía
+631670,2020-08-23,2020,Final,Baltimore Orioles,Boston Red Sox,5.0,4.0,Wade LeBlanc,Zack Godley
+631551,2020-08-23,2020,Final,Cleveland Indians,Detroit Tigers,4.0,7.0,Carlos Carrasco,Tarik Skubal
+630949,2020-08-23,2020,Final,Tampa Bay Rays,Toronto Blue Jays,5.0,4.0,Josh Fleming,Trent Thornton
+631107,2020-08-23,2020,Final,Pittsburgh Pirates,Milwaukee Brewers,5.0,4.0,JT Brubaker,Corbin Burnes
+631412,2020-08-23,2020,Final,Kansas City Royals,Minnesota Twins,4.0,5.0,Kris Bubic,Matt Wisler
+630976,2020-08-23,2020,Final,St. Louis Cardinals,Cincinnati Reds,6.0,2.0,Daniel Ponce de Leon,Tyler Mahle
+631639,2020-08-23,2020,Final,Chicago Cubs,Chicago White Sox,2.0,1.0,Yu Darvish,Dylan Cease
+631354,2020-08-23,2020,Final,Los Angeles Dodgers,Colorado Rockies,11.0,3.0,Ross Stripling,Antonio Senzatela
+631170,2020-08-23,2020,Final,Oakland Athletics,Los Angeles Angels,5.0,4.0,Frankie Montas,Dylan Bundy
+631080,2020-08-23,2020,Final,San Diego Padres,Houston Astros,5.0,3.0,Adrian Morejon,Zack Greinke
+631029,2020-08-23,2020,Final,San Francisco Giants,Arizona Diamondbacks,6.0,1.0,Trevor Cahill,Luke Weaver
+631052,2020-08-23,2020,Final,Seattle Mariners,Texas Rangers,4.0,1.0,Justin Dunn,Mike Minor
+630273,2020-08-23,2020,Final,Atlanta Braves,Philadelphia Phillies,4.0,5.0,Josh Tomlin,Zach Eflin
+631234,2020-08-23,2020,Final,New York Mets,New York Yankees,,,,
+630950,2020-08-24,2020,Final,Tampa Bay Rays,Toronto Blue Jays,4.0,6.0,Blake Snell,Tanner Roark
+630898,2020-08-24,2020,Final,Washington Nationals,Miami Marlins,8.0,11.0,Austin Voth,Pablo López
+631468,2020-08-24,2020,Final,Detroit Tigers,Chicago Cubs,3.0,9.0,Casey Mize,Alec Mills
+631552,2020-08-24,2020,Final,Cleveland Indians,Minnesota Twins,2.0,3.0,Aaron Civale,Kenta Maeda
+630929,2020-08-24,2020,Final,Texas Rangers,Oakland Athletics,3.0,2.0,Lance Lynn,Jesús Luzardo
+631301,2020-08-24,2020,Final,Milwaukee Brewers,Cincinnati Reds,4.0,2.0,Brett Anderson,Trevor Bauer
+630977,2020-08-24,2020,Final,St. Louis Cardinals,Kansas City Royals,9.0,3.0,Jack Flaherty,Brad Keller
+631439,2020-08-24,2020,Final,Houston Astros,Los Angeles Angels,11.0,4.0,Framber Valdez,Patrick Sandoval
+630193,2020-08-24,2020,Final,Arizona Diamondbacks,Colorado Rockies,2.0,3.0,Taylor Clarke,Ryan Castellani
+631423,2020-08-25,2020,Final,Houston Astros,Los Angeles Angels,6.0,3.0,Cristian Javier,José Suarez
+631426,2020-08-25,2020,Final,Houston Astros,Los Angeles Angels,5.0,12.0,Brandon Bielak,Julio Teheran
+631227,2020-08-25,2020,Final,New York Mets,Miami Marlins,0.0,4.0,Rick Porcello,Daniel Castano
+631323,2020-08-25,2020,Final,Miami Marlins,New York Mets,3.0,0.0,Trevor Rogers,Seth Lugo
+630855,2020-08-25,2020,Final,Washington Nationals,Philadelphia Phillies,3.0,8.0,Erick Fedde,Jake Arrieta
+630862,2020-08-25,2020,Final,Toronto Blue Jays,Boston Red Sox,7.0,9.0,Chase Anderson,Kyle Hart
+630951,2020-08-25,2020,Final,Tampa Bay Rays,Baltimore Orioles,4.0,2.0,Tyler Glasnow,Tommy Milone
+631467,2020-08-25,2020,Final,Detroit Tigers,Chicago Cubs,7.0,1.0,Spencer Turnbull,Tyler Chatwood
+631553,2020-08-25,2020,Final,Cleveland Indians,Minnesota Twins,4.0,2.0,Shane Bieber,Rich Hill
+630930,2020-08-25,2020,Final,Texas Rangers,Oakland Athletics,3.0,10.0,Kyle Gibson,Sean Manaea
+631499,2020-08-25,2020,Final,Chicago White Sox,Pittsburgh Pirates,4.0,0.0,Lucas Giolito,Steven Brault
+631302,2020-08-25,2020,Final,Milwaukee Brewers,Cincinnati Reds,3.0,2.0,Brandon Woodruff,Luis Castillo
+630978,2020-08-25,2020,Final,St. Louis Cardinals,Kansas City Royals,4.0,5.0,Adam Wainwright,Matt Harvey
+631081,2020-08-25,2020,Final,San Diego Padres,Seattle Mariners,3.0,8.0,Chris Paddack,Marco Gonzales
+630194,2020-08-25,2020,Final,Arizona Diamondbacks,Colorado Rockies,4.0,5.0,Alex Young,Germán Márquez
+631015,2020-08-25,2020,Final,San Francisco Giants,Los Angeles Dodgers,10.0,8.0,Johnny Cueto,Julio Urías
+630360,2020-08-25,2020,Final,Atlanta Braves,New York Yankees,,,Ian Anderson,Gerrit Cole
+631500,2020-08-26,2020,Final,Chicago White Sox,Pittsburgh Pirates,10.0,3.0,Dallas Keuchel,Trevor Williams
+630361,2020-08-26,2020,Final,Atlanta Braves,New York Yankees,5.0,1.0,Ian Anderson,Gerrit Cole
+630360,2020-08-26,2020,Final,Atlanta Braves,New York Yankees,2.0,1.0,Max Fried,Masahiro Tanaka
+630853,2020-08-26,2020,Final,Washington Nationals,Philadelphia Phillies,2.0,3.0,Patrick Corbin,Aaron Nola
+630863,2020-08-26,2020,Final,Toronto Blue Jays,Boston Red Sox,9.0,1.0,Julian Merryweather,Colten Brewer
+630952,2020-08-26,2020,Final,Tampa Bay Rays,Baltimore Orioles,4.0,3.0,Trevor Richards,Asher Wojciechowski
+631455,2020-08-26,2020,Final,Detroit Tigers,Chicago Cubs,7.0,6.0,Michael Fulmer,Jon Lester
+631554,2020-08-26,2020,Final,Cleveland Indians,Minnesota Twins,6.0,3.0,Mike Clevinger,José Berríos
+631226,2020-08-26,2020,Final,New York Mets,Miami Marlins,5.0,4.0,Jacob deGrom,Elieser Hernández
+630931,2020-08-26,2020,Final,Texas Rangers,Oakland Athletics,1.0,3.0,Kolby Allard,Mike Fiers
+630979,2020-08-26,2020,Final,St. Louis Cardinals,Kansas City Royals,6.0,5.0,Dakota Hudson,Jakob Junis
+630099,2020-08-26,2020,Final,Arizona Diamondbacks,Colorado Rockies,7.0,8.0,Robbie Ray,Jon Gray
+631440,2020-08-26,2020,Final,Houston Astros,Los Angeles Angels,,,Lance McCullers Jr.,Andrew Heaney
+631303,2020-08-26,2020,Final,Milwaukee Brewers,Cincinnati Reds,,,Adrian Houser,Sonny Gray
+631082,2020-08-26,2020,Final,San Diego Padres,Seattle Mariners,,,Dinelson Lamet,Taijuan Walker
+631001,2020-08-26,2020,Final,San Francisco Giants,Los Angeles Dodgers,,,Kevin Gausman,Clayton Kershaw
+631083,2020-08-27,2020,Final,San Diego Padres,Seattle Mariners,10.0,7.0,Dinelson Lamet,Ljay Newsome
+631082,2020-08-27,2020,Final,San Diego Padres,Seattle Mariners,3.0,8.0,Garrett Richards,Yusei Kikuchi
+630999,2020-08-27,2020,Final,St. Louis Cardinals,Pittsburgh Pirates,3.0,4.0,Kwang Hyun Kim,Chad Kuhl
+631000,2020-08-27,2020,Final,St. Louis Cardinals,Pittsburgh Pirates,0.0,2.0,Johan Oviedo,Cody Ponce
+631017,2020-08-27,2020,Final,San Francisco Giants,Los Angeles Dodgers,0.0,7.0,Logan Webb,Walker Buehler
+631001,2020-08-27,2020,Final,San Francisco Giants,Los Angeles Dodgers,0.0,2.0,Kevin Gausman,Caleb Ferguson
+631290,2020-08-27,2020,Final,Milwaukee Brewers,Cincinnati Reds,1.0,6.0,Adrian Houser,Sonny Gray
+631303,2020-08-27,2020,Final,Milwaukee Brewers,Cincinnati Reds,0.0,6.0,Josh Lindblom,
+630203,2020-08-27,2020,Final,Arizona Diamondbacks,Colorado Rockies,,,Zac Gallen,Kyle Freeland
+630932,2020-08-27,2020,Final,Texas Rangers,Oakland Athletics,,,Jordan Lyles,Chris Bassitt
+630865,2020-08-27,2020,Final,Toronto Blue Jays,Boston Red Sox,,,Hyun Jin Ryu,Chris Mazza
+630896,2020-08-27,2020,Final,Washington Nationals,Philadelphia Phillies,,,Max Scherzer,Spencer Howard
+630953,2020-08-27,2020,Final,Tampa Bay Rays,Baltimore Orioles,,,,
+631456,2020-08-27,2020,Final,Detroit Tigers,Minnesota Twins,,,Matthew Boyd,Randy Dobnak
+631223,2020-08-27,2020,Final,New York Mets,Miami Marlins,,,Michael Wacha,Sixto Sánchez
+631203,2020-08-28,2020,Final,New York Yankees,New York Mets,4.0,6.0,Jordan Montgomery,Michael Wacha
+631230,2020-08-28,2020,Final,New York Mets,New York Yankees,4.0,3.0,David Peterson,Jonathan Loáisiga
+630871,2020-08-28,2020,Final,Toronto Blue Jays,Baltimore Orioles,5.0,4.0,Hyun Jin Ryu,John Means
+631125,2020-08-28,2020,Final,Philadelphia Phillies,Atlanta Braves,7.0,4.0,Zack Wheeler,Robbie Erlin
+631582,2020-08-28,2020,Final,Cincinnati Reds,Chicago Cubs,6.0,5.0,Tyler Mahle,Kyle Hendricks
+631501,2020-08-28,2020,Final,Chicago White Sox,Kansas City Royals,6.0,5.0,Reynaldo López,Danny Duffy
+631304,2020-08-28,2020,Final,Miami Marlins,Tampa Bay Rays,0.0,2.0,Sixto Sánchez,Ryan Yarbrough
+631653,2020-08-28,2020,Final,Boston Red Sox,Washington Nationals,2.0,10.0,Martín Pérez,Max Scherzer
+630933,2020-08-28,2020,Final,Texas Rangers,Los Angeles Dodgers,6.0,2.0,Mike Minor,Dustin May
+631291,2020-08-28,2020,Final,Milwaukee Brewers,Pittsburgh Pirates,9.0,1.0,Corbin Burnes,Derek Holland
+630980,2020-08-28,2020,Final,St. Louis Cardinals,Cleveland Indians,2.0,14.0,Daniel Ponce de Leon,Triston McKenzie
+631524,2020-08-28,2020,Final,Colorado Rockies,San Diego Padres,4.0,10.0,Kyle Freeland,Zach Davies
+631394,2020-08-28,2020,Final,Los Angeles Angels,Seattle Mariners,3.0,2.0,Andrew Heaney,Nick Margevicius
+630216,2020-08-28,2020,Final,Arizona Diamondbacks,San Francisco Giants,7.0,4.0,Zac Gallen,Tyler Anderson
+631457,2020-08-28,2020,Final,Detroit Tigers,Minnesota Twins,,,Tarik Skubal,Matt Wisler
+631456,2020-08-28,2020,Final,Detroit Tigers,Minnesota Twins,,,,
+631427,2020-08-28,2020,Final,Houston Astros,Oakland Athletics,,,Lance McCullers Jr.,Chris Bassitt
+631204,2020-08-29,2020,Final,New York Yankees,New York Mets,2.0,1.0,J.A. Happ,Robert Gsellman
+631458,2020-08-29,2020,Final,Detroit Tigers,Minnesota Twins,8.0,2.0,Matthew Boyd,Randy Dobnak
+631457,2020-08-29,2020,Final,Detroit Tigers,Minnesota Twins,4.0,2.0,Tarik Skubal,Matt Wisler
+630981,2020-08-29,2020,Final,St. Louis Cardinals,Cleveland Indians,1.0,2.0,Jack Flaherty,Carlos Carrasco
+631134,2020-08-29,2020,Final,Philadelphia Phillies,Atlanta Braves,4.0,1.0,Zach Eflin,Josh Tomlin
+631502,2020-08-29,2020,Final,Chicago White Sox,Kansas City Royals,6.0,9.0,Dylan Cease,Brady Singer
+631581,2020-08-29,2020,Final,Cincinnati Reds,Chicago Cubs,0.0,3.0,Trevor Bauer,Yu Darvish
+631595,2020-08-29,2020,Final,Cincinnati Reds,Chicago Cubs,6.0,5.0,Tejay Antone,Alec Mills
+631428,2020-08-29,2020,Final,Houston Astros,Oakland Athletics,4.0,2.0,Lance McCullers Jr.,Chris Bassitt
+631427,2020-08-29,2020,Final,Houston Astros,Oakland Athletics,6.0,3.0,Zack Greinke,Frankie Montas
+631319,2020-08-29,2020,Final,Miami Marlins,Tampa Bay Rays,0.0,4.0,Pablo López,Josh Fleming
+630906,2020-08-29,2020,Final,Toronto Blue Jays,Baltimore Orioles,5.0,0.0,Taijuan Walker,Alex Cobb
+630934,2020-08-29,2020,Final,Texas Rangers,Los Angeles Dodgers,4.0,7.0,Lance Lynn,Ross Stripling
+631277,2020-08-29,2020,Final,Milwaukee Brewers,Pittsburgh Pirates,7.0,6.0,Brett Anderson,JT Brubaker
+631654,2020-08-29,2020,Final,Boston Red Sox,Washington Nationals,5.0,3.0,Chris Mazza,Aníbal Sánchez
+631525,2020-08-29,2020,Final,Colorado Rockies,San Diego Padres,4.0,3.0,Antonio Senzatela,Michel Baez
+630217,2020-08-29,2020,Final,Arizona Diamondbacks,San Francisco Giants,2.0,5.0,Luke Weaver,Trevor Cahill
+631369,2020-08-29,2020,Final,Los Angeles Angels,Seattle Mariners,16.0,3.0,Dylan Bundy,Justus Sheffield
+631205,2020-08-30,2020,Final,New York Yankees,New York Mets,8.0,7.0,Michael King,Rick Porcello
+631229,2020-08-30,2020,Final,New York Mets,New York Yankees,2.0,5.0,Seth Lugo,Deivi García
+631584,2020-08-30,2020,Final,Cincinnati Reds,Chicago Cubs,1.0,10.0,Luis Castillo,Tyler Chatwood
+631459,2020-08-30,2020,Final,Detroit Tigers,Minnesota Twins,3.0,2.0,Casey Mize,Kenta Maeda
+631306,2020-08-30,2020,Final,Miami Marlins,Tampa Bay Rays,7.0,12.0,Sandy Alcantara,Blake Snell
+631655,2020-08-30,2020,Final,Boston Red Sox,Washington Nationals,9.0,5.0,Zack Godley,Austin Voth
+631505,2020-08-30,2020,Final,Chicago White Sox,Kansas City Royals,5.0,2.0,Dane Dunning,Kris Bubic
+631278,2020-08-30,2020,Final,Milwaukee Brewers,Pittsburgh Pirates,1.0,5.0,Brandon Woodruff,Steven Brault
+630982,2020-08-30,2020,Final,St. Louis Cardinals,Cleveland Indians,7.0,2.0,Adam Wainwright,Aaron Civale
+630921,2020-08-30,2020,Final,Texas Rangers,Los Angeles Dodgers,2.0,7.0,Kyle Gibson,Tony Gonsolin
+630852,2020-08-30,2020,Final,Toronto Blue Jays,Baltimore Orioles,6.0,5.0,Tanner Roark,Jorge López
+631526,2020-08-30,2020,Final,Colorado Rockies,San Diego Padres,2.0,13.0,Ryan Castellani,Chris Paddack
+631371,2020-08-30,2020,Final,Los Angeles Angels,Seattle Mariners,1.0,2.0,Griffin Canning,Justin Dunn
+630219,2020-08-30,2020,Final,Arizona Diamondbacks,San Francisco Giants,1.0,4.0,Taylor Clarke,Johnny Cueto
+631135,2020-08-30,2020,Final,Philadelphia Phillies,Atlanta Braves,10.0,12.0,Jake Arrieta,Tommy Milone
+631429,2020-08-30,2020,Final,Houston Astros,Oakland Athletics,,,Framber Valdez,Jesús Luzardo
+631223,2020-08-31,2020,Final,New York Mets,Miami Marlins,3.0,5.0,Jacob deGrom,Trevor Rogers
+630900,2020-08-31,2020,Final,Toronto Blue Jays,Baltimore Orioles,3.0,4.0,Chase Anderson,Keegan Akin
+631374,2020-08-31,2020,Final,Los Angeles Angels,Seattle Mariners,1.0,2.0,Jaime Barria,Marco Gonzales
+631585,2020-08-31,2020,Final,Cincinnati Reds,St. Louis Cardinals,5.0,7.0,Anthony DeSclafani,Dakota Hudson
+631143,2020-08-31,2020,Final,Philadelphia Phillies,Washington Nationals,8.0,6.0,Spencer Howard,Erick Fedde
+631206,2020-08-31,2020,Final,New York Yankees,Tampa Bay Rays,3.0,5.0,Gerrit Cole,Tyler Glasnow
+631656,2020-08-31,2020,Final,Boston Red Sox,Atlanta Braves,3.0,6.0,Colten Brewer,Max Fried
+631281,2020-08-31,2020,Final,Milwaukee Brewers,Pittsburgh Pirates,6.0,5.0,Brent Suter,Trevor Williams
+631414,2020-08-31,2020,Final,Kansas City Royals,Cleveland Indians,2.0,1.0,Brad Keller,Shane Bieber
+631247,2020-08-31,2020,Final,Minnesota Twins,Chicago White Sox,5.0,8.0,Rich Hill,Lucas Giolito
+631527,2020-08-31,2020,Final,Colorado Rockies,San Diego Padres,0.0,6.0,Germán Márquez,Garrett Richards
+631586,2020-09-01,2020,Final,Cincinnati Reds,St. Louis Cardinals,2.0,16.0,Sonny Gray,Kwang Hyun Kim
+631307,2020-09-01,2020,Final,Miami Marlins,Toronto Blue Jays,3.0,2.0,Elieser Hernández,Julian Merryweather
+631109,2020-09-01,2020,Final,Pittsburgh Pirates,Chicago Cubs,7.0,8.0,Chad Kuhl,Jon Lester
+631153,2020-09-01,2020,Final,Philadelphia Phillies,Washington Nationals,6.0,0.0,Aaron Nola,Patrick Corbin
+631207,2020-09-01,2020,Final,New York Yankees,Tampa Bay Rays,5.0,3.0,Masahiro Tanaka,Trevor Richards
+631657,2020-09-01,2020,Final,Boston Red Sox,Atlanta Braves,3.0,10.0,Ryan Weber,Ian Anderson
+631671,2020-09-01,2020,Final,Baltimore Orioles,New York Mets,9.0,5.0,Asher Wojciechowski,Ariel Jurado
+631287,2020-09-01,2020,Final,Milwaukee Brewers,Detroit Tigers,1.0,12.0,Josh Lindblom,Michael Fulmer
+631416,2020-09-01,2020,Final,Kansas City Royals,Cleveland Indians,1.0,10.0,Matt Harvey,Zach Plesac
+631430,2020-09-01,2020,Final,Houston Astros,Texas Rangers,5.0,6.0,Framber Valdez,Luis García
+631261,2020-09-01,2020,Final,Minnesota Twins,Chicago White Sox,3.0,2.0,Michael Pineda,Dallas Keuchel
+631528,2020-09-01,2020,Final,Colorado Rockies,San Francisco Giants,5.0,23.0,Jon Gray,Kevin Gausman
+631355,2020-09-01,2020,Final,Los Angeles Dodgers,Arizona Diamondbacks,6.0,3.0,Julio Urías,Alex Young
+631053,2020-09-01,2020,Final,Seattle Mariners,Oakland Athletics,,,Ljay Newsome,
+631529,2020-09-02,2020,Final,Colorado Rockies,San Francisco Giants,9.0,6.0,Kyle Freeland,Logan Webb
+631673,2020-09-02,2020,Final,Baltimore Orioles,New York Mets,4.0,9.0,John Means,Michael Wacha
+631587,2020-09-02,2020,Final,Cincinnati Reds,St. Louis Cardinals,4.0,3.0,Tyler Mahle,Johan Oviedo
+631308,2020-09-02,2020,Final,Miami Marlins,Toronto Blue Jays,1.0,2.0,Sixto Sánchez,Hyun Jin Ryu
+631111,2020-09-02,2020,Final,Pittsburgh Pirates,Chicago Cubs,2.0,8.0,Joe Musgrove,Kyle Hendricks
+631145,2020-09-02,2020,Final,Philadelphia Phillies,Washington Nationals,3.0,0.0,Zack Wheeler,Max Scherzer
+631194,2020-09-02,2020,Final,New York Yankees,Tampa Bay Rays,2.0,5.0,Jordan Montgomery,Charlie Morton
+631624,2020-09-02,2020,Final,Boston Red Sox,Atlanta Braves,5.0,7.0,Robinson Leyer,Robbie Erlin
+631283,2020-09-02,2020,Final,Milwaukee Brewers,Detroit Tigers,8.0,5.0,Adrian Houser,Spencer Turnbull
+631404,2020-09-02,2020,Final,Kansas City Royals,Cleveland Indians,0.0,5.0,Jakob Junis,Triston McKenzie
+631431,2020-09-02,2020,Final,Houston Astros,Texas Rangers,2.0,1.0,Cristian Javier,Kolby Allard
+631253,2020-09-02,2020,Final,Minnesota Twins,Chicago White Sox,8.0,1.0,José Berríos,Reynaldo López
+631356,2020-09-02,2020,Final,Los Angeles Dodgers,Arizona Diamondbacks,3.0,2.0,Walker Buehler,Zac Gallen
+631379,2020-09-02,2020,Final,Los Angeles Angels,San Diego Padres,4.0,11.0,Julio Teheran,Dinelson Lamet
+631054,2020-09-02,2020,Final,Seattle Mariners,Oakland Athletics,,,Yusei Kikuchi,
+631112,2020-09-03,2020,Final,Pittsburgh Pirates,Chicago Cubs,6.0,2.0,JT Brubaker,Alec Mills
+631432,2020-09-03,2020,Final,Houston Astros,Texas Rangers,8.0,4.0,Zack Greinke,Lance Lynn
+631146,2020-09-03,2020,Final,Philadelphia Phillies,Washington Nationals,6.0,5.0,Zach Eflin,Aníbal Sánchez
+631234,2020-09-03,2020,Final,New York Mets,New York Yankees,9.0,7.0,Robert Gsellman,J.A. Happ
+631368,2020-09-03,2020,Final,Los Angeles Angels,San Diego Padres,2.0,0.0,Andrew Heaney,Mike Clevinger
+631614,2020-09-03,2020,Final,Boston Red Sox,Toronto Blue Jays,2.0,6.0,Martín Pérez,Taijuan Walker
+631405,2020-09-03,2020,Final,Kansas City Royals,Chicago White Sox,6.0,11.0,Danny Duffy,Dylan Cease
+631370,2020-09-03,2020,Final,Los Angeles Dodgers,Arizona Diamondbacks,5.0,1.0,Clayton Kershaw,Luke Weaver
+631055,2020-09-03,2020,Final,Seattle Mariners,Oakland Athletics,,,,
+631262,2020-09-04,2020,Final,Minnesota Twins,Detroit Tigers,2.0,0.0,Randy Dobnak,Matthew Boyd
+631456,2020-09-04,2020,Final,Detroit Tigers,Minnesota Twins,2.0,3.0,Tyler Alexander,Matt Wisler
+631113,2020-09-04,2020,Final,Pittsburgh Pirates,Cincinnati Reds,2.0,4.0,Steven Brault,Luis Castillo
+631602,2020-09-04,2020,Final,Cincinnati Reds,Pittsburgh Pirates,3.0,4.0,Trevor Bauer,Cody Ponce
+631649,2020-09-04,2020,Final,Boston Red Sox,Toronto Blue Jays,7.0,8.0,Zack Godley,Tanner Roark
+630865,2020-09-04,2020,Final,Toronto Blue Jays,Boston Red Sox,2.0,3.0,Ross Stripling,Chris Mazza
+630371,2020-09-04,2020,Final,Atlanta Braves,Washington Nationals,7.0,1.0,Tommy Milone,Austin Voth
+630323,2020-09-04,2020,Final,Atlanta Braves,Washington Nationals,9.0,10.0,Huascar Ynoa,Wil Crowe
+631674,2020-09-04,2020,Final,Baltimore Orioles,New York Yankees,5.0,6.0,Thomas Eshelman,Michael King
+630497,2020-09-04,2020,Final,Baltimore Orioles,New York Yankees,6.0,3.0,Jorge López,Deivi García
+630954,2020-09-04,2020,Final,Tampa Bay Rays,Miami Marlins,5.0,4.0,Josh Fleming,Pablo López
+631221,2020-09-04,2020,Final,New York Mets,Philadelphia Phillies,3.0,5.0,Rick Porcello,Jake Arrieta
+631555,2020-09-04,2020,Final,Cleveland Indians,Milwaukee Brewers,1.0,7.0,Carlos Carrasco,Corbin Burnes
+631406,2020-09-04,2020,Final,Kansas City Royals,Chicago White Sox,4.0,7.0,Brady Singer,Dane Dunning
+631644,2020-09-04,2020,Final,Chicago Cubs,St. Louis Cardinals,4.0,1.0,Yu Darvish,Jack Flaherty
+631357,2020-09-04,2020,Final,Los Angeles Angels,Houston Astros,6.0,5.0,Dylan Bundy,Lance McCullers Jr.
+631041,2020-09-04,2020,Final,Seattle Mariners,Texas Rangers,6.0,3.0,Yusei Kikuchi,Kyle Cody
+631345,2020-09-04,2020,Final,Los Angeles Dodgers,Colorado Rockies,10.0,6.0,Dustin May,Antonio Senzatela
+631156,2020-09-04,2020,Final,Oakland Athletics,San Diego Padres,0.0,7.0,Jesús Luzardo,Zach Davies
+631003,2020-09-04,2020,Final,San Francisco Giants,Arizona Diamondbacks,5.0,6.0,Tyler Anderson,Taylor Clarke
+631157,2020-09-05,2020,Final,Oakland Athletics,San Diego Padres,8.0,4.0,Sean Manaea,Chris Paddack
+631607,2020-09-05,2020,Final,Chicago Cubs,St. Louis Cardinals,2.0,4.0,Adbert Alzolay,Adam Wainwright
+630998,2020-09-05,2020,Final,St. Louis Cardinals,Chicago Cubs,5.0,1.0,,
+630955,2020-09-05,2020,Final,Tampa Bay Rays,Miami Marlins,3.0,7.0,Blake Snell,Sandy Alcantara
+631115,2020-09-05,2020,Final,Pittsburgh Pirates,Cincinnati Reds,2.0,6.0,Trevor Williams,Anthony DeSclafani
+631408,2020-09-05,2020,Final,Kansas City Royals,Chicago White Sox,3.0,5.0,Kris Bubic,Lucas Giolito
+631388,2020-09-05,2020,Final,Los Angeles Angels,Houston Astros,10.0,9.0,Griffin Canning,Brandon Bielak
+631440,2020-09-05,2020,Final,Houston Astros,Los Angeles Angels,6.0,7.0,José Urquidy,
+631264,2020-09-05,2020,Final,Minnesota Twins,Detroit Tigers,4.0,3.0,Kenta Maeda,Tarik Skubal
+631228,2020-09-05,2020,Final,New York Mets,Philadelphia Phillies,5.0,1.0,Seth Lugo,Spencer Howard
+630383,2020-09-05,2020,Final,Atlanta Braves,Washington Nationals,4.0,10.0,Max Fried,Erick Fedde
+631556,2020-09-05,2020,Final,Cleveland Indians,Milwaukee Brewers,4.0,3.0,Aaron Civale,Brandon Woodruff
+631625,2020-09-05,2020,Final,Boston Red Sox,Toronto Blue Jays,9.0,8.0,Ryan Weber,Chase Anderson
+631675,2020-09-05,2020,Final,Baltimore Orioles,New York Yankees,6.0,1.0,Keegan Akin,Gerrit Cole
+631328,2020-09-05,2020,Final,Los Angeles Dodgers,Colorado Rockies,2.0,5.0,Tony Gonsolin,Germán Márquez
+631044,2020-09-05,2020,Final,Seattle Mariners,Texas Rangers,5.0,3.0,Justus Sheffield,Kyle Gibson
+631004,2020-09-05,2020,Final,San Francisco Giants,Arizona Diamondbacks,4.0,3.0,Trevor Cahill,Madison Bumgarner
+631676,2020-09-06,2020,Final,Baltimore Orioles,New York Yankees,5.0,1.0,Dean Kremer,Masahiro Tanaka
+631209,2020-09-06,2020,Final,New York Mets,Philadelphia Phillies,14.0,1.0,Jacob deGrom,Aaron Nola
+630491,2020-09-06,2020,Final,Atlanta Braves,Washington Nationals,10.0,3.0,Josh Tomlin,Patrick Corbin
+630956,2020-09-06,2020,Final,Tampa Bay Rays,Miami Marlins,5.0,4.0,Tyler Glasnow,Trevor Rogers
+631557,2020-09-06,2020,Final,Cleveland Indians,Milwaukee Brewers,4.0,1.0,Shane Bieber,Brett Anderson
+631116,2020-09-06,2020,Final,Pittsburgh Pirates,Cincinnati Reds,3.0,2.0,Chad Kuhl,Tejay Antone
+631626,2020-09-06,2020,Final,Boston Red Sox,Toronto Blue Jays,8.0,10.0,Andrew Triggs,Robbie Ray
+631407,2020-09-06,2020,Final,Kansas City Royals,Chicago White Sox,2.0,8.0,Matt Harvey,Dallas Keuchel
+631254,2020-09-06,2020,Final,Minnesota Twins,Detroit Tigers,8.0,10.0,Rich Hill,Casey Mize
+631005,2020-09-06,2020,Final,San Francisco Giants,Arizona Diamondbacks,4.0,2.0,Johnny Cueto,Alex Young
+631359,2020-09-06,2020,Final,Los Angeles Angels,Houston Astros,9.0,5.0,Jaime Barria,Framber Valdez
+631158,2020-09-06,2020,Final,Oakland Athletics,San Diego Padres,3.0,5.0,Mike Fiers,Garrett Richards
+631030,2020-09-06,2020,Final,Seattle Mariners,Texas Rangers,4.0,3.0,Justin Dunn,Jordan Lyles
+631604,2020-09-06,2020,Final,Chicago Cubs,St. Louis Cardinals,3.0,7.0,Jon Lester,Dakota Hudson
+631344,2020-09-06,2020,Final,Los Angeles Dodgers,Colorado Rockies,6.0,7.0,Julio Urías,Ryan Castellani
+631225,2020-09-07,2020,Final,New York Mets,Philadelphia Phillies,8.0,9.0,David Peterson,Zack Wheeler
+630415,2020-09-07,2020,Final,Atlanta Braves,Miami Marlins,4.0,5.0,Ian Anderson,José Ureña
+631255,2020-09-07,2020,Final,Minnesota Twins,Detroit Tigers,6.0,2.0,Michael Pineda,Michael Fulmer
+631605,2020-09-07,2020,Final,Chicago Cubs,St. Louis Cardinals,5.0,1.0,Kyle Hendricks,Johan Oviedo
+631031,2020-09-07,2020,Final,Seattle Mariners,Texas Rangers,8.0,4.0,Marco Gonzales,Kolby Allard
+630857,2020-09-07,2020,Final,Washington Nationals,Tampa Bay Rays,6.0,1.0,Max Scherzer,Charlie Morton
+631558,2020-09-07,2020,Final,Cleveland Indians,Kansas City Royals,5.0,2.0,Zach Plesac,Brad Keller
+630859,2020-09-07,2020,Final,Toronto Blue Jays,New York Yankees,12.0,7.0,Hyun Jin Ryu,Jordan Montgomery
+631006,2020-09-07,2020,Final,San Francisco Giants,Arizona Diamondbacks,4.0,2.0,Kevin Gausman,Zac Gallen
+631159,2020-09-07,2020,Final,Oakland Athletics,Houston Astros,6.0,0.0,Chris Bassitt,Cristian Javier
+631084,2020-09-07,2020,Final,San Diego Padres,Colorado Rockies,1.0,0.0,Dinelson Lamet,Kyle Freeland
+630983,2020-09-08,2020,Final,St. Louis Cardinals,Minnesota Twins,3.0,7.0,Carlos Martinez,José Berríos
+630984,2020-09-08,2020,Final,St. Louis Cardinals,Minnesota Twins,6.0,4.0,Daniel Ponce de Leon,Randy Dobnak
+631149,2020-09-08,2020,Final,Philadelphia Phillies,Boston Red Sox,6.0,5.0,Zach Eflin,Martín Pérez
+631152,2020-09-08,2020,Final,Philadelphia Phillies,Boston Red Sox,2.0,5.0,Vince Velasquez,Chris Mazza
+630867,2020-09-08,2020,Final,Washington Nationals,Tampa Bay Rays,5.0,3.0,Aníbal Sánchez,Ryan Yarbrough
+631559,2020-09-08,2020,Final,Cleveland Indians,Kansas City Royals,6.0,8.0,Triston McKenzie,Jakob Junis
+631429,2020-09-08,2020,Final,Houston Astros,Oakland Athletics,2.0,4.0,Zack Greinke,Frankie Montas
+631160,2020-09-08,2020,Final,Oakland Athletics,Houston Astros,4.0,5.0,Mike Minor,Chase De Jong
+630860,2020-09-08,2020,Final,Toronto Blue Jays,New York Yankees,2.0,1.0,Taijuan Walker,J.A. Happ
+631096,2020-09-08,2020,Final,Pittsburgh Pirates,Chicago White Sox,5.0,4.0,Joe Musgrove,Dylan Cease
+631211,2020-09-08,2020,Final,New York Mets,Baltimore Orioles,2.0,11.0,Michael Wacha,John Means
+630438,2020-09-08,2020,Final,Atlanta Braves,Miami Marlins,0.0,8.0,Kyle Wright,Sixto Sánchez
+631460,2020-09-08,2020,Final,Detroit Tigers,Milwaukee Brewers,8.0,3.0,Spencer Turnbull,Adrian Houser
+630904,2020-09-08,2020,Final,Texas Rangers,Los Angeles Angels,7.0,1.0,Lance Lynn,Andrew Heaney
+631615,2020-09-08,2020,Final,Chicago Cubs,Cincinnati Reds,3.0,0.0,Alec Mills,Tyler Mahle
+631071,2020-09-08,2020,Final,San Diego Padres,Colorado Rockies,14.0,5.0,Mike Clevinger,Chi Chi González
+630220,2020-09-08,2020,Final,Arizona Diamondbacks,Los Angeles Dodgers,9.0,10.0,Luke Weaver,Walker Buehler
+631007,2020-09-08,2020,Final,San Francisco Giants,Seattle Mariners,6.0,5.0,Logan Webb,Ljay Newsome
+631461,2020-09-09,2020,Final,Detroit Tigers,Milwaukee Brewers,0.0,19.0,Matthew Boyd,Corbin Burnes
+631560,2020-09-09,2020,Final,Cleveland Indians,Kansas City Royals,0.0,3.0,Carlos Carrasco,Danny Duffy
+630864,2020-09-09,2020,Final,Toronto Blue Jays,New York Yankees,2.0,7.0,Tanner Roark,Deivi García
+631100,2020-09-09,2020,Final,Pittsburgh Pirates,Chicago White Sox,1.0,8.0,JT Brubaker,Dane Dunning
+631212,2020-09-09,2020,Final,New York Mets,Baltimore Orioles,7.0,6.0,Rick Porcello,Jorge López
+630439,2020-09-09,2020,Final,Atlanta Braves,Miami Marlins,29.0,9.0,Tommy Milone,Pablo López
+630925,2020-09-09,2020,Final,Texas Rangers,Los Angeles Angels,7.0,3.0,Kyle Cody,Julio Teheran
+631056,2020-09-09,2020,Final,San Diego Padres,Colorado Rockies,5.0,3.0,Zach Davies,Antonio Senzatela
+631616,2020-09-09,2020,Final,Chicago Cubs,Cincinnati Reds,0.0,3.0,Yu Darvish,Trevor Bauer
+631161,2020-09-09,2020,Final,Oakland Athletics,Houston Astros,3.0,2.0,Jesús Luzardo,Luis Garcia
+630221,2020-09-09,2020,Final,Arizona Diamondbacks,Los Angeles Dodgers,4.0,6.0,Taylor Clarke,Clayton Kershaw
+631008,2020-09-09,2020,Final,San Francisco Giants,Seattle Mariners,10.0,1.0,Tyler Anderson,Nick Margevicius
+630994,2020-09-10,2020,Final,St. Louis Cardinals,Detroit Tigers,12.0,2.0,Jack Flaherty,Tarik Skubal
+630995,2020-09-10,2020,Final,St. Louis Cardinals,Detroit Tigers,3.0,6.0,Austin Gomber,Jordan Zimmermann
+631162,2020-09-10,2020,Final,Oakland Athletics,Houston Astros,3.0,1.0,Sean Manaea,José Urquidy
+630908,2020-09-10,2020,Final,Texas Rangers,Los Angeles Angels,2.0,6.0,Kyle Gibson,Dylan Bundy
+630869,2020-09-10,2020,Final,Washington Nationals,Atlanta Braves,6.0,7.0,Austin Voth,Robbie Erlin
+631561,2020-09-10,2020,Final,Cleveland Indians,Kansas City Royals,1.0,11.0,Aaron Civale,Brady Singer
+630957,2020-09-10,2020,Final,Tampa Bay Rays,Boston Red Sox,3.0,4.0,Josh Fleming,Mike Kickham
+631309,2020-09-10,2020,Final,Miami Marlins,Philadelphia Phillies,7.0,6.0,Sandy Alcantara,Jake Arrieta
+631634,2020-09-10,2020,Final,Chicago Cubs,Cincinnati Reds,8.0,5.0,Adbert Alzolay,Sonny Gray
+631072,2020-09-10,2020,Final,San Diego Padres,San Francisco Giants,6.0,1.0,Chris Paddack,Trevor Cahill
+630223,2020-09-10,2020,Final,Arizona Diamondbacks,Los Angeles Dodgers,5.0,2.0,Madison Bumgarner,Dustin May
+631183,2020-09-10,2020,Final,New York Yankees,Baltimore Orioles,,,Gerrit Cole,Keegan Akin
+631184,2020-09-11,2020,Final,New York Yankees,Baltimore Orioles,6.0,0.0,Gerrit Cole,Alex Cobb
+631183,2020-09-11,2020,Final,New York Yankees,Baltimore Orioles,10.0,1.0,Masahiro Tanaka,Keegan Akin
+631310,2020-09-11,2020,Final,Miami Marlins,Philadelphia Phillies,0.0,11.0,Trevor Rogers,Aaron Nola
+631318,2020-09-11,2020,Final,Miami Marlins,Philadelphia Phillies,5.0,3.0,Daniel Castano,Blake Parker
+630873,2020-09-11,2020,Final,Washington Nationals,Atlanta Braves,8.0,7.0,Erick Fedde,Josh Tomlin
+630868,2020-09-11,2020,Final,Toronto Blue Jays,New York Mets,1.0,18.0,Chase Anderson,Jacob deGrom
+630958,2020-09-11,2020,Final,Tampa Bay Rays,Boston Red Sox,11.0,1.0,Blake Snell,Andrew Triggs
+631399,2020-09-11,2020,Final,Kansas City Royals,Pittsburgh Pirates,4.0,3.0,Kris Bubic,Steven Brault
+630909,2020-09-11,2020,Final,Texas Rangers,Oakland Athletics,6.0,10.0,Luis García,Mike Fiers
+631256,2020-09-11,2020,Final,Minnesota Twins,Cleveland Indians,3.0,1.0,Kenta Maeda,Shane Bieber
+631478,2020-09-11,2020,Final,Chicago White Sox,Detroit Tigers,4.0,3.0,Lucas Giolito,Casey Mize
+631284,2020-09-11,2020,Final,Milwaukee Brewers,Chicago Cubs,1.0,0.0,Brandon Woodruff,Jon Lester
+630985,2020-09-11,2020,Final,St. Louis Cardinals,Cincinnati Reds,1.0,3.0,Adam Wainwright,Luis Castillo
+631530,2020-09-11,2020,Final,Colorado Rockies,Los Angeles Angels,8.0,4.0,Germán Márquez,Griffin Canning
+630224,2020-09-11,2020,Final,Arizona Diamondbacks,Seattle Mariners,4.0,3.0,Caleb Smith,Yusei Kikuchi
+631058,2020-09-11,2020,Final,San Diego Padres,San Francisco Giants,,,Garrett Richards,Johnny Cueto
+631185,2020-09-12,2020,Final,New York Yankees,Baltimore Orioles,2.0,1.0,Jordan Montgomery,Dean Kremer
+630910,2020-09-12,2020,Final,Texas Rangers,Oakland Athletics,5.0,2.0,Nick Goody,Daulton Jefferies
+630932,2020-09-12,2020,Final,Texas Rangers,Oakland Athletics,1.0,10.0,Kolby Allard,Chris Bassitt
+630877,2020-09-12,2020,Final,Washington Nationals,Atlanta Braves,1.0,2.0,Patrick Corbin,Ian Anderson
+631311,2020-09-12,2020,Final,Miami Marlins,Philadelphia Phillies,6.0,12.0,José Ureña,Spencer Howard
+630870,2020-09-12,2020,Final,Toronto Blue Jays,New York Mets,3.0,2.0,Robbie Ray,Seth Lugo
+630959,2020-09-12,2020,Final,Tampa Bay Rays,Boston Red Sox,5.0,4.0,Tyler Glasnow,Nathan Eovaldi
+631400,2020-09-12,2020,Final,Kansas City Royals,Pittsburgh Pirates,7.0,4.0,Carlos Hernández,Trevor Williams
+631495,2020-09-12,2020,Final,Chicago White Sox,Detroit Tigers,14.0,0.0,Reynaldo López,Michael Fulmer
+631285,2020-09-12,2020,Final,Milwaukee Brewers,Chicago Cubs,2.0,4.0,Brent Suter,Kyle Hendricks
+631331,2020-09-12,2020,Final,Los Angeles Dodgers,Houston Astros,5.0,7.0,Julio Urías,Framber Valdez
+631257,2020-09-12,2020,Final,Minnesota Twins,Cleveland Indians,8.0,4.0,Rich Hill,Zach Plesac
+631531,2020-09-12,2020,Final,Colorado Rockies,Los Angeles Angels,2.0,5.0,Kyle Freeland,Jaime Barria
+630225,2020-09-12,2020,Final,Arizona Diamondbacks,Seattle Mariners,3.0,7.0,Zac Gallen,Justus Sheffield
+630988,2020-09-12,2020,Final,St. Louis Cardinals,Cincinnati Reds,7.0,1.0,Dakota Hudson,Tejay Antone
+631059,2020-09-12,2020,Final,San Diego Padres,San Francisco Giants,,,Dinelson Lamet,Kevin Gausman
+630883,2020-09-13,2020,Final,Washington Nationals,Atlanta Braves,4.0,8.0,Max Scherzer,Kyle Wright
+631187,2020-09-13,2020,Final,New York Yankees,Baltimore Orioles,3.0,1.0,J.A. Happ,John Means
+630947,2020-09-13,2020,Final,Tampa Bay Rays,Boston Red Sox,3.0,6.0,Charlie Morton,Martín Pérez
+631312,2020-09-13,2020,Final,Miami Marlins,Philadelphia Phillies,2.0,1.0,Sixto Sánchez,Ramón Rosso
+631320,2020-09-13,2020,Final,Miami Marlins,Philadelphia Phillies,8.0,1.0,Braxton Garrett,Zach Eflin
+631401,2020-09-13,2020,Final,Kansas City Royals,Pittsburgh Pirates,11.0,0.0,Brad Keller,Chad Kuhl
+631259,2020-09-13,2020,Final,Minnesota Twins,Cleveland Indians,7.0,5.0,Michael Pineda,Triston McKenzie
+631481,2020-09-13,2020,Final,Chicago White Sox,Detroit Tigers,5.0,2.0,Jonathan Stiever,Spencer Turnbull
+631286,2020-09-13,2020,Final,Milwaukee Brewers,Chicago Cubs,0.0,12.0,Adrian Houser,Alec Mills
+630961,2020-09-13,2020,Final,St. Louis Cardinals,Cincinnati Reds,5.0,10.0,Carlos Martinez,Tyler Mahle
+630911,2020-09-13,2020,Final,Texas Rangers,Oakland Athletics,6.0,3.0,Lance Lynn,Frankie Montas
+630875,2020-09-13,2020,Final,Toronto Blue Jays,New York Mets,7.0,3.0,Hyun Jin Ryu,David Peterson
+631532,2020-09-13,2020,Final,Colorado Rockies,Los Angeles Angels,3.0,5.0,Ryan Castellani,Andrew Heaney
+630226,2020-09-13,2020,Final,Arizona Diamondbacks,Seattle Mariners,3.0,7.0,Luke Weaver,Justin Dunn
+631060,2020-09-13,2020,Final,San Diego Padres,San Francisco Giants,6.0,0.0,Mike Clevinger,Johnny Cueto
+631058,2020-09-13,2020,Final,San Diego Padres,San Francisco Giants,3.0,1.0,Garrett Richards,Logan Webb
+631332,2020-09-13,2020,Final,Los Angeles Dodgers,Houston Astros,8.0,1.0,Brusdar Graterol,Zack Greinke
+631588,2020-09-14,2020,Final,Cincinnati Reds,Pittsburgh Pirates,3.0,1.0,Trevor Bauer,Cody Ponce
+631590,2020-09-14,2020,Final,Cincinnati Reds,Pittsburgh Pirates,9.0,4.0,Anthony DeSclafani,Mitch Keller
+631321,2020-09-14,2020,Final,Miami Marlins,Philadelphia Phillies,6.0,2.0,Pablo López,Vince Velasquez
+631053,2020-09-14,2020,Final,Seattle Mariners,Oakland Athletics,6.0,5.0,Marco Gonzales,Jesús Luzardo
+631054,2020-09-14,2020,Final,Seattle Mariners,Oakland Athletics,0.0,9.0,Jimmy Yacabonis,Mike Minor
+631282,2020-09-14,2020,Final,Milwaukee Brewers,St. Louis Cardinals,2.0,1.0,Josh Lindblom,Kwang Hyun Kim
+631288,2020-09-14,2020,Final,Milwaukee Brewers,St. Louis Cardinals,2.0,3.0,Corbin Burnes,Daniel Ponce de Leon
+631677,2020-09-14,2020,Final,Baltimore Orioles,Atlanta Braves,14.0,1.0,Jorge López,Touki Toussaint
+631482,2020-09-14,2020,Final,Chicago White Sox,Minnesota Twins,3.0,1.0,Dylan Cease,José Berríos
+631061,2020-09-14,2020,Final,San Diego Padres,Los Angeles Dodgers,7.0,2.0,Dinelson Lamet,Clayton Kershaw
+631574,2020-09-15,2020,Final,Cincinnati Reds,Pittsburgh Pirates,4.0,1.0,Michael Lorenzen,Joe Musgrove
+630936,2020-09-15,2020,Final,Tampa Bay Rays,Washington Nationals,6.0,1.0,John Curtiss,Aníbal Sánchez
+631314,2020-09-15,2020,Final,Miami Marlins,Boston Red Sox,0.0,2.0,Sandy Alcantara,Tanner Houck
+631144,2020-09-15,2020,Final,Philadelphia Phillies,New York Mets,4.0,1.0,Jake Arrieta,Rick Porcello
+631195,2020-09-15,2020,Final,New York Yankees,Toronto Blue Jays,20.0,6.0,Deivi García,Taijuan Walker
+631462,2020-09-15,2020,Final,Detroit Tigers,Kansas City Royals,6.0,0.0,Matthew Boyd,Jakob Junis
+631680,2020-09-15,2020,Final,Baltimore Orioles,Atlanta Braves,1.0,5.0,Thomas Eshelman,Huascar Ynoa
+631263,2020-09-15,2020,Final,Milwaukee Brewers,St. Louis Cardinals,18.0,3.0,Brett Anderson,Jack Flaherty
+631433,2020-09-15,2020,Final,Houston Astros,Texas Rangers,4.0,1.0,José Urquidy,Kyle Cody
+631483,2020-09-15,2020,Final,Chicago White Sox,Minnesota Twins,6.0,2.0,Dane Dunning,Randy Dobnak
+631618,2020-09-15,2020,Final,Chicago Cubs,Cleveland Indians,6.0,5.0,Yu Darvish,Carlos Carrasco
+631520,2020-09-15,2020,Final,Colorado Rockies,Oakland Athletics,3.0,1.0,Antonio Senzatela,Sean Manaea
+631062,2020-09-15,2020,Final,San Diego Padres,Los Angeles Dodgers,1.0,3.0,Zach Davies,Tony Gonsolin
+631360,2020-09-15,2020,Final,Los Angeles Angels,Arizona Diamondbacks,8.0,9.0,Julio Teheran,Madison Bumgarner
+631032,2020-09-15,2020,Final,Seattle Mariners,San Francisco Giants,,,Ljay Newsome,Tyler Anderson
+630937,2020-09-16,2020,Final,Tampa Bay Rays,Washington Nationals,2.0,4.0,Pete Fairbanks,Austin Voth
+631509,2020-09-16,2020,Final,Colorado Rockies,Oakland Athletics,1.0,3.0,Germán Márquez,Mike Fiers
+631063,2020-09-16,2020,Final,San Diego Padres,Los Angeles Dodgers,5.0,7.0,Adrian Morejon,Brusdar Graterol
+631265,2020-09-16,2020,Final,Milwaukee Brewers,St. Louis Cardinals,2.0,4.0,Brandon Woodruff,Adam Wainwright
+631289,2020-09-16,2020,Final,Milwaukee Brewers,St. Louis Cardinals,6.0,0.0,Brent Suter,Johan Oviedo
+631575,2020-09-16,2020,Final,Cincinnati Reds,Pittsburgh Pirates,1.0,0.0,Luis Castillo,JT Brubaker
+631315,2020-09-16,2020,Final,Miami Marlins,Boston Red Sox,8.0,4.0,Trevor Rogers,Mike Kickham
+631119,2020-09-16,2020,Final,Philadelphia Phillies,New York Mets,4.0,5.0,Zack Wheeler,Jacob deGrom
+631189,2020-09-16,2020,Final,New York Yankees,Toronto Blue Jays,13.0,2.0,Gerrit Cole,Tanner Roark
+631463,2020-09-16,2020,Final,Detroit Tigers,Kansas City Royals,0.0,4.0,Tarik Skubal,Brady Singer
+631659,2020-09-16,2020,Final,Baltimore Orioles,Atlanta Braves,5.0,1.0,Keegan Akin,Cole Hamels
+631434,2020-09-16,2020,Final,Houston Astros,Texas Rangers,0.0,1.0,Lance McCullers Jr.,Kyle Gibson
+631484,2020-09-16,2020,Final,Chicago White Sox,Minnesota Twins,1.0,5.0,Lucas Giolito,Jake Odorizzi
+631619,2020-09-16,2020,Final,Chicago Cubs,Cleveland Indians,3.0,2.0,Jon Lester,Aaron Civale
+631361,2020-09-16,2020,Final,Los Angeles Angels,Arizona Diamondbacks,6.0,9.0,Dylan Bundy,Caleb Smith
+631032,2020-09-16,2020,Final,Seattle Mariners,San Francisco Giants,3.0,9.0,Ljay Newsome,Drew Smyly
+631034,2020-09-16,2020,Final,Seattle Mariners,San Francisco Giants,,,,
+631313,2020-09-17,2020,Final,Miami Marlins,Boston Red Sox,3.0,5.0,José Ureña,Nathan Eovaldi
+631485,2020-09-17,2020,Final,Chicago White Sox,Minnesota Twins,4.0,3.0,Reynaldo López,Kenta Maeda
+631362,2020-09-17,2020,Final,Los Angeles Angels,Arizona Diamondbacks,7.0,3.0,Griffin Canning,Alex Young
+631034,2020-09-17,2020,Final,Seattle Mariners,San Francisco Giants,4.0,6.0,Nick Margevicius,Tyler Anderson
+631660,2020-09-17,2020,Final,Baltimore Orioles,Tampa Bay Rays,1.0,3.0,Dean Kremer,Blake Snell
+630953,2020-09-17,2020,Final,Tampa Bay Rays,Baltimore Orioles,10.0,6.0,,Bruce Zimmermann
+631101,2020-09-17,2020,Final,Pittsburgh Pirates,St. Louis Cardinals,5.0,1.0,Steven Brault,Dakota Hudson
+631117,2020-09-17,2020,Final,Philadelphia Phillies,New York Mets,6.0,10.0,Aaron Nola,Seth Lugo
+631190,2020-09-17,2020,Final,New York Yankees,Toronto Blue Jays,10.0,7.0,Masahiro Tanaka,Chase Anderson
+631464,2020-09-17,2020,Final,Detroit Tigers,Cleveland Indians,3.0,10.0,Casey Mize,Shane Bieber
+631435,2020-09-17,2020,Final,Houston Astros,Texas Rangers,2.0,1.0,Framber Valdez,Jordan Lyles
+631510,2020-09-17,2020,Final,Colorado Rockies,Los Angeles Dodgers,3.0,9.0,Kyle Freeland,Julio Urías
+631102,2020-09-18,2020,Final,Pittsburgh Pirates,St. Louis Cardinals,5.0,6.0,Trevor Williams,Carlos Martinez
+630987,2020-09-18,2020,Final,St. Louis Cardinals,Pittsburgh Pirates,7.0,2.0,Daniel Ponce de Leon,Chad Kuhl
+630907,2020-09-18,2020,Final,Toronto Blue Jays,Philadelphia Phillies,0.0,7.0,Robbie Ray,Zach Eflin
+631122,2020-09-18,2020,Final,Philadelphia Phillies,Toronto Blue Jays,8.0,7.0,David Hale,Ross Stripling
+631316,2020-09-18,2020,Final,Miami Marlins,Washington Nationals,0.0,5.0,Sixto Sánchez,Erick Fedde
+631342,2020-09-18,2020,Final,Miami Marlins,Washington Nationals,14.0,3.0,Daniel Castano,Wil Crowe
+631465,2020-09-18,2020,Final,Detroit Tigers,Cleveland Indians,0.0,1.0,Michael Fulmer,Zach Plesac
+631213,2020-09-18,2020,Final,New York Mets,Atlanta Braves,2.0,15.0,Steven Matz,Max Fried
+631576,2020-09-18,2020,Final,Cincinnati Reds,Chicago White Sox,7.0,1.0,Tyler Mahle,Jonathan Stiever
+631627,2020-09-18,2020,Final,Boston Red Sox,New York Yankees,5.0,6.0,Martín Pérez,Jordan Montgomery
+631661,2020-09-18,2020,Final,Baltimore Orioles,Tampa Bay Rays,1.0,2.0,Alex Cobb,Tyler Glasnow
+631436,2020-09-18,2020,Final,Houston Astros,Arizona Diamondbacks,3.0,6.0,Zack Greinke,Zac Gallen
+631511,2020-09-18,2020,Final,Colorado Rockies,Los Angeles Dodgers,6.0,15.0,Ryan Castellani,Alex Wood
+631266,2020-09-18,2020,Final,Milwaukee Brewers,Kansas City Royals,9.0,5.0,Adrian Houser,Danny Duffy
+631629,2020-09-18,2020,Final,Chicago Cubs,Minnesota Twins,1.0,0.0,Kyle Hendricks,Rich Hill
+631367,2020-09-18,2020,Final,Los Angeles Angels,Texas Rangers,6.0,2.0,Jaime Barria,Jimmy Herget
+631040,2020-09-18,2020,Final,Seattle Mariners,San Diego Padres,1.0,6.0,Yusei Kikuchi,Chris Paddack
+631163,2020-09-18,2020,Final,Oakland Athletics,San Francisco Giants,6.0,0.0,Chris Bassitt,Logan Webb
+631164,2020-09-19,2020,Final,Oakland Athletics,San Francisco Giants,6.0,0.0,Jesús Luzardo,Kevin Gausman
+631123,2020-09-19,2020,Final,Philadelphia Phillies,Toronto Blue Jays,3.0,1.0,Vince Velasquez,Hyun Jin Ryu
+631466,2020-09-19,2020,Final,Detroit Tigers,Cleveland Indians,5.0,2.0,Spencer Turnbull,Triston McKenzie
+631317,2020-09-19,2020,Final,Miami Marlins,Washington Nationals,7.0,3.0,Pablo López,Patrick Corbin
+631147,2020-09-19,2020,Final,Pittsburgh Pirates,St. Louis Cardinals,4.0,5.0,Mitch Keller,Kwang Hyun Kim
+631214,2020-09-19,2020,Final,New York Mets,Atlanta Braves,7.0,2.0,David Peterson,Ian Anderson
+631577,2020-09-19,2020,Final,Cincinnati Reds,Chicago White Sox,0.0,5.0,Trevor Bauer,Dallas Keuchel
+631437,2020-09-19,2020,Final,Houston Astros,Arizona Diamondbacks,3.0,2.0,Cristian Javier,Luke Weaver
+631267,2020-09-19,2020,Final,Milwaukee Brewers,Kansas City Royals,5.0,0.0,Corbin Burnes,Kris Bubic
+631628,2020-09-19,2020,Final,Boston Red Sox,New York Yankees,0.0,8.0,Chris Mazza,J.A. Happ
+631662,2020-09-19,2020,Final,Baltimore Orioles,Tampa Bay Rays,1.0,3.0,Jorge López,Charlie Morton
+631512,2020-09-19,2020,Final,Colorado Rockies,Los Angeles Dodgers,1.0,6.0,Chi Chi González,Clayton Kershaw
+631632,2020-09-19,2020,Final,Chicago Cubs,Minnesota Twins,1.0,8.0,Alec Mills,Michael Pineda
+631036,2020-09-19,2020,Final,Seattle Mariners,San Diego Padres,4.0,1.0,Justus Sheffield,Luis Patiño
+631372,2020-09-19,2020,Final,Los Angeles Angels,Texas Rangers,4.0,3.0,Andrew Heaney,Lance Lynn
+631672,2020-09-20,2020,Final,Baltimore Orioles,Tampa Bay Rays,2.0,1.0,John Means,Ryan Yarbrough
+631635,2020-09-20,2020,Final,Boston Red Sox,New York Yankees,10.0,2.0,Tanner Houck,Deivi García
+631454,2020-09-20,2020,Final,Detroit Tigers,Cleveland Indians,4.0,7.0,Matthew Boyd,Carlos Carrasco
+631215,2020-09-20,2020,Final,New York Mets,Atlanta Braves,0.0,7.0,Rick Porcello,Kyle Wright
+631578,2020-09-20,2020,Final,Cincinnati Reds,Chicago White Sox,7.0,3.0,Michael Lorenzen,Dylan Cease
+631305,2020-09-20,2020,Final,Miami Marlins,Washington Nationals,2.0,1.0,Sandy Alcantara,Max Scherzer
+631329,2020-09-20,2020,Final,Miami Marlins,Washington Nationals,0.0,15.0,,Ben Braymer
+631424,2020-09-20,2020,Final,Houston Astros,Arizona Diamondbacks,3.0,2.0,José Urquidy,Madison Bumgarner
+631268,2020-09-20,2020,Final,Milwaukee Brewers,Kansas City Royals,5.0,3.0,Josh Lindblom,Brad Keller
+631128,2020-09-20,2020,Final,Philadelphia Phillies,Toronto Blue Jays,3.0,6.0,Adonis Medina,Taijuan Walker
+631519,2020-09-20,2020,Final,Colorado Rockies,Los Angeles Dodgers,6.0,3.0,Antonio Senzatela,Tony Gonsolin
+631086,2020-09-20,2020,Final,Pittsburgh Pirates,St. Louis Cardinals,1.0,2.0,Joe Musgrove,Jack Flaherty
+631037,2020-09-20,2020,Final,Seattle Mariners,San Diego Padres,4.0,7.0,Justin Dunn,Dinelson Lamet
+631166,2020-09-20,2020,Final,Oakland Athletics,San Francisco Giants,2.0,14.0,Mike Minor,Tyler Anderson
+631375,2020-09-20,2020,Final,Los Angeles Angels,Texas Rangers,2.0,7.0,Julio Teheran,Kyle Cody
+631617,2020-09-20,2020,Final,Chicago Cubs,Minnesota Twins,0.0,4.0,Yu Darvish,José Berríos
+631376,2020-09-21,2020,Final,Los Angeles Angels,Texas Rangers,8.0,5.0,Dylan Bundy,Kyle Gibson
+630884,2020-09-21,2020,Final,Washington Nationals,Philadelphia Phillies,5.0,1.0,Aníbal Sánchez,Zack Wheeler
+631562,2020-09-21,2020,Final,Cleveland Indians,Chicago White Sox,7.0,4.0,Aaron Civale,Dane Dunning
+630876,2020-09-21,2020,Final,Toronto Blue Jays,New York Yankees,11.0,5.0,Matt Shoemaker,Michael King
+631579,2020-09-21,2020,Final,Cincinnati Reds,Milwaukee Brewers,6.0,3.0,Luis Castillo,Brandon Woodruff
+631087,2020-09-21,2020,Final,Pittsburgh Pirates,Chicago Cubs,0.0,5.0,JT Brubaker,Jon Lester
+631216,2020-09-21,2020,Final,New York Mets,Tampa Bay Rays,1.0,2.0,Jacob deGrom,Pete Fairbanks
+630440,2020-09-21,2020,Final,Atlanta Braves,Miami Marlins,5.0,4.0,Huascar Ynoa,Trevor Rogers
+631402,2020-09-21,2020,Final,Kansas City Royals,St. Louis Cardinals,4.0,1.0,Carlos Hernández,Adam Wainwright
+631038,2020-09-21,2020,Final,Seattle Mariners,Houston Astros,6.0,1.0,Marco Gonzales,Lance McCullers Jr.
+631009,2020-09-21,2020,Final,San Francisco Giants,Colorado Rockies,2.0,7.0,Johnny Cueto,Germán Márquez
+630888,2020-09-22,2020,Final,Washington Nationals,Philadelphia Phillies,5.0,1.0,Austin Voth,Aaron Nola
+630896,2020-09-22,2020,Final,Washington Nationals,Philadelphia Phillies,8.0,7.0,Paolo Espino,
+631550,2020-09-22,2020,Final,Cleveland Indians,Chicago White Sox,5.0,3.0,Cal Quantrill,Reynaldo López
+630881,2020-09-22,2020,Final,Toronto Blue Jays,New York Yankees,1.0,12.0,Tanner Roark,Gerrit Cole
+631580,2020-09-22,2020,Final,Cincinnati Reds,Milwaukee Brewers,2.0,3.0,Sonny Gray,Brett Anderson
+631088,2020-09-22,2020,Final,Pittsburgh Pirates,Chicago Cubs,3.0,2.0,Steven Brault,Jose Quintana
+631217,2020-09-22,2020,Final,New York Mets,Tampa Bay Rays,5.0,2.0,Seth Lugo,Blake Snell
+630385,2020-09-22,2020,Final,Atlanta Braves,Miami Marlins,11.0,1.0,Bryse Wilson,José Ureña
+631636,2020-09-22,2020,Final,Boston Red Sox,Baltimore Orioles,8.0,3.0,Nick Pivetta,Keegan Akin
+631251,2020-09-22,2020,Final,Minnesota Twins,Detroit Tigers,5.0,4.0,Homer Bailey,Tarik Skubal
+631411,2020-09-22,2020,Final,Kansas City Royals,St. Louis Cardinals,0.0,5.0,Brady Singer,Austin Gomber
+631064,2020-09-22,2020,Final,San Diego Padres,Los Angeles Angels,2.0,4.0,Zach Davies,Griffin Canning
+631039,2020-09-22,2020,Final,Seattle Mariners,Houston Astros,1.0,6.0,Ljay Newsome,Framber Valdez
+630243,2020-09-22,2020,Final,Arizona Diamondbacks,Texas Rangers,7.0,0.0,Caleb Smith,Jordan Lyles
+631333,2020-09-22,2020,Final,Los Angeles Dodgers,Oakland Athletics,7.0,2.0,Dustin May,Frankie Montas
+631010,2020-09-22,2020,Final,San Francisco Giants,Colorado Rockies,5.0,2.0,Drew Smyly,Kyle Freeland
+631065,2020-09-23,2020,Final,San Diego Padres,Los Angeles Angels,2.0,5.0,Mike Clevinger,Jaime Barria
+630892,2020-09-23,2020,Final,Washington Nationals,Philadelphia Phillies,3.0,12.0,Erick Fedde,Zach Eflin
+630263,2020-09-23,2020,Final,Arizona Diamondbacks,Texas Rangers,7.0,3.0,Alex Young,Wes Benjamin
+631534,2020-09-23,2020,Final,Cleveland Indians,Chicago White Sox,3.0,2.0,Shane Bieber,Lucas Giolito
+630885,2020-09-23,2020,Final,Toronto Blue Jays,New York Yankees,14.0,1.0,Robbie Ray,Masahiro Tanaka
+631035,2020-09-23,2020,Final,Seattle Mariners,Houston Astros,3.0,2.0,Nick Margevicius,Zack Greinke
+631583,2020-09-23,2020,Final,Cincinnati Reds,Milwaukee Brewers,6.0,1.0,Trevor Bauer,Adrian Houser
+631089,2020-09-23,2020,Final,Pittsburgh Pirates,Chicago Cubs,2.0,1.0,Trevor Williams,Kyle Hendricks
+631218,2020-09-23,2020,Final,New York Mets,Tampa Bay Rays,5.0,8.0,Michael Wacha,Tyler Glasnow
+630554,2020-09-23,2020,Final,Atlanta Braves,Miami Marlins,9.0,4.0,Max Fried,Sixto Sánchez
+631637,2020-09-23,2020,Final,Boston Red Sox,Baltimore Orioles,9.0,1.0,Nathan Eovaldi,Dean Kremer
+631250,2020-09-23,2020,Final,Minnesota Twins,Detroit Tigers,7.0,6.0,Kenta Maeda,Casey Mize
+631380,2020-09-23,2020,Final,Kansas City Royals,St. Louis Cardinals,12.0,3.0,Danny Duffy,Carlos Martinez
+631334,2020-09-23,2020,Final,Los Angeles Dodgers,Oakland Athletics,4.0,6.0,Joe Kelly,Sean Manaea
+631011,2020-09-23,2020,Final,San Francisco Giants,Colorado Rockies,7.0,2.0,Caleb Baragar,Ryan Castellani
+631099,2020-09-24,2020,Final,Pittsburgh Pirates,Chicago Cubs,7.0,0.0,Chad Kuhl,Alec Mills
+631012,2020-09-24,2020,Final,San Francisco Giants,Colorado Rockies,4.0,5.0,Kevin Gausman,Chi Chi González
+630893,2020-09-24,2020,Final,Washington Nationals,New York Mets,2.0,3.0,Patrick Corbin,David Peterson
+631549,2020-09-24,2020,Final,Cleveland Indians,Chicago White Sox,5.0,4.0,Zach Plesac,Dallas Keuchel
+630887,2020-09-24,2020,Final,Toronto Blue Jays,New York Yankees,4.0,1.0,Hyun Jin Ryu,Jordan Montgomery
+631685,2020-09-24,2020,Final,Atlanta Braves,Miami Marlins,2.0,4.0,Ian Anderson,Pablo López
+631640,2020-09-24,2020,Final,Boston Red Sox,Baltimore Orioles,1.0,13.0,Martín Pérez,Alex Cobb
+631398,2020-09-24,2020,Final,Kansas City Royals,Detroit Tigers,8.0,7.0,Kris Bubic,Michael Fulmer
+630912,2020-09-24,2020,Final,Texas Rangers,Houston Astros,4.0,12.0,Lance Lynn,Cristian Javier
+630975,2020-09-24,2020,Final,St. Louis Cardinals,Milwaukee Brewers,4.0,2.0,Kwang Hyun Kim,Corbin Burnes
+631335,2020-09-24,2020,Final,Los Angeles Dodgers,Oakland Athletics,5.0,1.0,Walker Buehler,Mike Fiers
+630963,2020-09-25,2020,Final,St. Louis Cardinals,Milwaukee Brewers,0.0,3.0,Jack Flaherty,Brent Suter
+631292,2020-09-25,2020,Final,Milwaukee Brewers,St. Louis Cardinals,1.0,9.0,Josh Lindblom,Daniel Ponce de Leon
+630889,2020-09-25,2020,Final,Toronto Blue Jays,Baltimore Orioles,10.0,5.0,Taijuan Walker,Jorge López
+630270,2020-09-25,2020,Final,Arizona Diamondbacks,Colorado Rockies,4.0,0.0,Zac Gallen,Antonio Senzatela
+630203,2020-09-25,2020,Final,Arizona Diamondbacks,Colorado Rockies,11.0,5.0,Taylor Clarke,Antonio Santos
+630938,2020-09-25,2020,Final,Tampa Bay Rays,Philadelphia Phillies,6.0,4.0,Charlie Morton,Vince Velasquez
+631191,2020-09-25,2020,Final,New York Yankees,Miami Marlins,3.0,4.0,J.A. Happ,Sandy Alcantara
+631536,2020-09-25,2020,Final,Cleveland Indians,Pittsburgh Pirates,4.0,3.0,Carlos Carrasco,Mitch Keller
+631013,2020-09-25,2020,Final,San Francisco Giants,San Diego Padres,5.0,4.0,Tyler Anderson,Chris Paddack
+631059,2020-09-25,2020,Final,San Diego Padres,San Francisco Giants,6.0,5.0,Dinelson Lamet,Jeff Samardzija
+630569,2020-09-25,2020,Final,Atlanta Braves,Boston Red Sox,8.0,7.0,Kyle Wright,Chris Mazza
+631383,2020-09-25,2020,Final,Kansas City Royals,Detroit Tigers,3.0,2.0,Brad Keller,Spencer Turnbull
+630913,2020-09-25,2020,Final,Texas Rangers,Houston Astros,5.0,4.0,Kyle Cody,José Urquidy
+631246,2020-09-25,2020,Final,Minnesota Twins,Cincinnati Reds,2.0,7.0,José Berríos,Tyler Mahle
+631486,2020-09-25,2020,Final,Chicago White Sox,Chicago Cubs,0.0,10.0,Dylan Cease,Yu Darvish
+631336,2020-09-25,2020,Final,Los Angeles Dodgers,Los Angeles Angels,9.0,5.0,Clayton Kershaw,Andrew Heaney
+631167,2020-09-25,2020,Final,Oakland Athletics,Seattle Mariners,3.0,1.0,Chris Bassitt,Yusei Kikuchi
+630894,2020-09-25,2020,Final,Washington Nationals,New York Mets,,,Max Scherzer,Rick Porcello
+631193,2020-09-26,2020,Final,New York Yankees,Miami Marlins,11.0,4.0,Deivi García,Trevor Rogers
+630895,2020-09-26,2020,Final,Washington Nationals,New York Mets,4.0,3.0,Max Scherzer,Jacob deGrom
+630894,2020-09-26,2020,Final,Washington Nationals,New York Mets,5.0,3.0,Aníbal Sánchez,Rick Porcello
+631169,2020-09-26,2020,Final,Oakland Athletics,Seattle Mariners,1.0,5.0,Mike Minor,Justus Sheffield
+631055,2020-09-26,2020,Final,Seattle Mariners,Oakland Athletics,12.0,3.0,Justin Dunn,Paul Blackburn
+630891,2020-09-26,2020,Final,Toronto Blue Jays,Baltimore Orioles,5.0,2.0,T.J. Zeuch,John Means
+631385,2020-09-26,2020,Final,Kansas City Royals,Detroit Tigers,3.0,4.0,Carlos Hernández,Matthew Boyd
+630914,2020-09-26,2020,Final,Texas Rangers,Houston Astros,6.0,1.0,Kyle Gibson,Lance McCullers Jr.
+630939,2020-09-26,2020,Final,Tampa Bay Rays,Philadelphia Phillies,4.0,3.0,John Curtiss,Zack Wheeler
+630964,2020-09-26,2020,Final,St. Louis Cardinals,Milwaukee Brewers,0.0,3.0,Adam Wainwright,Brandon Woodruff
+631537,2020-09-26,2020,Final,Cleveland Indians,Pittsburgh Pirates,0.0,8.0,Aaron Civale,Joe Musgrove
+631245,2020-09-26,2020,Final,Minnesota Twins,Cincinnati Reds,7.0,3.0,Michael Pineda,Luis Castillo
+630570,2020-09-26,2020,Final,Atlanta Braves,Boston Red Sox,2.0,8.0,Tucker Davidson,Tanner Houck
+631487,2020-09-26,2020,Final,Chicago White Sox,Chicago Cubs,9.0,5.0,Dane Dunning,Jon Lester
+630271,2020-09-26,2020,Final,Arizona Diamondbacks,Colorado Rockies,3.0,10.0,Luke Weaver,Germán Márquez
+631337,2020-09-26,2020,Final,Los Angeles Dodgers,Los Angeles Angels,7.0,6.0,Tony Gonsolin,Julio Teheran
+631016,2020-09-26,2020,Final,San Francisco Giants,San Diego Padres,2.0,6.0,Johnny Cueto,Zach Davies
+631386,2020-09-27,2020,Final,Kansas City Royals,Detroit Tigers,3.0,1.0,Brady Singer,Jordan Zimmermann
+630854,2020-09-27,2020,Final,Washington Nationals,New York Mets,15.0,5.0,Austin Voth,Seth Lugo
+631002,2020-09-27,2020,Final,San Francisco Giants,San Diego Padres,4.0,5.0,Drew Smyly,Adrian Morejon
+630915,2020-09-27,2020,Final,Texas Rangers,Houston Astros,8.0,4.0,Jordan Lyles,Chase De Jong
+631188,2020-09-27,2020,Final,New York Yankees,Miami Marlins,0.0,5.0,Clarke Schmidt,José Ureña
+630858,2020-09-27,2020,Final,Toronto Blue Jays,Baltimore Orioles,5.0,7.0,Tanner Roark,Keegan Akin
+630202,2020-09-27,2020,Final,Arizona Diamondbacks,Colorado Rockies,11.0,3.0,Madison Bumgarner,Kyle Freeland
+631338,2020-09-27,2020,Final,Los Angeles Dodgers,Los Angeles Angels,5.0,0.0,Victor González,Patrick Sandoval
+631538,2020-09-27,2020,Final,Cleveland Indians,Pittsburgh Pirates,8.0,6.0,Cal Quantrill,JT Brubaker
+631155,2020-09-27,2020,Final,Oakland Athletics,Seattle Mariners,6.0,2.0,Frankie Montas,Marco Gonzales
+631244,2020-09-27,2020,Final,Minnesota Twins,Cincinnati Reds,3.0,5.0,Rich Hill,Sonny Gray
+630945,2020-09-27,2020,Final,Tampa Bay Rays,Philadelphia Phillies,5.0,0.0,Josh Fleming,Aaron Nola
+630573,2020-09-27,2020,Final,Atlanta Braves,Boston Red Sox,1.0,9.0,Bryse Wilson,Nick Pivetta
+631488,2020-09-27,2020,Final,Chicago White Sox,Chicago Cubs,8.0,10.0,Reynaldo López,Adbert Alzolay
+630965,2020-09-27,2020,Final,St. Louis Cardinals,Milwaukee Brewers,5.0,2.0,Austin Gomber,Brett Anderson

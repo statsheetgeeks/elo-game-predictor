@@ -1,0 +1,16 @@
+{
+  "combined_elo_record": {
+    "wins": 0,
+    "losses": 0,
+    "pct": null
+  },
+  "home_prob_record": {
+    "wins": 0,
+    "losses": 0,
+    "pct": null
+  },
+  "calibration": [],
+  "n_resolved": 0,
+  "n_pending": 15,
+  "generated_at": "2026-07-10"
+}
