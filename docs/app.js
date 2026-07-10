@@ -23,6 +23,52 @@ function escapeHtml(str) {
 }
 
 // ---------------------------------------------------------------
+// Color utilities — readable text on any team color
+// ---------------------------------------------------------------
+function hexToRgb(hex) {
+  const h = (hex || "").replace("#", "");
+  if (h.length !== 6) return { r: 110, g: 110, b: 110 };
+  return {
+    r: parseInt(h.slice(0, 2), 16),
+    g: parseInt(h.slice(2, 4), 16),
+    b: parseInt(h.slice(4, 6), 16),
+  };
+}
+
+function luminance({ r, g, b }) {
+  const lin = (c) => {
+    c /= 255;
+    return c <= 0.03928 ? c / 12.92 : Math.pow((c + 0.055) / 1.055, 2.4);
+  };
+  return 0.2126 * lin(r) + 0.7152 * lin(g) + 0.0722 * lin(b);
+}
+
+function contrastRatio(l1, l2) {
+  const [hi, lo] = l1 >= l2 ? [l1, l2] : [l2, l1];
+  return (hi + 0.05) / (lo + 0.05);
+}
+
+// Brighten very dark team colors just enough that the segment is
+// visible against the card background, then pick whichever text
+// color (chalk white / near-black) has the higher contrast against
+// the final background. Handles all 30 team palettes automatically.
+function barColors(hex) {
+  let { r, g, b } = hexToRgb(hex);
+  while (luminance({ r, g, b }) < 0.05 && (r < 255 || g < 255 || b < 255)) {
+    r = Math.min(255, r + 12);
+    g = Math.min(255, g + 12);
+    b = Math.min(255, b + 12);
+  }
+  const L = luminance({ r, g, b });
+  const whiteL = luminance(hexToRgb("#F2F0E9"));
+  const darkL = luminance(hexToRgb("#0A0F1F"));
+  return {
+    bg: `rgb(${r}, ${g}, ${b})`,
+    text: contrastRatio(L, whiteL) >= contrastRatio(L, darkL) ? "#F2F0E9" : "#0A0F1F",
+  };
+}
+
+// ---------------------------------------------------------------
 // Header
 // ---------------------------------------------------------------
 function renderHeader(latest) {
@@ -56,11 +102,15 @@ function renderMatchups(latest) {
   el.innerHTML = games.map((g, i) => matchupCardHTML(g, i)).join("");
 
   el.querySelectorAll(".matchup-card").forEach((card) => {
-    card.addEventListener("click", () => card.classList.toggle("open"));
+    const toggle = () => {
+      const open = card.classList.toggle("open");
+      card.setAttribute("aria-expanded", open);
+    };
+    card.addEventListener("click", toggle);
     card.addEventListener("keydown", (e) => {
       if (e.key === "Enter" || e.key === " ") {
         e.preventDefault();
-        card.classList.toggle("open");
+        toggle();
       }
     });
   });
@@ -72,6 +122,10 @@ function matchupCardHTML(g, i) {
   // keep each segment readably wide even at extreme splits
   const homeW = Math.max(10, Math.min(90, homeProb));
   const awayW = 100 - homeW;
+
+  // contrast-aware segment colors (see barColors above)
+  const awayC = barColors(g.away.primary);
+  const homeC = barColors(g.home.primary);
 
   const logo = (team) => team.logo
     ? `<img src="${team.logo}" alt="" loading="lazy" onerror="this.replaceWith(Object.assign(document.createElement('span'),{className:'team-abbr-fallback',textContent:'${escapeHtml(team.abbr)}'}))">`
@@ -91,8 +145,8 @@ function matchupCardHTML(g, i) {
         </div>
       </div>
       <div class="prob-bar" title="Home win probability: ${homeProb}%">
-        <div class="seg away" style="width:${awayW}%; background:${g.away.primary}">${awayProb}%</div>
-        <div class="seg home" style="width:${homeW}%; background:${g.home.primary}">${homeProb}%</div>
+        <div class="seg away" style="width:${awayW}%; background:${awayC.bg}; color:${awayC.text}">${awayProb}%</div>
+        <div class="seg home" style="width:${homeW}%; background:${homeC.bg}; color:${homeC.text}">${homeProb}%</div>
       </div>
       <div class="matchup-expand">
         <div class="expand-row"><span>${escapeHtml(g.away.name)} combined rating</span><strong>${fmtNum(g.away.combined_rating)}</strong></div>

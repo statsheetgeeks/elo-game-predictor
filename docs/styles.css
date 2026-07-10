@@ -15,7 +15,7 @@
   --line: #2A355C;
   --text: #F2F0E9;
   --text-dim: #9AA5C7;
-  --text-faint: #5E698F;
+  --text-faint: #8891B5; /* was #5E698F (~3.5:1, fails WCAG AA for small text) */
   --amber: #F2B705;
   --amber-dim: #B8891C;
   --grass: #3FA35E;
@@ -248,7 +248,10 @@ h3 {
 }
 
 /* the split probability bar — the page's signature element,
-   styled like an LED scoreboard segment */
+   styled like an LED scoreboard segment.
+   Text color is set inline per segment by app.js (barColors),
+   which picks chalk white or near-black based on the actual
+   team color's luminance, so every team stays readable. */
 .prob-bar {
   position: relative;
   height: 22px;
@@ -258,7 +261,7 @@ h3 {
   background: var(--surface-2);
   display: flex;
   font-family: var(--font-mono);
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 600;
   box-shadow: inset 0 0 0 1px var(--line);
 }
@@ -269,8 +272,8 @@ h3 {
   white-space: nowrap;
   overflow: hidden;
 }
-.prob-bar .seg.away { justify-content: flex-start; color: #0A0F1F; }
-.prob-bar .seg.home { justify-content: flex-end; color: #0A0F1F; }
+.prob-bar .seg.away { justify-content: flex-start; border-right: 2px solid var(--bg); }
+.prob-bar .seg.home { justify-content: flex-end; }
 
 .matchup-expand {
   max-height: 0;
