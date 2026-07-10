@@ -1,0 +1,48 @@
+name: Update MLB Elo data
+
+on:
+  schedule:
+    # Runs are in UTC. 14:00 UTC ≈ 10:00 AM ET, 20:00 UTC ≈ 4:00 PM ET
+    # (shift ±1hr across DST if it matters to you). Two runs a day catches
+    # probable-pitcher changes and newly-final scores without hammering
+    # the MLB Stats API.
+    - cron: "0 14 * * *"
+    - cron: "0 20 * * *"
+  workflow_dispatch: {}  # lets you trigger a run manually from the Actions tab
+
+permissions:
+  contents: write   # required so the workflow can commit updated data files
+
+concurrency:
+  group: mlb-elo-data-update
+  cancel-in-progress: false  # never cancel a run mid-write; let it finish and commit
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run elo pipeline
+        run: python scripts/update_data.py
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "mlb-elo-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/ docs/data/
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "Auto-update MLB elo data: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

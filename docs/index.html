@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MLB Elo &mdash; Auto-Tuned Power Ratings</title>
+<meta name="description" content="Daily MLB matchup predictions from an auto-tuned Elo model, with season rankings, starting pitcher ratings, and a live calibration tracker.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Teko:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="scoreboard-glow" aria-hidden="true"></div>
+
+<header class="site-header">
+  <div class="wrap header-inner">
+    <div class="brand">
+      <span class="brand-mark">&#9906;</span>
+      <div>
+        <h1>MLB ELO</h1>
+        <p class="tagline">Auto-tuned power ratings &mdash; win/loss, margin of victory, and starting pitchers, walk-forward validated every run.</p>
+      </div>
+    </div>
+    <div class="header-meta">
+      <span id="as-of-date" class="pill">Loading&hellip;</span>
+      <span id="model-flags" class="flags"></span>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <section id="matchups" aria-labelledby="matchups-heading">
+    <div class="section-head">
+      <span class="eyebrow">Tonight on the slate</span>
+      <h2 id="matchups-heading">Today&rsquo;s Matchups</h2>
+    </div>
+    <div id="matchups-list" class="matchups-grid">
+      <p class="loading-msg">Loading today&rsquo;s games&hellip;</p>
+    </div>
+  </section>
+
+  <section id="rankings" aria-labelledby="rankings-heading">
+    <div class="section-head">
+      <span class="eyebrow">Two views of the same teams</span>
+      <h2 id="rankings-heading">Season Elo vs. Today&rsquo;s Combined Rating</h2>
+      <p class="section-note">Season elo is &ldquo;how good is this team, full stop.&rdquo; Combined rating folds in today&rsquo;s starting rotation. Click a column to sort.</p>
+    </div>
+    <div class="table-scroll">
+      <table id="rankings-table" class="data-table">
+        <thead>
+          <tr>
+            <th data-sort="combined_rank" class="sortable is-sorted" data-dir="asc">Combined&nbsp;Rank</th>
+            <th data-sort="team" class="sortable">Team</th>
+            <th data-sort="combined_power_rating" class="sortable">Combined&nbsp;Rating</th>
+            <th data-sort="elo_rank" class="sortable">Elo&nbsp;Rank</th>
+            <th data-sort="elo_rating" class="sortable">Elo&nbsp;Rating</th>
+            <th data-sort="rank_delta" class="sortable">Rank&nbsp;&Delta;</th>
+          </tr>
+        </thead>
+        <tbody id="rankings-body">
+          <tr><td colspan="6" class="loading-msg">Loading rankings&hellip;</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section id="pitchers" aria-labelledby="pitchers-heading">
+    <div class="section-head">
+      <span class="eyebrow">Who&rsquo;s on the mound</span>
+      <h2 id="pitchers-heading">Starting Pitcher Ratings &mdash; Today</h2>
+    </div>
+    <div class="table-scroll">
+      <table id="pitchers-table" class="data-table">
+        <thead>
+          <tr>
+            <th>Rank</th>
+            <th>Pitcher</th>
+            <th>Team</th>
+            <th>Opponent</th>
+            <th>Rating</th>
+          </tr>
+        </thead>
+        <tbody id="pitchers-body">
+          <tr><td colspan="5" class="loading-msg">Loading starters&hellip;</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section id="downloads" aria-labelledby="downloads-heading">
+    <div class="section-head">
+      <span class="eyebrow">Raw data</span>
+      <h2 id="downloads-heading">Download Today&rsquo;s CSVs</h2>
+    </div>
+    <div id="downloads-list" class="downloads-grid">
+      <p class="loading-msg">Loading links&hellip;</p>
+    </div>
+  </section>
+
+  <section id="trackers" aria-labelledby="trackers-heading">
+    <div class="section-head">
+      <span class="eyebrow">Does the model actually work?</span>
+      <h2 id="trackers-heading">Prediction Track Record</h2>
+      <p class="section-note">Every matchup pick is frozen the first time it appears and graded once the game finishes &mdash; nothing here is recomputed after the fact.</p>
+    </div>
+
+    <div class="tracker-records">
+      <div class="record-card" id="record-combined">
+        <span class="record-label">Combined&nbsp;Elo&nbsp;Pick</span>
+        <span class="record-sub">higher combined rating, no home field</span>
+        <div class="record-score"><span class="w">&ndash;</span><span class="sep">&ndash;</span><span class="l">&ndash;</span></div>
+        <span class="record-pct">&mdash;</span>
+      </div>
+      <div class="record-card" id="record-homeprob">
+        <span class="record-label">Home&nbsp;Win%&nbsp;Pick</span>
+        <span class="record-sub">favorite once home field is applied</span>
+        <div class="record-score"><span class="w">&ndash;</span><span class="sep">&ndash;</span><span class="l">&ndash;</span></div>
+        <span class="record-pct">&mdash;</span>
+      </div>
+      <div class="record-card" id="record-meta">
+        <span class="record-label">Games&nbsp;Tracked</span>
+        <span class="record-sub">resolved / pending</span>
+        <div class="record-score"><span class="w" id="n-resolved">&ndash;</span><span class="sep">/</span><span class="l" id="n-pending">&ndash;</span></div>
+        <span class="record-pct" id="tracking-since">&mdash;</span>
+      </div>
+    </div>
+
+    <div class="section-head calibration-head">
+      <h3>Calibration by Predicted Home Win %</h3>
+      <p class="section-note">In a well-calibrated model, the observed home win rate should land close to the predicted range in every bucket, in every row.</p>
+    </div>
+    <div class="table-scroll">
+      <table id="calibration-table" class="data-table">
+        <thead>
+          <tr>
+            <th>Predicted Range</th>
+            <th>Games</th>
+            <th>Avg. Predicted Home Win%</th>
+            <th>Observed Home Win%</th>
+            <th>Calibration</th>
+          </tr>
+        </thead>
+        <tbody id="calibration-body">
+          <tr><td colspan="5" class="loading-msg">Loading calibration data&hellip;</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <p>Elo model auto-tunes K, home-field advantage, season reversion, margin-of-victory, and starting-pitcher weight every run via walk-forward validation against held-out seasons. Data: MLB Stats API. Updated automatically via GitHub Actions.</p>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

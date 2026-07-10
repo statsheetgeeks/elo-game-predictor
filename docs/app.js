@@ -1,0 +1,303 @@
+// MLB Elo site — reads docs/data/latest.json and
+// docs/data/predictions_summary.json (both written daily by
+// scripts/update_data.py) and renders every section. No build step,
+// no framework — this file is the whole frontend.
+
+const DATA_DIR = "data";
+
+async function fetchJSON(path) {
+  const res = await fetch(path, { cache: "no-store" });
+  if (!res.ok) throw new Error(`Failed to load ${path}: ${res.status}`);
+  return res.json();
+}
+
+function fmtNum(n, digits = 1) {
+  if (n === null || n === undefined || Number.isNaN(n)) return "—";
+  return Number(n).toFixed(digits);
+}
+
+function escapeHtml(str) {
+  const div = document.createElement("div");
+  div.textContent = str ?? "";
+  return div.innerHTML;
+}
+
+// ---------------------------------------------------------------
+// Header
+// ---------------------------------------------------------------
+function renderHeader(latest) {
+  const dateEl = document.getElementById("as-of-date");
+  const d = new Date(latest.as_of_date + "T00:00:00");
+  dateEl.textContent = d.toLocaleDateString(undefined, {
+    weekday: "long", month: "long", day: "numeric", year: "numeric",
+  });
+
+  const flags = latest.model_flags || {};
+  const on = [];
+  if (flags.use_mov) on.push("MOV");
+  if (flags.use_pitcher_adj) on.push("Pitcher adj");
+  if (flags.use_team_home_adv) on.push("Team home adv");
+  document.getElementById("model-flags").textContent =
+    on.length ? `Active layers: ${on.join(" · ")}` : "Base model only";
+}
+
+// ---------------------------------------------------------------
+// Matchups
+// ---------------------------------------------------------------
+function renderMatchups(latest) {
+  const el = document.getElementById("matchups-list");
+  const games = latest.matchups || [];
+
+  if (!games.length) {
+    el.innerHTML = `<p class="loading-msg">No games found for today — either it's an off day, or today's slate hasn't loaded yet.</p>`;
+    return;
+  }
+
+  el.innerHTML = games.map((g, i) => matchupCardHTML(g, i)).join("");
+
+  el.querySelectorAll(".matchup-card").forEach((card) => {
+    card.addEventListener("click", () => card.classList.toggle("open"));
+    card.addEventListener("keydown", (e) => {
+      if (e.key === "Enter" || e.key === " ") {
+        e.preventDefault();
+        card.classList.toggle("open");
+      }
+    });
+  });
+}
+
+function matchupCardHTML(g, i) {
+  const homeProb = g.home_win_prob;
+  const awayProb = +(100 - homeProb).toFixed(1);
+  // keep each segment readably wide even at extreme splits
+  const homeW = Math.max(10, Math.min(90, homeProb));
+  const awayW = 100 - homeW;
+
+  const logo = (team) => team.logo
+    ? `<img src="${team.logo}" alt="" loading="lazy" onerror="this.replaceWith(Object.assign(document.createElement('span'),{className:'team-abbr-fallback',textContent:'${escapeHtml(team.abbr)}'}))">`
+    : `<span class="team-abbr-fallback">${escapeHtml(team.abbr)}</span>`;
+
+  return `
+    <article class="matchup-card" tabindex="0" role="button" aria-expanded="false">
+      <div class="matchup-teams">
+        <div class="matchup-team away">
+          ${logo(g.away)}
+          <span class="team-name">${escapeHtml(g.away.abbr)}</span>
+        </div>
+        <span class="matchup-at">@</span>
+        <div class="matchup-team home">
+          ${logo(g.home)}
+          <span class="team-name">${escapeHtml(g.home.abbr)}</span>
+        </div>
+      </div>
+      <div class="prob-bar" title="Home win probability: ${homeProb}%">
+        <div class="seg away" style="width:${awayW}%; background:${g.away.primary}">${awayProb}%</div>
+        <div class="seg home" style="width:${homeW}%; background:${g.home.primary}">${homeProb}%</div>
+      </div>
+      <div class="matchup-expand">
+        <div class="expand-row"><span>${escapeHtml(g.away.name)} combined rating</span><strong>${fmtNum(g.away.combined_rating)}</strong></div>
+        <div class="expand-row"><span>${escapeHtml(g.home.name)} combined rating</span><strong>${fmtNum(g.home.combined_rating)}</strong></div>
+        <div class="expand-row"><span>Elo diff (home &minus; away, incl. home field)</span><strong>${fmtNum(g.elo_diff)}</strong></div>
+        <div class="expand-row"><span>Home win probability</span><strong>${fmtNum(g.home_win_prob)}%</strong></div>
+      </div>
+      <div class="expand-hint">tap for details</div>
+    </article>
+  `;
+}
+
+// ---------------------------------------------------------------
+// Rankings table (sortable)
+// ---------------------------------------------------------------
+let rankingsData = [];
+let rankingsSort = { key: "combined_rank", dir: "asc" };
+
+function renderRankings(latest) {
+  rankingsData = (latest.rankings || []).map((r) => ({
+    ...r,
+    rank_delta: r.elo_rank - r.combined_rank, // positive = combined rating boosted them
+  }));
+  drawRankingsTable();
+
+  document.querySelectorAll("#rankings-table th.sortable").forEach((th) => {
+    th.addEventListener("click", () => {
+      const key = th.dataset.sort;
+      if (rankingsSort.key === key) {
+        rankingsSort.dir = rankingsSort.dir === "asc" ? "desc" : "asc";
+      } else {
+        rankingsSort = { key, dir: "asc" };
+      }
+      drawRankingsTable();
+    });
+  });
+}
+
+function drawRankingsTable() {
+  const { key, dir } = rankingsSort;
+  const sorted = [...rankingsData].sort((a, b) => {
+    let av = a[key], bv = b[key];
+    if (typeof av === "string") { av = av.toLowerCase(); bv = bv.toLowerCase(); }
+    if (av < bv) return dir === "asc" ? -1 : 1;
+    if (av > bv) return dir === "asc" ? 1 : -1;
+    return 0;
+  });
+
+  document.querySelectorAll("#rankings-table th.sortable").forEach((th) => {
+    const isSorted = th.dataset.sort === key;
+    th.classList.toggle("is-sorted", isSorted);
+    if (isSorted) th.dataset.dir = dir; else th.removeAttribute("data-dir");
+  });
+
+  const body = document.getElementById("rankings-body");
+  if (!sorted.length) {
+    body.innerHTML = `<tr><td colspan="6" class="loading-msg">No ranking data available.</td></tr>`;
+    return;
+  }
+
+  body.innerHTML = sorted.map((r) => {
+    const delta = r.rank_delta;
+    const deltaClass = delta > 0 ? "delta-up" : delta < 0 ? "delta-down" : "delta-flat";
+    const deltaSign = delta > 0 ? "+" : "";
+    return `
+      <tr>
+        <td>${r.combined_rank}</td>
+        <td>${escapeHtml(r.team)}</td>
+        <td>${fmtNum(r.combined_power_rating)}</td>
+        <td>${r.elo_rank}</td>
+        <td>${fmtNum(r.elo_rating)}</td>
+        <td class="${deltaClass}">${deltaSign}${delta}</td>
+      </tr>
+    `;
+  }).join("");
+}
+
+// ---------------------------------------------------------------
+// Starting pitchers
+// ---------------------------------------------------------------
+function renderPitchers(latest) {
+  const body = document.getElementById("pitchers-body");
+  const starters = latest.starting_pitchers || [];
+
+  if (!starters.length) {
+    body.innerHTML = `<tr><td colspan="5" class="loading-msg">No probable starters loaded for today (the pitcher-adjustment layer may be off, or lineups aren't posted yet).</td></tr>`;
+    return;
+  }
+
+  body.innerHTML = starters.map((p) => `
+    <tr>
+      <td>${p.rank}</td>
+      <td>${escapeHtml(p.pitcher)}</td>
+      <td>${escapeHtml(p.abbr)}</td>
+      <td>vs ${escapeHtml(p.opponent)}</td>
+      <td>${fmtNum(p.rating)}</td>
+    </tr>
+  `).join("");
+}
+
+// ---------------------------------------------------------------
+// Downloads
+// ---------------------------------------------------------------
+function renderDownloads(latest) {
+  const date = latest.as_of_date;
+  const files = [
+    { label: "Combined Rankings", name: `mlb_combined_rankings_${date}.csv` },
+    { label: "Today's Matchups", name: `mlb_daily_matchups_${date}.csv` },
+    { label: "Season Elo Rankings", name: `mlb_elo_rankings_${date}.csv` },
+    { label: "Pitcher Ratings", name: `mlb_pitcher_ratings_${date}.csv` },
+    { label: "Today's Starting Pitchers", name: `mlb_daily_starting_pitchers_${date}.csv` },
+    { label: "Team Home Advantage", name: `mlb_team_home_adv_${date}.csv` },
+    { label: "Full Predictions Log", name: `predictions_log.csv`, root: true },
+  ];
+
+  const el = document.getElementById("downloads-list");
+  el.innerHTML = files.map((f) => {
+    const href = f.root ? `${DATA_DIR}/${f.name}` : `${DATA_DIR}/csv/${f.name}`;
+    return `<a class="download-btn" href="${href}" download><span class="icon">&#8595;</span>${escapeHtml(f.label)}</a>`;
+  }).join("");
+}
+
+// ---------------------------------------------------------------
+// Prediction trackers
+// ---------------------------------------------------------------
+function renderTrackers(summary) {
+  fillRecordCard("record-combined", summary.combined_elo_record);
+  fillRecordCard("record-homeprob", summary.home_prob_record);
+
+  document.getElementById("n-resolved").textContent = summary.n_resolved ?? "0";
+  document.getElementById("n-pending").textContent = summary.n_pending ?? "0";
+  document.getElementById("tracking-since").textContent = summary.generated_at
+    ? `updated ${summary.generated_at}` : "";
+
+  const body = document.getElementById("calibration-body");
+  const rows = (summary.calibration || []).filter((b) => b.n_games > 0);
+
+  if (!rows.length) {
+    body.innerHTML = `<tr><td colspan="5" class="loading-msg">No resolved games yet — the calibration table fills in as the season plays out.</td></tr>`;
+    return;
+  }
+
+  body.innerHTML = rows.map((b) => {
+    const predicted = b.avg_predicted_home_win_pct;
+    const observed = b.observed_home_win_pct;
+    const diff = observed - predicted;
+    const diffClass = Math.abs(diff) <= 5 ? "delta-flat" : diff > 0 ? "delta-up" : "delta-down";
+    const diffLabel = `${diff > 0 ? "+" : ""}${fmtNum(diff)} pts`;
+
+    return `
+      <tr>
+        <td>${b.range_low}&ndash;${b.range_high}%</td>
+        <td>${b.n_games}</td>
+        <td>${fmtNum(predicted)}%</td>
+        <td>${fmtNum(observed)}%</td>
+        <td>
+          <span class="calibration-bar">
+            <span class="fill" style="width:${Math.min(100, observed)}%"></span>
+            <span class="marker" style="left:${Math.min(100, predicted)}%"></span>
+          </span>
+          <span class="${diffClass}">${diffLabel}</span>
+        </td>
+      </tr>
+    `;
+  }).join("");
+}
+
+function fillRecordCard(id, record) {
+  const card = document.getElementById(id);
+  if (!record || record.pct === null) {
+    card.querySelector(".w").textContent = "0";
+    card.querySelector(".l").textContent = "0";
+    card.querySelector(".record-pct").textContent = "no resolved games yet";
+    return;
+  }
+  card.querySelector(".w").textContent = record.wins;
+  card.querySelector(".l").textContent = record.losses;
+  card.querySelector(".record-pct").textContent = `${fmtNum(record.pct)}% correct`;
+}
+
+// ---------------------------------------------------------------
+// Boot
+// ---------------------------------------------------------------
+async function init() {
+  try {
+    const latest = await fetchJSON(`${DATA_DIR}/latest.json`);
+    renderHeader(latest);
+    renderMatchups(latest);
+    renderRankings(latest);
+    renderPitchers(latest);
+    renderDownloads(latest);
+  } catch (err) {
+    console.error(err);
+    document.getElementById("matchups-list").innerHTML =
+      `<p class="loading-msg">Couldn't load today's data yet. Check back after the next scheduled update.</p>`;
+  }
+
+  try {
+    const summary = await fetchJSON(`${DATA_DIR}/predictions_summary.json`);
+    renderTrackers(summary);
+  } catch (err) {
+    console.error(err);
+    document.getElementById("calibration-body").innerHTML =
+      `<tr><td colspan="5" class="loading-msg">Couldn't load the prediction tracker yet.</td></tr>`;
+  }
+}
+
+init();
