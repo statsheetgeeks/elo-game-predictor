@@ -7,28 +7,42 @@
 <meta name="description" content="Daily MLB matchup predictions from an auto-tuned Elo model, with season rankings, starting pitcher ratings, and a live calibration tracker.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Teko:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Graduate&family=Archivo:wght@400;500;600;700&family=Spline+Sans+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
-<div class="scoreboard-glow" aria-hidden="true"></div>
+<!-- The wall: hero band with chalk foul lines + stadium-light glow -->
+<header class="wall">
+  <div class="foul-line left" aria-hidden="true"></div>
+  <div class="foul-line right" aria-hidden="true"></div>
+  <div class="light-glow" aria-hidden="true"></div>
 
-<header class="site-header">
-  <div class="wrap header-inner">
+  <div class="wrap wall-inner">
     <div class="brand">
-      <span class="brand-mark">&#9906;</span>
-      <div>
-        <h1>MLB ELO</h1>
-        <p class="tagline">Auto-tuned power ratings &mdash; win/loss, margin of victory, and starting pitchers, walk-forward validated every run.</p>
-      </div>
+      <span class="diamond" aria-hidden="true"></span>
+      <h1>MLB&nbsp;ELO</h1>
+      <span class="diamond" aria-hidden="true"></span>
     </div>
-    <div class="header-meta">
+    <p class="tagline">Auto-tuned power ratings &mdash; win/loss, margin of victory, and starting
+    pitchers, walk-forward validated every run.</p>
+    <div class="wall-meta">
       <span id="as-of-date" class="pill">Loading&hellip;</span>
       <span id="model-flags" class="flags"></span>
     </div>
   </div>
 </header>
+
+<!-- Sticky section nav -->
+<nav class="rail" aria-label="Sections">
+  <div class="wrap rail-inner">
+    <a href="#matchups">Matchups</a>
+    <a href="#rankings">Rankings</a>
+    <a href="#pitchers">Pitchers</a>
+    <a href="#downloads">Data</a>
+    <a href="#trackers">Track&nbsp;Record</a>
+  </div>
+</nav>
 
 <main class="wrap">
 
@@ -36,6 +50,8 @@
     <div class="section-head">
       <span class="eyebrow">Tonight on the slate</span>
       <h2 id="matchups-heading">Today&rsquo;s Matchups</h2>
+      <p class="section-note">Hover a plate for the model&rsquo;s numbers &mdash; click to pin
+      them open.</p>
     </div>
     <div id="matchups-list" class="matchups-grid">
       <p class="loading-msg">Loading today&rsquo;s games&hellip;</p>
@@ -46,7 +62,8 @@
     <div class="section-head">
       <span class="eyebrow">Two views of the same teams</span>
       <h2 id="rankings-heading">Season Elo vs. Today&rsquo;s Combined Rating</h2>
-      <p class="section-note">Season elo is &ldquo;how good is this team, full stop.&rdquo; Combined rating folds in today&rsquo;s starting rotation. Click a column to sort.</p>
+      <p class="section-note">Season elo is &ldquo;how good is this team, full stop.&rdquo;
+      Combined rating folds in today&rsquo;s starting rotation. Click a column to sort.</p>
     </div>
     <div class="table-scroll">
       <table id="rankings-table" class="data-table">
@@ -104,7 +121,8 @@
     <div class="section-head">
       <span class="eyebrow">Does the model actually work?</span>
       <h2 id="trackers-heading">Prediction Track Record</h2>
-      <p class="section-note">Every matchup pick is frozen the first time it appears and graded once the game finishes &mdash; nothing here is recomputed after the fact.</p>
+      <p class="section-note">Every matchup pick is frozen the first time it appears and graded
+      once the game finishes &mdash; nothing here is recomputed after the fact.</p>
     </div>
 
     <div class="tracker-records">
@@ -130,7 +148,8 @@
 
     <div class="section-head calibration-head">
       <h3>Calibration by Predicted Home Win %</h3>
-      <p class="section-note">In a well-calibrated model, the observed home win rate should land close to the predicted range in every bucket, in every row.</p>
+      <p class="section-note">In a well-calibrated model, the observed home win rate should land
+      close to the predicted range in every bucket, in every row.</p>
     </div>
     <div class="table-scroll">
       <table id="calibration-table" class="data-table">
@@ -153,8 +172,11 @@
 </main>
 
 <footer class="site-footer">
-  <div class="wrap">
-    <p>Elo model auto-tunes K, home-field advantage, season reversion, margin-of-victory, and starting-pitcher weight every run via walk-forward validation against held-out seasons. Data: MLB Stats API. Updated automatically via GitHub Actions.</p>
+  <div class="wrap footer-inner">
+    <span class="diamond small" aria-hidden="true"></span>
+    <p>Elo model auto-tunes K, home-field advantage, season reversion, margin-of-victory, and
+    starting-pitcher weight every run via walk-forward validation against held-out seasons.
+    Data: MLB Stats API. Updated automatically via GitHub Actions.</p>
   </div>
 </footer>
 

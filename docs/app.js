@@ -50,8 +50,11 @@ function contrastRatio(l1, l2) {
 
 // Brighten very dark team colors just enough that the segment is
 // visible against the card background, then pick whichever text
-// color (chalk white / near-black) has the higher contrast against
-// the final background. Handles all 30 team palettes automatically.
+// color (chalk / near-black wall green) has the higher contrast
+// against the final background. Handles all 30 team palettes.
+const CHALK = "#F4F1E4";
+const WALL_DARK = "#0A140E";
+
 function barColors(hex) {
   let { r, g, b } = hexToRgb(hex);
   while (luminance({ r, g, b }) < 0.05 && (r < 255 || g < 255 || b < 255)) {
@@ -60,11 +63,11 @@ function barColors(hex) {
     b = Math.min(255, b + 12);
   }
   const L = luminance({ r, g, b });
-  const whiteL = luminance(hexToRgb("#F2F0E9"));
-  const darkL = luminance(hexToRgb("#0A0F1F"));
+  const chalkL = luminance(hexToRgb(CHALK));
+  const darkL = luminance(hexToRgb(WALL_DARK));
   return {
     bg: `rgb(${r}, ${g}, ${b})`,
-    text: contrastRatio(L, whiteL) >= contrastRatio(L, darkL) ? "#F2F0E9" : "#0A0F1F",
+    text: contrastRatio(L, chalkL) >= contrastRatio(L, darkL) ? CHALK : WALL_DARK,
   };
 }
 
@@ -132,7 +135,8 @@ function matchupCardHTML(g, i) {
     : `<span class="team-abbr-fallback">${escapeHtml(team.abbr)}</span>`;
 
   return `
-    <article class="matchup-card" tabindex="0" role="button" aria-expanded="false">
+    <article class="matchup-card" tabindex="0" role="button" aria-expanded="false"
+             style="animation-delay:${Math.min(i, 12) * 45}ms">
       <div class="matchup-teams">
         <div class="matchup-team away">
           ${logo(g.away)}
@@ -147,14 +151,22 @@ function matchupCardHTML(g, i) {
       <div class="prob-bar" title="Home win probability: ${homeProb}%">
         <div class="seg away" style="width:${awayW}%; background:${awayC.bg}; color:${awayC.text}">${awayProb}%</div>
         <div class="seg home" style="width:${homeW}%; background:${homeC.bg}; color:${homeC.text}">${homeProb}%</div>
+        <span class="split-mark" style="left:${awayW}%" aria-hidden="true"></span>
       </div>
       <div class="matchup-expand">
-        <div class="expand-row"><span>${escapeHtml(g.away.name)} combined rating</span><strong>${fmtNum(g.away.combined_rating)}</strong></div>
-        <div class="expand-row"><span>${escapeHtml(g.home.name)} combined rating</span><strong>${fmtNum(g.home.combined_rating)}</strong></div>
-        <div class="expand-row"><span>Elo diff (home &minus; away, incl. home field)</span><strong>${fmtNum(g.elo_diff)}</strong></div>
-        <div class="expand-row"><span>Home win probability</span><strong>${fmtNum(g.home_win_prob)}%</strong></div>
+        <div class="matchup-expand-inner">
+          <div class="drawer-pad">
+            <div class="expand-row"><span>${escapeHtml(g.away.name)} combined rating</span><strong>${fmtNum(g.away.combined_rating)}</strong></div>
+            <div class="expand-row"><span>${escapeHtml(g.home.name)} combined rating</span><strong>${fmtNum(g.home.combined_rating)}</strong></div>
+            <div class="expand-row"><span>Elo diff (home &minus; away, incl. home field)</span><strong>${fmtNum(g.elo_diff)}</strong></div>
+            <div class="expand-row"><span>Home win probability</span><strong>${fmtNum(g.home_win_prob)}%</strong></div>
+          </div>
+        </div>
       </div>
-      <div class="expand-hint">tap for details</div>
+      <div class="expand-hint">
+        <span class="hint-hover">hover for the numbers &mdash; click to pin</span>
+        <span class="hint-tap">tap for the numbers</span>
+      </div>
     </article>
   `;
 }

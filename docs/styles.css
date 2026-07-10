@@ -1,32 +1,36 @@
 /* ===========================================================
-   MLB Elo — design tokens
-   Palette: night-game scoreboard. Deep navy field lighting,
-   amber bulb accent (the warm glow of stadium scoreboard
-   lamps), chalk-line white text, grass green for "good"
-   deltas. Condensed display face reads like stadium signage;
-   monospace carries every number, like a ledger of scores.
+   MLB Elo — "The Outfield Wall"
+   The page is a hand-operated ballpark scoreboard mounted on a
+   deep-green outfield wall. Every color comes from the park:
+     wall green (bg/surfaces), chalk (text + foul lines),
+     foul-pole gold (accent), infield clay (losses),
+     fresh grass (wins), bullpen-gate blue (info).
+   Type: Graduate = varsity block lettering (brand + W-L plates
+   only), Archivo = UI, Spline Sans Mono = every number.
+   Signature: matchup "plates" that lift and reveal the model's
+   numbers on hover; chalk foul lines radiating across the hero.
    =========================================================== */
 :root {
-  --bg: #0A0F1F;
-  --bg-deep: #060910;
-  --surface: #101830;
-  --surface-raised: #16204066;
-  --surface-2: #182452;
-  --line: #2A355C;
-  --text: #F2F0E9;
-  --text-dim: #9AA5C7;
-  --text-faint: #8891B5; /* was #5E698F (~3.5:1, fails WCAG AA for small text) */
-  --amber: #F2B705;
-  --amber-dim: #B8891C;
-  --grass: #3FA35E;
-  --clay: #C1502E;
-  --sky: #4C8DFF;
+  --bg: #0A140E;
+  --bg-deep: #060D08;
+  --wall: #0C1A10;
+  --surface: #101C13;
+  --surface-2: #17281B;
+  --line: #263D2B;
+  --chalk: #F4F1E4;
+  --text-dim: #B9C6B2;
+  --text-faint: #93A48E;
+  --gold: #F0C640;
+  --gold-dim: #C9A32E;
+  --win: #6FCF8E;
+  --loss: #E08560;
+  --info: #7FB4E8;
 
-  --font-display: "Teko", sans-serif;
-  --font-body: "Inter", system-ui, sans-serif;
-  --font-mono: "IBM Plex Mono", ui-monospace, monospace;
+  --font-display: "Graduate", serif;
+  --font-body: "Archivo", system-ui, sans-serif;
+  --font-mono: "Spline Sans Mono", ui-monospace, monospace;
 
-  --radius: 10px;
+  --radius: 8px;
   --wrap: 1080px;
 }
 
@@ -36,10 +40,10 @@ html { scroll-behavior: smooth; }
 
 body {
   margin: 0;
-  background: var(--bg);
-  color: var(--text);
+  background: linear-gradient(180deg, var(--bg-deep) 0%, var(--bg) 340px);
+  color: var(--chalk);
   font-family: var(--font-body);
-  line-height: 1.5;
+  line-height: 1.55;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -49,117 +53,188 @@ body {
   padding: 0 24px;
 }
 
-/* ambient glow behind the header, like scoreboard light spilling
-   onto the field at night */
-.scoreboard-glow {
-  position: fixed;
-  top: -20vh;
+.diamond {
+  display: inline-block;
+  width: 11px;
+  height: 11px;
+  background: var(--gold);
+  transform: rotate(45deg);
+  flex-shrink: 0;
+}
+.diamond.small { width: 8px; height: 8px; margin-top: 7px; }
+
+/* ===========================================================
+   The wall (hero)
+   =========================================================== */
+.wall {
+  position: relative;
+  overflow: hidden;
+  background:
+    /* panel seams, like a hand-operated scoreboard's plates */
+    repeating-linear-gradient(180deg,
+      transparent 0px, transparent 55px,
+      rgba(244, 241, 228, 0.03) 55px, rgba(244, 241, 228, 0.03) 56px),
+    linear-gradient(180deg, #0E2013 0%, var(--wall) 100%);
+  border-bottom: 2px solid var(--gold-dim);
+  padding: 72px 0 56px;
+  text-align: center;
+}
+
+/* chalk foul lines: the view from home plate */
+.foul-line {
+  position: absolute;
+  bottom: -20px;
+  left: 50%;
+  width: 160vw;
+  height: 2px;
+  background: linear-gradient(90deg, rgba(244, 241, 228, 0.30), rgba(244, 241, 228, 0));
+  transform-origin: left center;
+  pointer-events: none;
+}
+.foul-line.right { transform: rotate(-22deg); }
+.foul-line.left  { transform: rotate(-158deg); }
+
+/* stadium lights spilling over the top of the wall */
+.light-glow {
+  position: absolute;
+  top: -30vh;
   left: 50%;
   transform: translateX(-50%);
-  width: 140vw;
-  height: 60vh;
-  background: radial-gradient(ellipse at center, rgba(242, 183, 5, 0.09) 0%, rgba(242, 183, 5, 0) 70%);
+  width: 130vw;
+  height: 55vh;
+  background: radial-gradient(ellipse at center,
+    rgba(240, 198, 64, 0.10) 0%, rgba(240, 198, 64, 0) 70%);
   pointer-events: none;
-  z-index: 0;
 }
 
-/* ---------------- Header ---------------- */
-.site-header {
-  position: relative;
-  z-index: 1;
-  border-bottom: 1px solid var(--line);
-  padding: 28px 0 22px;
-  background: linear-gradient(180deg, var(--bg-deep), var(--bg));
-}
+.wall-inner { position: relative; }
 
-.header-inner {
+.brand {
   display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
-  gap: 24px;
-  flex-wrap: wrap;
-}
-
-.brand { display: flex; align-items: flex-start; gap: 14px; }
-
-.brand-mark {
-  font-size: 34px;
-  line-height: 1;
-  filter: drop-shadow(0 0 10px rgba(242, 183, 5, 0.5));
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
 }
 
 h1 {
   font-family: var(--font-display);
-  font-weight: 600;
-  font-size: 44px;
-  letter-spacing: 0.5px;
+  font-weight: 400;
+  font-size: clamp(40px, 7vw, 62px);
+  letter-spacing: 0.06em;
   margin: 0;
-  color: var(--text);
+  color: var(--chalk);
+  text-shadow: 0 2px 0 rgba(0, 0, 0, 0.45);
 }
 
 .tagline {
-  margin: 2px 0 0;
+  margin: 14px auto 0;
   color: var(--text-dim);
-  font-size: 14px;
-  max-width: 46ch;
+  font-size: 15px;
+  max-width: 52ch;
 }
 
-.header-meta {
+.wall-meta {
   display: flex;
-  flex-direction: column;
-  align-items: flex-end;
-  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 8px 16px;
+  margin-top: 22px;
 }
 
 .pill {
   font-family: var(--font-mono);
-  font-size: 12px;
+  font-size: 12.5px;
   letter-spacing: 0.04em;
-  background: var(--surface-2);
-  border: 1px solid var(--line);
-  color: var(--amber);
-  padding: 6px 12px;
+  background: rgba(6, 13, 8, 0.6);
+  border: 1px solid var(--gold-dim);
+  color: var(--gold);
+  padding: 7px 16px;
   border-radius: 999px;
   white-space: nowrap;
 }
 
 .flags {
   font-family: var(--font-mono);
-  font-size: 11px;
+  font-size: 12px;
   color: var(--text-faint);
-  text-align: right;
 }
 
-/* ---------------- Sections ---------------- */
+/* ===========================================================
+   Sticky section rail
+   =========================================================== */
+.rail {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: rgba(10, 20, 14, 0.88);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--line);
+}
+
+.rail-inner {
+  display: flex;
+  gap: 4px;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+.rail-inner::-webkit-scrollbar { display: none; }
+
+.rail a {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.10em;
+  color: var(--text-dim);
+  text-decoration: none;
+  padding: 14px 14px 12px;
+  border-bottom: 2px solid transparent;
+  white-space: nowrap;
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+.rail a:hover, .rail a:focus-visible {
+  color: var(--gold);
+  border-bottom-color: var(--gold);
+  outline: none;
+}
+
+/* ===========================================================
+   Sections
+   =========================================================== */
 main { position: relative; z-index: 1; }
 
-section { padding: 52px 0; border-bottom: 1px solid var(--line); }
+section {
+  padding: 56px 0;
+  border-bottom: 1px solid var(--line);
+  scroll-margin-top: 56px;
+}
 section:last-of-type { border-bottom: none; }
 
-.section-head { margin-bottom: 22px; }
+.section-head { margin-bottom: 24px; }
 
 .eyebrow {
   display: block;
   font-family: var(--font-mono);
   font-size: 12px;
   text-transform: uppercase;
-  letter-spacing: 0.12em;
-  color: var(--amber-dim);
-  margin-bottom: 6px;
+  letter-spacing: 0.14em;
+  color: var(--gold-dim);
+  margin-bottom: 8px;
 }
 
 h2 {
-  font-family: var(--font-display);
-  font-weight: 600;
-  font-size: 32px;
-  letter-spacing: 0.3px;
+  font-family: var(--font-body);
+  font-weight: 700;
+  font-size: clamp(24px, 4vw, 30px);
+  letter-spacing: -0.01em;
   margin: 0;
 }
 
 h3 {
-  font-family: var(--font-display);
-  font-weight: 600;
-  font-size: 24px;
+  font-family: var(--font-body);
+  font-weight: 700;
+  font-size: 20px;
   margin: 0 0 4px;
 }
 
@@ -170,27 +245,52 @@ h3 {
   margin: 8px 0 0;
 }
 
-.calibration-head { margin-top: 34px; }
+.calibration-head { margin-top: 40px; }
 
 .loading-msg { color: var(--text-faint); font-style: italic; font-size: 14px; }
 
-/* ---------------- Matchup cards ---------------- */
+/* ===========================================================
+   Matchup plates — the signature element
+   =========================================================== */
 .matchups-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   gap: 16px;
+  align-items: start;
 }
 
 .matchup-card {
-  background: var(--surface);
+  background: linear-gradient(180deg, var(--surface-2) 0%, var(--surface) 24px);
   border: 1px solid var(--line);
   border-radius: var(--radius);
-  padding: 18px 20px;
+  padding: 18px 20px 14px;
   cursor: pointer;
-  transition: border-color 0.15s ease, transform 0.15s ease;
+  box-shadow:
+    inset 0 1px 0 rgba(244, 241, 228, 0.05),
+    0 2px 4px rgba(0, 0, 0, 0.35);
+  transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+  animation: plate-in 0.4s ease backwards;
 }
-.matchup-card:hover { border-color: var(--amber-dim); }
-.matchup-card:focus-visible { outline: 2px solid var(--amber); outline-offset: 2px; }
+
+@keyframes plate-in {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@media (hover: hover) {
+  .matchup-card:hover {
+    transform: translateY(-3px);
+    border-color: var(--gold-dim);
+    box-shadow:
+      inset 0 1px 0 rgba(244, 241, 228, 0.05),
+      0 10px 24px rgba(0, 0, 0, 0.45);
+  }
+}
+.matchup-card.open { border-color: var(--gold-dim); }
+.matchup-card:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 2px;
+}
 
 .matchup-teams {
   display: flex;
@@ -202,7 +302,7 @@ h3 {
 .matchup-team {
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 9px;
   flex: 1;
   min-width: 0;
 }
@@ -210,18 +310,19 @@ h3 {
 .matchup-team.home { flex-direction: row-reverse; text-align: right; }
 
 .matchup-team img {
-  width: 30px;
-  height: 30px;
+  width: 32px;
+  height: 32px;
   object-fit: contain;
   flex-shrink: 0;
+  filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.5));
 }
 
 .team-abbr-fallback {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 30px;
-  height: 30px;
+  width: 32px;
+  height: 32px;
   flex-shrink: 0;
   border-radius: 6px;
   background: var(--surface-2);
@@ -234,7 +335,8 @@ h3 {
 
 .matchup-team .team-name {
   font-weight: 600;
-  font-size: 14px;
+  font-size: 15px;
+  letter-spacing: 0.02em;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -247,17 +349,14 @@ h3 {
   flex-shrink: 0;
 }
 
-/* the split probability bar — the page's signature element,
-   styled like an LED scoreboard segment.
-   Text color is set inline per segment by app.js (barColors),
-   which picks chalk white or near-black based on the actual
-   team color's luminance, so every team stays readable. */
+/* the split probability bar — a chalk diamond marks the line.
+   Segment text colors are set inline by app.js (barColors),
+   picked per team for WCAG contrast. */
 .prob-bar {
   position: relative;
-  height: 22px;
-  border-radius: 4px;
-  overflow: hidden;
-  margin-top: 14px;
+  height: 24px;
+  border-radius: 5px;
+  margin-top: 15px;
   background: var(--surface-2);
   display: flex;
   font-family: var(--font-mono);
@@ -268,45 +367,86 @@ h3 {
 .prob-bar .seg {
   display: flex;
   align-items: center;
-  padding: 0 8px;
+  padding: 0 9px;
   white-space: nowrap;
   overflow: hidden;
 }
-.prob-bar .seg.away { justify-content: flex-start; border-right: 2px solid var(--bg); }
-.prob-bar .seg.home { justify-content: flex-end; }
-
-.matchup-expand {
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.2s ease;
+.prob-bar .seg.away {
+  justify-content: flex-start;
+  border-radius: 5px 0 0 5px;
 }
-.matchup-card.open .matchup-expand {
-  max-height: 220px;
+.prob-bar .seg.home {
+  justify-content: flex-end;
+  border-radius: 0 5px 5px 0;
+}
+.prob-bar .split-mark {
+  position: absolute;
+  top: 50%;
+  width: 9px;
+  height: 9px;
+  background: var(--chalk);
+  border: 2px solid var(--bg);
+  transform: translate(-50%, -50%) rotate(45deg);
+  pointer-events: none;
+}
+
+/* hover-reveal drawer (click pins it; tap on touch screens) */
+.matchup-expand {
+  display: grid;
+  grid-template-rows: 0fr;
+  transition: grid-template-rows 0.28s ease;
+}
+.matchup-expand-inner {
+  overflow: hidden;
+  min-height: 0;
+}
+.matchup-expand-inner > .drawer-pad {
   margin-top: 14px;
-  padding-top: 14px;
+  padding-top: 12px;
   border-top: 1px dashed var(--line);
+}
+
+.matchup-card.open .matchup-expand { grid-template-rows: 1fr; }
+@media (hover: hover) {
+  .matchup-card:hover .matchup-expand,
+  .matchup-card:focus-visible .matchup-expand { grid-template-rows: 1fr; }
 }
 
 .expand-row {
   display: flex;
   justify-content: space-between;
+  gap: 12px;
   font-family: var(--font-mono);
   font-size: 12.5px;
   padding: 3px 0;
   color: var(--text-dim);
 }
-.expand-row strong { color: var(--text); font-weight: 600; }
+.expand-row strong { color: var(--chalk); font-weight: 600; }
 
 .expand-hint {
   text-align: center;
   font-size: 11px;
   color: var(--text-faint);
-  margin-top: 10px;
+  margin-top: 12px;
   font-family: var(--font-mono);
+  letter-spacing: 0.05em;
+}
+/* show the right hint for the input device */
+.hint-tap { display: none; }
+@media (hover: none) {
+  .hint-hover { display: none; }
+  .hint-tap { display: inline; }
 }
 
-/* ---------------- Tables ---------------- */
-.table-scroll { overflow-x: auto; border: 1px solid var(--line); border-radius: var(--radius); }
+/* ===========================================================
+   Tables
+   =========================================================== */
+.table-scroll {
+  overflow-x: auto;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+}
 
 .data-table {
   width: 100%;
@@ -317,7 +457,7 @@ h3 {
 }
 
 .data-table th, .data-table td {
-  padding: 10px 14px;
+  padding: 11px 14px;
   text-align: left;
   white-space: nowrap;
 }
@@ -328,28 +468,30 @@ h3 {
   font-family: var(--font-body);
   font-size: 11px;
   text-transform: uppercase;
-  letter-spacing: 0.06em;
+  letter-spacing: 0.08em;
   font-weight: 600;
-  border-bottom: 1px solid var(--line);
+  border-bottom: 2px solid var(--line);
   position: sticky;
   top: 0;
 }
 
 .data-table th.sortable { cursor: pointer; user-select: none; }
-.data-table th.sortable:hover { color: var(--amber); }
-.data-table th.is-sorted { color: var(--amber); }
+.data-table th.sortable:hover { color: var(--gold); }
+.data-table th.is-sorted { color: var(--gold); }
 .data-table th.is-sorted::after { content: " \25BE"; }
 .data-table th.is-sorted[data-dir="asc"]::after { content: " \25B4"; }
 
 .data-table tbody tr { border-bottom: 1px solid var(--line); }
 .data-table tbody tr:last-child { border-bottom: none; }
-.data-table tbody tr:hover { background: rgba(242, 183, 5, 0.04); }
+.data-table tbody tr:hover { background: rgba(240, 198, 64, 0.05); }
 
-.delta-up { color: var(--grass); }
-.delta-down { color: var(--clay); }
+.delta-up { color: var(--win); }
+.delta-down { color: var(--loss); }
 .delta-flat { color: var(--text-faint); }
 
-/* ---------------- Downloads ---------------- */
+/* ===========================================================
+   Downloads
+   =========================================================== */
 .downloads-grid {
   display: flex;
   flex-wrap: wrap;
@@ -362,72 +504,84 @@ h3 {
   gap: 8px;
   font-family: var(--font-mono);
   font-size: 12.5px;
-  color: var(--text);
+  color: var(--chalk);
   background: var(--surface);
   border: 1px solid var(--line);
-  border-radius: 8px;
-  padding: 10px 14px;
+  border-radius: 999px;
+  padding: 10px 18px;
   text-decoration: none;
-  transition: border-color 0.15s ease, color 0.15s ease;
+  transition: border-color 0.15s ease, color 0.15s ease, transform 0.15s ease;
 }
-.download-btn:hover { border-color: var(--amber); color: var(--amber); }
+.download-btn:hover {
+  border-color: var(--gold);
+  color: var(--gold);
+  transform: translateY(-1px);
+}
+.download-btn:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
 .download-btn .icon { font-size: 14px; }
 
-/* ---------------- Trackers ---------------- */
+/* ===========================================================
+   Track record — W-L plates in varsity numerals
+   =========================================================== */
 .tracker-records {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
   gap: 16px;
-  margin-bottom: 40px;
+  margin-bottom: 44px;
 }
 
 .record-card {
-  background: var(--surface);
+  background: linear-gradient(180deg, var(--surface-2) 0%, var(--surface) 30px);
   border: 1px solid var(--line);
+  border-top: 3px solid var(--gold-dim);
   border-radius: var(--radius);
-  padding: 20px;
+  padding: 22px 20px;
   text-align: center;
+  box-shadow:
+    inset 0 1px 0 rgba(244, 241, 228, 0.05),
+    0 2px 4px rgba(0, 0, 0, 0.3);
 }
 
 .record-label {
   display: block;
-  font-family: var(--font-body);
-  font-weight: 600;
+  font-weight: 700;
   font-size: 14px;
-  color: var(--text);
+  letter-spacing: 0.02em;
+  color: var(--chalk);
 }
 .record-sub {
   display: block;
-  font-size: 11.5px;
+  font-size: 12px;
   color: var(--text-faint);
-  margin-top: 2px;
+  margin-top: 3px;
   min-height: 2.4em;
 }
 
 .record-score {
   font-family: var(--font-display);
-  font-size: 48px;
-  font-weight: 600;
-  margin: 8px 0 0;
+  font-size: 42px;
+  font-weight: 400;
+  margin: 10px 0 0;
   line-height: 1;
+  text-shadow: 0 2px 0 rgba(0, 0, 0, 0.4);
 }
-.record-score .w { color: var(--grass); }
-.record-score .l { color: var(--clay); }
-.record-score .sep { color: var(--text-faint); padding: 0 6px; font-size: 32px; }
+.record-score .w { color: var(--win); }
+.record-score .l { color: var(--loss); }
+.record-score .sep { color: var(--text-faint); padding: 0 8px; font-size: 26px; }
 
 .record-pct {
   display: block;
   font-family: var(--font-mono);
-  color: var(--amber);
-  font-size: 15px;
-  margin-top: 6px;
+  color: var(--gold);
+  font-size: 14px;
+  margin-top: 10px;
 }
 
 .calibration-bar {
   display: inline-block;
-  width: 90px;
+  width: 92px;
   height: 8px;
-  background: var(--surface-2);
+  background: var(--bg-deep);
   border-radius: 4px;
   position: relative;
   vertical-align: middle;
@@ -437,37 +591,50 @@ h3 {
 .calibration-bar .fill {
   position: absolute;
   top: 0; bottom: 0; left: 0;
-  background: var(--sky);
+  background: var(--info);
 }
 .calibration-bar .marker {
   position: absolute;
   top: -2px; bottom: -2px;
   width: 2px;
-  background: var(--amber);
+  background: var(--gold);
 }
 
-/* ---------------- Footer ---------------- */
+/* ===========================================================
+   Footer
+   =========================================================== */
 .site-footer {
-  border-top: 1px solid var(--line);
-  padding: 28px 0 60px;
+  border-top: 2px solid var(--gold-dim);
+  background: var(--bg-deep);
+  padding: 28px 0 64px;
 }
+.footer-inner { display: flex; gap: 14px; align-items: flex-start; }
 .site-footer p {
   color: var(--text-faint);
-  font-size: 12px;
-  max-width: 76ch;
+  font-size: 12.5px;
+  max-width: 78ch;
+  margin: 0;
 }
 
-/* ---------------- Responsive ---------------- */
+/* ===========================================================
+   Responsive
+   =========================================================== */
 @media (max-width: 640px) {
-  h1 { font-size: 36px; }
-  h2 { font-size: 26px; }
-  .header-inner { flex-direction: column; }
-  .header-meta { align-items: flex-start; }
-  .record-score { font-size: 38px; }
+  .wall { padding: 52px 0 42px; }
+  .brand { gap: 12px; }
+  .diamond { width: 8px; height: 8px; }
+  section { padding: 44px 0; }
+  .record-score { font-size: 34px; }
+  .foul-line.right { transform: rotate(-30deg); }
+  .foul-line.left  { transform: rotate(-150deg); }
 }
 
-/* ---------------- Reduced motion ---------------- */
+/* ===========================================================
+   Reduced motion
+   =========================================================== */
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
-  .matchup-expand, .matchup-card { transition: none; }
+  .matchup-card { animation: none; transition: none; }
+  .matchup-expand { transition: none; }
+  .download-btn { transition: none; }
 }
