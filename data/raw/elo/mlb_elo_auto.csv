@@ -14160,7 +14160,6 @@ date,season,game_pk,home_team,away_team,home_pitcher,away_pitcher,home_elo_pre,a
 2026-06-16,2026,824504,Cincinnati Reds,New York Mets,Brady Singer,Kodai Senga,1485.2,1481.2,0.7,0.501,0.499,1488.0,1478.4,5,3,1
 2026-06-16,2026,824667,Chicago Cubs,Colorado Rockies,Edward Cabrera,Ryan Feltner,1507.7,1431.9,113.2,0.6574,0.3426,1503.4,1436.2,2,5,0
 2026-06-16,2026,824750,Boston Red Sox,Toronto Blue Jays,Payton Tolle,Dylan Cease,1500.2,1500.8,-7.2,0.4897,0.5103,1496.8,1504.2,1,6,0
-2026-06-16,2026,824912,Atlanta Braves,San Francisco Giants,Grant Holmes,Adrian Houser,1543.8,1457.8,109.4,0.6524,0.3476,1539.1,1462.5,2,7,0
 2026-06-16,2026,824991,Athletics,Pittsburgh Pirates,Jack Perkins,Mitch Keller,1499.3,1492.0,28.0,0.5402,0.4598,1496.4,1495.0,5,6,0
 2026-06-16,2026,825070,Arizona Diamondbacks,Los Angeles Angels,Merrill Kelly,Reid Detmers,1507.0,1467.7,87.9,0.6238,0.3762,1502.1,1472.6,0,7,0
 2026-06-17,2026,822721,Washington Nationals,Kansas City Royals,Zack Littell,Luinder Avila,1515.5,1464.3,63.7,0.5907,0.4093,1511.5,1468.3,2,6,0
@@ -14174,8 +14173,8 @@ date,season,game_pk,home_team,away_team,home_pitcher,away_pitcher,home_elo_pre,a
 2026-06-17,2026,824503,Cincinnati Reds,New York Mets,Nick Lodolo,Nolan McLean,1488.0,1478.4,28.3,0.5406,0.4594,1483.5,1482.8,1,9,0
 2026-06-17,2026,824668,Chicago Cubs,Colorado Rockies,Javier Assad,Sean Sullivan,1503.4,1436.2,96.5,0.6355,0.3645,1505.1,1434.5,8,6,1
 2026-06-17,2026,824746,Boston Red Sox,Toronto Blue Jays,Jake Bennett,Braydon Fisher,1496.8,1504.2,7.0,0.5101,0.4899,1493.7,1507.3,0,3,0
-2026-06-17,2026,824912,Atlanta Braves,San Francisco Giants,Grant Holmes,Adrian Houser,1539.1,1462.5,96.3,0.6352,0.3648,1534.6,1467.0,2,7,0
-2026-06-17,2026,824913,Atlanta Braves,San Francisco Giants,JR Ritchie,Carson Whisenhunt,1534.6,1467.0,86.1,0.6214,0.3786,1530.8,1470.8,5,7,0
+2026-06-17,2026,824912,Atlanta Braves,San Francisco Giants,Grant Holmes,Adrian Houser,1543.8,1457.8,109.4,0.6524,0.3476,1539.1,1462.5,2,7,0
+2026-06-17,2026,824913,Atlanta Braves,San Francisco Giants,JR Ritchie,Carson Whisenhunt,1539.1,1462.5,95.2,0.6336,0.3664,1535.2,1466.4,5,7,0
 2026-06-17,2026,824992,Athletics,Pittsburgh Pirates,Aaron Civale,Braxton Ashcraft,1496.4,1495.0,6.9,0.5099,0.4901,1492.2,1499.2,4,12,0
 2026-06-17,2026,825072,Arizona Diamondbacks,Los Angeles Angels,Eduardo Rodriguez,Sam Aldegheri,1502.1,1472.6,49.3,0.5704,0.4296,1505.4,1469.3,8,1,1
 2026-06-18,2026,822889,Texas Rangers,Minnesota Twins,Jack Leiter,Joe Ryan,1493.6,1474.0,29.8,0.5427,0.4573,1489.6,1478.0,3,9,0
@@ -14190,14 +14189,14 @@ date,season,game_pk,home_team,away_team,home_pitcher,away_pitcher,home_elo_pre,a
 2026-06-19,2026,822966,Tampa Bay Rays,Washington Nationals,Griffin Jax,PJ Poulin,1496.2,1511.5,10.4,0.515,0.485,1499.2,1508.6,5,2,1
 2026-06-19,2026,823124,Seattle Mariners,Boston Red Sox,Bryce Miller,Ranger Suarez,1503.5,1490.7,16.7,0.524,0.476,1500.1,1494.1,2,6,0
 2026-06-19,2026,823534,New York Yankees,Cincinnati Reds,Cam Schlittler,Rhett Lowder,1554.0,1483.5,120.1,0.6662,0.3338,1556.1,1481.4,5,0,1
-2026-06-19,2026,823853,Miami Marlins,San Francisco Giants,Lake Bachar,Landen Roupp,1507.1,1470.8,52.0,0.5742,0.4258,1509.1,1468.8,4,3,1
+2026-06-19,2026,823853,Miami Marlins,San Francisco Giants,Lake Bachar,Landen Roupp,1507.1,1466.4,56.4,0.5805,0.4195,1509.0,1464.4,4,3,1
 2026-06-19,2026,823936,Los Angeles Dodgers,Baltimore Orioles,Roki Sasaki,Trey Gibson,1553.0,1497.9,98.2,0.6377,0.3623,1554.5,1496.3,6,5,1
 2026-06-19,2026,824097,Kansas City Royals,St. Louis Cardinals,Seth Lugo,Michael McGreevy,1472.6,1510.3,-9.1,0.487,0.513,1475.3,1507.6,6,5,1
 2026-06-19,2026,824179,Houston Astros,Cleveland Guardians,Tatsuya Imai,Tanner Bibee,1488.7,1516.0,-27.6,0.4604,0.5396,1492.7,1512.0,9,3,1
 2026-06-19,2026,824264,Detroit Tigers,Chicago White Sox,Tarik Skubal,Brandon Eisert,1469.3,1502.7,33.5,0.5481,0.4519,1471.6,1500.4,4,3,1
 2026-06-19,2026,824345,Colorado Rockies,Pittsburgh Pirates,Kyle Freeland,Bubba Chandler,1434.5,1499.2,-76.6,0.3915,0.6085,1438.0,1495.7,4,3,1
 2026-06-19,2026,824663,Chicago Cubs,Toronto Blue Jays,Ben Brown,Kevin Gausman,1505.1,1510.3,-23.1,0.4668,0.5332,1510.8,1504.6,16,2,1
-2026-06-19,2026,824910,Atlanta Braves,Milwaukee Brewers,Martín Pérez,Jacob Misiorowski,1530.8,1566.7,-17.4,0.475,0.525,1533.6,1563.9,3,2,1
+2026-06-19,2026,824910,Atlanta Braves,Milwaukee Brewers,Martín Pérez,Jacob Misiorowski,1535.2,1566.7,-13.0,0.4813,0.5187,1538.0,1563.9,3,2,1
 2026-06-19,2026,824990,Athletics,Los Angeles Angels,Jeffrey Springs,José Soriano,1495.2,1466.4,55.1,0.5786,0.4214,1497.1,1464.4,12,11,1
 2026-06-19,2026,825069,Arizona Diamondbacks,Minnesota Twins,Michael Soroka,Connor Prielipp,1505.4,1478.0,31.8,0.5457,0.4543,1508.3,1475.1,9,5,1
 2026-06-20,2026,822885,Texas Rangers,San Diego Padres,MacKenzie Gore,Walker Buehler,1492.0,1501.8,-15.3,0.478,0.522,1489.4,1504.4,4,6,0
@@ -14205,13 +14204,13 @@ date,season,game_pk,home_team,away_team,home_pitcher,away_pitcher,home_elo_pre,a
 2026-06-20,2026,823126,Seattle Mariners,Boston Red Sox,Emerson Hancock,Connelly Early,1500.1,1494.1,12.8,0.5185,0.4815,1496.7,1497.5,1,5,0
 2026-06-20,2026,823447,Philadelphia Phillies,New York Mets,Cristopher Sánchez,Freddy Peralta,1519.0,1486.6,58.9,0.5839,0.4161,1523.3,1482.3,15,3,1
 2026-06-20,2026,823532,New York Yankees,Cincinnati Reds,Will Warren,Andrew Abbott,1556.1,1481.4,63.7,0.5907,0.4093,1551.3,1486.2,2,10,0
-2026-06-20,2026,823854,Miami Marlins,San Francisco Giants,Max Meyer,Trevor McDonald,1509.1,1468.8,58.6,0.5835,0.4165,1511.4,1466.5,6,3,1
+2026-06-20,2026,823854,Miami Marlins,San Francisco Giants,Max Meyer,Trevor McDonald,1509.0,1464.4,63.0,0.5896,0.4104,1511.3,1462.1,6,3,1
 2026-06-20,2026,823937,Los Angeles Dodgers,Baltimore Orioles,Yoshinobu Yamamoto,Trevor Rogers,1554.5,1496.3,138.7,0.6897,0.3103,1550.4,1500.5,2,3,0
 2026-06-20,2026,824180,Houston Astros,Cleveland Guardians,Spencer Arrighetti,Joey Cantillo,1492.7,1512.0,2.7,0.504,0.496,1488.8,1515.9,1,8,0
 2026-06-20,2026,824263,Detroit Tigers,Chicago White Sox,Troy Melton,Sean Newcomb,1471.6,1500.4,4.8,0.507,0.493,1474.6,1497.5,4,1,1
 2026-06-20,2026,824342,Colorado Rockies,Pittsburgh Pirates,Tomoyuki Sugano,Paul Skenes,1438.0,1495.7,-50.8,0.4274,0.5726,1441.2,1492.5,2,1,1
 2026-06-20,2026,824665,Chicago Cubs,Toronto Blue Jays,Colin Rea,Patrick Corbin,1510.8,1504.6,59.6,0.5849,0.4151,1507.3,1508.1,6,8,0
-2026-06-20,2026,824909,Atlanta Braves,Milwaukee Brewers,Chris Sale,Kyle Harrison,1533.6,1563.9,28.4,0.5408,0.4592,1535.9,1561.6,4,3,1
+2026-06-20,2026,824909,Atlanta Braves,Milwaukee Brewers,Chris Sale,Kyle Harrison,1538.0,1563.9,32.8,0.547,0.453,1540.2,1561.7,4,3,1
 2026-06-20,2026,824988,Athletics,Los Angeles Angels,J.T. Ginn,Walbert Ureña,1497.1,1464.4,58.2,0.583,0.417,1492.6,1468.9,0,7,0
 2026-06-20,2026,825068,Arizona Diamondbacks,Minnesota Twins,Zac Gallen,Taj Bradley,1508.3,1475.1,74.8,0.606,0.394,1503.3,1480.0,8,16,0
 2026-06-21,2026,822883,Texas Rangers,San Diego Padres,Nathan Eovaldi,Wandy Peralta,1489.4,1504.4,37.2,0.5534,0.4466,1491.5,1502.2,4,3,1
@@ -14219,76 +14218,76 @@ date,season,game_pk,home_team,away_team,home_pitcher,away_pitcher,home_elo_pre,a
 2026-06-21,2026,823123,Seattle Mariners,Boston Red Sox,Logan Gilbert,Payton Tolle,1496.7,1497.5,77.5,0.6097,0.3903,1498.6,1495.6,3,1,1
 2026-06-21,2026,823449,Philadelphia Phillies,New York Mets,Zack Wheeler,David Peterson,1523.3,1482.3,137.6,0.6882,0.3118,1525.0,1480.6,6,2,1
 2026-06-21,2026,823531,New York Yankees,Cincinnati Reds,Elmer Rodríguez,Chase Burns,1551.3,1486.2,89.7,0.6263,0.3737,1547.2,1490.3,1,4,0
-2026-06-21,2026,823852,Miami Marlins,San Francisco Giants,Ryan Gusto,Logan Webb,1511.4,1466.5,8.1,0.5116,0.4884,1514.0,1463.9,2,1,1
+2026-06-21,2026,823852,Miami Marlins,San Francisco Giants,Ryan Gusto,Logan Webb,1511.3,1462.1,12.3,0.5177,0.4823,1513.8,1459.6,2,1,1
 2026-06-21,2026,823934,Los Angeles Dodgers,Baltimore Orioles,Emmet Sheehan,Brandon Young,1550.4,1500.5,98.3,0.6379,0.3621,1544.5,1506.4,1,12,0
 2026-06-21,2026,824095,Kansas City Royals,St. Louis Cardinals,Stephen Kolek,Dustin May,1475.3,1507.6,-7.5,0.4892,0.5108,1472.6,1510.3,10,12,0
 2026-06-21,2026,824177,Houston Astros,Cleveland Guardians,Kai-Wei Teng,Slade Cecconi,1488.8,1515.9,1.0,0.5014,0.4986,1491.4,1513.3,2,1,1
 2026-06-21,2026,824260,Detroit Tigers,Chicago White Sox,Keider Montero,Davis Martin,1474.6,1497.5,6.5,0.5094,0.4906,1477.1,1494.9,5,4,1
 2026-06-21,2026,824343,Colorado Rockies,Pittsburgh Pirates,Michael Lorenzen,Jared Jones,1441.2,1492.5,-20.7,0.4703,0.5297,1438.6,1495.1,6,8,0
-2026-06-21,2026,824908,Atlanta Braves,Milwaukee Brewers,Bryce Elder,Robert Gasser,1535.9,1561.6,3.6,0.5051,0.4949,1532.4,1565.1,4,9,0
+2026-06-21,2026,824908,Atlanta Braves,Milwaukee Brewers,Bryce Elder,Robert Gasser,1540.2,1561.7,7.8,0.5112,0.4888,1536.7,1565.3,4,9,0
 2026-06-21,2026,824987,Athletics,Los Angeles Angels,Jack Perkins,Reid Detmers,1492.6,1468.9,53.7,0.5767,0.4233,1489.1,1472.4,7,9,0
 2026-06-21,2026,825067,Arizona Diamondbacks,Minnesota Twins,Jose Cabrera,Mike Paredes,1503.3,1480.0,37.9,0.5543,0.4457,1500.1,1483.3,2,4,0
 2026-06-22,2026,822720,Washington Nationals,Philadelphia Phillies,Foster Griffin,Tim Mayza,1509.5,1525.0,-9.8,0.4859,0.5141,1512.6,1521.9,4,1,1
 2026-06-22,2026,822800,Toronto Blue Jays,Houston Astros,Dylan Cease,Hunter Brown,1508.1,1491.4,44.8,0.5641,0.4359,1510.5,1489.1,4,2,1
 2026-06-22,2026,822964,Tampa Bay Rays,Kansas City Royals,Drew Rasmussen,Michael Wacha,1498.3,1472.6,67.0,0.5952,0.4048,1494.9,1475.9,1,2,0
 2026-06-22,2026,823040,St. Louis Cardinals,Arizona Diamondbacks,Andre Pallante,Merrill Kelly,1510.3,1500.1,18.9,0.5271,0.4729,1512.7,1497.7,3,2,1
-2026-06-22,2026,823288,San Diego Padres,Atlanta Braves,Michael King,Grant Holmes,1502.2,1532.4,10.4,0.515,0.485,1504.7,1529.9,1,0,1
+2026-06-22,2026,823288,San Diego Padres,Atlanta Braves,Michael King,Grant Holmes,1502.2,1536.7,4.3,0.5063,0.4937,1504.8,1534.1,1,0,1
 2026-06-22,2026,823692,Minnesota Twins,Los Angeles Dodgers,Zebby Matthews,Will Klein,1483.3,1544.5,-53.6,0.4234,0.5766,1481.3,1546.5,1,2,0
-2026-06-22,2026,823851,Miami Marlins,Texas Rangers,Tyler Phillips,Tyler Alexander,1514.0,1491.5,42.5,0.5608,0.4392,1510.9,1494.6,3,4,0
+2026-06-22,2026,823851,Miami Marlins,Texas Rangers,Tyler Phillips,Tyler Alexander,1513.8,1491.5,42.3,0.5606,0.4394,1510.7,1494.6,3,4,0
 2026-06-22,2026,824016,Los Angeles Angels,Baltimore Orioles,Sam Aldegheri,Kyle Bradish,1472.4,1506.4,-51.6,0.4262,0.5738,1469.5,1509.2,1,6,0
 2026-06-22,2026,824261,Detroit Tigers,New York Yankees,Framber Valdez,Gerrit Cole,1477.1,1547.2,-55.9,0.4203,0.5797,1480.5,1543.8,5,3,1
 2026-06-22,2026,824344,Colorado Rockies,Boston Red Sox,Ryan Feltner,Jake Bennett,1438.6,1495.6,-54.2,0.4226,0.5774,1441.8,1492.4,3,2,1
-2026-06-22,2026,824502,Cincinnati Reds,Milwaukee Brewers,Brady Singer,Brandon Woodruff,1490.3,1565.1,-87.0,0.3773,0.6227,1488.7,1566.7,1,2,0
+2026-06-22,2026,824502,Cincinnati Reds,Milwaukee Brewers,Brady Singer,Brandon Woodruff,1490.3,1565.3,-87.2,0.3771,0.6229,1488.7,1566.9,1,2,0
 2026-06-22,2026,824585,Chicago White Sox,Cleveland Guardians,Anthony Kay,Gavin Williams,1494.9,1513.3,0.5,0.5007,0.4993,1497.5,1510.7,6,5,1
 2026-06-23,2026,822718,Washington Nationals,Philadelphia Phillies,PJ Poulin,Jesús Luzardo,1512.6,1521.9,-13.5,0.4805,0.5195,1509.3,1525.2,9,14,0
 2026-06-23,2026,822799,Toronto Blue Jays,Houston Astros,Shane Bieber,Peter Lambert,1510.5,1489.1,84.2,0.6189,0.3811,1506.7,1492.8,7,9,0
 2026-06-23,2026,822963,Tampa Bay Rays,Kansas City Royals,Shane McClanahan,Luinder Avila,1494.9,1475.9,86.7,0.6223,0.3777,1490.1,1480.8,5,12,0
 2026-06-23,2026,823043,St. Louis Cardinals,Arizona Diamondbacks,Kyle Leahy,Eduardo Rodriguez,1512.7,1497.7,30.8,0.5443,0.4557,1509.7,1500.7,3,4,0
-2026-06-23,2026,823210,San Francisco Giants,Athletics,Robbie Ray,Aaron Civale,1463.9,1489.1,49.6,0.5709,0.4291,1466.2,1486.9,3,1,1
-2026-06-23,2026,823286,San Diego Padres,Atlanta Braves,Wandy Peralta,JR Ritchie,1504.7,1529.9,4.8,0.507,0.493,1507.3,1527.3,7,6,1
+2026-06-23,2026,823210,San Francisco Giants,Athletics,Robbie Ray,Aaron Civale,1459.6,1489.1,45.3,0.5648,0.4352,1461.9,1486.8,3,1,1
+2026-06-23,2026,823286,San Diego Padres,Atlanta Braves,Wandy Peralta,JR Ritchie,1504.8,1534.1,0.7,0.5011,0.4989,1507.4,1531.5,7,6,1
 2026-06-23,2026,823365,Pittsburgh Pirates,Seattle Mariners,Mitch Keller,George Kirby,1495.1,1498.6,-14.5,0.4792,0.5208,1492.6,1501.1,2,3,0
 2026-06-23,2026,823614,New York Mets,Chicago Cubs,Kodai Senga,Edward Cabrera,1480.6,1507.3,26.7,0.5383,0.4617,1477.2,1510.6,6,9,0
 2026-06-23,2026,823690,Minnesota Twins,Los Angeles Dodgers,Kendry Rojas,Justin Wrobleski,1481.3,1546.5,-39.8,0.443,0.557,1477.4,1550.4,3,12,0
-2026-06-23,2026,823849,Miami Marlins,Texas Rangers,Sandy Alcantara,Cal Quantrill,1510.9,1494.6,70.6,0.6002,0.3998,1512.9,1492.6,6,4,1
+2026-06-23,2026,823849,Miami Marlins,Texas Rangers,Sandy Alcantara,Cal Quantrill,1510.7,1494.6,70.4,0.6,0.4,1512.7,1492.6,6,4,1
 2026-06-23,2026,824017,Los Angeles Angels,Baltimore Orioles,Ryan Johnson,Shane Baz,1469.5,1509.2,-41.9,0.44,0.56,1473.2,1505.5,5,1,1
 2026-06-23,2026,824262,Detroit Tigers,New York Yankees,Casey Mize,Carlos Rodón,1480.5,1543.8,-68.7,0.4023,0.5977,1478.7,1545.6,3,4,0
 2026-06-23,2026,824340,Colorado Rockies,Boston Red Sox,Sean Sullivan,Sonny Gray,1441.8,1492.4,-54.1,0.4228,0.5772,1439.4,1494.8,2,5,0
-2026-06-23,2026,824501,Cincinnati Reds,Milwaukee Brewers,Nick Lodolo,Brandon Sproat,1488.7,1566.7,-53.4,0.4237,0.5763,1486.5,1569.0,0,2,0
+2026-06-23,2026,824501,Cincinnati Reds,Milwaukee Brewers,Nick Lodolo,Brandon Sproat,1488.7,1566.9,-53.6,0.4235,0.5765,1486.5,1569.1,0,2,0
 2026-06-23,2026,824584,Chicago White Sox,Cleveland Guardians,Sean Burke,Parker Messick,1497.5,1510.7,5.6,0.5081,0.4919,1500.1,1508.2,2,1,1
 2026-06-24,2026,822719,Washington Nationals,Philadelphia Phillies,Carson Palmquist,Aaron Nola,1509.3,1525.2,-13.6,0.4805,0.5195,1506.9,1527.7,4,5,0
 2026-06-24,2026,822798,Toronto Blue Jays,Houston Astros,Trey Yesavage,Mike Burrows,1506.7,1492.8,48.7,0.5697,0.4303,1503.3,1496.2,1,3,0
 2026-06-24,2026,822965,Tampa Bay Rays,Kansas City Royals,Griffin Jax,Noah Cameron,1490.1,1480.8,34.2,0.5491,0.4509,1492.5,1478.4,5,3,1
 2026-06-24,2026,823041,St. Louis Cardinals,Arizona Diamondbacks,Matthew Liberatore,Mitch Bratt,1509.7,1500.7,18.1,0.526,0.474,1506.1,1504.3,4,9,0
-2026-06-24,2026,823208,San Francisco Giants,Athletics,Tyler Mahle,Gage Jump,1466.2,1486.9,11.0,0.5158,0.4842,1468.7,1484.4,2,1,1
-2026-06-24,2026,823284,San Diego Padres,Atlanta Braves,JP Sears,Martín Pérez,1507.3,1527.3,-25.2,0.4638,0.5362,1510.6,1524.0,5,2,1
+2026-06-24,2026,823208,San Francisco Giants,Athletics,Tyler Mahle,Gage Jump,1461.9,1486.8,6.8,0.5097,0.4903,1464.5,1484.3,2,1,1
+2026-06-24,2026,823284,San Diego Padres,Atlanta Braves,JP Sears,Martín Pérez,1507.4,1531.5,-29.2,0.458,0.542,1510.8,1528.1,5,2,1
 2026-06-24,2026,823367,Pittsburgh Pirates,Seattle Mariners,Braxton Ashcraft,Bryan Woo,1492.6,1501.1,-10.1,0.4854,0.5146,1497.3,1496.4,11,1,1
 2026-06-24,2026,823611,New York Mets,Chicago Cubs,Sean Manaea,Shota Imanaga,1477.2,1510.6,-46.3,0.4338,0.5662,1474.3,1513.6,5,10,0
 2026-06-24,2026,823613,New York Mets,Chicago Cubs,Nolan McLean,Javier Assad,1474.3,1513.6,-15.0,0.4784,0.5216,1470.6,1517.3,3,10,0
 2026-06-24,2026,823691,Minnesota Twins,Los Angeles Dodgers,Joe Ryan,Shohei Ohtani,1477.4,1550.4,-61.3,0.4127,0.5873,1475.5,1552.3,3,4,0
-2026-06-24,2026,823850,Miami Marlins,Texas Rangers,Eury Pérez,Jacob deGrom,1512.9,1492.6,-3.4,0.4951,0.5049,1515.8,1489.7,4,2,1
+2026-06-24,2026,823850,Miami Marlins,Texas Rangers,Eury Pérez,Jacob deGrom,1512.7,1492.6,-3.6,0.4949,0.5051,1515.6,1489.7,4,2,1
 2026-06-24,2026,824018,Los Angeles Angels,Baltimore Orioles,José Soriano,Trey Gibson,1473.2,1505.5,-20.7,0.4703,0.5297,1476.1,1502.7,7,6,1
 2026-06-24,2026,824259,Detroit Tigers,New York Yankees,Tarik Skubal,Ryan Weathers,1478.7,1545.6,8.6,0.5123,0.4877,1475.8,1548.5,2,4,0
 2026-06-24,2026,824341,Colorado Rockies,Boston Red Sox,Kyle Freeland,Ranger Suarez,1439.4,1494.8,-106.5,0.3514,0.6486,1443.4,1490.8,8,6,1
-2026-06-24,2026,824500,Cincinnati Reds,Milwaukee Brewers,Rhett Lowder,Shane Drohan,1486.5,1569.0,-64.3,0.4085,0.5915,1484.6,1570.8,5,6,0
+2026-06-24,2026,824500,Cincinnati Reds,Milwaukee Brewers,Rhett Lowder,Shane Drohan,1486.5,1569.1,-64.5,0.4083,0.5917,1484.6,1571.0,5,6,0
 2026-06-24,2026,824583,Chicago White Sox,Cleveland Guardians,Erick Fedde,Tanner Bibee,1500.1,1508.2,-26.1,0.4625,0.5375,1497.8,1510.5,3,4,0
 2026-06-25,2026,822717,Washington Nationals,Philadelphia Phillies,Cade Cavalli,Cristopher Sánchez,1506.9,1527.7,-61.4,0.4125,0.5875,1504.1,1530.4,5,10,0
 2026-06-25,2026,822797,Toronto Blue Jays,Texas Rangers,Kevin Gausman,MacKenzie Gore,1503.3,1489.7,80.8,0.6142,0.3858,1499.8,1493.3,5,6,0
 2026-06-25,2026,822961,Tampa Bay Rays,Kansas City Royals,Casey Legumina,Seth Lugo,1492.5,1478.4,34.8,0.5499,0.4501,1496.8,1474.0,13,2,1
-2026-06-25,2026,823209,San Francisco Giants,Athletics,Landen Roupp,Jeffrey Springs,1468.7,1484.4,29.5,0.5423,0.4577,1465.3,1487.8,6,9,0
+2026-06-25,2026,823209,San Francisco Giants,Athletics,Landen Roupp,Jeffrey Springs,1464.5,1484.3,25.4,0.5364,0.4636,1461.1,1487.6,6,9,0
 2026-06-25,2026,823366,Pittsburgh Pirates,Seattle Mariners,Bubba Chandler,Bryce Miller,1497.3,1496.4,3.8,0.5054,0.4946,1500.5,1493.2,5,1,1
 2026-06-25,2026,823612,New York Mets,Chicago Cubs,Freddy Peralta,Matthew Boyd,1470.6,1517.3,9.6,0.5138,0.4862,1467.9,1520.0,3,4,0
 2026-06-25,2026,824258,Detroit Tigers,Houston Astros,Troy Melton,Tatsuya Imai,1475.8,1496.2,8.1,0.5116,0.4884,1473.1,1498.9,1,2,0
 2026-06-25,2026,824747,Boston Red Sox,New York Yankees,Connelly Early,Cam Schlittler,1490.8,1548.5,-42.9,0.4385,0.5615,1494.3,1545.0,6,3,1
 2026-06-26,2026,822796,Toronto Blue Jays,Texas Rangers,Patrick Corbin,Nathan Eovaldi,1499.8,1493.3,-44.0,0.437,0.563,1497.7,1495.4,4,5,0
 2026-06-26,2026,822962,Tampa Bay Rays,Arizona Diamondbacks,Nick Martinez,Zac Gallen,1496.8,1504.3,39.1,0.556,0.444,1499.9,1501.3,6,1,1
-2026-06-26,2026,823039,St. Louis Cardinals,Miami Marlins,Michael McGreevy,Max Meyer,1506.1,1515.8,13.3,0.5192,0.4808,1502.7,1519.2,0,4,0
-2026-06-26,2026,823206,San Francisco Giants,Atlanta Braves,Trevor McDonald,Reynaldo López,1465.3,1524.0,-39.4,0.4436,0.5564,1462.9,1526.4,1,3,0
-2026-06-26,2026,823285,San Diego Padres,Los Angeles Dodgers,Walker Buehler,Roki Sasaki,1510.6,1552.3,11.2,0.5161,0.4839,1514.2,1548.7,7,1,1
+2026-06-26,2026,823039,St. Louis Cardinals,Miami Marlins,Michael McGreevy,Max Meyer,1506.1,1515.6,13.5,0.5195,0.4805,1502.6,1519.0,0,4,0
+2026-06-26,2026,823206,San Francisco Giants,Atlanta Braves,Trevor McDonald,Reynaldo López,1461.1,1528.1,-47.7,0.4318,0.5682,1458.9,1530.4,1,3,0
+2026-06-26,2026,823285,San Diego Padres,Los Angeles Dodgers,Walker Buehler,Roki Sasaki,1510.8,1552.3,11.3,0.5163,0.4837,1514.3,1548.7,7,1,1
 2026-06-26,2026,823363,Pittsburgh Pirates,Cincinnati Reds,Paul Skenes,Andrew Abbott,1500.5,1484.6,36.7,0.5526,0.4474,1497.3,1487.8,4,6,0
 2026-06-26,2026,823610,New York Mets,Philadelphia Phillies,Zach Thornton,Zack Wheeler,1467.9,1530.4,-103.9,0.3548,0.6452,1466.4,1531.9,1,2,0
 2026-06-26,2026,823688,Minnesota Twins,Colorado Rockies,Taj Bradley,Tomoyuki Sugano,1475.5,1443.4,36.2,0.5519,0.4481,1477.7,1441.2,9,8,1
-2026-06-26,2026,823773,Milwaukee Brewers,Chicago Cubs,Jacob Misiorowski,Colin Rea,1570.8,1520.0,87.7,0.6236,0.3764,1573.1,1517.8,6,2,1
-2026-06-26,2026,824014,Los Angeles Angels,Athletics,Walbert Ureña,J.T. Ginn,1476.1,1487.8,2.7,0.5039,0.4961,1472.4,1491.5,3,9,0
+2026-06-26,2026,823773,Milwaukee Brewers,Chicago Cubs,Jacob Misiorowski,Colin Rea,1571.0,1520.0,87.9,0.6238,0.3762,1573.2,1517.8,6,2,1
+2026-06-26,2026,824014,Los Angeles Angels,Athletics,Walbert Ureña,J.T. Ginn,1476.1,1487.6,2.8,0.5041,0.4959,1472.4,1491.3,3,9,0
 2026-06-26,2026,824255,Detroit Tigers,Houston Astros,Keider Montero,Spencer Arrighetti,1473.1,1498.9,9.4,0.5135,0.4865,1477.1,1494.9,8,0,1
 2026-06-26,2026,824423,Cleveland Guardians,Seattle Mariners,Joey Cantillo,Luis Castillo,1510.5,1493.2,36.0,0.5517,0.4483,1507.3,1496.4,1,3,0
 2026-06-26,2026,824582,Chicago White Sox,Kansas City Royals,David Sandlin,Steven Cruz,1497.8,1474.0,56.0,0.5799,0.4201,1504.0,1467.8,22,1,1
@@ -14296,14 +14295,14 @@ date,season,game_pk,home_team,away_team,home_pitcher,away_pitcher,home_elo_pre,a
 2026-06-26,2026,824824,Baltimore Orioles,Washington Nationals,Trevor Rogers,Andrew Alvarez,1502.7,1504.1,-7.2,0.4897,0.5103,1505.6,1501.2,3,1,1
 2026-06-27,2026,822794,Toronto Blue Jays,Texas Rangers,Dylan Cease,Cal Quantrill,1497.7,1495.4,64.3,0.5915,0.4085,1493.9,1499.1,4,7,0
 2026-06-27,2026,822960,Tampa Bay Rays,Arizona Diamondbacks,Cole Sulser,Jose Cabrera,1499.9,1501.3,35.1,0.5504,0.4496,1502.3,1498.9,4,2,1
-2026-06-27,2026,823038,St. Louis Cardinals,Miami Marlins,Andre Pallante,Ryan Gusto,1502.7,1519.2,20.8,0.5299,0.4701,1499.2,1522.7,1,5,0
-2026-06-27,2026,823207,San Francisco Giants,Atlanta Braves,Logan Webb,Bryce Elder,1462.9,1526.4,16.3,0.5234,0.4766,1466.2,1523.1,5,0,1
-2026-06-27,2026,823283,San Diego Padres,Los Angeles Dodgers,Kyle Hart,Yoshinobu Yamamoto,1514.2,1548.7,-45.6,0.4347,0.5653,1509.7,1553.2,3,15,0
-2026-06-27,2026,823364,Pittsburgh Pirates,Cincinnati Reds,Jared Jones,Chase Burns,1497.3,1487.8,9.8,0.5141,0.4859,1494.3,1490.7,7,9,0
+2026-06-27,2026,823038,St. Louis Cardinals,Miami Marlins,Andre Pallante,Ryan Gusto,1502.6,1519.0,21.0,0.5302,0.4698,1499.2,1522.5,1,5,0
+2026-06-27,2026,823207,San Francisco Giants,Atlanta Braves,Logan Webb,Bryce Elder,1458.9,1530.4,8.2,0.5118,0.4882,1462.2,1527.0,5,0,1
+2026-06-27,2026,823283,San Diego Padres,Los Angeles Dodgers,Kyle Hart,Yoshinobu Yamamoto,1514.3,1548.7,-45.4,0.435,0.565,1509.9,1553.2,3,15,0
+2026-06-27,2026,823364,Pittsburgh Pirates,Cincinnati Reds,Jared Jones,Chase Burns,1497.3,1487.8,9.8,0.5141,0.4859,1494.3,1490.8,7,9,0
 2026-06-27,2026,823609,New York Mets,Philadelphia Phillies,Christian Scott,Tim Mayza,1466.4,1531.9,-42.2,0.4396,0.5604,1470.1,1528.1,6,2,1
 2026-06-27,2026,823689,Minnesota Twins,Colorado Rockies,Mike Paredes,Michael Lorenzen,1477.7,1441.2,73.2,0.6038,0.3962,1473.8,1445.1,5,8,0
-2026-06-27,2026,823770,Milwaukee Brewers,Chicago Cubs,Kyle Harrison,David Peterson,1573.1,1517.8,88.7,0.625,0.375,1568.4,1522.4,2,8,0
-2026-06-27,2026,824015,Los Angeles Angels,Athletics,Reid Detmers,Jack Perkins,1472.4,1491.5,-12.0,0.4828,0.5172,1475.5,1488.3,5,2,1
+2026-06-27,2026,823770,Milwaukee Brewers,Chicago Cubs,Kyle Harrison,David Peterson,1573.2,1517.8,88.9,0.6253,0.3747,1568.6,1522.5,2,8,0
+2026-06-27,2026,824015,Los Angeles Angels,Athletics,Reid Detmers,Jack Perkins,1472.4,1491.3,-11.8,0.483,0.517,1475.5,1488.2,5,2,1
 2026-06-27,2026,824257,Detroit Tigers,Houston Astros,Framber Valdez,Kai-Wei Teng,1477.1,1494.9,51.3,0.5733,0.4267,1473.7,1498.3,6,8,0
 2026-06-27,2026,824421,Cleveland Guardians,Seattle Mariners,Slade Cecconi,Logan Gilbert,1507.3,1496.4,-19.3,0.4723,0.5277,1510.1,1493.6,4,3,1
 2026-06-27,2026,824581,Chicago White Sox,Kansas City Royals,Davis Martin,Michael Wacha,1504.0,1467.8,45.7,0.5654,0.4346,1506.1,1465.7,2,1,1
@@ -14311,14 +14310,14 @@ date,season,game_pk,home_team,away_team,home_pitcher,away_pitcher,home_elo_pre,a
 2026-06-27,2026,824825,Baltimore Orioles,Washington Nationals,Brandon Young,Foster Griffin,1505.6,1501.2,0.0,0.5001,0.4999,1503.0,1503.8,3,4,0
 2026-06-28,2026,822795,Toronto Blue Jays,Texas Rangers,Shane Bieber,Kumar Rocker,1493.9,1499.1,61.2,0.5871,0.4129,1490.6,1502.4,2,3,0
 2026-06-28,2026,822959,Tampa Bay Rays,Arizona Diamondbacks,Drew Rasmussen,Merrill Kelly,1502.3,1498.9,48.2,0.5689,0.4311,1505.0,1496.2,5,1,1
-2026-06-28,2026,823037,St. Louis Cardinals,Miami Marlins,Kyle Leahy,Tyler Phillips,1499.2,1522.7,-4.8,0.493,0.507,1501.8,1520.0,2,1,1
-2026-06-28,2026,823204,San Francisco Giants,Atlanta Braves,Robbie Ray,Chris Sale,1466.2,1523.1,-47.9,0.4314,0.5686,1469.4,1519.9,3,2,1
-2026-06-28,2026,823281,San Diego Padres,Los Angeles Dodgers,Michael King,Emmet Sheehan,1509.7,1553.2,5.2,0.5075,0.4925,1506.8,1556.1,2,4,0
-2026-06-28,2026,823362,Pittsburgh Pirates,Cincinnati Reds,Mitch Keller,Brady Singer,1494.3,1490.7,23.3,0.5335,0.4665,1497.5,1487.5,9,4,1
+2026-06-28,2026,823037,St. Louis Cardinals,Miami Marlins,Kyle Leahy,Tyler Phillips,1499.2,1522.5,-4.7,0.4932,0.5068,1501.8,1519.8,2,1,1
+2026-06-28,2026,823204,San Francisco Giants,Atlanta Braves,Robbie Ray,Chris Sale,1462.2,1527.0,-55.9,0.4203,0.5797,1465.5,1523.8,3,2,1
+2026-06-28,2026,823281,San Diego Padres,Los Angeles Dodgers,Michael King,Emmet Sheehan,1509.9,1553.2,5.5,0.5079,0.4921,1507.0,1556.1,2,4,0
+2026-06-28,2026,823362,Pittsburgh Pirates,Cincinnati Reds,Mitch Keller,Brady Singer,1494.3,1490.8,23.3,0.5335,0.4665,1497.5,1487.6,9,4,1
 2026-06-28,2026,823608,New York Mets,Philadelphia Phillies,Cionel Pérez,Jesús Luzardo,1470.1,1528.1,-42.0,0.4399,0.5601,1468.0,1530.3,4,5,0
 2026-06-28,2026,823686,Minnesota Twins,Colorado Rockies,Connor Prielipp,Ryan Feltner,1473.8,1445.1,70.0,0.5995,0.4005,1475.7,1443.3,3,2,1
-2026-06-28,2026,823769,Milwaukee Brewers,Chicago Cubs,Brandon Woodruff,Ryan Rolison,1568.4,1522.4,93.4,0.6313,0.3687,1564.8,1526.1,3,4,0
-2026-06-28,2026,824011,Los Angeles Angels,Athletics,Sam Aldegheri,Aaron Civale,1475.5,1488.3,13.4,0.5193,0.4807,1478.4,1485.4,4,1,1
+2026-06-28,2026,823769,Milwaukee Brewers,Chicago Cubs,Brandon Woodruff,Ryan Rolison,1568.6,1522.5,93.5,0.6314,0.3686,1564.9,1526.1,3,4,0
+2026-06-28,2026,824011,Los Angeles Angels,Athletics,Sam Aldegheri,Aaron Civale,1475.5,1488.2,13.6,0.5195,0.4805,1478.4,1485.3,4,1,1
 2026-06-28,2026,824256,Detroit Tigers,Houston Astros,Jack Flaherty,Hunter Brown,1473.7,1498.3,-41.9,0.44,0.56,1471.3,1500.7,5,7,0
 2026-06-28,2026,824422,Cleveland Guardians,Seattle Mariners,Gavin Williams,Emerson Hancock,1510.1,1493.6,62.3,0.5887,0.4113,1512.0,1491.7,6,5,1
 2026-06-28,2026,824580,Chicago White Sox,Kansas City Royals,Anthony Kay,Luinder Avila,1506.1,1465.7,76.2,0.6079,0.3921,1502.6,1469.2,4,5,0
@@ -14328,145 +14327,155 @@ date,season,game_pk,home_team,away_team,home_pitcher,away_pitcher,home_elo_pre,a
 2026-06-29,2026,823121,Seattle Mariners,Los Angeles Angels,George Kirby,Ryan Johnson,1491.7,1478.4,71.4,0.6013,0.3987,1494.2,1476.0,6,2,1
 2026-06-29,2026,823444,Philadelphia Phillies,Pittsburgh Pirates,Aaron Nola,Braxton Ashcraft,1530.3,1497.5,58.0,0.5827,0.4173,1526.3,1501.4,7,11,0
 2026-06-29,2026,823529,New York Yankees,Detroit Tigers,Ryan Weathers,Casey Mize,1534.7,1471.3,82.6,0.6167,0.3833,1530.5,1475.5,3,7,0
-2026-06-29,2026,823771,Milwaukee Brewers,Cincinnati Reds,Robert Gasser,Nick Lodolo,1564.8,1487.5,86.9,0.6225,0.3775,1566.6,1485.7,5,3,1
+2026-06-29,2026,823771,Milwaukee Brewers,Cincinnati Reds,Robert Gasser,Nick Lodolo,1564.9,1487.6,87.1,0.6227,0.3773,1566.7,1485.7,5,3,1
 2026-06-29,2026,824176,Houston Astros,Minnesota Twins,Peter Lambert,Zebby Matthews,1500.7,1475.7,74.6,0.6057,0.3943,1497.2,1479.1,4,5,0
-2026-06-29,2026,824339,Colorado Rockies,Miami Marlins,Sean Sullivan,Sandy Alcantara,1443.3,1520.0,-72.0,0.3978,0.6022,1441.0,1522.2,7,10,0
+2026-06-29,2026,824339,Colorado Rockies,Miami Marlins,Sean Sullivan,Sandy Alcantara,1443.3,1519.8,-71.9,0.398,0.602,1441.0,1522.1,7,10,0
 2026-06-29,2026,824420,Cleveland Guardians,Texas Rangers,Parker Messick,Tyler Alexander,1512.0,1502.4,39.3,0.5563,0.4437,1508.5,1505.9,3,6,0
-2026-06-29,2026,824662,Chicago Cubs,San Diego Padres,Shota Imanaga,Griffin Canning,1526.1,1506.8,74.0,0.605,0.395,1527.9,1505.1,3,2,1
+2026-06-29,2026,824662,Chicago Cubs,San Diego Padres,Shota Imanaga,Griffin Canning,1526.1,1507.0,73.9,0.6047,0.3953,1527.9,1505.2,3,2,1
 2026-06-29,2026,824741,Boston Red Sox,Washington Nationals,Ranger Suarez,Miles Mikolas,1504.6,1506.9,55.7,0.5795,0.4205,1507.0,1504.5,6,3,1
 2026-06-29,2026,824822,Baltimore Orioles,Chicago White Sox,Shane Baz,Sean Burke,1499.9,1502.6,12.9,0.5185,0.4815,1496.0,1506.5,2,8,0
-2026-06-29,2026,824986,Athletics,Los Angeles Dodgers,Gage Jump,Eric Lauer,1485.4,1556.1,-52.0,0.4258,0.5742,1482.6,1558.9,4,9,0
-2026-06-29,2026,825065,Arizona Diamondbacks,San Francisco Giants,Eduardo Rodriguez,Tyler Mahle,1496.2,1469.4,43.4,0.5622,0.4378,1498.3,1467.3,5,4,1
+2026-06-29,2026,824986,Athletics,Los Angeles Dodgers,Gage Jump,Eric Lauer,1485.3,1556.1,-52.2,0.4255,0.5745,1482.4,1558.9,4,9,0
+2026-06-29,2026,825065,Arizona Diamondbacks,San Francisco Giants,Eduardo Rodriguez,Tyler Mahle,1496.2,1465.5,47.3,0.5677,0.4323,1498.3,1463.4,5,4,1
 2026-06-30,2026,822793,Toronto Blue Jays,New York Mets,Kevin Gausman,Nolan McLean,1492.5,1466.1,80.4,0.6136,0.3864,1488.5,1470.1,0,3,0
 2026-06-30,2026,823122,Seattle Mariners,Los Angeles Angels,Bryan Woo,José Soriano,1494.2,1476.0,74.4,0.6054,0.3946,1496.8,1473.3,8,3,1
 2026-06-30,2026,823445,Philadelphia Phillies,Pittsburgh Pirates,Cristopher Sánchez,Bubba Chandler,1526.3,1501.4,95.0,0.6335,0.3665,1529.4,1498.4,8,0,1
 2026-06-30,2026,823528,New York Yankees,Detroit Tigers,Cam Schlittler,Tarik Skubal,1530.5,1475.5,52.3,0.5747,0.4253,1526.2,1479.8,3,9,0
-2026-06-30,2026,823768,Milwaukee Brewers,Cincinnati Reds,Brandon Sproat,Rhett Lowder,1566.6,1485.7,100.7,0.641,0.359,1568.9,1483.4,7,2,1
+2026-06-30,2026,823768,Milwaukee Brewers,Cincinnati Reds,Brandon Sproat,Rhett Lowder,1566.7,1485.7,100.8,0.6412,0.3588,1569.1,1483.4,7,2,1
 2026-06-30,2026,824096,Kansas City Royals,Tampa Bay Rays,Noah Cameron,Griffin Jax,1469.2,1505.0,-9.0,0.487,0.513,1465.6,1508.6,4,10,0
 2026-06-30,2026,824175,Houston Astros,Minnesota Twins,Mike Burrows,Joe Ryan,1497.2,1479.1,35.7,0.5512,0.4488,1499.6,1476.7,6,4,1
-2026-06-30,2026,824338,Colorado Rockies,Miami Marlins,Tanner Gordon,Eury Pérez,1441.0,1522.2,-73.2,0.3962,0.6038,1437.1,1526.1,3,14,0
+2026-06-30,2026,824338,Colorado Rockies,Miami Marlins,Tanner Gordon,Eury Pérez,1441.0,1522.1,-73.0,0.3964,0.6036,1437.1,1526.0,3,14,0
 2026-06-30,2026,824418,Cleveland Guardians,Texas Rangers,Tanner Bibee,Jacob deGrom,1508.5,1505.9,11.2,0.5161,0.4839,1505.6,1508.9,2,4,0
-2026-06-30,2026,824661,Chicago Cubs,San Diego Padres,Matthew Boyd,JP Sears,1527.9,1505.1,61.2,0.5872,0.4128,1530.0,1502.9,9,7,1
+2026-06-30,2026,824661,Chicago Cubs,San Diego Padres,Matthew Boyd,JP Sears,1527.9,1505.2,61.0,0.5869,0.4131,1530.0,1503.1,9,7,1
 2026-06-30,2026,824742,Boston Red Sox,Washington Nationals,Connelly Early,Cade Cavalli,1507.0,1504.5,45.9,0.5657,0.4343,1502.6,1508.9,1,8,0
 2026-06-30,2026,824819,Baltimore Orioles,Chicago White Sox,Trey Gibson,Erick Fedde,1496.0,1506.5,1.6,0.5023,0.4977,1492.3,1510.2,3,9,0
-2026-06-30,2026,824907,Atlanta Braves,St. Louis Cardinals,Martín Pérez,Matthew Liberatore,1519.9,1501.8,65.6,0.5933,0.4067,1516.4,1505.4,3,5,0
-2026-06-30,2026,824984,Athletics,Los Angeles Dodgers,Jeffrey Springs,Justin Wrobleski,1482.6,1558.9,-61.3,0.4127,0.5873,1479.6,1561.9,3,9,0
-2026-06-30,2026,825066,Arizona Diamondbacks,San Francisco Giants,Brandon Pfaadt,Landen Roupp,1498.3,1467.3,27.1,0.539,0.461,1501.7,1463.9,8,2,1
+2026-06-30,2026,824907,Atlanta Braves,St. Louis Cardinals,Martín Pérez,Matthew Liberatore,1523.8,1501.8,69.5,0.5987,0.4013,1520.2,1505.4,3,5,0
+2026-06-30,2026,824984,Athletics,Los Angeles Dodgers,Jeffrey Springs,Justin Wrobleski,1482.4,1558.9,-61.5,0.4125,0.5875,1479.4,1561.9,3,9,0
+2026-06-30,2026,825066,Arizona Diamondbacks,San Francisco Giants,Brandon Pfaadt,Landen Roupp,1498.3,1463.4,30.9,0.5444,0.4556,1501.6,1460.1,8,2,1
 2026-07-01,2026,822791,Toronto Blue Jays,New York Mets,Braydon Fisher,Freddy Peralta,1488.5,1470.1,9.7,0.5139,0.4861,1492.1,1466.5,9,3,1
 2026-07-01,2026,823446,Philadelphia Phillies,Pittsburgh Pirates,Zack Wheeler,Paul Skenes,1529.4,1498.4,95.4,0.634,0.366,1531.6,1496.2,10,6,1
 2026-07-01,2026,823530,New York Yankees,Detroit Tigers,Will Warren,Troy Melton,1526.2,1479.8,51.0,0.5729,0.4271,1522.4,1483.6,2,6,0
-2026-07-01,2026,823767,Milwaukee Brewers,Cincinnati Reds,Shane Drohan,Andrew Abbott,1568.9,1483.4,70.9,0.6006,0.3994,1571.0,1481.4,4,2,1
+2026-07-01,2026,823767,Milwaukee Brewers,Cincinnati Reds,Shane Drohan,Andrew Abbott,1569.1,1483.4,71.0,0.6008,0.3992,1571.1,1481.4,4,2,1
 2026-07-01,2026,824094,Kansas City Royals,Tampa Bay Rays,Seth Lugo,Shane McClanahan,1465.6,1508.6,-44.5,0.4364,0.5636,1462.8,1511.3,0,4,0
 2026-07-01,2026,824174,Houston Astros,Minnesota Twins,Tatsuya Imai,Taj Bradley,1499.6,1476.7,73.4,0.6041,0.3959,1495.3,1481.0,3,8,0
-2026-07-01,2026,824337,Colorado Rockies,Miami Marlins,Kyle Freeland,Max Meyer,1437.1,1526.1,-106.6,0.3512,0.6488,1441.3,1521.9,6,3,1
+2026-07-01,2026,824337,Colorado Rockies,Miami Marlins,Kyle Freeland,Max Meyer,1437.1,1526.0,-106.4,0.3515,0.6485,1441.3,1521.8,6,3,1
 2026-07-01,2026,824419,Cleveland Guardians,Texas Rangers,Joey Cantillo,MacKenzie Gore,1505.6,1508.9,38.4,0.5551,0.4449,1508.6,1505.9,9,4,1
-2026-07-01,2026,824660,Chicago Cubs,San Diego Padres,Colin Rea,Walker Buehler,1530.0,1502.9,14.3,0.5206,0.4794,1536.5,1496.4,23,3,1
+2026-07-01,2026,824660,Chicago Cubs,San Diego Padres,Colin Rea,Walker Buehler,1530.0,1503.1,14.2,0.5204,0.4796,1536.5,1496.6,23,3,1
 2026-07-01,2026,824740,Boston Red Sox,Washington Nationals,Payton Tolle,Brad Lord,1502.6,1508.9,16.8,0.5242,0.4758,1498.3,1513.2,2,10,0
 2026-07-01,2026,824818,Baltimore Orioles,Chicago White Sox,Dean Kremer,Noah Schultz,1492.3,1510.2,-12.1,0.4825,0.5175,1495.9,1506.6,6,1,1
-2026-07-01,2026,824905,Atlanta Braves,St. Louis Cardinals,Reynaldo López,Michael McGreevy,1516.4,1505.4,46.7,0.5668,0.4332,1519.1,1502.7,5,1,1
-2026-07-01,2026,824985,Athletics,Los Angeles Dodgers,J.T. Ginn,,1479.6,1561.9,-56.2,0.4198,0.5802,1483.9,1557.6,7,1,1
-2026-07-01,2026,825064,Arizona Diamondbacks,San Francisco Giants,Zac Gallen,Trevor McDonald,1501.7,1463.9,59.4,0.5847,0.4153,1498.2,1467.4,4,6,0
+2026-07-01,2026,824905,Atlanta Braves,St. Louis Cardinals,Reynaldo López,Michael McGreevy,1520.2,1505.4,50.4,0.5721,0.4279,1522.9,1502.8,5,1,1
+2026-07-01,2026,824985,Athletics,Los Angeles Dodgers,J.T. Ginn,,1479.4,1561.9,-56.4,0.4196,0.5804,1483.8,1557.6,7,1,1
+2026-07-01,2026,825064,Arizona Diamondbacks,San Francisco Giants,Zac Gallen,Trevor McDonald,1501.6,1460.1,63.1,0.5898,0.4102,1498.0,1463.6,4,6,0
 2026-07-02,2026,822884,Texas Rangers,Detroit Tigers,Nathan Eovaldi,Framber Valdez,1505.9,1483.6,37.4,0.5536,0.4464,1509.1,1480.4,10,4,1
 2026-07-02,2026,823119,Seattle Mariners,Los Angeles Angels,Bryce Miller,Walbert Ureña,1496.8,1473.3,60.1,0.5857,0.4143,1498.7,1471.4,1,0,1
 2026-07-02,2026,823442,Philadelphia Phillies,Pittsburgh Pirates,Alan Rangel,Jared Jones,1531.6,1496.2,75.4,0.6068,0.3932,1527.2,1500.5,1,6,0
-2026-07-02,2026,823765,Milwaukee Brewers,Cincinnati Reds,Jacob Misiorowski,Chase Burns,1571.0,1481.4,115.6,0.6605,0.3395,1566.2,1486.1,2,7,0
-2026-07-02,2026,823935,Los Angeles Dodgers,San Diego Padres,Roki Sasaki,Randy Vásquez,1557.6,1496.4,84.9,0.6198,0.3802,1560.1,1493.9,12,7,1
+2026-07-02,2026,823765,Milwaukee Brewers,Cincinnati Reds,Jacob Misiorowski,Chase Burns,1571.1,1481.4,115.8,0.6607,0.3393,1566.3,1486.1,2,7,0
+2026-07-02,2026,823935,Los Angeles Dodgers,San Diego Padres,Roki Sasaki,Randy Vásquez,1557.6,1496.6,84.8,0.6196,0.3804,1560.1,1494.1,12,7,1
 2026-07-02,2026,824093,Kansas City Royals,Tampa Bay Rays,Stephen Kolek,Ian Seymour,1462.8,1511.3,-24.9,0.4642,0.5358,1460.1,1514.1,2,5,0
-2026-07-02,2026,824335,Colorado Rockies,Miami Marlins,Michael Lorenzen,Ryan Gusto,1441.3,1521.9,-53.3,0.4238,0.5762,1446.5,1516.8,14,4,1
+2026-07-02,2026,824335,Colorado Rockies,Miami Marlins,Michael Lorenzen,Ryan Gusto,1441.3,1521.8,-53.1,0.4241,0.5759,1446.5,1516.6,14,4,1
 2026-07-02,2026,824416,Cleveland Guardians,Chicago White Sox,Slade Cecconi,Davis Martin,1508.6,1506.6,20.9,0.53,0.47,1511.0,1504.2,6,5,1
-2026-07-02,2026,824906,Atlanta Braves,St. Louis Cardinals,Hurston Waldrep,Dustin May,1519.1,1502.7,34.6,0.5496,0.4504,1515.0,1506.7,5,11,0
+2026-07-02,2026,824906,Atlanta Braves,St. Louis Cardinals,Hurston Waldrep,Dustin May,1522.9,1502.8,38.3,0.5549,0.4451,1518.8,1506.9,5,11,0
 2026-07-03,2026,822714,Washington Nationals,Pittsburgh Pirates,Foster Griffin,Mitch Keller,1513.2,1500.5,18.5,0.5267,0.4733,1516.2,1497.5,9,5,1
 2026-07-03,2026,823120,Seattle Mariners,Toronto Blue Jays,Luis Castillo,Dylan Cease,1498.7,1492.1,26.0,0.5373,0.4627,1495.6,1495.2,0,2,0
 2026-07-03,2026,823527,New York Yankees,Minnesota Twins,Gerrit Cole,Mike Paredes,1522.4,1481.0,119.5,0.6655,0.3345,1524.1,1479.3,5,2,1
-2026-07-03,2026,823933,Los Angeles Dodgers,San Diego Padres,Shohei Ohtani,Michael King,1560.1,1493.9,115.8,0.6608,0.3392,1561.4,1492.6,4,3,1
-2026-07-03,2026,824013,Los Angeles Angels,Boston Red Sox,Reid Detmers,Jake Bennett,1471.4,1498.3,-21.7,0.4689,0.5311,1468.6,1501.1,2,5,0
+2026-07-03,2026,823933,Los Angeles Dodgers,San Diego Padres,Shohei Ohtani,Michael King,1560.1,1494.1,115.6,0.6605,0.3395,1561.4,1492.7,4,3,1
+2026-07-03,2026,824013,Los Angeles Angels,Boston Red Sox,Reid Detmers,Jake Bennett,1471.4,1498.3,-21.7,0.4688,0.5312,1468.6,1501.1,2,5,0
 2026-07-03,2026,824173,Houston Astros,Tampa Bay Rays,Spencer Arrighetti,Nick Martinez,1495.3,1514.1,-11.4,0.4836,0.5164,1492.7,1516.8,1,3,0
-2026-07-03,2026,824336,Colorado Rockies,San Francisco Giants,Ryan Feltner,Logan Webb,1446.5,1467.4,-71.2,0.3989,0.6011,1452.3,1461.6,15,3,1
+2026-07-03,2026,824336,Colorado Rockies,San Francisco Giants,Ryan Feltner,Logan Webb,1446.5,1463.6,-67.5,0.404,0.596,1452.2,1457.9,15,3,1
 2026-07-03,2026,824417,Cleveland Guardians,Chicago White Sox,Gavin Williams,Anthony Kay,1511.0,1504.2,41.3,0.5591,0.4409,1513.1,1502.1,4,3,1
 2026-07-03,2026,824498,Cincinnati Reds,Baltimore Orioles,Brady Singer,Trevor Rogers,1486.1,1495.9,7.7,0.5111,0.4889,1483.0,1499.1,0,3,0
-2026-07-03,2026,824659,Chicago Cubs,St. Louis Cardinals,David Peterson,Andre Pallante,1536.5,1506.7,36.1,0.5518,0.4482,1530.3,1513.0,1,17,0
-2026-07-03,2026,824904,Atlanta Braves,New York Mets,Grant Holmes,Christian Scott,1515.0,1466.5,74.9,0.6061,0.3939,1517.0,1464.5,5,3,1
-2026-07-03,2026,824982,Athletics,Miami Marlins,Jack Perkins,Tyler Phillips,1483.9,1516.8,-17.2,0.4753,0.5247,1480.2,1520.5,5,12,0
-2026-07-03,2026,825062,Arizona Diamondbacks,Milwaukee Brewers,Jose Cabrera,Kyle Harrison,1498.2,1566.2,-63.9,0.4091,0.5909,1495.9,1568.5,4,7,0
+2026-07-03,2026,824659,Chicago Cubs,St. Louis Cardinals,David Peterson,Andre Pallante,1536.5,1506.9,36.0,0.5517,0.4483,1530.3,1513.1,1,17,0
+2026-07-03,2026,824904,Atlanta Braves,New York Mets,Grant Holmes,Christian Scott,1518.8,1466.5,80.4,0.6136,0.3864,1520.7,1464.6,5,3,1
+2026-07-03,2026,824982,Athletics,Miami Marlins,Jack Perkins,Tyler Phillips,1483.8,1516.6,-17.2,0.4753,0.5247,1480.1,1520.3,5,12,0
+2026-07-03,2026,825062,Arizona Diamondbacks,Milwaukee Brewers,Jose Cabrera,Kyle Harrison,1498.0,1566.3,-64.2,0.4087,0.5913,1495.7,1568.6,4,7,0
 2026-07-04,2026,822716,Washington Nationals,Pittsburgh Pirates,Carson Palmquist,Braxton Ashcraft,1516.2,1497.5,17.2,0.5247,0.4753,1512.4,1501.4,1,7,0
 2026-07-04,2026,822882,Texas Rangers,Detroit Tigers,Cal Quantrill,Jack Flaherty,1509.1,1480.4,56.2,0.5802,0.4198,1505.4,1484.1,0,3,0
 2026-07-04,2026,823118,Seattle Mariners,Toronto Blue Jays,Logan Gilbert,Shane Bieber,1495.6,1495.2,43.7,0.5626,0.4374,1499.8,1491.0,11,0,1
 2026-07-04,2026,823526,New York Yankees,Minnesota Twins,Brendan Beck,Zebby Matthews,1524.1,1479.3,92.3,0.6298,0.3702,1519.2,1484.2,4,11,0
-2026-07-04,2026,823932,Los Angeles Dodgers,San Diego Padres,Yoshinobu Yamamoto,Wandy Peralta,1561.4,1492.6,143.0,0.6949,0.3051,1562.9,1491.1,3,0,1
+2026-07-04,2026,823932,Los Angeles Dodgers,San Diego Padres,Yoshinobu Yamamoto,Wandy Peralta,1561.4,1492.7,142.8,0.6947,0.3053,1562.9,1491.3,3,0,1
 2026-07-04,2026,824012,Los Angeles Angels,Boston Red Sox,Sam Aldegheri,Sonny Gray,1468.6,1501.1,-51.2,0.4269,0.5731,1465.3,1504.4,1,8,0
 2026-07-04,2026,824092,Kansas City Royals,Philadelphia Phillies,Michael Wacha,Jesús Luzardo,1460.1,1527.2,-32.9,0.4528,0.5472,1457.0,1530.3,1,6,0
 2026-07-04,2026,824171,Houston Astros,Tampa Bay Rays,Hunter Brown,Drew Rasmussen,1492.7,1516.8,1.2,0.5017,0.4983,1495.5,1514.0,10,8,1
-2026-07-04,2026,824334,Colorado Rockies,San Francisco Giants,Sean Sullivan,Robbie Ray,1452.3,1461.6,-13.5,0.4806,0.5194,1449.6,1464.3,4,6,0
+2026-07-04,2026,824334,Colorado Rockies,San Francisco Giants,Sean Sullivan,Robbie Ray,1452.2,1457.9,-9.9,0.4858,0.5142,1449.5,1460.6,4,6,0
 2026-07-04,2026,824415,Cleveland Guardians,Chicago White Sox,Parker Messick,Sean Burke,1513.1,1502.1,43.4,0.5621,0.4379,1509.8,1505.4,1,3,0
 2026-07-04,2026,824499,Cincinnati Reds,Baltimore Orioles,Hunter Greene,Brandon Young,1483.0,1499.1,19.9,0.5286,0.4714,1479.7,1502.3,5,8,0
-2026-07-04,2026,824658,Chicago Cubs,St. Louis Cardinals,Shota Imanaga,Kyle Leahy,1530.3,1513.0,59.9,0.5854,0.4146,1526.6,1516.7,0,3,0
-2026-07-04,2026,824903,Atlanta Braves,New York Mets,Chris Sale,Sean Manaea,1517.0,1464.5,139.2,0.6902,0.3098,1520.2,1461.3,14,3,1
-2026-07-04,2026,824983,Athletics,Miami Marlins,Aaron Civale,Sandy Alcantara,1480.2,1520.5,-54.7,0.4219,0.5781,1477.3,1523.3,2,7,0
-2026-07-04,2026,825063,Arizona Diamondbacks,Milwaukee Brewers,Merrill Kelly,Brandon Woodruff,1495.9,1568.5,-66.0,0.4061,0.5939,1499.2,1565.1,4,3,1
+2026-07-04,2026,824658,Chicago Cubs,St. Louis Cardinals,Shota Imanaga,Kyle Leahy,1530.3,1513.1,59.8,0.5853,0.4147,1526.6,1516.8,0,3,0
+2026-07-04,2026,824903,Atlanta Braves,New York Mets,Chris Sale,Sean Manaea,1520.7,1464.6,142.7,0.6946,0.3054,1523.8,1461.4,14,3,1
+2026-07-04,2026,824983,Athletics,Miami Marlins,Aaron Civale,Sandy Alcantara,1480.1,1520.3,-54.8,0.4218,0.5782,1477.2,1523.2,2,7,0
+2026-07-04,2026,825063,Arizona Diamondbacks,Milwaukee Brewers,Merrill Kelly,Brandon Woodruff,1495.7,1568.6,-66.3,0.4057,0.5943,1499.1,1565.3,4,3,1
 2026-07-05,2026,822715,Washington Nationals,Pittsburgh Pirates,Cade Cavalli,Bubba Chandler,1512.4,1501.4,11.8,0.517,0.483,1508.5,1505.2,5,11,0
 2026-07-05,2026,822879,Texas Rangers,Detroit Tigers,Kumar Rocker,Casey Mize,1505.4,1484.1,27.3,0.5393,0.4607,1502.1,1487.4,3,6,0
 2026-07-05,2026,823117,Seattle Mariners,Toronto Blue Jays,Emerson Hancock,Trey Yesavage,1499.8,1491.0,22.4,0.5323,0.4677,1502.8,1488.0,4,0,1
 2026-07-05,2026,823525,New York Yankees,Minnesota Twins,Ryan Weathers,Joe Ryan,1519.2,1484.2,49.3,0.5704,0.4296,1515.1,1488.3,1,6,0
-2026-07-05,2026,823931,Los Angeles Dodgers,San Diego Padres,Emmet Sheehan,JP Sears,1562.9,1491.1,131.3,0.6804,0.3196,1558.4,1495.6,2,5,0
+2026-07-05,2026,823931,Los Angeles Dodgers,San Diego Padres,Emmet Sheehan,JP Sears,1562.9,1491.3,131.1,0.6802,0.3198,1558.4,1495.8,2,5,0
 2026-07-05,2026,824010,Los Angeles Angels,Boston Red Sox,Ryan Johnson,Ranger Suarez,1465.3,1504.4,-59.0,0.4159,0.5841,1463.2,1506.5,5,7,0
 2026-07-05,2026,824091,Kansas City Royals,Philadelphia Phillies,Luinder Avila,Aaron Nola,1457.0,1530.3,-52.8,0.4245,0.5755,1460.6,1526.7,5,2,1
 2026-07-05,2026,824172,Houston Astros,Tampa Bay Rays,Peter Lambert,Mason Englert,1495.5,1514.0,15.7,0.5226,0.4774,1498.1,1511.3,2,0,1
-2026-07-05,2026,824333,Colorado Rockies,San Francisco Giants,Tanner Gordon,Tyler Mahle,1449.6,1464.3,-14.2,0.4796,0.5204,1452.4,1461.5,7,6,1
+2026-07-05,2026,824333,Colorado Rockies,San Francisco Giants,Tanner Gordon,Tyler Mahle,1449.5,1460.6,-10.6,0.4847,0.5153,1452.2,1457.9,7,6,1
 2026-07-05,2026,824413,Cleveland Guardians,Chicago White Sox,Tanner Bibee,Chris Murphy,1509.8,1505.4,58.3,0.5832,0.4168,1506.5,1508.6,6,7,0
-2026-07-05,2026,824497,Cincinnati Reds,Baltimore Orioles,Nick Lodolo,Kyle Bradish,1479.7,1502.3,-27.3,0.4608,0.5392,1482.6,1499.4,3,2,1
-2026-07-05,2026,824656,Chicago Cubs,St. Louis Cardinals,Javier Assad,Matthew Liberatore,1526.6,1516.7,49.8,0.5712,0.4288,1528.8,1514.4,6,4,1
-2026-07-05,2026,824902,Atlanta Braves,New York Mets,Martín Pérez,Nolan McLean,1520.2,1461.3,84.4,0.6191,0.3809,1516.6,1464.9,9,10,0
-2026-07-05,2026,824980,Athletics,Miami Marlins,Gage Jump,Eury Pérez,1477.3,1523.3,-21.3,0.4693,0.5307,1475.0,1525.7,8,9,0
-2026-07-05,2026,825061,Arizona Diamondbacks,Milwaukee Brewers,Eduardo Rodriguez,Brandon Sproat,1499.2,1565.1,-47.3,0.4324,0.5676,1497.1,1567.2,2,3,0
+2026-07-05,2026,824497,Cincinnati Reds,Baltimore Orioles,Nick Lodolo,Kyle Bradish,1479.7,1502.3,-27.3,0.4608,0.5392,1482.7,1499.4,3,2,1
+2026-07-05,2026,824656,Chicago Cubs,St. Louis Cardinals,Javier Assad,Matthew Liberatore,1526.6,1516.8,49.6,0.571,0.429,1528.8,1514.6,6,4,1
+2026-07-05,2026,824902,Atlanta Braves,New York Mets,Martín Pérez,Nolan McLean,1523.8,1461.4,87.9,0.6239,0.3761,1520.2,1465.0,9,10,0
+2026-07-05,2026,824980,Athletics,Miami Marlins,Gage Jump,Eury Pérez,1477.2,1523.2,-21.4,0.4693,0.5307,1474.8,1525.5,8,9,0
+2026-07-05,2026,825061,Arizona Diamondbacks,Milwaukee Brewers,Eduardo Rodriguez,Brandon Sproat,1499.1,1565.3,-47.6,0.432,0.568,1497.0,1567.3,2,3,0
 2026-07-06,2026,822712,Washington Nationals,Houston Astros,Miles Mikolas,Mike Burrows,1508.5,1498.1,16.8,0.5241,0.4759,1511.0,1495.7,12,11,1
 2026-07-06,2026,822958,Tampa Bay Rays,New York Yankees,Griffin Jax,Cam Schlittler,1511.3,1515.1,12.4,0.5179,0.4821,1507.9,1518.5,1,5,0
-2026-07-06,2026,823036,St. Louis Cardinals,Milwaukee Brewers,Dustin May,Shane Drohan,1514.4,1567.2,-29.3,0.4579,0.5421,1512.2,1569.5,3,4,0
-2026-07-06,2026,823205,San Francisco Giants,Toronto Blue Jays,Landen Roupp,Kevin Gausman,1461.5,1488.0,-24.0,0.4655,0.5345,1466.1,1483.4,10,1,1
-2026-07-06,2026,823282,San Diego Padres,Arizona Diamondbacks,Walker Buehler,Brandon Pfaadt,1495.6,1497.1,52.7,0.5752,0.4248,1490.9,1501.9,0,8,0
-2026-07-06,2026,823930,Los Angeles Dodgers,Colorado Rockies,Eric Lauer,Kyle Freeland,1558.4,1452.4,201.1,0.761,0.239,1558.8,1451.9,8,7,1
+2026-07-06,2026,823036,St. Louis Cardinals,Milwaukee Brewers,Dustin May,Shane Drohan,1514.6,1567.3,-29.2,0.458,0.542,1512.3,1569.6,3,4,0
+2026-07-06,2026,823205,San Francisco Giants,Toronto Blue Jays,Landen Roupp,Kevin Gausman,1457.9,1488.0,-27.6,0.4603,0.5397,1462.5,1483.3,10,1,1
+2026-07-06,2026,823282,San Diego Padres,Arizona Diamondbacks,Walker Buehler,Brandon Pfaadt,1495.8,1497.0,53.0,0.5757,0.4243,1491.1,1501.7,0,8,0
+2026-07-06,2026,823930,Los Angeles Dodgers,Colorado Rockies,Eric Lauer,Kyle Freeland,1558.4,1452.2,201.3,0.7611,0.2389,1558.8,1451.8,8,7,1
 2026-07-06,2026,824089,Kansas City Royals,Philadelphia Phillies,Noah Cameron,Cristopher Sánchez,1460.6,1526.7,-86.9,0.3775,0.6225,1467.0,1520.3,15,1,1
-2026-07-06,2026,824900,Atlanta Braves,New York Mets,Reynaldo López,Freddy Peralta,1516.6,1464.9,58.0,0.5828,0.4172,1513.4,1468.2,6,7,0
+2026-07-06,2026,824900,Atlanta Braves,New York Mets,Reynaldo López,Freddy Peralta,1520.2,1465.0,61.4,0.5875,0.4125,1516.9,1468.3,6,7,0
 2026-07-07,2026,822713,Washington Nationals,Houston Astros,Andrew Alvarez,Tatsuya Imai,1511.0,1495.7,24.0,0.5345,0.4655,1507.7,1499.0,3,6,0
 2026-07-07,2026,822881,Texas Rangers,Los Angeles Angels,Jacob deGrom,José Soriano,1502.1,1463.2,117.6,0.6631,0.3369,1504.2,1461.0,8,3,1
 2026-07-07,2026,822956,Tampa Bay Rays,New York Yankees,Ian Seymour,Will Warren,1507.9,1518.5,46.9,0.5671,0.4329,1510.2,1516.2,6,4,1
-2026-07-07,2026,823035,St. Louis Cardinals,Milwaukee Brewers,Hunter Dobbins,Robert Gasser,1512.2,1569.5,-35.5,0.4491,0.5509,1508.5,1573.2,2,10,0
-2026-07-07,2026,823062,St. Louis Cardinals,Milwaukee Brewers,Matt Svanson,Jacob Misiorowski,1508.5,1573.2,-58.8,0.4161,0.5839,1506.5,1575.1,3,4,0
-2026-07-07,2026,823203,San Francisco Giants,Toronto Blue Jays,Trevor McDonald,Spencer Miles,1466.1,1483.4,24.9,0.5358,0.4642,1462.1,1487.3,3,9,0
-2026-07-07,2026,823280,San Diego Padres,Arizona Diamondbacks,Germán Márquez,Zac Gallen,1490.9,1501.9,-16.3,0.4766,0.5234,1494.1,1498.6,4,1,1
-2026-07-07,2026,823361,Pittsburgh Pirates,Atlanta Braves,Paul Skenes,Hurston Waldrep,1505.2,1513.4,42.6,0.5611,0.4389,1508.8,1509.7,12,4,1
-2026-07-07,2026,823607,New York Mets,Kansas City Royals,Cionel Pérez,Seth Lugo,1468.2,1467.0,16.8,0.5241,0.4759,1464.7,1470.4,12,16,0
+2026-07-07,2026,823035,St. Louis Cardinals,Milwaukee Brewers,Hunter Dobbins,Robert Gasser,1512.3,1569.6,-35.6,0.449,0.551,1508.6,1573.3,2,10,0
+2026-07-07,2026,823062,St. Louis Cardinals,Milwaukee Brewers,Matt Svanson,Jacob Misiorowski,1508.6,1573.3,-58.9,0.416,0.584,1506.6,1575.3,3,4,0
+2026-07-07,2026,823203,San Francisco Giants,Toronto Blue Jays,Trevor McDonald,Spencer Miles,1462.5,1483.3,21.4,0.5308,0.4692,1458.6,1487.3,3,9,0
+2026-07-07,2026,823280,San Diego Padres,Arizona Diamondbacks,Germán Márquez,Zac Gallen,1491.1,1501.7,-16.0,0.477,0.523,1494.3,1498.5,4,1,1
+2026-07-07,2026,823361,Pittsburgh Pirates,Atlanta Braves,Paul Skenes,Hurston Waldrep,1505.2,1516.9,39.1,0.556,0.444,1508.9,1513.3,12,4,1
+2026-07-07,2026,823607,New York Mets,Kansas City Royals,Cionel Pérez,Seth Lugo,1468.3,1467.0,16.9,0.5243,0.4757,1464.9,1470.4,12,16,0
 2026-07-07,2026,823687,Minnesota Twins,Cleveland Guardians,Taj Bradley,Joey Cantillo,1488.3,1506.5,-19.5,0.472,0.528,1491.3,1503.5,3,1,1
-2026-07-07,2026,823847,Miami Marlins,Seattle Mariners,Max Meyer,Bryan Woo,1525.7,1502.8,25.0,0.5359,0.4641,1528.0,1500.5,6,5,1
-2026-07-07,2026,823929,Los Angeles Dodgers,Colorado Rockies,Justin Wrobleski,Michael Lorenzen,1558.8,1451.9,160.9,0.7164,0.2836,1554.4,1456.3,3,4,0
-2026-07-07,2026,824254,Detroit Tigers,Athletics,Tarik Skubal,J.T. Ginn,1487.4,1475.0,76.3,0.6081,0.3919,1489.8,1472.6,6,2,1
-2026-07-07,2026,824495,Cincinnati Reds,Philadelphia Phillies,Andrew Abbott,Zack Wheeler,1482.6,1520.3,-54.5,0.4222,0.5778,1480.2,1522.7,1,4,0
+2026-07-07,2026,823847,Miami Marlins,Seattle Mariners,Max Meyer,Bryan Woo,1525.5,1502.8,24.8,0.5356,0.4644,1527.9,1500.5,6,5,1
+2026-07-07,2026,823929,Los Angeles Dodgers,Colorado Rockies,Justin Wrobleski,Michael Lorenzen,1558.8,1451.8,161.1,0.7165,0.2835,1554.4,1456.2,3,4,0
+2026-07-07,2026,824254,Detroit Tigers,Athletics,Tarik Skubal,J.T. Ginn,1487.4,1474.8,76.4,0.6082,0.3918,1489.8,1472.5,6,2,1
+2026-07-07,2026,824495,Cincinnati Reds,Philadelphia Phillies,Andrew Abbott,Zack Wheeler,1482.7,1520.3,-54.5,0.4222,0.5778,1480.2,1522.7,1,4,0
 2026-07-07,2026,824579,Chicago White Sox,Boston Red Sox,Noah Schultz,Payton Tolle,1508.6,1506.5,28.8,0.5414,0.4586,1504.4,1510.8,1,8,0
 2026-07-07,2026,824820,Baltimore Orioles,Chicago Cubs,Shane Baz,Matthew Boyd,1499.4,1528.8,-22.3,0.468,0.532,1496.6,1531.6,2,5,0
 2026-07-08,2026,822710,Washington Nationals,Houston Astros,Foster Griffin,Spencer Arrighetti,1507.7,1499.0,21.1,0.5303,0.4697,1511.1,1495.6,8,2,1
 2026-07-08,2026,822880,Texas Rangers,Los Angeles Angels,MacKenzie Gore,Walbert Ureña,1504.2,1461.0,53.4,0.5762,0.4238,1498.7,1466.6,1,13,0
 2026-07-08,2026,822957,Tampa Bay Rays,New York Yankees,Shane McClanahan,Gerrit Cole,1510.2,1516.2,13.4,0.5192,0.4808,1513.1,1513.4,3,0,1
-2026-07-08,2026,823032,St. Louis Cardinals,Milwaukee Brewers,Michael McGreevy,Kyle Harrison,1506.5,1575.1,-56.7,0.4191,0.5809,1510.4,1571.2,5,1,1
-2026-07-08,2026,823202,San Francisco Giants,Toronto Blue Jays,Logan Webb,Dylan Cease,1462.1,1487.3,29.4,0.5422,0.4578,1457.3,1492.2,0,10,0
-2026-07-08,2026,823279,San Diego Padres,Arizona Diamondbacks,Michael King,Jose Cabrera,1494.1,1498.6,43.7,0.5626,0.4374,1497.3,1495.4,10,4,1
-2026-07-08,2026,823360,Pittsburgh Pirates,Atlanta Braves,Jared Jones,Grant Holmes,1508.8,1509.7,3.5,0.5051,0.4949,1505.7,1512.8,0,3,0
-2026-07-08,2026,823605,New York Mets,Kansas City Royals,Christian Scott,Steven Cruz,1464.7,1470.4,27.9,0.5401,0.4599,1467.6,1467.5,6,2,1
+2026-07-08,2026,823032,St. Louis Cardinals,Milwaukee Brewers,Michael McGreevy,Kyle Harrison,1506.6,1575.3,-56.7,0.4191,0.5809,1510.5,1571.4,5,1,1
+2026-07-08,2026,823202,San Francisco Giants,Toronto Blue Jays,Logan Webb,Dylan Cease,1458.6,1487.3,26.0,0.5373,0.4627,1453.8,1492.1,0,10,0
+2026-07-08,2026,823279,San Diego Padres,Arizona Diamondbacks,Michael King,Jose Cabrera,1494.3,1498.5,44.0,0.563,0.437,1497.5,1495.3,10,4,1
+2026-07-08,2026,823360,Pittsburgh Pirates,Atlanta Braves,Jared Jones,Grant Holmes,1508.9,1513.3,-1.7,0.4976,0.5024,1505.8,1516.3,0,3,0
+2026-07-08,2026,823605,New York Mets,Kansas City Royals,Christian Scott,Steven Cruz,1464.9,1470.4,28.1,0.5404,0.4596,1467.8,1467.5,6,2,1
 2026-07-08,2026,823684,Minnesota Twins,Cleveland Guardians,Connor Prielipp,Slade Cecconi,1491.3,1503.5,1.9,0.5028,0.4972,1493.9,1500.9,6,5,1
-2026-07-08,2026,823848,Miami Marlins,Seattle Mariners,Tyler Phillips,George Kirby,1528.0,1500.5,19.2,0.5276,0.4724,1530.6,1497.9,2,0,1
-2026-07-08,2026,823928,Los Angeles Dodgers,Colorado Rockies,Roki Sasaki,Gabriel Hughes,1554.4,1456.3,134.8,0.6849,0.3151,1555.6,1455.2,4,3,1
-2026-07-08,2026,824253,Detroit Tigers,Athletics,Troy Melton,Jeffrey Springs,1489.8,1472.6,51.6,0.5737,0.4263,1492.7,1469.7,6,1,1
-2026-07-08,2026,824496,Cincinnati Reds,Philadelphia Phillies,Chase Burns,Alan Rangel,1480.2,1522.7,-13.6,0.4804,0.5196,1484.1,1518.9,11,5,1
+2026-07-08,2026,823848,Miami Marlins,Seattle Mariners,Tyler Phillips,George Kirby,1527.9,1500.5,19.0,0.5274,0.4726,1530.5,1497.9,2,0,1
+2026-07-08,2026,823928,Los Angeles Dodgers,Colorado Rockies,Roki Sasaki,Gabriel Hughes,1554.4,1456.2,135.0,0.685,0.315,1555.6,1455.1,4,3,1
+2026-07-08,2026,824253,Detroit Tigers,Athletics,Troy Melton,Jeffrey Springs,1489.8,1472.5,51.8,0.5739,0.4261,1492.7,1469.6,6,1,1
+2026-07-08,2026,824496,Cincinnati Reds,Philadelphia Phillies,Chase Burns,Alan Rangel,1480.2,1522.7,-13.6,0.4805,0.5195,1484.1,1518.9,11,5,1
 2026-07-08,2026,824578,Chicago White Sox,Boston Red Sox,Davis Martin,Jake Bennett,1504.4,1510.8,26.9,0.5386,0.4614,1500.6,1514.5,0,5,0
 2026-07-08,2026,824815,Baltimore Orioles,Chicago Cubs,Dean Kremer,Colin Rea,1496.6,1531.6,-30.6,0.456,0.544,1494.1,1534.1,7,9,0
 2026-07-09,2026,822877,Texas Rangers,Los Angeles Angels,Nathan Eovaldi,Reid Detmers,1498.7,1466.6,97.0,0.6361,0.3639,1500.2,1465.1,7,6,1
 2026-07-09,2026,822954,Tampa Bay Rays,New York Yankees,Drew Rasmussen,Paul Blackburn,1513.1,1513.4,64.4,0.5916,0.4084,1508.3,1518.2,4,12,0
-2026-07-09,2026,823034,St. Louis Cardinals,Milwaukee Brewers,Andre Pallante,Logan Henderson,1510.4,1571.2,-34.0,0.4512,0.5488,1507.6,1574.1,4,8,0
-2026-07-09,2026,823201,San Francisco Giants,Colorado Rockies,Carson Whisenhunt,Ryan Feltner,1457.3,1455.2,64.1,0.5913,0.4087,1460.2,1452.2,8,2,1
-2026-07-09,2026,823277,San Diego Padres,Arizona Diamondbacks,Griffin Canning,Merrill Kelly,1497.3,1495.4,-5.9,0.4915,0.5085,1494.6,1498.2,1,3,0
-2026-07-09,2026,823359,Pittsburgh Pirates,Atlanta Braves,Mitch Keller,Bryce Elder,1505.7,1512.8,5.0,0.5072,0.4928,1502.2,1516.4,5,10,0
-2026-07-09,2026,823606,New York Mets,Kansas City Royals,Sean Manaea,Michael Wacha,1467.6,1467.5,-17.9,0.4743,0.5257,1471.1,1464.1,7,3,1
+2026-07-09,2026,823034,St. Louis Cardinals,Milwaukee Brewers,Andre Pallante,Logan Henderson,1510.5,1571.4,-34.0,0.4512,0.5488,1507.7,1574.2,4,8,0
+2026-07-09,2026,823201,San Francisco Giants,Colorado Rockies,Carson Whisenhunt,Ryan Feltner,1453.8,1455.1,60.9,0.5867,0.4133,1456.7,1452.1,8,2,1
+2026-07-09,2026,823277,San Diego Padres,Arizona Diamondbacks,Griffin Canning,Merrill Kelly,1497.5,1495.3,-5.7,0.4918,0.5082,1494.7,1498.1,1,3,0
+2026-07-09,2026,823359,Pittsburgh Pirates,Atlanta Braves,Mitch Keller,Bryce Elder,1505.8,1516.3,1.7,0.5024,0.4976,1502.3,1519.8,5,10,0
+2026-07-09,2026,823606,New York Mets,Kansas City Royals,Sean Manaea,Michael Wacha,1467.8,1467.5,-17.7,0.4746,0.5254,1471.3,1464.1,7,3,1
 2026-07-09,2026,823683,Minnesota Twins,Cleveland Guardians,Bailey Ober,Gavin Williams,1493.9,1500.9,-1.4,0.498,0.502,1490.9,1503.9,2,5,0
-2026-07-09,2026,823846,Miami Marlins,Seattle Mariners,Janson Junk,Bryce Miller,1530.6,1497.9,44.2,0.5633,0.4367,1533.3,1495.2,8,4,1
-2026-07-09,2026,824251,Detroit Tigers,Athletics,Framber Valdez,José Suarez,1492.7,1469.7,87.1,0.6228,0.3772,1494.7,1467.7,4,1,1
+2026-07-09,2026,823846,Miami Marlins,Seattle Mariners,Janson Junk,Bryce Miller,1530.5,1497.9,44.1,0.5631,0.4369,1533.2,1495.2,8,4,1
+2026-07-09,2026,824251,Detroit Tigers,Athletics,Framber Valdez,José Suarez,1492.7,1469.6,87.2,0.6229,0.3771,1494.7,1467.5,4,1,1
 2026-07-09,2026,824494,Cincinnati Reds,Philadelphia Phillies,Brady Singer,Jesús Luzardo,1484.1,1518.9,-30.0,0.4569,0.5431,1481.8,1521.2,0,1,0
 2026-07-09,2026,824577,Chicago White Sox,Boston Red Sox,Anthony Kay,Patrick Sandoval,1500.6,1514.5,32.0,0.5459,0.4541,1497.7,1517.5,1,2,0
 2026-07-09,2026,824816,Baltimore Orioles,Chicago Cubs,Trevor Rogers,David Peterson,1494.1,1534.1,-35.0,0.4498,0.5502,1497.2,1531.1,3,2,1
+2026-07-10,2026,822709,Washington Nationals,New York Yankees,Carson Palmquist,Ryan Weathers,1511.1,1518.2,2.1,0.503,0.497,1508.7,1520.6,0,0,0
+2026-07-10,2026,822878,Texas Rangers,Houston Astros,Cal Quantrill,Hunter Brown,1500.2,1495.6,-3.7,0.4947,0.5053,1497.8,1497.9,0,0,0
+2026-07-10,2026,822955,Tampa Bay Rays,Seattle Mariners,Nick Martinez,Luis Castillo,1508.3,1495.2,54.7,0.578,0.422,1505.2,1498.2,0,0,0
+2026-07-10,2026,823033,St. Louis Cardinals,Atlanta Braves,Kyle Leahy,Chris Sale,1507.7,1519.8,-40.8,0.4416,0.5584,1505.7,1521.7,0,0,0
+2026-07-10,2026,823357,Pittsburgh Pirates,Milwaukee Brewers,Braxton Ashcraft,Brandon Sproat,1502.3,1574.2,-50.2,0.4283,0.5717,1500.5,1576.0,0,0,0
+2026-07-10,2026,823845,Miami Marlins,Cleveland Guardians,Sandy Alcantara,Parker Messick,1533.2,1503.9,59.0,0.5841,0.4159,1530.1,1507.0,0,0,0
+2026-07-10,2026,824252,Detroit Tigers,Philadelphia Phillies,Jack Flaherty,Aaron Nola,1494.7,1521.2,-18.1,0.474,0.526,1492.5,1523.4,0,0,0
+2026-07-10,2026,824493,Cincinnati Reds,Chicago Cubs,Hunter Greene,Shota Imanaga,1481.8,1531.1,-44.8,0.4359,0.5641,1479.9,1533.0,0,0,0
+2026-07-10,2026,824575,Chicago White Sox,Athletics,Sean Burke,Jacob Lopez,1497.7,1467.5,76.0,0.6076,0.3924,1494.4,1470.8,0,0,0
+2026-07-10,2026,824817,Baltimore Orioles,Kansas City Royals,Brandon Young,Luinder Avila,1497.2,1464.1,27.8,0.5399,0.4601,1494.4,1466.8,0,0,0
