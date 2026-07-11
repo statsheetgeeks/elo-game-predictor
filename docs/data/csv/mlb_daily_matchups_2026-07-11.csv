@@ -1,0 +1,17 @@
+as_of_date,game_pk,home_team,home_combined_rating,away_team,away_combined_rating,elo_diff,home_win_prob
+2026-07-11,822711,Washington Nationals,1509.4,New York Yankees,1534.1,-24.7,47.2
+2026-07-11,822875,Texas Rangers,1516.3,Houston Astros,1489.2,27.1,57.0
+2026-07-11,822953,Tampa Bay Rays,1525.4,Seattle Mariners,1515.2,10.2,56.5
+2026-07-11,823030,St. Louis Cardinals,1517.2,Atlanta Braves,1533.1,-15.9,50.6
+2026-07-11,823198,San Francisco Giants,1473.4,Colorado Rockies,1444.2,29.2,59.1
+2026-07-11,823276,San Diego Padres,1502.5,Toronto Blue Jays,1504.3,-1.8,53.4
+2026-07-11,823356,Pittsburgh Pirates,1512.6,Milwaukee Brewers,1585.8,-73.2,42.1
+2026-07-11,823357,Pittsburgh Pirates,1512.6,Milwaukee Brewers,1585.8,-73.2,42.1
+2026-07-11,823603,New York Mets,1477.3,Boston Red Sox,1538.1,-60.8,45.1
+2026-07-11,823682,Minnesota Twins,1484.3,Los Angeles Angels,1458.8,25.5,57.5
+2026-07-11,823844,Miami Marlins,1529.7,Cleveland Guardians,1523.6,6.1,54.0
+2026-07-11,823926,Los Angeles Dodgers,1570.3,Arizona Diamondbacks,1503.4,66.9,65.4
+2026-07-11,824249,Detroit Tigers,1504.8,Philadelphia Phillies,1534.4,-29.6,48.6
+2026-07-11,824492,Cincinnati Reds,1495.1,Chicago Cubs,1536.9,-41.8,46.6
+2026-07-11,824576,Chicago White Sox,1507.2,Athletics,1456.8,50.4,61.8
+2026-07-11,824813,Baltimore Orioles,1507.9,Kansas City Royals,1470.2,37.7,55.2
