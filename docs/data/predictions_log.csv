@@ -1,6 +1,6 @@
 date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,prob_bucket,actual_winner,combined_elo_correct,home_prob_correct
 2026-07-10,824252,Detroit Tigers,Philadelphia Phillies,Philadelphia Phillies,47.9,Philadelphia Phillies,45-50%,Detroit Tigers,False,False
-2026-07-10,823357,Pittsburgh Pirates,Milwaukee Brewers,Milwaukee Brewers,42.3,Milwaukee Brewers,40-45%,,,
+2026-07-10,823357,Pittsburgh Pirates,Milwaukee Brewers,Milwaukee Brewers,42.3,Milwaukee Brewers,40-45%,Pittsburgh Pirates,False,False
 2026-07-10,822709,Washington Nationals,New York Yankees,New York Yankees,47.6,New York Yankees,45-50%,New York Yankees,True,True
 2026-07-10,824817,Baltimore Orioles,Kansas City Royals,Baltimore Orioles,54.9,Baltimore Orioles,50-55%,Baltimore Orioles,True,True
 2026-07-10,824493,Cincinnati Reds,Chicago Cubs,Chicago Cubs,46.0,Chicago Cubs,45-50%,Cincinnati Reds,False,False
@@ -14,7 +14,7 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-07-10,823278,San Diego Padres,Toronto Blue Jays,San Diego Padres,53.8,San Diego Padres,50-55%,Toronto Blue Jays,False,False
 2026-07-10,823927,Los Angeles Dodgers,Arizona Diamondbacks,Los Angeles Dodgers,66.1,Los Angeles Dodgers,65-70%,Arizona Diamondbacks,False,False
 2026-07-10,823200,San Francisco Giants,Colorado Rockies,San Francisco Giants,60.1,San Francisco Giants,60-65%,Colorado Rockies,False,False
-2026-07-11,822711,Washington Nationals,New York Yankees,New York Yankees,47.2,New York Yankees,45-50%,,,
+2026-07-11,822711,Washington Nationals,New York Yankees,New York Yankees,47.2,New York Yankees,45-50%,Washington Nationals,False,False
 2026-07-11,822875,Texas Rangers,Houston Astros,Texas Rangers,57.0,Texas Rangers,55-60%,,,
 2026-07-11,822953,Tampa Bay Rays,Seattle Mariners,Tampa Bay Rays,56.5,Tampa Bay Rays,55-60%,,,
 2026-07-11,823030,St. Louis Cardinals,Atlanta Braves,Atlanta Braves,50.6,St. Louis Cardinals,50-55%,,,
@@ -22,10 +22,10 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-07-11,823276,San Diego Padres,Toronto Blue Jays,Toronto Blue Jays,53.4,San Diego Padres,50-55%,,,
 2026-07-11,823356,Pittsburgh Pirates,Milwaukee Brewers,Milwaukee Brewers,42.1,Milwaukee Brewers,40-45%,,,
 2026-07-11,823603,New York Mets,Boston Red Sox,Boston Red Sox,45.1,Boston Red Sox,45-50%,,,
-2026-07-11,823682,Minnesota Twins,Los Angeles Angels,Minnesota Twins,57.5,Minnesota Twins,55-60%,,,
+2026-07-11,823682,Minnesota Twins,Los Angeles Angels,Minnesota Twins,57.5,Minnesota Twins,55-60%,Minnesota Twins,True,True
 2026-07-11,823844,Miami Marlins,Cleveland Guardians,Miami Marlins,54.0,Miami Marlins,50-55%,,,
 2026-07-11,823926,Los Angeles Dodgers,Arizona Diamondbacks,Los Angeles Dodgers,65.4,Los Angeles Dodgers,65-70%,,,
 2026-07-11,824249,Detroit Tigers,Philadelphia Phillies,Philadelphia Phillies,48.6,Philadelphia Phillies,45-50%,,,
 2026-07-11,824492,Cincinnati Reds,Chicago Cubs,Chicago Cubs,46.6,Chicago Cubs,45-50%,,,
-2026-07-11,824576,Chicago White Sox,Athletics,Chicago White Sox,61.8,Chicago White Sox,60-65%,,,
+2026-07-11,824576,Chicago White Sox,Athletics,Chicago White Sox,61.8,Chicago White Sox,60-65%,Chicago White Sox,True,True
 2026-07-11,824813,Baltimore Orioles,Kansas City Royals,Baltimore Orioles,55.2,Baltimore Orioles,55-60%,,,

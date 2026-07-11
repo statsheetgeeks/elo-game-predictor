@@ -1,32 +1,33 @@
 as_of_date,rank,team,pitcher,rating,opponent
-2026-07-11,1,Seattle Mariners,Logan Gilbert,1601.1,Tampa Bay Rays
-2026-07-11,2,Philadelphia Phillies,Cristopher Sánchez,1566.4,Detroit Tigers
-2026-07-11,3,Los Angeles Dodgers,Yoshinobu Yamamoto,1565.5,Arizona Diamondbacks
-2026-07-11,4,New York Mets,Freddy Peralta,1564.7,Boston Red Sox
-2026-07-11,5,Cleveland Guardians,Tanner Bibee,1561.3,Miami Marlins
-2026-07-11,6,Baltimore Orioles,Kyle Bradish,1558.9,Kansas City Royals
-2026-07-11,7,Atlanta Braves,Reynaldo López,1536.2,St. Louis Cardinals
-2026-07-11,8,New York Yankees,Cam Schlittler,1530.5,Washington Nationals
+2026-07-11,1,Seattle Mariners,Logan Gilbert,1605.6,Tampa Bay Rays
+2026-07-11,2,Philadelphia Phillies,Cristopher Sánchez,1570.5,Detroit Tigers
+2026-07-11,3,New York Mets,Freddy Peralta,1569.3,Boston Red Sox
+2026-07-11,4,Cleveland Guardians,Tanner Bibee,1566.3,Miami Marlins
+2026-07-11,5,Los Angeles Dodgers,Yoshinobu Yamamoto,1565.5,Arizona Diamondbacks
+2026-07-11,6,Baltimore Orioles,Kyle Bradish,1562.0,Kansas City Royals
+2026-07-11,7,Atlanta Braves,Reynaldo López,1540.6,St. Louis Cardinals
+2026-07-11,8,New York Yankees,Cam Schlittler,1533.0,Washington Nationals
 2026-07-11,9,San Diego Padres,Walker Buehler,1527.2,Toronto Blue Jays
-2026-07-11,10,Minnesota Twins,Joe Ryan,1525.5,Los Angeles Angels
-2026-07-11,11,Chicago Cubs,Javier Assad,1521.9,Cincinnati Reds
-2026-07-11,12,Detroit Tigers,Casey Mize,1519.4,Philadelphia Phillies
-2026-07-11,13,Pittsburgh Pirates,Braxton Ashcraft,1519.4,Milwaukee Brewers
-2026-07-11,14,Cincinnati Reds,Nick Lodolo,1517.5,Chicago Cubs
-2026-07-11,15,Milwaukee Brewers,Brandon Sproat,1509.6,Pittsburgh Pirates
+2026-07-11,10,Minnesota Twins,Joe Ryan,1526.1,Los Angeles Angels
+2026-07-11,11,Chicago Cubs,Javier Assad,1525.7,Cincinnati Reds
+2026-07-11,12,Detroit Tigers,Casey Mize,1524.0,Philadelphia Phillies
+2026-07-11,13,Cincinnati Reds,Nick Lodolo,1522.4,Chicago Cubs
+2026-07-11,14,Pittsburgh Pirates,Braxton Ashcraft,1513.9,Milwaukee Brewers
+2026-07-11,15,Kansas City Royals,Noah Cameron,1512.5,Baltimore Orioles
 2026-07-11,16,Toronto Blue Jays,Trey Yesavage,1509.4,San Diego Padres
-2026-07-11,17,Kansas City Royals,Noah Cameron,1508.3,Baltimore Orioles
-2026-07-11,18,Athletics,Gage Jump,1505.1,Chicago White Sox
-2026-07-11,19,San Francisco Giants,Tyler Mahle,1503.1,Colorado Rockies
-2026-07-11,20,Chicago White Sox,Bryan Hudson,1502.0,Athletics
-2026-07-11,21,Milwaukee Brewers,Shane Drohan,1499.6,Pittsburgh Pirates
-2026-07-11,22,Houston Astros,Peter Lambert,1497.6,Texas Rangers
-2026-07-11,23,Washington Nationals,PJ Poulin,1497.4,New York Yankees
-2026-07-11,24,Los Angeles Angels,Ryan Johnson,1497.2,Minnesota Twins
-2026-07-11,25,Miami Marlins,Eury Pérez,1496.7,Cleveland Guardians
-2026-07-11,26,Pittsburgh Pirates,Bubba Chandler,1493.9,Milwaukee Brewers
-2026-07-11,27,Tampa Bay Rays,Griffin Jax,1491.7,Seattle Mariners
-2026-07-11,28,Texas Rangers,Kumar Rocker,1485.4,Houston Astros
-2026-07-11,29,Arizona Diamondbacks,Brandon Pfaadt,1480.6,Los Angeles Dodgers
-2026-07-11,30,St. Louis Cardinals,Matthew Liberatore,1475.7,Atlanta Braves
-2026-07-11,31,Colorado Rockies,Kyle Freeland,1416.1,San Francisco Giants
+2026-07-11,17,Athletics,Gage Jump,1508.4,Chicago White Sox
+2026-07-11,18,San Francisco Giants,Tyler Mahle,1506.1,Colorado Rockies
+2026-07-11,19,Chicago White Sox,Bryan Hudson,1505.1,Athletics
+2026-07-11,20,Milwaukee Brewers,Shane Drohan,1503.8,Pittsburgh Pirates
+2026-07-11,21,Boston Red Sox,Eduardo Rivera,1503.3,New York Mets
+2026-07-11,22,Milwaukee Brewers,Brandon Sproat,1503.1,Pittsburgh Pirates
+2026-07-11,23,Washington Nationals,PJ Poulin,1502.1,New York Yankees
+2026-07-11,24,Houston Astros,Peter Lambert,1501.8,Texas Rangers
+2026-07-11,25,Miami Marlins,Eury Pérez,1501.1,Cleveland Guardians
+2026-07-11,26,Pittsburgh Pirates,Bubba Chandler,1500.0,Milwaukee Brewers
+2026-07-11,27,Los Angeles Angels,Ryan Johnson,1496.4,Minnesota Twins
+2026-07-11,28,Tampa Bay Rays,Griffin Jax,1495.7,Seattle Mariners
+2026-07-11,29,Texas Rangers,Kumar Rocker,1489.3,Houston Astros
+2026-07-11,30,Arizona Diamondbacks,Brandon Pfaadt,1480.6,Los Angeles Dodgers
+2026-07-11,31,St. Louis Cardinals,Matthew Liberatore,1480.2,Atlanta Braves
+2026-07-11,32,Colorado Rockies,Kyle Freeland,1419.0,San Francisco Giants
