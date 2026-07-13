@@ -32,7 +32,7 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-07-12,822708,Washington Nationals,New York Yankees,New York Yankees,46.5,New York Yankees,45-50%,New York Yankees,True,True
 2026-07-12,822876,Texas Rangers,Houston Astros,Texas Rangers,56.4,Texas Rangers,55-60%,Texas Rangers,True,True
 2026-07-12,822951,Tampa Bay Rays,Seattle Mariners,Tampa Bay Rays,56.5,Tampa Bay Rays,55-60%,Seattle Mariners,False,False
-2026-07-12,823029,St. Louis Cardinals,Atlanta Braves,Atlanta Braves,51.1,St. Louis Cardinals,50-55%,,,
+2026-07-12,823029,St. Louis Cardinals,Atlanta Braves,Atlanta Braves,51.1,St. Louis Cardinals,50-55%,Atlanta Braves,True,False
 2026-07-12,823199,San Francisco Giants,Colorado Rockies,San Francisco Giants,59.4,San Francisco Giants,55-60%,Colorado Rockies,False,False
 2026-07-12,823274,San Diego Padres,Toronto Blue Jays,San Diego Padres,53.8,San Diego Padres,50-55%,Toronto Blue Jays,False,False
 2026-07-12,823358,Pittsburgh Pirates,Milwaukee Brewers,Milwaukee Brewers,43.1,Milwaukee Brewers,40-45%,Pittsburgh Pirates,False,False
