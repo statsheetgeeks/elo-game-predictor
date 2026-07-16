@@ -1,6 +1,6 @@
 {
   "as_of_date": "2026-07-16",
-  "generated_at_utc": "2026-07-16T15:31:28.797833+00:00",
+  "generated_at_utc": "2026-07-16T20:49:24.306989+00:00",
   "model_flags": {
     "base_K": 4.790024057931767,
     "base_home_adv": 20.281754999102375,
@@ -18,7 +18,7 @@
         "primary": "#E81828",
         "secondary": "#002D72",
         "logo": "https://www.mlbstatic.com/team-logos/143.svg",
-        "combined_rating": 1541.5
+        "combined_rating": 1541.6
       },
       "away": {
         "name": "New York Mets",
@@ -26,10 +26,10 @@
         "primary": "#002D72",
         "secondary": "#FF5910",
         "logo": "https://www.mlbstatic.com/team-logos/121.svg",
-        "combined_rating": 1477.6
+        "combined_rating": 1475.8
       },
-      "elo_diff": 63.9,
-      "home_win_prob": 63.2
+      "elo_diff": 65.8,
+      "home_win_prob": 63.4
     }
   ],
   "rankings": [
@@ -77,11 +77,11 @@
       "team": "Philadelphia Phillies",
       "abbr": "PHI",
       "combined_rank": 5,
-      "combined_power_rating": 1541.5,
+      "combined_power_rating": 1541.6,
       "elo_rank": 7,
       "elo_rating": 1522.7,
       "home_adv": 29.7,
-      "avg_rotation_pitcher_rating": 1535.5
+      "avg_rotation_pitcher_rating": 1535.7
     },
     {
       "team": "New York Yankees",
@@ -277,11 +277,11 @@
       "team": "New York Mets",
       "abbr": "NYM",
       "combined_rank": 25,
-      "combined_power_rating": 1477.6,
+      "combined_power_rating": 1475.8,
       "elo_rank": 25,
-      "elo_rating": 1468.3,
+      "elo_rating": 1466.3,
       "home_adv": 26.5,
-      "avg_rotation_pitcher_rating": 1517.5
+      "avg_rotation_pitcher_rating": 1517.9
     },
     {
       "team": "San Francisco Giants",
@@ -340,7 +340,7 @@
       "team": "New York Mets",
       "abbr": "NYM",
       "pitcher": "Christian Scott",
-      "rating": 1498.2,
+      "rating": 1503.0,
       "opponent": "Philadelphia Phillies"
     },
     {
@@ -348,7 +348,7 @@
       "team": "Philadelphia Phillies",
       "abbr": "PHI",
       "pitcher": "Aaron Nola",
-      "rating": 1489.9,
+      "rating": 1493.1,
       "opponent": "New York Mets"
     }
   ]
