@@ -1,6 +1,6 @@
 {
-  "as_of_date": "2026-07-15",
-  "generated_at_utc": "2026-07-15T20:53:58.619168+00:00",
+  "as_of_date": "2026-07-16",
+  "generated_at_utc": "2026-07-16T15:31:28.797833+00:00",
   "model_flags": {
     "base_K": 4.790024057931767,
     "base_home_adv": 20.281754999102375,
@@ -9,7 +9,29 @@
     "use_pitcher_adj": true,
     "use_team_home_adv": true
   },
-  "matchups": [],
+  "matchups": [
+    {
+      "game_pk": 823440,
+      "home": {
+        "name": "Philadelphia Phillies",
+        "abbr": "PHI",
+        "primary": "#E81828",
+        "secondary": "#002D72",
+        "logo": "https://www.mlbstatic.com/team-logos/143.svg",
+        "combined_rating": 1541.5
+      },
+      "away": {
+        "name": "New York Mets",
+        "abbr": "NYM",
+        "primary": "#002D72",
+        "secondary": "#FF5910",
+        "logo": "https://www.mlbstatic.com/team-logos/121.svg",
+        "combined_rating": 1477.6
+      },
+      "elo_diff": 63.9,
+      "home_win_prob": 63.2
+    }
+  ],
   "rankings": [
     {
       "team": "Milwaukee Brewers",
@@ -312,5 +334,22 @@
       "avg_rotation_pitcher_rating": 1477.5
     }
   ],
-  "starting_pitchers": []
+  "starting_pitchers": [
+    {
+      "rank": 1,
+      "team": "New York Mets",
+      "abbr": "NYM",
+      "pitcher": "Christian Scott",
+      "rating": 1498.2,
+      "opponent": "Philadelphia Phillies"
+    },
+    {
+      "rank": 2,
+      "team": "Philadelphia Phillies",
+      "abbr": "PHI",
+      "pitcher": "Aaron Nola",
+      "rating": 1489.9,
+      "opponent": "New York Mets"
+    }
+  ]
 }

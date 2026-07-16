@@ -44,3 +44,4 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-07-12,824491,Cincinnati Reds,Chicago Cubs,Chicago Cubs,46.0,Chicago Cubs,45-50%,Chicago Cubs,True,True
 2026-07-12,824574,Chicago White Sox,Athletics,Chicago White Sox,62.1,Chicago White Sox,60-65%,Chicago White Sox,True,True
 2026-07-12,824814,Baltimore Orioles,Kansas City Royals,Baltimore Orioles,55.3,Baltimore Orioles,55-60%,Baltimore Orioles,True,True
+2026-07-16,823440,Philadelphia Phillies,New York Mets,Philadelphia Phillies,63.2,Philadelphia Phillies,60-65%,,,
