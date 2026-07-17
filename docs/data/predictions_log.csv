@@ -56,7 +56,7 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-07-17,824414,Cleveland Guardians,Pittsburgh Pirates,Cleveland Guardians,55.5,Cleveland Guardians,55-60%,,,
 2026-07-17,824655,Chicago Cubs,Minnesota Twins,Chicago Cubs,60.5,Chicago Cubs,60-65%,,,
 2026-07-17,824737,Boston Red Sox,Tampa Bay Rays,Boston Red Sox,55.0,Boston Red Sox,55-60%,,,
-2026-07-17,824766,Boston Red Sox,Tampa Bay Rays,Boston Red Sox,55.0,Boston Red Sox,55-60%,,,
+2026-07-17,824766,Boston Red Sox,Tampa Bay Rays,Boston Red Sox,55.0,Boston Red Sox,55-60%,Boston Red Sox,True,True
 2026-07-17,824901,Atlanta Braves,Texas Rangers,Atlanta Braves,55.3,Atlanta Braves,55-60%,,,
 2026-07-17,824981,Athletics,Washington Nationals,Washington Nationals,44.6,Washington Nationals,40-45%,,,
 2026-07-17,825060,Arizona Diamondbacks,St. Louis Cardinals,St. Louis Cardinals,51.5,Arizona Diamondbacks,50-55%,,,

@@ -1,29 +1,30 @@
 as_of_date,rank,team,pitcher,rating,opponent
-2026-07-17,1,Atlanta Braves,Chris Sale,1603.1,Texas Rangers
-2026-07-17,2,New York Yankees,Gerrit Cole,1590.5,Los Angeles Dodgers
+2026-07-17,1,Atlanta Braves,Chris Sale,1607.3,Texas Rangers
+2026-07-17,2,New York Yankees,Gerrit Cole,1595.8,Los Angeles Dodgers
 2026-07-17,3,Arizona Diamondbacks,Merrill Kelly,1545.9,St. Louis Cardinals
 2026-07-17,4,San Diego Padres,Michael King,1542.9,Kansas City Royals
 2026-07-17,5,Miami Marlins,Sandy Alcantara,1541.5,Milwaukee Brewers
-2026-07-17,6,Cleveland Guardians,Gavin Williams,1534.7,Pittsburgh Pirates
+2026-07-17,6,Cleveland Guardians,Gavin Williams,1539.2,Pittsburgh Pirates
 2026-07-17,7,Detroit Tigers,Troy Melton,1522.1,Los Angeles Angels
 2026-07-17,8,Seattle Mariners,Bryce Miller,1521.4,San Francisco Giants
 2026-07-17,9,Boston Red Sox,Jake Bennett,1513.3,Tampa Bay Rays
 2026-07-17,10,San Francisco Giants,Landen Roupp,1511.9,Seattle Mariners
 2026-07-17,11,St. Louis Cardinals,Michael McGreevy,1511.9,Arizona Diamondbacks
-2026-07-17,12,Milwaukee Brewers,Logan Henderson,1511.4,Miami Marlins
-2026-07-17,13,Kansas City Royals,Seth Lugo,1509.9,San Diego Padres
-2026-07-17,14,Athletics,Gage Jump,1508.4,Washington Nationals
-2026-07-17,15,Chicago White Sox,Anthony Kay,1507.7,Toronto Blue Jays
+2026-07-17,12,Chicago White Sox,Anthony Kay,1511.6,Toronto Blue Jays
+2026-07-17,13,Milwaukee Brewers,Logan Henderson,1511.4,Miami Marlins
+2026-07-17,14,Kansas City Royals,Seth Lugo,1509.9,San Diego Padres
+2026-07-17,15,Athletics,Gage Jump,1508.4,Washington Nationals
 2026-07-17,16,Colorado Rockies,Gabriel Hughes,1501.9,Cincinnati Reds
 2026-07-17,17,Baltimore Orioles,Dean Kremer,1500.7,Houston Astros
 2026-07-17,18,Cincinnati Reds,Brady Singer,1500.4,Colorado Rockies
-2026-07-17,19,Tampa Bay Rays,Griffin Jax,1499.6,Boston Red Sox
+2026-07-17,19,Tampa Bay Rays,Mason Englert,1499.9,Boston Red Sox
 2026-07-17,20,Houston Astros,Peter Lambert,1499.1,Baltimore Orioles
-2026-07-17,21,Toronto Blue Jays,Spencer Miles,1493.6,Chicago White Sox
-2026-07-17,22,Minnesota Twins,Bailey Ober,1491.9,Chicago Cubs
-2026-07-17,23,Chicago Cubs,Colin Rea,1491.1,Minnesota Twins
-2026-07-17,24,Los Angeles Dodgers,Roki Sasaki,1486.6,New York Yankees
-2026-07-17,25,Pittsburgh Pirates,Jared Jones,1486.2,Cleveland Guardians
-2026-07-17,26,Texas Rangers,Cal Quantrill,1481.2,Atlanta Braves
-2026-07-17,27,Los Angeles Angels,Reid Detmers,1480.4,Detroit Tigers
-2026-07-17,28,Washington Nationals,Cade Cavalli,1479.8,Athletics
+2026-07-17,21,Toronto Blue Jays,Spencer Miles,1498.0,Chicago White Sox
+2026-07-17,22,Minnesota Twins,Bailey Ober,1496.9,Chicago Cubs
+2026-07-17,23,Chicago Cubs,Colin Rea,1495.1,Minnesota Twins
+2026-07-17,24,Los Angeles Dodgers,Roki Sasaki,1491.5,New York Yankees
+2026-07-17,25,Pittsburgh Pirates,Jared Jones,1490.8,Cleveland Guardians
+2026-07-17,26,Tampa Bay Rays,Griffin Jax,1490.4,Boston Red Sox
+2026-07-17,27,Texas Rangers,Cal Quantrill,1485.8,Atlanta Braves
+2026-07-17,28,Los Angeles Angels,Reid Detmers,1480.4,Detroit Tigers
+2026-07-17,29,Washington Nationals,Cade Cavalli,1479.8,Athletics
