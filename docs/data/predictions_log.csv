@@ -44,4 +44,19 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-07-12,824491,Cincinnati Reds,Chicago Cubs,Chicago Cubs,46.0,Chicago Cubs,45-50%,Chicago Cubs,True,True
 2026-07-12,824574,Chicago White Sox,Athletics,Chicago White Sox,62.1,Chicago White Sox,60-65%,Chicago White Sox,True,True
 2026-07-12,824814,Baltimore Orioles,Kansas City Royals,Baltimore Orioles,55.3,Baltimore Orioles,55-60%,Baltimore Orioles,True,True
-2026-07-16,823440,Philadelphia Phillies,New York Mets,Philadelphia Phillies,63.2,Philadelphia Phillies,60-65%,,,
+2026-07-16,823440,Philadelphia Phillies,New York Mets,Philadelphia Phillies,63.2,Philadelphia Phillies,60-65%,New York Mets,False,False
+2026-07-17,822789,Toronto Blue Jays,Chicago White Sox,Chicago White Sox,52.2,Toronto Blue Jays,50-55%,,,
+2026-07-17,823115,Seattle Mariners,San Francisco Giants,Seattle Mariners,60.0,Seattle Mariners,60-65%,,,
+2026-07-17,823524,New York Yankees,Los Angeles Dodgers,Los Angeles Dodgers,50.2,New York Yankees,50-55%,,,
+2026-07-17,823766,Milwaukee Brewers,Miami Marlins,Milwaukee Brewers,58.6,Milwaukee Brewers,55-60%,,,
+2026-07-17,824009,Los Angeles Angels,Detroit Tigers,Detroit Tigers,45.0,Detroit Tigers,45-50%,,,
+2026-07-17,824090,Kansas City Royals,San Diego Padres,San Diego Padres,47.1,San Diego Padres,45-50%,,,
+2026-07-17,824170,Houston Astros,Baltimore Orioles,Baltimore Orioles,52.7,Houston Astros,50-55%,,,
+2026-07-17,824332,Colorado Rockies,Cincinnati Reds,Cincinnati Reds,46.3,Cincinnati Reds,45-50%,,,
+2026-07-17,824414,Cleveland Guardians,Pittsburgh Pirates,Cleveland Guardians,55.5,Cleveland Guardians,55-60%,,,
+2026-07-17,824655,Chicago Cubs,Minnesota Twins,Chicago Cubs,60.5,Chicago Cubs,60-65%,,,
+2026-07-17,824737,Boston Red Sox,Tampa Bay Rays,Boston Red Sox,55.0,Boston Red Sox,55-60%,,,
+2026-07-17,824766,Boston Red Sox,Tampa Bay Rays,Boston Red Sox,55.0,Boston Red Sox,55-60%,,,
+2026-07-17,824901,Atlanta Braves,Texas Rangers,Atlanta Braves,55.3,Atlanta Braves,55-60%,,,
+2026-07-17,824981,Athletics,Washington Nationals,Washington Nationals,44.6,Washington Nationals,40-45%,,,
+2026-07-17,825060,Arizona Diamondbacks,St. Louis Cardinals,St. Louis Cardinals,51.5,Arizona Diamondbacks,50-55%,,,
