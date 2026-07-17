@@ -1,6 +1,6 @@
 {
   "as_of_date": "2026-07-17",
-  "generated_at_utc": "2026-07-17T15:12:21.264286+00:00",
+  "generated_at_utc": "2026-07-17T15:53:38.794558+00:00",
   "model_flags": {
     "base_K": 4.790024057931767,
     "base_home_adv": 20.281754999102375,
@@ -711,6 +711,14 @@
     },
     {
       "rank": 11,
+      "team": "St. Louis Cardinals",
+      "abbr": "STL",
+      "pitcher": "Michael McGreevy",
+      "rating": 1511.9,
+      "opponent": "Arizona Diamondbacks"
+    },
+    {
+      "rank": 12,
       "team": "Milwaukee Brewers",
       "abbr": "MIL",
       "pitcher": "Logan Henderson",
@@ -718,7 +726,7 @@
       "opponent": "Miami Marlins"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "team": "Kansas City Royals",
       "abbr": "KC",
       "pitcher": "Seth Lugo",
@@ -726,7 +734,7 @@
       "opponent": "San Diego Padres"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "team": "Athletics",
       "abbr": "ATH",
       "pitcher": "Gage Jump",
@@ -734,7 +742,7 @@
       "opponent": "Washington Nationals"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "team": "Chicago White Sox",
       "abbr": "CWS",
       "pitcher": "Anthony Kay",
@@ -742,7 +750,7 @@
       "opponent": "Toronto Blue Jays"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "team": "Colorado Rockies",
       "abbr": "COL",
       "pitcher": "Gabriel Hughes",
@@ -750,7 +758,7 @@
       "opponent": "Cincinnati Reds"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "team": "Baltimore Orioles",
       "abbr": "BAL",
       "pitcher": "Dean Kremer",
@@ -758,7 +766,7 @@
       "opponent": "Houston Astros"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "team": "Cincinnati Reds",
       "abbr": "CIN",
       "pitcher": "Brady Singer",
@@ -766,7 +774,7 @@
       "opponent": "Colorado Rockies"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "team": "Tampa Bay Rays",
       "abbr": "TB",
       "pitcher": "Griffin Jax",
@@ -774,7 +782,7 @@
       "opponent": "Boston Red Sox"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "team": "Houston Astros",
       "abbr": "HOU",
       "pitcher": "Peter Lambert",
@@ -782,7 +790,7 @@
       "opponent": "Baltimore Orioles"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "team": "Toronto Blue Jays",
       "abbr": "TOR",
       "pitcher": "Spencer Miles",
@@ -790,7 +798,7 @@
       "opponent": "Chicago White Sox"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "team": "Minnesota Twins",
       "abbr": "MIN",
       "pitcher": "Bailey Ober",
@@ -798,7 +806,7 @@
       "opponent": "Chicago Cubs"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "team": "Chicago Cubs",
       "abbr": "CHC",
       "pitcher": "Colin Rea",
@@ -806,7 +814,7 @@
       "opponent": "Minnesota Twins"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "team": "Los Angeles Dodgers",
       "abbr": "LAD",
       "pitcher": "Roki Sasaki",
@@ -814,7 +822,7 @@
       "opponent": "New York Yankees"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "team": "Pittsburgh Pirates",
       "abbr": "PIT",
       "pitcher": "Jared Jones",
@@ -822,7 +830,7 @@
       "opponent": "Cleveland Guardians"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "team": "Texas Rangers",
       "abbr": "TEX",
       "pitcher": "Cal Quantrill",
@@ -830,7 +838,7 @@
       "opponent": "Atlanta Braves"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "team": "Los Angeles Angels",
       "abbr": "LAA",
       "pitcher": "Reid Detmers",
@@ -838,7 +846,7 @@
       "opponent": "Detroit Tigers"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "team": "Washington Nationals",
       "abbr": "WSH",
       "pitcher": "Cade Cavalli",
