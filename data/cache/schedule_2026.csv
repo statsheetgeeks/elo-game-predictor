@@ -1452,18 +1452,33 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824574,2026-07-12,2026,Final,Chicago White Sox,Athletics,9.0,1.0,Noah Schultz,J.T. Ginn
 824814,2026-07-12,2026,Final,Baltimore Orioles,Kansas City Royals,8.0,2.0,Shane Baz,Seth Lugo
 823440,2026-07-16,2026,Final,Philadelphia Phillies,New York Mets,1.0,4.0,Aaron Nola,Christian Scott
-822789,2026-07-17,2026,Preview,Toronto Blue Jays,Chicago White Sox,0.0,0.0,Spencer Miles,Anthony Kay
-823115,2026-07-17,2026,Preview,Seattle Mariners,San Francisco Giants,,,Bryce Miller,Landen Roupp
-823524,2026-07-17,2026,Preview,New York Yankees,Los Angeles Dodgers,0.0,0.0,Gerrit Cole,Roki Sasaki
-823766,2026-07-17,2026,Preview,Milwaukee Brewers,Miami Marlins,,,Logan Henderson,Sandy Alcantara
-824009,2026-07-17,2026,Preview,Los Angeles Angels,Detroit Tigers,,,Reid Detmers,Troy Melton
-824090,2026-07-17,2026,Preview,Kansas City Royals,San Diego Padres,,,Seth Lugo,Michael King
-824170,2026-07-17,2026,Preview,Houston Astros,Baltimore Orioles,,,Peter Lambert,Dean Kremer
-824332,2026-07-17,2026,Preview,Colorado Rockies,Cincinnati Reds,,,Gabriel Hughes,Brady Singer
-824414,2026-07-17,2026,Preview,Cleveland Guardians,Pittsburgh Pirates,0.0,0.0,Gavin Williams,Jared Jones
-824655,2026-07-17,2026,Preview,Chicago Cubs,Minnesota Twins,0.0,0.0,Colin Rea,Bailey Ober
-824737,2026-07-17,2026,Preview,Boston Red Sox,Tampa Bay Rays,,,,Mason Englert
+822789,2026-07-17,2026,Final,Toronto Blue Jays,Chicago White Sox,4.0,12.0,Spencer Miles,Anthony Kay
+823115,2026-07-17,2026,Final,Seattle Mariners,San Francisco Giants,0.0,7.0,Bryce Miller,Landen Roupp
+823524,2026-07-17,2026,Final,New York Yankees,Los Angeles Dodgers,1.0,2.0,Gerrit Cole,Roki Sasaki
+823766,2026-07-17,2026,Final,Milwaukee Brewers,Miami Marlins,2.0,1.0,Logan Henderson,Sandy Alcantara
+824009,2026-07-17,2026,Final,Los Angeles Angels,Detroit Tigers,1.0,2.0,Reid Detmers,Troy Melton
+824090,2026-07-17,2026,Final,Kansas City Royals,San Diego Padres,7.0,6.0,Seth Lugo,Michael King
+824170,2026-07-17,2026,Final,Houston Astros,Baltimore Orioles,2.0,3.0,Peter Lambert,Dean Kremer
+824332,2026-07-17,2026,Final,Colorado Rockies,Cincinnati Reds,2.0,7.0,Gabriel Hughes,Brady Singer
+824655,2026-07-17,2026,Final,Chicago Cubs,Minnesota Twins,2.0,5.0,Colin Rea,Bailey Ober
+824737,2026-07-17,2026,Final,Boston Red Sox,Tampa Bay Rays,5.0,3.0,Eduardo Rivera,Mason Englert
 824766,2026-07-17,2026,Final,Boston Red Sox,Tampa Bay Rays,10.0,0.0,Jake Bennett,Griffin Jax
-824901,2026-07-17,2026,Preview,Atlanta Braves,Texas Rangers,0.0,0.0,Chris Sale,Cal Quantrill
-824981,2026-07-17,2026,Preview,Athletics,Washington Nationals,,,Gage Jump,Cade Cavalli
-825060,2026-07-17,2026,Preview,Arizona Diamondbacks,St. Louis Cardinals,,,Merrill Kelly,Michael McGreevy
+824901,2026-07-17,2026,Final,Atlanta Braves,Texas Rangers,15.0,1.0,Chris Sale,Cal Quantrill
+824981,2026-07-17,2026,Final,Athletics,Washington Nationals,4.0,23.0,Gage Jump,Cade Cavalli
+825060,2026-07-17,2026,Final,Arizona Diamondbacks,St. Louis Cardinals,4.0,5.0,Merrill Kelly,Michael McGreevy
+822790,2026-07-18,2026,Preview,Toronto Blue Jays,Chicago White Sox,,,Shane Bieber,Davis Martin
+823116,2026-07-18,2026,Preview,Seattle Mariners,San Francisco Giants,,,Bryan Woo,Logan Webb
+823441,2026-07-18,2026,Preview,Philadelphia Phillies,New York Mets,,,Jesús Luzardo,Sean Manaea
+823523,2026-07-18,2026,Preview,New York Yankees,Los Angeles Dodgers,,,Ryan Weathers,Emmet Sheehan
+823763,2026-07-18,2026,Preview,Milwaukee Brewers,Miami Marlins,,,Shane Drohan,Max Meyer
+824008,2026-07-18,2026,Preview,Los Angeles Angels,Detroit Tigers,,,Grayson Rodriguez,Tarik Skubal
+824088,2026-07-18,2026,Preview,Kansas City Royals,San Diego Padres,,,Randy Dobnak,Griffin Canning
+824169,2026-07-18,2026,Preview,Houston Astros,Baltimore Orioles,,,Spencer Arrighetti,Trevor Rogers
+824331,2026-07-18,2026,Preview,Colorado Rockies,Cincinnati Reds,,,Tomoyuki Sugano,Rhett Lowder
+824412,2026-07-18,2026,Preview,Cleveland Guardians,Pittsburgh Pirates,,,Logan Allen,
+824414,2026-07-18,2026,Preview,Cleveland Guardians,Pittsburgh Pirates,,,Gavin Williams,Jared Jones
+824657,2026-07-18,2026,Preview,Chicago Cubs,Minnesota Twins,,,Matthew Boyd,Taj Bradley
+824738,2026-07-18,2026,Preview,Boston Red Sox,Tampa Bay Rays,,,Patrick Sandoval,Ian Seymour
+824899,2026-07-18,2026,Preview,Atlanta Braves,Texas Rangers,,,Owen Murphy,MacKenzie Gore
+824979,2026-07-18,2026,Preview,Athletics,Washington Nationals,,,J.T. Ginn,Zack Littell
+825059,2026-07-18,2026,Preview,Arizona Diamondbacks,St. Louis Cardinals,,,Brandon Pfaadt,Dustin May
