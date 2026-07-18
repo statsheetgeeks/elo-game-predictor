@@ -1,11 +1,11 @@
 as_of_date,game_pk,home_team,home_combined_rating,away_team,away_combined_rating,elo_diff,home_win_prob
 2026-07-18,822790,Toronto Blue Jays,1499.1,Chicago White Sox,1513.3,-14.2,51.3
 2026-07-18,823116,Seattle Mariners,1516.0,San Francisco Giants,1477.8,38.2,59.4
-2026-07-18,823441,Philadelphia Phillies,1541.2,New York Mets,1476.4,64.8,63.3
+2026-07-18,823441,Philadelphia Phillies,1541.5,New York Mets,1479.9,61.6,62.8
 2026-07-18,823523,New York Yankees,1540.1,Los Angeles Dodgers,1557.7,-17.6,52.0
-2026-07-18,823763,Milwaukee Brewers,1572.2,Miami Marlins,1526.1,46.1,59.1
+2026-07-18,823763,Milwaukee Brewers,1572.4,Miami Marlins,1529.8,42.6,58.6
 2026-07-18,824008,Los Angeles Angels,1454.6,Detroit Tigers,1513.2,-58.6,43.9
-2026-07-18,824088,Kansas City Royals,1463.6,San Diego Padres,1500.2,-36.6,47.3
+2026-07-18,824088,Kansas City Royals,1463.6,San Diego Padres,1502.5,-38.9,47.0
 2026-07-18,824169,Houston Astros,1490.9,Baltimore Orioles,1517.5,-26.6,51.5
 2026-07-18,824331,Colorado Rockies,1439.7,Cincinnati Reds,1492.3,-52.6,46.7
 2026-07-18,824412,Cleveland Guardians,1531.6,Pittsburgh Pirates,1523.7,7.9,54.0

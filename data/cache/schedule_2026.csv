@@ -1468,15 +1468,15 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 825060,2026-07-17,2026,Final,Arizona Diamondbacks,St. Louis Cardinals,4.0,5.0,Merrill Kelly,Michael McGreevy
 822790,2026-07-18,2026,Preview,Toronto Blue Jays,Chicago White Sox,0.0,0.0,Shane Bieber,Davis Martin
 823116,2026-07-18,2026,Preview,Seattle Mariners,San Francisco Giants,,,Bryan Woo,Logan Webb
-823441,2026-07-18,2026,Preview,Philadelphia Phillies,New York Mets,,,Jesús Luzardo,Sean Manaea
+823441,2026-07-18,2026,Preview,Philadelphia Phillies,New York Mets,0.0,0.0,Jesús Luzardo,Sean Manaea
 823523,2026-07-18,2026,Preview,New York Yankees,Los Angeles Dodgers,,,Ryan Weathers,Emmet Sheehan
-823763,2026-07-18,2026,Preview,Milwaukee Brewers,Miami Marlins,,,Shane Drohan,Max Meyer
+823763,2026-07-18,2026,Preview,Milwaukee Brewers,Miami Marlins,0.0,0.0,Shane Drohan,Max Meyer
 824008,2026-07-18,2026,Preview,Los Angeles Angels,Detroit Tigers,,,Grayson Rodriguez,Tarik Skubal
-824088,2026-07-18,2026,Preview,Kansas City Royals,San Diego Padres,,,Randy Dobnak,Griffin Canning
+824088,2026-07-18,2026,Preview,Kansas City Royals,San Diego Padres,0.0,0.0,Randy Dobnak,Griffin Canning
 824169,2026-07-18,2026,Preview,Houston Astros,Baltimore Orioles,,,Spencer Arrighetti,Trevor Rogers
 824331,2026-07-18,2026,Preview,Colorado Rockies,Cincinnati Reds,,,Tomoyuki Sugano,Rhett Lowder
 824412,2026-07-18,2026,Preview,Cleveland Guardians,Pittsburgh Pirates,,,Logan Allen,
-824414,2026-07-18,2026,Preview,Cleveland Guardians,Pittsburgh Pirates,0.0,0.0,Gavin Williams,Jared Jones
+824414,2026-07-18,2026,Live,Cleveland Guardians,Pittsburgh Pirates,0.0,0.0,Gavin Williams,Jared Jones
 824657,2026-07-18,2026,Preview,Chicago Cubs,Minnesota Twins,0.0,0.0,Matthew Boyd,Taj Bradley
 824738,2026-07-18,2026,Preview,Boston Red Sox,Tampa Bay Rays,,,Patrick Sandoval,Ian Seymour
 824899,2026-07-18,2026,Preview,Atlanta Braves,Texas Rangers,,,Owen Murphy,MacKenzie Gore
