@@ -1497,18 +1497,18 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824897,2026-07-19,2026,Final,Atlanta Braves,Texas Rangers,8.0,5.0,Grant Holmes,Nathan Eovaldi
 824978,2026-07-19,2026,Final,Athletics,Washington Nationals,2.0,5.0,Jacob Lopez,Foster Griffin
 825057,2026-07-19,2026,Final,Arizona Diamondbacks,St. Louis Cardinals,8.0,7.0,Eduardo Rodriguez,Andre Pallante
-822788,2026-07-20,2026,Preview,Toronto Blue Jays,Tampa Bay Rays,,,Dylan Cease,Nick Martinez
-822874,2026-07-20,2026,Preview,Texas Rangers,Chicago White Sox,,,Jacob deGrom,Erick Fedde
+822788,2026-07-20,2026,Preview,Toronto Blue Jays,Tampa Bay Rays,0.0,0.0,Dylan Cease,Nick Martinez
+822874,2026-07-20,2026,Preview,Texas Rangers,Chicago White Sox,0.0,0.0,Jacob deGrom,Erick Fedde
 823112,2026-07-20,2026,Preview,Seattle Mariners,Cincinnati Reds,,,George Kirby,Andrew Abbott
-823436,2026-07-20,2026,Preview,Philadelphia Phillies,Los Angeles Dodgers,,,Cristopher Sánchez,Emmet Sheehan
-823522,2026-07-20,2026,Preview,New York Yankees,Pittsburgh Pirates,,,Ryan Weathers,Braxton Ashcraft
-823762,2026-07-20,2026,Preview,Milwaukee Brewers,New York Mets,,,Jacob Misiorowski,Freddy Peralta
+823436,2026-07-20,2026,Preview,Philadelphia Phillies,Los Angeles Dodgers,0.0,0.0,Cristopher Sánchez,Emmet Sheehan
+823522,2026-07-20,2026,Preview,New York Yankees,Pittsburgh Pirates,0.0,0.0,Ryan Weathers,Braxton Ashcraft
+823762,2026-07-20,2026,Preview,Milwaukee Brewers,New York Mets,0.0,0.0,Jacob Misiorowski,Freddy Peralta
 824006,2026-07-20,2026,Preview,Los Angeles Angels,St. Louis Cardinals,,,José Soriano,Kyle Leahy
-824087,2026-07-20,2026,Preview,Kansas City Royals,San Francisco Giants,,,Michael Wacha,Trevor McDonald
+824087,2026-07-20,2026,Preview,Kansas City Royals,San Francisco Giants,0.0,0.0,Michael Wacha,Trevor McDonald
 824167,2026-07-20,2026,Preview,Houston Astros,Miami Marlins,,,Ronel Blanco,Janson Junk
 824328,2026-07-20,2026,Preview,Colorado Rockies,Washington Nationals,,,Kyle Freeland,Andrew Alvarez
-824410,2026-07-20,2026,Preview,Cleveland Guardians,Minnesota Twins,,,Tanner Bibee,Joe Ryan
+824410,2026-07-20,2026,Preview,Cleveland Guardians,Minnesota Twins,0.0,0.0,Tanner Bibee,Joe Ryan
 824654,2026-07-20,2026,Preview,Chicago Cubs,Detroit Tigers,,,Jameson Taillon,Jack Flaherty
-824736,2026-07-20,2026,Preview,Boston Red Sox,Baltimore Orioles,,,Payton Tolle,Shane Baz
-824898,2026-07-20,2026,Preview,Atlanta Braves,San Diego Padres,,,Bryce Elder,JP Sears
+824736,2026-07-20,2026,Preview,Boston Red Sox,Baltimore Orioles,0.0,0.0,Payton Tolle,Shane Baz
+824898,2026-07-20,2026,Preview,Atlanta Braves,San Diego Padres,0.0,0.0,Bryce Elder,JP Sears
 825058,2026-07-20,2026,Preview,Arizona Diamondbacks,Athletics,,,Mitch Bratt,Jeffrey Springs
