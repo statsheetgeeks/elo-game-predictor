@@ -1512,18 +1512,18 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824736,2026-07-20,2026,Final,Boston Red Sox,Baltimore Orioles,6.0,5.0,Payton Tolle,Shane Baz
 824898,2026-07-20,2026,Final,Atlanta Braves,San Diego Padres,3.0,2.0,Bryce Elder,JP Sears
 825058,2026-07-20,2026,Final,Arizona Diamondbacks,Athletics,2.0,5.0,Mitch Bratt,Jeffrey Springs
-822787,2026-07-21,2026,Preview,Toronto Blue Jays,Tampa Bay Rays,,,Kevin Gausman,Drew Rasmussen
-822871,2026-07-21,2026,Preview,Texas Rangers,Chicago White Sox,,,Kumar Rocker,Noah Schultz
+822787,2026-07-21,2026,Preview,Toronto Blue Jays,Tampa Bay Rays,0.0,0.0,Kevin Gausman,Drew Rasmussen
+822871,2026-07-21,2026,Preview,Texas Rangers,Chicago White Sox,0.0,0.0,Kumar Rocker,Noah Schultz
 823114,2026-07-21,2026,Preview,Seattle Mariners,Cincinnati Reds,,,Luis Castillo,Chase Burns
-823437,2026-07-21,2026,Preview,Philadelphia Phillies,Los Angeles Dodgers,,,Zack Wheeler,Justin Wrobleski
-823519,2026-07-21,2026,Preview,New York Yankees,Pittsburgh Pirates,,,Will Warren,Bubba Chandler
+823437,2026-07-21,2026,Preview,Philadelphia Phillies,Los Angeles Dodgers,0.0,0.0,Zack Wheeler,Justin Wrobleski
+823519,2026-07-21,2026,Final,New York Yankees,Pittsburgh Pirates,,,Will Warren,Bubba Chandler
 823760,2026-07-21,2026,Preview,Milwaukee Brewers,New York Mets,,,Brandon Sproat,Zac Thornton
 824005,2026-07-21,2026,Preview,Los Angeles Angels,St. Louis Cardinals,,,Walbert Ureña,Matthew Liberatore
-824085,2026-07-21,2026,Preview,Kansas City Royals,San Francisco Giants,,,Luinder Avila,Tyler Mahle
+824085,2026-07-21,2026,Preview,Kansas City Royals,San Francisco Giants,0.0,0.0,Luinder Avila,Tyler Mahle
 824165,2026-07-21,2026,Preview,Houston Astros,Miami Marlins,,,Tatsuya Imai,Tyler Phillips
 824329,2026-07-21,2026,Preview,Colorado Rockies,Washington Nationals,,,Michael Lorenzen,Carson Palmquist
-824409,2026-07-21,2026,Preview,Cleveland Guardians,Minnesota Twins,,,Parker Messick,Kendry Rojas
+824409,2026-07-21,2026,Preview,Cleveland Guardians,Minnesota Twins,0.0,0.0,Parker Messick,Kendry Rojas
 824652,2026-07-21,2026,Preview,Chicago Cubs,Detroit Tigers,,,David Peterson,Framber Valdez
-824735,2026-07-21,2026,Preview,Boston Red Sox,Baltimore Orioles,,,Eduardo Rivera,Kyle Bradish
-824895,2026-07-21,2026,Preview,Atlanta Braves,San Diego Padres,,,Reynaldo López,Walker Buehler
+824735,2026-07-21,2026,Preview,Boston Red Sox,Baltimore Orioles,0.0,0.0,Eduardo Rivera,Kyle Bradish
+824895,2026-07-21,2026,Preview,Atlanta Braves,San Diego Padres,0.0,0.0,Reynaldo López,Walker Buehler
 825056,2026-07-21,2026,Preview,Arizona Diamondbacks,Athletics,,,Kohl Drake,Jack Perkins
