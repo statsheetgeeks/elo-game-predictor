@@ -807,7 +807,7 @@ def write_latest_json(daily_matchups_df, combined_rankings_df, daily_starters_df
             row = row._asdict()
             starters.append({
                 "rank": int(row["rank"]), "team": row["team"], "abbr": team_meta(row["team"])["abbr"],
-                "pitcher": row["pitcher"], "rating": row["rating"], "opponent": row["opponent"],
+                "pitcher": row["pitcher"], "rating": None if pd.isna(row["rating"]) else row["rating"], "opponent": row["opponent"],
             })
 
     bundle = {
