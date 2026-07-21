@@ -1,6 +1,6 @@
 {
   "as_of_date": "2026-07-21",
-  "generated_at_utc": "2026-07-21T16:01:34.040453+00:00",
+  "generated_at_utc": "2026-07-21T17:23:59.794720+00:00",
   "model_flags": {
     "base_K": 4.790024057931767,
     "base_home_adv": 20.281754999102375,
@@ -647,14 +647,6 @@
     },
     {
       "rank": 3,
-      "team": "Boston Red Sox",
-      "abbr": "BOS",
-      "pitcher": "Ranger Suarez",
-      "rating": 1565.2,
-      "opponent": "Baltimore Orioles"
-    },
-    {
-      "rank": 4,
       "team": "Toronto Blue Jays",
       "abbr": "TOR",
       "pitcher": "Kevin Gausman",
@@ -662,7 +654,7 @@
       "opponent": "Tampa Bay Rays"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "team": "Baltimore Orioles",
       "abbr": "BAL",
       "pitcher": "Kyle Bradish",
@@ -670,7 +662,7 @@
       "opponent": "Boston Red Sox"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "team": "Tampa Bay Rays",
       "abbr": "TB",
       "pitcher": "Drew Rasmussen",
@@ -678,7 +670,7 @@
       "opponent": "Toronto Blue Jays"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "team": "Atlanta Braves",
       "abbr": "ATL",
       "pitcher": "Reynaldo L\u00f3pez",
@@ -686,7 +678,7 @@
       "opponent": "San Diego Padres"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "team": "Seattle Mariners",
       "abbr": "SEA",
       "pitcher": "Luis Castillo",
@@ -694,7 +686,7 @@
       "opponent": "Cincinnati Reds"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "team": "Cleveland Guardians",
       "abbr": "CLE",
       "pitcher": "Parker Messick",
@@ -702,7 +694,7 @@
       "opponent": "Minnesota Twins"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "team": "San Diego Padres",
       "abbr": "SD",
       "pitcher": "Walker Buehler",
@@ -710,7 +702,7 @@
       "opponent": "Atlanta Braves"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "team": "Cincinnati Reds",
       "abbr": "CIN",
       "pitcher": "Chase Burns",
@@ -718,7 +710,7 @@
       "opponent": "Seattle Mariners"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "team": "Los Angeles Angels",
       "abbr": "LAA",
       "pitcher": "Walbert Ure\u00f1a",
@@ -726,12 +718,20 @@
       "opponent": "St. Louis Cardinals"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "team": "Miami Marlins",
       "abbr": "MIA",
       "pitcher": "Tyler Phillips",
       "rating": 1507.8,
       "opponent": "Houston Astros"
+    },
+    {
+      "rank": 13,
+      "team": "Boston Red Sox",
+      "abbr": "BOS",
+      "pitcher": "Eduardo Rivera",
+      "rating": 1505.0,
+      "opponent": "Baltimore Orioles"
     },
     {
       "rank": 14,
@@ -791,6 +791,14 @@
     },
     {
       "rank": 21,
+      "team": "Washington Nationals",
+      "abbr": "WSH",
+      "pitcher": "Carson Palmquist",
+      "rating": 1494.4,
+      "opponent": "Colorado Rockies"
+    },
+    {
+      "rank": 22,
       "team": "Chicago Cubs",
       "abbr": "CHC",
       "pitcher": "David Peterson",
@@ -798,7 +806,7 @@
       "opponent": "Detroit Tigers"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "team": "Athletics",
       "abbr": "ATH",
       "pitcher": "Jack Perkins",
@@ -806,7 +814,7 @@
       "opponent": "Arizona Diamondbacks"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "team": "Colorado Rockies",
       "abbr": "COL",
       "pitcher": "Michael Lorenzen",
@@ -814,20 +822,12 @@
       "opponent": "Washington Nationals"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "team": "Chicago White Sox",
       "abbr": "CWS",
       "pitcher": "Noah Schultz",
       "rating": 1485.0,
       "opponent": "Texas Rangers"
-    },
-    {
-      "rank": 25,
-      "team": "Washington Nationals",
-      "abbr": "WSH",
-      "pitcher": "Miles Mikolas",
-      "rating": 1483.1,
-      "opponent": "Colorado Rockies"
     },
     {
       "rank": 26,
@@ -858,7 +858,7 @@
       "team": "New York Mets",
       "abbr": "NYM",
       "pitcher": "Zac Thornton",
-      "rating": NaN,
+      "rating": null,
       "opponent": "Milwaukee Brewers"
     },
     {
@@ -866,7 +866,7 @@
       "team": "Arizona Diamondbacks",
       "abbr": "ARI",
       "pitcher": "Kohl Drake",
-      "rating": NaN,
+      "rating": null,
       "opponent": "Athletics"
     }
   ]
