@@ -1526,19 +1526,19 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824895,2026-07-21,2026,Final,Atlanta Braves,San Diego Padres,3.0,8.0,Reynaldo López,Walker Buehler
 825056,2026-07-21,2026,Final,Arizona Diamondbacks,Athletics,6.0,5.0,Kohl Drake,Jack Perkins
 822784,2026-07-22,2026,Preview,Toronto Blue Jays,Tampa Bay Rays,,,Braydon Fisher,Griffin Jax
-822873,2026-07-22,2026,Preview,Texas Rangers,Chicago White Sox,,,Tyler Alexander,Anthony Kay
-823110,2026-07-22,2026,Preview,Seattle Mariners,Cincinnati Reds,,,Emerson Hancock,Brady Singer
-823438,2026-07-22,2026,Preview,Philadelphia Phillies,Los Angeles Dodgers,,,Aaron Nola,Eric Lauer
-823518,2026-07-22,2026,Preview,New York Yankees,Pittsburgh Pirates,0.0,0.0,Gerrit Cole,Mitch Keller
+822873,2026-07-22,2026,Preview,Texas Rangers,Chicago White Sox,0.0,0.0,Tyler Alexander,Anthony Kay
+823110,2026-07-22,2026,Live,Seattle Mariners,Cincinnati Reds,3.0,2.0,Emerson Hancock,Brady Singer
+823438,2026-07-22,2026,Preview,Philadelphia Phillies,Los Angeles Dodgers,0.0,0.0,Aaron Nola,Eric Lauer
+823518,2026-07-22,2026,Final,New York Yankees,Pittsburgh Pirates,3.0,5.0,Gerrit Cole,Mitch Keller
 823519,2026-07-22,2026,Preview,New York Yankees,Pittsburgh Pirates,,,Max Fried,Bubba Chandler
-823761,2026-07-22,2026,Preview,Milwaukee Brewers,New York Mets,0.0,0.0,Logan Henderson,Christian Scott
-824004,2026-07-22,2026,Preview,Los Angeles Angels,St. Louis Cardinals,,,Reid Detmers,Hunter Dobbins
-824083,2026-07-22,2026,Preview,Kansas City Royals,San Francisco Giants,0.0,0.0,Seth Lugo,Landen Roupp
+823761,2026-07-22,2026,Live,Milwaukee Brewers,New York Mets,4.0,2.0,Logan Henderson,Christian Scott
+824004,2026-07-22,2026,Live,Los Angeles Angels,St. Louis Cardinals,0.0,0.0,Reid Detmers,Hunter Dobbins
+824083,2026-07-22,2026,Final,Kansas City Royals,San Francisco Giants,5.0,4.0,Seth Lugo,Landen Roupp
 824166,2026-07-22,2026,Preview,Houston Astros,Miami Marlins,,,Peter Lambert,Sandy Alcantara
-824327,2026-07-22,2026,Preview,Colorado Rockies,Washington Nationals,,,Gabriel Hughes,Cade Cavalli
-824408,2026-07-22,2026,Preview,Cleveland Guardians,Minnesota Twins,,,Slade Cecconi,Bailey Ober
+824327,2026-07-22,2026,Live,Colorado Rockies,Washington Nationals,0.0,1.0,Gabriel Hughes,Cade Cavalli
+824408,2026-07-22,2026,Preview,Cleveland Guardians,Minnesota Twins,0.0,0.0,Slade Cecconi,Bailey Ober
 824650,2026-07-22,2026,Preview,Chicago Cubs,Detroit Tigers,,,Colin Rea,Keider Montero
-824732,2026-07-22,2026,Preview,Boston Red Sox,Baltimore Orioles,,,,Kyle Bradish
-824735,2026-07-22,2026,Preview,Boston Red Sox,Baltimore Orioles,0.0,0.0,Jake Bennett,Dean Kremer
-824896,2026-07-22,2026,Preview,Atlanta Braves,San Diego Padres,,,Martín Pérez,Michael King
-825055,2026-07-22,2026,Preview,Arizona Diamondbacks,Athletics,,,Merrill Kelly,Gage Jump
+824732,2026-07-22,2026,Preview,Boston Red Sox,Baltimore Orioles,,,Eduardo Rivera,Kyle Bradish
+824735,2026-07-22,2026,Final,Boston Red Sox,Baltimore Orioles,6.0,3.0,Jake Bennett,Dean Kremer
+824896,2026-07-22,2026,Preview,Atlanta Braves,San Diego Padres,0.0,0.0,Martín Pérez,Michael King
+825055,2026-07-22,2026,Live,Arizona Diamondbacks,Athletics,2.0,1.0,Merrill Kelly,Gage Jump

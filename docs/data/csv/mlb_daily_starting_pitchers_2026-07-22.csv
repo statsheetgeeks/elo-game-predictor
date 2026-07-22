@@ -1,34 +1,35 @@
 as_of_date,rank,team,pitcher,rating,opponent
 2026-07-22,1,New York Yankees,Max Fried,1617.7,Pittsburgh Pirates
-2026-07-22,2,New York Yankees,Gerrit Cole,1598.5,Pittsburgh Pirates
+2026-07-22,2,New York Yankees,Gerrit Cole,1593.9,Pittsburgh Pirates
 2026-07-22,3,Baltimore Orioles,Kyle Bradish,1561.1,Boston Red Sox
-2026-07-22,4,Arizona Diamondbacks,Merrill Kelly,1545.8,Athletics
+2026-07-22,4,Arizona Diamondbacks,Merrill Kelly,1547.9,Athletics
 2026-07-22,5,Miami Marlins,Sandy Alcantara,1545.5,Houston Astros
-2026-07-22,6,San Diego Padres,Michael King,1539.4,Atlanta Braves
+2026-07-22,6,San Diego Padres,Michael King,1544.0,Atlanta Braves
 2026-07-22,7,Detroit Tigers,Keider Montero,1526.8,Chicago Cubs
-2026-07-22,8,Atlanta Braves,Martín Pérez,1519.7,San Diego Padres
-2026-07-22,9,San Francisco Giants,Landen Roupp,1519.0,Kansas City Royals
-2026-07-22,10,Milwaukee Brewers,Logan Henderson,1518.6,New York Mets
-2026-07-22,11,Boston Red Sox,Jake Bennett,1517.7,Baltimore Orioles
-2026-07-22,12,Kansas City Royals,Seth Lugo,1511.3,San Francisco Giants
-2026-07-22,13,Los Angeles Dodgers,Eric Lauer,1511.0,Philadelphia Phillies
-2026-07-22,14,Toronto Blue Jays,Braydon Fisher,1509.7,Tampa Bay Rays
-2026-07-22,15,Texas Rangers,Tyler Alexander,1508.4,Chicago White Sox
-2026-07-22,16,New York Mets,Christian Scott,1508.0,Milwaukee Brewers
-2026-07-22,17,Baltimore Orioles,Dean Kremer,1508.0,Boston Red Sox
-2026-07-22,18,Chicago White Sox,Anthony Kay,1507.9,Texas Rangers
-2026-07-22,19,Cincinnati Reds,Brady Singer,1501.4,Seattle Mariners
-2026-07-22,20,Cleveland Guardians,Slade Cecconi,1500.7,Minnesota Twins
-2026-07-22,21,Houston Astros,Peter Lambert,1500.6,Miami Marlins
-2026-07-22,22,Pittsburgh Pirates,Mitch Keller,1500.5,New York Yankees
-2026-07-22,23,Colorado Rockies,Gabriel Hughes,1499.1,Washington Nationals
-2026-07-22,24,St. Louis Cardinals,Hunter Dobbins,1498.9,Los Angeles Angels
-2026-07-22,25,Pittsburgh Pirates,Bubba Chandler,1498.1,New York Yankees
-2026-07-22,26,Minnesota Twins,Bailey Ober,1495.1,Cleveland Guardians
-2026-07-22,27,Athletics,Gage Jump,1491.4,Arizona Diamondbacks
-2026-07-22,28,Chicago Cubs,Colin Rea,1490.5,Detroit Tigers
-2026-07-22,29,Tampa Bay Rays,Griffin Jax,1490.4,Toronto Blue Jays
-2026-07-22,30,Philadelphia Phillies,Aaron Nola,1489.4,Los Angeles Dodgers
-2026-07-22,31,Seattle Mariners,Emerson Hancock,1489.0,Cincinnati Reds
-2026-07-22,32,Los Angeles Angels,Reid Detmers,1482.6,St. Louis Cardinals
-2026-07-22,33,Washington Nationals,Cade Cavalli,1479.1,Colorado Rockies
+2026-07-22,8,Atlanta Braves,Martín Pérez,1523.8,San Diego Padres
+2026-07-22,9,Milwaukee Brewers,Logan Henderson,1516.7,New York Mets
+2026-07-22,10,Los Angeles Dodgers,Eric Lauer,1515.5,Philadelphia Phillies
+2026-07-22,11,Boston Red Sox,Jake Bennett,1514.9,Baltimore Orioles
+2026-07-22,12,San Francisco Giants,Landen Roupp,1514.4,Kansas City Royals
+2026-07-22,13,Texas Rangers,Tyler Alexander,1512.9,Chicago White Sox
+2026-07-22,14,Chicago White Sox,Anthony Kay,1512.0,Texas Rangers
+2026-07-22,15,Toronto Blue Jays,Braydon Fisher,1509.7,Tampa Bay Rays
+2026-07-22,16,Kansas City Royals,Seth Lugo,1507.7,San Francisco Giants
+2026-07-22,17,Boston Red Sox,Eduardo Rivera,1505.0,Baltimore Orioles
+2026-07-22,18,Cleveland Guardians,Slade Cecconi,1504.4,Minnesota Twins
+2026-07-22,19,New York Mets,Christian Scott,1504.3,Milwaukee Brewers
+2026-07-22,20,Cincinnati Reds,Brady Singer,1502.6,Seattle Mariners
+2026-07-22,21,Baltimore Orioles,Dean Kremer,1502.5,Boston Red Sox
+2026-07-22,22,Colorado Rockies,Gabriel Hughes,1502.4,Washington Nationals
+2026-07-22,23,St. Louis Cardinals,Hunter Dobbins,1502.1,Los Angeles Angels
+2026-07-22,24,Houston Astros,Peter Lambert,1500.6,Miami Marlins
+2026-07-22,25,Minnesota Twins,Bailey Ober,1499.6,Cleveland Guardians
+2026-07-22,26,Pittsburgh Pirates,Bubba Chandler,1498.1,New York Yankees
+2026-07-22,27,Pittsburgh Pirates,Mitch Keller,1497.7,New York Yankees
+2026-07-22,28,Philadelphia Phillies,Aaron Nola,1494.8,Los Angeles Dodgers
+2026-07-22,29,Athletics,Gage Jump,1494.1,Arizona Diamondbacks
+2026-07-22,30,Seattle Mariners,Emerson Hancock,1490.8,Cincinnati Reds
+2026-07-22,31,Chicago Cubs,Colin Rea,1490.5,Detroit Tigers
+2026-07-22,32,Tampa Bay Rays,Griffin Jax,1490.4,Toronto Blue Jays
+2026-07-22,33,Los Angeles Angels,Reid Detmers,1486.8,St. Louis Cardinals
+2026-07-22,34,Washington Nationals,Cade Cavalli,1481.9,Colorado Rockies

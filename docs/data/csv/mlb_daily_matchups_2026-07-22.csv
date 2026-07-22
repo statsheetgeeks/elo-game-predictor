@@ -1,18 +1,18 @@
 as_of_date,game_pk,home_team,home_combined_rating,away_team,away_combined_rating,elo_diff,home_win_prob
-2026-07-22,822784,Toronto Blue Jays,1498.6,Tampa Bay Rays,1521.0,-22.4,50.2
-2026-07-22,822873,Texas Rangers,1506.8,Chicago White Sox,1511.2,-4.4,52.6
-2026-07-22,823110,Seattle Mariners,1516.8,Cincinnati Reds,1490.3,26.5,57.7
-2026-07-22,823438,Philadelphia Phillies,1542.0,Los Angeles Dodgers,1559.7,-17.7,51.7
-2026-07-22,823518,New York Yankees,1540.3,Pittsburgh Pirates,1527.3,13.0,56.4
-2026-07-22,823519,New York Yankees,1540.3,Pittsburgh Pirates,1527.3,13.0,56.4
-2026-07-22,823761,Milwaukee Brewers,1572.3,New York Mets,1485.1,87.2,64.7
-2026-07-22,824004,Los Angeles Angels,1455.4,St. Louis Cardinals,1504.9,-49.5,45.2
-2026-07-22,824083,Kansas City Royals,1462.7,San Francisco Giants,1471.7,-9.0,51.3
+2026-07-22,822784,Toronto Blue Jays,1498.8,Tampa Bay Rays,1521.0,-22.2,50.2
+2026-07-22,822873,Texas Rangers,1506.8,Chicago White Sox,1514.2,-7.4,52.1
+2026-07-22,823110,Seattle Mariners,1516.7,Cincinnati Reds,1488.2,28.5,58.0
+2026-07-22,823438,Philadelphia Phillies,1542.4,Los Angeles Dodgers,1562.0,-19.6,51.5
+2026-07-22,823518,New York Yankees,1540.0,Pittsburgh Pirates,1527.5,12.5,56.3
+2026-07-22,823519,New York Yankees,1540.0,Pittsburgh Pirates,1527.5,12.5,56.3
+2026-07-22,823761,Milwaukee Brewers,1572.2,New York Mets,1479.6,92.6,65.4
+2026-07-22,824004,Los Angeles Angels,1455.9,St. Louis Cardinals,1507.0,-51.1,44.9
+2026-07-22,824083,Kansas City Royals,1462.3,San Francisco Giants,1466.2,-3.9,52.0
 2026-07-22,824166,Houston Astros,1491.5,Miami Marlins,1516.1,-24.6,51.7
-2026-07-22,824327,Colorado Rockies,1438.8,Washington Nationals,1501.0,-62.2,45.4
-2026-07-22,824408,Cleveland Guardians,1530.7,Minnesota Twins,1479.5,51.2,60.1
+2026-07-22,824327,Colorado Rockies,1438.9,Washington Nationals,1503.6,-64.7,45.0
+2026-07-22,824408,Cleveland Guardians,1530.9,Minnesota Twins,1483.0,47.9,59.7
 2026-07-22,824650,Chicago Cubs,1543.0,Detroit Tigers,1512.6,30.4,56.7
-2026-07-22,824732,Boston Red Sox,1543.5,Baltimore Orioles,1524.9,18.6,55.3
-2026-07-22,824735,Boston Red Sox,1543.5,Baltimore Orioles,1524.9,18.6,55.3
-2026-07-22,824896,Atlanta Braves,1533.0,San Diego Padres,1504.6,28.4,56.9
-2026-07-22,825055,Arizona Diamondbacks,1512.6,Athletics,1450.5,62.1,61.0
+2026-07-22,824732,Boston Red Sox,1543.4,Baltimore Orioles,1519.2,24.2,56.1
+2026-07-22,824735,Boston Red Sox,1543.4,Baltimore Orioles,1519.2,24.2,56.1
+2026-07-22,824896,Atlanta Braves,1533.3,San Diego Padres,1508.0,25.3,56.5
+2026-07-22,825055,Arizona Diamondbacks,1513.1,Athletics,1449.2,63.9,61.3
