@@ -135,8 +135,8 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-07-22,824732,Boston Red Sox,Baltimore Orioles,Boston Red Sox,55.3,Boston Red Sox,55-60%,Baltimore Orioles,False,False
 2026-07-22,824896,Atlanta Braves,San Diego Padres,Atlanta Braves,56.9,Atlanta Braves,55-60%,Atlanta Braves,True,True
 2026-07-22,825055,Arizona Diamondbacks,Athletics,Arizona Diamondbacks,61.0,Arizona Diamondbacks,60-65%,Arizona Diamondbacks,True,True
-2026-07-23,822785,Toronto Blue Jays,Tampa Bay Rays,Tampa Bay Rays,49.8,Tampa Bay Rays,45-50%,,,
+2026-07-23,822785,Toronto Blue Jays,Tampa Bay Rays,Tampa Bay Rays,49.8,Tampa Bay Rays,45-50%,Toronto Blue Jays,False,False
 2026-07-23,823042,St. Louis Cardinals,Arizona Diamondbacks,Arizona Diamondbacks,52.1,St. Louis Cardinals,50-55%,,,
 2026-07-23,824247,Detroit Tigers,Kansas City Royals,Detroit Tigers,60.5,Detroit Tigers,60-65%,,,
-2026-07-23,824406,Cleveland Guardians,Minnesota Twins,Cleveland Guardians,59.1,Cleveland Guardians,55-60%,,,
-2026-07-23,824893,Atlanta Braves,San Diego Padres,Atlanta Braves,56.8,Atlanta Braves,55-60%,,,
+2026-07-23,824406,Cleveland Guardians,Minnesota Twins,Cleveland Guardians,59.1,Cleveland Guardians,55-60%,Minnesota Twins,False,False
+2026-07-23,824893,Atlanta Braves,San Diego Padres,Atlanta Braves,56.8,Atlanta Braves,55-60%,Atlanta Braves,True,True

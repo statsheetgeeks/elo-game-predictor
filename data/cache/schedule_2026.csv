@@ -1541,8 +1541,8 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824735,2026-07-22,2026,Final,Boston Red Sox,Baltimore Orioles,6.0,3.0,Jake Bennett,Dean Kremer
 824896,2026-07-22,2026,Final,Atlanta Braves,San Diego Padres,7.0,6.0,Martín Pérez,Michael King
 825055,2026-07-22,2026,Final,Arizona Diamondbacks,Athletics,15.0,5.0,Merrill Kelly,Gage Jump
-822785,2026-07-23,2026,Preview,Toronto Blue Jays,Tampa Bay Rays,,,Shane Bieber,Casey Legumina
-823042,2026-07-23,2026,Preview,St. Louis Cardinals,Arizona Diamondbacks,,,Michael McGreevy,Brandon Pfaadt
-824247,2026-07-23,2026,Preview,Detroit Tigers,Kansas City Royals,,,Troy Melton,Randy Dobnak
-824406,2026-07-23,2026,Preview,Cleveland Guardians,Minnesota Twins,0.0,0.0,Gavin Williams,Taj Bradley
-824893,2026-07-23,2026,Preview,Atlanta Braves,San Diego Padres,0.0,0.0,Chris Sale,Kyle Hart
+822785,2026-07-23,2026,Live,Toronto Blue Jays,Tampa Bay Rays,2.0,1.0,Shane Bieber,Casey Legumina
+823042,2026-07-23,2026,Preview,St. Louis Cardinals,Arizona Diamondbacks,0.0,0.0,Michael McGreevy,Brandon Pfaadt
+824247,2026-07-23,2026,Preview,Detroit Tigers,Kansas City Royals,0.0,0.0,Troy Melton,Randy Dobnak
+824406,2026-07-23,2026,Final,Cleveland Guardians,Minnesota Twins,1.0,3.0,Gavin Williams,Taj Bradley
+824893,2026-07-23,2026,Final,Atlanta Braves,San Diego Padres,6.0,5.0,Chris Sale,Kyle Hart
