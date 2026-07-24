@@ -1541,8 +1541,23 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824735,2026-07-22,2026,Final,Boston Red Sox,Baltimore Orioles,6.0,3.0,Jake Bennett,Dean Kremer
 824896,2026-07-22,2026,Final,Atlanta Braves,San Diego Padres,7.0,6.0,Martín Pérez,Michael King
 825055,2026-07-22,2026,Final,Arizona Diamondbacks,Athletics,15.0,5.0,Merrill Kelly,Gage Jump
-822785,2026-07-23,2026,Live,Toronto Blue Jays,Tampa Bay Rays,2.0,1.0,Shane Bieber,Casey Legumina
-823042,2026-07-23,2026,Preview,St. Louis Cardinals,Arizona Diamondbacks,0.0,0.0,Michael McGreevy,Brandon Pfaadt
-824247,2026-07-23,2026,Preview,Detroit Tigers,Kansas City Royals,0.0,0.0,Troy Melton,Randy Dobnak
+822785,2026-07-23,2026,Final,Toronto Blue Jays,Tampa Bay Rays,3.0,1.0,Shane Bieber,Casey Legumina
+823042,2026-07-23,2026,Final,St. Louis Cardinals,Arizona Diamondbacks,6.0,10.0,Michael McGreevy,Brandon Pfaadt
+824247,2026-07-23,2026,Final,Detroit Tigers,Kansas City Royals,4.0,3.0,Troy Melton,Randy Dobnak
 824406,2026-07-23,2026,Final,Cleveland Guardians,Minnesota Twins,1.0,3.0,Gavin Williams,Taj Bradley
 824893,2026-07-23,2026,Final,Atlanta Braves,San Diego Padres,6.0,5.0,Chris Sale,Kyle Hart
+822707,2026-07-24,2026,Preview,Washington Nationals,Arizona Diamondbacks,,,Carson Palmquist,Eduardo Rodriguez
+822872,2026-07-24,2026,Preview,Texas Rangers,Seattle Mariners,,,MacKenzie Gore,Bryce Miller
+822952,2026-07-24,2026,Preview,Tampa Bay Rays,Cleveland Guardians,,,Shane McClanahan,Joey Cantillo
+823031,2026-07-24,2026,Preview,St. Louis Cardinals,Cincinnati Reds,,,Dustin May,Rhett Lowder
+823196,2026-07-24,2026,Preview,San Francisco Giants,Los Angeles Angels,,,Logan Webb,Grayson Rodriguez
+823352,2026-07-24,2026,Preview,Pittsburgh Pirates,Chicago Cubs,,,Jared Jones,Matthew Boyd
+823434,2026-07-24,2026,Preview,Philadelphia Phillies,New York Yankees,,,Jesús Luzardo,Cam Schlittler
+823601,2026-07-24,2026,Preview,New York Mets,Los Angeles Dodgers,,,Sean Manaea,Roki Sasaki
+823680,2026-07-24,2026,Preview,Minnesota Twins,Athletics,,,Zebby Matthews,Jacob Lopez
+823759,2026-07-24,2026,Preview,Milwaukee Brewers,Colorado Rockies,,,Shane Drohan,Tomoyuki Sugano
+823843,2026-07-24,2026,Preview,Miami Marlins,San Diego Padres,,,,Germán Márquez
+824248,2026-07-24,2026,Preview,Detroit Tigers,Kansas City Royals,,,Tarik Skubal,Beck Way
+824573,2026-07-24,2026,Preview,Chicago White Sox,Houston Astros,,,Davis Martin,Spencer Arrighetti
+824733,2026-07-24,2026,Preview,Boston Red Sox,Toronto Blue Jays,,,Patrick Sandoval,Trey Yesavage
+824812,2026-07-24,2026,Preview,Baltimore Orioles,Atlanta Braves,,,,Grant Holmes

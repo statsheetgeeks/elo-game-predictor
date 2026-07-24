@@ -136,7 +136,22 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-07-22,824896,Atlanta Braves,San Diego Padres,Atlanta Braves,56.9,Atlanta Braves,55-60%,Atlanta Braves,True,True
 2026-07-22,825055,Arizona Diamondbacks,Athletics,Arizona Diamondbacks,61.0,Arizona Diamondbacks,60-65%,Arizona Diamondbacks,True,True
 2026-07-23,822785,Toronto Blue Jays,Tampa Bay Rays,Tampa Bay Rays,49.8,Tampa Bay Rays,45-50%,Toronto Blue Jays,False,False
-2026-07-23,823042,St. Louis Cardinals,Arizona Diamondbacks,Arizona Diamondbacks,52.1,St. Louis Cardinals,50-55%,,,
-2026-07-23,824247,Detroit Tigers,Kansas City Royals,Detroit Tigers,60.5,Detroit Tigers,60-65%,,,
+2026-07-23,823042,St. Louis Cardinals,Arizona Diamondbacks,Arizona Diamondbacks,52.1,St. Louis Cardinals,50-55%,Arizona Diamondbacks,True,False
+2026-07-23,824247,Detroit Tigers,Kansas City Royals,Detroit Tigers,60.5,Detroit Tigers,60-65%,Detroit Tigers,True,True
 2026-07-23,824406,Cleveland Guardians,Minnesota Twins,Cleveland Guardians,59.1,Cleveland Guardians,55-60%,Minnesota Twins,False,False
 2026-07-23,824893,Atlanta Braves,San Diego Padres,Atlanta Braves,56.8,Atlanta Braves,55-60%,Atlanta Braves,True,True
+2026-07-24,822707,Washington Nationals,Arizona Diamondbacks,Arizona Diamondbacks,48.7,Arizona Diamondbacks,45-50%,,,
+2026-07-24,822872,Texas Rangers,Seattle Mariners,Seattle Mariners,51.8,Texas Rangers,50-55%,,,
+2026-07-24,822952,Tampa Bay Rays,Cleveland Guardians,Cleveland Guardians,53.7,Tampa Bay Rays,50-55%,,,
+2026-07-24,823031,St. Louis Cardinals,Cincinnati Reds,St. Louis Cardinals,54.8,St. Louis Cardinals,50-55%,,,
+2026-07-24,823196,San Francisco Giants,Los Angeles Angels,San Francisco Giants,56.5,San Francisco Giants,55-60%,,,
+2026-07-24,823352,Pittsburgh Pirates,Chicago Cubs,Chicago Cubs,50.1,Pittsburgh Pirates,50-55%,,,
+2026-07-24,823434,Philadelphia Phillies,New York Yankees,Philadelphia Phillies,54.4,Philadelphia Phillies,50-55%,,,
+2026-07-24,823601,New York Mets,Los Angeles Dodgers,Los Angeles Dodgers,41.9,Los Angeles Dodgers,40-45%,,,
+2026-07-24,823680,Minnesota Twins,Athletics,Minnesota Twins,59.6,Minnesota Twins,55-60%,,,
+2026-07-24,823759,Milwaukee Brewers,Colorado Rockies,Milwaukee Brewers,70.5,Milwaukee Brewers,70-75%,,,
+2026-07-24,823843,Miami Marlins,San Diego Padres,Miami Marlins,54.8,Miami Marlins,50-55%,,,
+2026-07-24,824248,Detroit Tigers,Kansas City Royals,Detroit Tigers,59.8,Detroit Tigers,55-60%,,,
+2026-07-24,824573,Chicago White Sox,Houston Astros,Chicago White Sox,58.0,Chicago White Sox,55-60%,,,
+2026-07-24,824733,Boston Red Sox,Toronto Blue Jays,Boston Red Sox,58.9,Boston Red Sox,55-60%,,,
+2026-07-24,824812,Baltimore Orioles,Atlanta Braves,Atlanta Braves,48.4,Atlanta Braves,45-50%,,,
