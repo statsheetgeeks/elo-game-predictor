@@ -149,7 +149,7 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-07-24,823434,Philadelphia Phillies,New York Yankees,Philadelphia Phillies,54.4,Philadelphia Phillies,50-55%,,,
 2026-07-24,823601,New York Mets,Los Angeles Dodgers,Los Angeles Dodgers,41.9,Los Angeles Dodgers,40-45%,,,
 2026-07-24,823680,Minnesota Twins,Athletics,Minnesota Twins,59.6,Minnesota Twins,55-60%,,,
-2026-07-24,823759,Milwaukee Brewers,Colorado Rockies,Milwaukee Brewers,70.5,Milwaukee Brewers,70-75%,,,
+2026-07-24,823759,Milwaukee Brewers,Colorado Rockies,Milwaukee Brewers,70.5,Milwaukee Brewers,70-75%,Colorado Rockies,False,False
 2026-07-24,823843,Miami Marlins,San Diego Padres,Miami Marlins,54.8,Miami Marlins,50-55%,,,
 2026-07-24,824248,Detroit Tigers,Kansas City Royals,Detroit Tigers,59.8,Detroit Tigers,55-60%,,,
 2026-07-24,824573,Chicago White Sox,Houston Astros,Chicago White Sox,58.0,Chicago White Sox,55-60%,,,
