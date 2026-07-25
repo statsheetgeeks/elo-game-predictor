@@ -14625,4 +14625,16 @@ date,season,game_pk,home_team,away_team,home_pitcher,away_pitcher,home_elo_pre,a
 2026-07-24,2026,824573,Chicago White Sox,Houston Astros,Davis Martin,Spencer Arrighetti,1515.2,1493.3,64.8,0.5921,0.4079,1511.2,1497.3,5,9,0
 2026-07-24,2026,824733,Boston Red Sox,Toronto Blue Jays,Patrick Sandoval,Trey Yesavage,1538.7,1476.0,68.5,0.5973,0.4027,1540.7,1473.9,6,4,1
 2026-07-24,2026,824812,Baltimore Orioles,Atlanta Braves,Trevor Rogers,Grant Holmes,1513.4,1521.7,-15.4,0.4779,0.5221,1510.9,1524.2,6,7,0
-2026-07-25,2026,824244,Detroit Tigers,Kansas City Royals,Casey Mize,Michael Wacha,1501.9,1459.9,47.7,0.5683,0.4317,1499.0,1462.8,0,0,0
+2026-07-25,2026,822704,Washington Nationals,Arizona Diamondbacks,Foster Griffin,Mitch Bratt,1506.9,1521.5,-5.8,0.4917,0.5083,1504.6,1523.8,0,0,0
+2026-07-25,2026,822869,Texas Rangers,Seattle Mariners,Nathan Eovaldi,Bryan Woo,1497.5,1487.4,43.0,0.5615,0.4385,1494.6,1490.3,0,0,0
+2026-07-25,2026,822948,Tampa Bay Rays,Cleveland Guardians,Nick Martinez,Tanner Bibee,1510.9,1503.4,35.8,0.5513,0.4487,1508.1,1506.2,0,0,0
+2026-07-25,2026,823027,St. Louis Cardinals,Cincinnati Reds,Andre Pallante,Hunter Greene,1497.7,1488.3,23.1,0.5331,0.4669,1495.1,1491.0,0,0,0
+2026-07-25,2026,823197,San Francisco Giants,Los Angeles Angels,Robbie Ray,Ryan Johnson,1452.5,1464.0,50.9,0.5727,0.4273,1449.6,1467.0,0,0,0
+2026-07-25,2026,823435,Philadelphia Phillies,New York Yankees,Tim Mayza,Ryan Weathers,1509.8,1525.3,18.8,0.527,0.473,1507.2,1527.9,0,0,0
+2026-07-25,2026,823600,New York Mets,Los Angeles Dodgers,Nolan McLean,Yoshinobu Yamamoto,1468.1,1552.2,-84.0,0.3814,0.6186,1466.6,1553.7,0,0,0
+2026-07-25,2026,823679,Minnesota Twins,Athletics,Mike Paredes,Brady Basso,1488.1,1457.2,58.0,0.5827,0.4173,1485.0,1460.3,0,0,0
+2026-07-25,2026,823758,Milwaukee Brewers,Colorado Rockies,Robert Gasser,Ryan Feltner,1564.2,1450.4,161.0,0.7164,0.2836,1560.0,1454.6,0,0,0
+2026-07-25,2026,823841,Miami Marlins,San Diego Padres,Eury Pérez,Randy Vásquez,1505.0,1498.7,16.8,0.5242,0.4758,1502.4,1501.3,0,0,0
+2026-07-25,2026,824244,Detroit Tigers,Kansas City Royals,Casey Mize,Michael Wacha,1501.9,1459.9,47.7,0.5683,0.4317,1498.7,1463.0,2,3,0
+2026-07-25,2026,824734,Boston Red Sox,Toronto Blue Jays,Sonny Gray,Dylan Cease,1540.7,1473.9,92.6,0.6302,0.3698,1537.3,1477.3,0,0,0
+2026-07-25,2026,824811,Baltimore Orioles,Atlanta Braves,Brandon Young,Bryce Elder,1510.9,1524.2,-21.1,0.4697,0.5303,1508.8,1526.3,0,0,0
