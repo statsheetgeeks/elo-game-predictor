@@ -1,13 +1,13 @@
 {
   "combined_elo_record": {
-    "wins": 88,
-    "losses": 69,
-    "pct": 56.1
+    "wins": 95,
+    "losses": 76,
+    "pct": 55.6
   },
   "home_prob_record": {
-    "wins": 86,
-    "losses": 71,
-    "pct": 54.8
+    "wins": 94,
+    "losses": 77,
+    "pct": 55.0
   },
   "calibration": [
     {
@@ -78,41 +78,41 @@
       "bucket": "40-45%",
       "range_low": 40,
       "range_high": 45,
-      "n_games": 11,
-      "avg_predicted_home_win_pct": 43.6,
-      "observed_home_win_pct": 54.5
+      "n_games": 12,
+      "avg_predicted_home_win_pct": 43.4,
+      "observed_home_win_pct": 50.0
     },
     {
       "bucket": "45-50%",
       "range_low": 45,
       "range_high": 50,
-      "n_games": 26,
-      "avg_predicted_home_win_pct": 46.8,
-      "observed_home_win_pct": 30.8
+      "n_games": 29,
+      "avg_predicted_home_win_pct": 47.0,
+      "observed_home_win_pct": 34.5
     },
     {
       "bucket": "50-55%",
       "range_low": 50,
       "range_high": 55,
-      "n_games": 45,
-      "avg_predicted_home_win_pct": 52.2,
-      "observed_home_win_pct": 40.0
+      "n_games": 49,
+      "avg_predicted_home_win_pct": 52.3,
+      "observed_home_win_pct": 40.8
     },
     {
       "bucket": "55-60%",
       "range_low": 55,
       "range_high": 60,
-      "n_games": 54,
+      "n_games": 58,
       "avg_predicted_home_win_pct": 57.3,
-      "observed_home_win_pct": 64.8
+      "observed_home_win_pct": 65.5
     },
     {
       "bucket": "60-65%",
       "range_low": 60,
       "range_high": 65,
-      "n_games": 16,
+      "n_games": 17,
       "avg_predicted_home_win_pct": 61.7,
-      "observed_home_win_pct": 56.2
+      "observed_home_win_pct": 52.9
     },
     {
       "bucket": "65-70%",
@@ -126,9 +126,9 @@
       "bucket": "70-75%",
       "range_low": 70,
       "range_high": 75,
-      "n_games": 1,
+      "n_games": 2,
       "avg_predicted_home_win_pct": 70.5,
-      "observed_home_win_pct": 0.0
+      "observed_home_win_pct": 50.0
     },
     {
       "bucket": "75-80%",
@@ -171,7 +171,7 @@
       "observed_home_win_pct": null
     }
   ],
-  "n_resolved": 157,
-  "n_pending": 14,
-  "generated_at": "2026-07-25"
+  "n_resolved": 171,
+  "n_pending": 15,
+  "generated_at": "2026-07-26"
 }
