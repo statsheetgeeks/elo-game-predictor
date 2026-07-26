@@ -1576,18 +1576,18 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824571,2026-07-25,2026,Final,Chicago White Sox,Houston Astros,1.0,4.0,Sean Burke,Hunter Brown
 824734,2026-07-25,2026,Final,Boston Red Sox,Toronto Blue Jays,0.0,6.0,Sonny Gray,Dylan Cease
 824811,2026-07-25,2026,Final,Baltimore Orioles,Atlanta Braves,3.0,2.0,Brandon Young,Bryce Elder
-822706,2026-07-26,2026,Preview,Washington Nationals,Arizona Diamondbacks,0.0,0.0,Miles Mikolas,Kohl Drake
-822870,2026-07-26,2026,Preview,Texas Rangers,Seattle Mariners,,,Jacob deGrom,Logan Gilbert
-822950,2026-07-26,2026,Preview,Tampa Bay Rays,Cleveland Guardians,0.0,0.0,Drew Rasmussen,Parker Messick
-823028,2026-07-26,2026,Preview,St. Louis Cardinals,Cincinnati Reds,0.0,0.0,Kyle Leahy,Andrew Abbott
-823194,2026-07-26,2026,Preview,San Francisco Giants,Los Angeles Angels,,,Carson Whisenhunt,José Soriano
-823354,2026-07-26,2026,Preview,Pittsburgh Pirates,Chicago Cubs,,,Braxton Ashcraft,Jameson Taillon
-823433,2026-07-26,2026,Preview,Philadelphia Phillies,New York Yankees,,,Cristopher Sánchez,Will Warren
-823599,2026-07-26,2026,Preview,New York Mets,Los Angeles Dodgers,0.0,0.0,Freddy Peralta,Emmet Sheehan
-823678,2026-07-26,2026,Preview,Minnesota Twins,Athletics,,,Connor Prielipp,Jeffrey Springs
-823755,2026-07-26,2026,Preview,Milwaukee Brewers,Colorado Rockies,,,Jacob Misiorowski,Kyle Freeland
-823840,2026-07-26,2026,Preview,Miami Marlins,San Diego Padres,0.0,0.0,Janson Junk,Walker Buehler
-824246,2026-07-26,2026,Preview,Detroit Tigers,Kansas City Royals,0.0,0.0,Framber Valdez,Luinder Avila
-824572,2026-07-26,2026,Preview,Chicago White Sox,Houston Astros,,,Erick Fedde,Ronel Blanco
-824730,2026-07-26,2026,Preview,Boston Red Sox,Toronto Blue Jays,,,Ranger Suarez,Kevin Gausman
-824810,2026-07-26,2026,Preview,Baltimore Orioles,Atlanta Braves,0.0,0.0,Shane Baz,Reynaldo López
+822706,2026-07-26,2026,Final,Washington Nationals,Arizona Diamondbacks,10.0,7.0,Miles Mikolas,Kohl Drake
+822870,2026-07-26,2026,Live,Texas Rangers,Seattle Mariners,3.0,1.0,Jacob deGrom,Logan Gilbert
+822950,2026-07-26,2026,Final,Tampa Bay Rays,Cleveland Guardians,1.0,0.0,Drew Rasmussen,Parker Messick
+823028,2026-07-26,2026,Live,St. Louis Cardinals,Cincinnati Reds,2.0,2.0,Kyle Leahy,Andrew Abbott
+823194,2026-07-26,2026,Live,San Francisco Giants,Los Angeles Angels,0.0,1.0,Carson Whisenhunt,José Soriano
+823354,2026-07-26,2026,Final,Pittsburgh Pirates,Chicago Cubs,8.0,7.0,Braxton Ashcraft,Jameson Taillon
+823433,2026-07-26,2026,Preview,Philadelphia Phillies,New York Yankees,0.0,0.0,Cristopher Sánchez,Will Warren
+823599,2026-07-26,2026,Live,New York Mets,Los Angeles Dodgers,8.0,3.0,Freddy Peralta,Emmet Sheehan
+823678,2026-07-26,2026,Live,Minnesota Twins,Athletics,9.0,6.0,Connor Prielipp,Jeffrey Springs
+823755,2026-07-26,2026,Live,Milwaukee Brewers,Colorado Rockies,10.0,2.0,Jacob Misiorowski,Kyle Freeland
+823840,2026-07-26,2026,Final,Miami Marlins,San Diego Padres,3.0,5.0,Janson Junk,Walker Buehler
+824246,2026-07-26,2026,Live,Detroit Tigers,Kansas City Royals,4.0,5.0,Framber Valdez,Luinder Avila
+824572,2026-07-26,2026,Live,Chicago White Sox,Houston Astros,9.0,3.0,Erick Fedde,Ronel Blanco
+824730,2026-07-26,2026,Final,Boston Red Sox,Toronto Blue Jays,6.0,1.0,Ranger Suarez,Kevin Gausman
+824810,2026-07-26,2026,Live,Baltimore Orioles,Atlanta Braves,2.0,2.0,Shane Baz,Reynaldo López
