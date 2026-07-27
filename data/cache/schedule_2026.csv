@@ -1591,15 +1591,15 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824572,2026-07-26,2026,Final,Chicago White Sox,Houston Astros,12.0,3.0,Erick Fedde,Ronel Blanco
 824730,2026-07-26,2026,Final,Boston Red Sox,Toronto Blue Jays,6.0,1.0,Ranger Suarez,Kevin Gausman
 824810,2026-07-26,2026,Final,Baltimore Orioles,Atlanta Braves,2.0,3.0,Shane Baz,Reynaldo López
-822705,2026-07-27,2026,Preview,Washington Nationals,Toronto Blue Jays,,,Andrew Alvarez,Max Scherzer
-822868,2026-07-27,2026,Preview,Texas Rangers,Seattle Mariners,,,Kumar Rocker,George Kirby
-823025,2026-07-27,2026,Preview,St. Louis Cardinals,Chicago Cubs,,,,David Peterson
+822705,2026-07-27,2026,Preview,Washington Nationals,Toronto Blue Jays,0.0,0.0,Eddy Yean,Max Scherzer
+822868,2026-07-27,2026,Live,Texas Rangers,Seattle Mariners,7.0,3.0,Kumar Rocker,George Kirby
+823025,2026-07-27,2026,Preview,St. Louis Cardinals,Chicago Cubs,0.0,0.0,Matthew Liberatore,David Peterson
 823195,2026-07-27,2026,Preview,San Francisco Giants,Milwaukee Brewers,,,Tyler Mahle,Brandon Sproat
-823353,2026-07-27,2026,Preview,Pittsburgh Pirates,Arizona Diamondbacks,,,Mitch Keller,Merrill Kelly
+823353,2026-07-27,2026,Preview,Pittsburgh Pirates,Arizona Diamondbacks,0.0,0.0,Mitch Keller,Merrill Kelly
 823597,2026-07-27,2026,Preview,New York Mets,Atlanta Braves,,,Zac Thornton,Martín Pérez
-823839,2026-07-27,2026,Preview,Miami Marlins,Philadelphia Phillies,,,Tyler Phillips,Zack Wheeler
+823839,2026-07-27,2026,Preview,Miami Marlins,Philadelphia Phillies,0.0,0.0,Tyler Phillips,Zack Wheeler
 824001,2026-07-27,2026,Preview,Los Angeles Angels,Houston Astros,,,Walbert Ureña,Tatsuya Imai
-824245,2026-07-27,2026,Preview,Detroit Tigers,Baltimore Orioles,,,Keider Montero,Kyle Bradish
-824490,2026-07-27,2026,Preview,Cincinnati Reds,Cleveland Guardians,,,Chase Burns,Slade Cecconi
-824570,2026-07-27,2026,Preview,Chicago White Sox,New York Yankees,,,Noah Schultz,Max Fried
+824245,2026-07-27,2026,Preview,Detroit Tigers,Baltimore Orioles,0.0,0.0,Keider Montero,Kyle Bradish
+824490,2026-07-27,2026,Preview,Cincinnati Reds,Cleveland Guardians,0.0,0.0,Chase Burns,Slade Cecconi
+824570,2026-07-27,2026,Preview,Chicago White Sox,New York Yankees,0.0,0.0,Noah Schultz,Max Fried
 824977,2026-07-27,2026,Preview,Athletics,Boston Red Sox,,,Jack Perkins,Payton Tolle

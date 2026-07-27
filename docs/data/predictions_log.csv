@@ -186,7 +186,7 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-07-26,824730,Boston Red Sox,Toronto Blue Jays,Boston Red Sox,60.3,Boston Red Sox,60-65%,Boston Red Sox,True,True
 2026-07-26,824810,Baltimore Orioles,Atlanta Braves,Atlanta Braves,47.4,Atlanta Braves,45-50%,Atlanta Braves,True,True
 2026-07-27,822705,Washington Nationals,Toronto Blue Jays,Washington Nationals,53.5,Washington Nationals,50-55%,,,
-2026-07-27,822868,Texas Rangers,Seattle Mariners,Seattle Mariners,52.7,Texas Rangers,50-55%,,,
+2026-07-27,822868,Texas Rangers,Seattle Mariners,Seattle Mariners,52.7,Texas Rangers,50-55%,Texas Rangers,False,True
 2026-07-27,823025,St. Louis Cardinals,Chicago Cubs,Chicago Cubs,47.3,Chicago Cubs,45-50%,,,
 2026-07-27,823195,San Francisco Giants,Milwaukee Brewers,Milwaukee Brewers,39.9,Milwaukee Brewers,35-40%,,,
 2026-07-27,823353,Pittsburgh Pirates,Arizona Diamondbacks,Pittsburgh Pirates,53.8,Pittsburgh Pirates,50-55%,,,
