@@ -1591,15 +1591,30 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824572,2026-07-26,2026,Final,Chicago White Sox,Houston Astros,12.0,3.0,Erick Fedde,Ronel Blanco
 824730,2026-07-26,2026,Final,Boston Red Sox,Toronto Blue Jays,6.0,1.0,Ranger Suarez,Kevin Gausman
 824810,2026-07-26,2026,Final,Baltimore Orioles,Atlanta Braves,2.0,3.0,Shane Baz,Reynaldo López
-822705,2026-07-27,2026,Preview,Washington Nationals,Toronto Blue Jays,0.0,0.0,Eddy Yean,Max Scherzer
-822868,2026-07-27,2026,Live,Texas Rangers,Seattle Mariners,7.0,3.0,Kumar Rocker,George Kirby
-823025,2026-07-27,2026,Preview,St. Louis Cardinals,Chicago Cubs,0.0,0.0,Matthew Liberatore,David Peterson
-823195,2026-07-27,2026,Preview,San Francisco Giants,Milwaukee Brewers,,,Tyler Mahle,Brandon Sproat
-823353,2026-07-27,2026,Preview,Pittsburgh Pirates,Arizona Diamondbacks,0.0,0.0,Mitch Keller,Merrill Kelly
-823597,2026-07-27,2026,Preview,New York Mets,Atlanta Braves,,,Zac Thornton,Martín Pérez
-823839,2026-07-27,2026,Preview,Miami Marlins,Philadelphia Phillies,0.0,0.0,Tyler Phillips,Zack Wheeler
-824001,2026-07-27,2026,Preview,Los Angeles Angels,Houston Astros,,,Walbert Ureña,Tatsuya Imai
-824245,2026-07-27,2026,Preview,Detroit Tigers,Baltimore Orioles,0.0,0.0,Keider Montero,Kyle Bradish
-824490,2026-07-27,2026,Preview,Cincinnati Reds,Cleveland Guardians,0.0,0.0,Chase Burns,Slade Cecconi
-824570,2026-07-27,2026,Preview,Chicago White Sox,New York Yankees,0.0,0.0,Noah Schultz,Max Fried
-824977,2026-07-27,2026,Preview,Athletics,Boston Red Sox,,,Jack Perkins,Payton Tolle
+822705,2026-07-27,2026,Final,Washington Nationals,Toronto Blue Jays,2.0,3.0,Eddy Yean,Max Scherzer
+822868,2026-07-27,2026,Final,Texas Rangers,Seattle Mariners,7.0,3.0,Kumar Rocker,George Kirby
+823025,2026-07-27,2026,Final,St. Louis Cardinals,Chicago Cubs,3.0,7.0,Matthew Liberatore,David Peterson
+823195,2026-07-27,2026,Final,San Francisco Giants,Milwaukee Brewers,3.0,0.0,Tyler Mahle,Brandon Sproat
+823353,2026-07-27,2026,Final,Pittsburgh Pirates,Arizona Diamondbacks,3.0,2.0,Mitch Keller,Merrill Kelly
+823597,2026-07-27,2026,Final,New York Mets,Atlanta Braves,14.0,3.0,Zac Thornton,Martín Pérez
+823839,2026-07-27,2026,Final,Miami Marlins,Philadelphia Phillies,8.0,7.0,Tyler Phillips,Zack Wheeler
+824001,2026-07-27,2026,Final,Los Angeles Angels,Houston Astros,4.0,6.0,Walbert Ureña,Tatsuya Imai
+824245,2026-07-27,2026,Final,Detroit Tigers,Baltimore Orioles,5.0,8.0,Keider Montero,Kyle Bradish
+824570,2026-07-27,2026,Final,Chicago White Sox,New York Yankees,5.0,9.0,Noah Schultz,Max Fried
+824977,2026-07-27,2026,Final,Athletics,Boston Red Sox,2.0,4.0,Jack Perkins,Payton Tolle
+822703,2026-07-28,2026,Preview,Washington Nationals,Toronto Blue Jays,,,Cade Cavalli,Shane Bieber
+822949,2026-07-28,2026,Preview,Tampa Bay Rays,Texas Rangers,,,Griffin Jax,
+823026,2026-07-28,2026,Preview,St. Louis Cardinals,Chicago Cubs,,,,Colin Rea
+823193,2026-07-28,2026,Preview,San Francisco Giants,Milwaukee Brewers,,,Landen Roupp,Logan Henderson
+823275,2026-07-28,2026,Preview,San Diego Padres,Colorado Rockies,,,Michael King,Michael Lorenzen
+823350,2026-07-28,2026,Preview,Pittsburgh Pirates,Arizona Diamondbacks,,,Bubba Chandler,Brandon Pfaadt
+823598,2026-07-28,2026,Preview,New York Mets,Atlanta Braves,,,Christian Scott,Chris Sale
+823676,2026-07-28,2026,Preview,Minnesota Twins,Kansas City Royals,,,Taj Bradley,Seth Lugo
+823838,2026-07-28,2026,Preview,Miami Marlins,Philadelphia Phillies,,,Sandy Alcantara,Aaron Nola
+823923,2026-07-28,2026,Preview,Los Angeles Dodgers,Seattle Mariners,,,,Luis Castillo
+824003,2026-07-28,2026,Preview,Los Angeles Angels,Houston Astros,,,Reid Detmers,Peter Lambert
+824243,2026-07-28,2026,Preview,Detroit Tigers,Baltimore Orioles,,,Troy Melton,Dean Kremer
+824489,2026-07-28,2026,Preview,Cincinnati Reds,Cleveland Guardians,,,,Gavin Williams
+824490,2026-07-28,2026,Preview,Cincinnati Reds,Cleveland Guardians,0.0,0.0,Chase Burns,Slade Cecconi
+824569,2026-07-28,2026,Preview,Chicago White Sox,New York Yankees,,,Anthony Kay,Gerrit Cole
+824976,2026-07-28,2026,Preview,Athletics,Boston Red Sox,,,Gage Jump,Jake Bennett
