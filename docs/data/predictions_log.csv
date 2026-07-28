@@ -194,7 +194,7 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-07-27,823839,Miami Marlins,Philadelphia Phillies,Philadelphia Phillies,48.9,Philadelphia Phillies,45-50%,Miami Marlins,False,False
 2026-07-27,824001,Los Angeles Angels,Houston Astros,Houston Astros,46.6,Houston Astros,45-50%,Houston Astros,True,True
 2026-07-27,824245,Detroit Tigers,Baltimore Orioles,Baltimore Orioles,51.9,Detroit Tigers,50-55%,Baltimore Orioles,True,False
-2026-07-27,824490,Cincinnati Reds,Cleveland Guardians,Cleveland Guardians,49.9,Cleveland Guardians,45-50%,,,
+2026-07-27,824490,Cincinnati Reds,Cleveland Guardians,Cleveland Guardians,49.9,Cleveland Guardians,45-50%,Cleveland Guardians,True,True
 2026-07-27,824570,Chicago White Sox,New York Yankees,New York Yankees,51.2,Chicago White Sox,50-55%,New York Yankees,True,False
 2026-07-27,824977,Athletics,Boston Red Sox,Boston Red Sox,39.0,Boston Red Sox,35-40%,Boston Red Sox,True,True
 2026-07-28,822703,Washington Nationals,Toronto Blue Jays,Washington Nationals,53.1,Washington Nationals,50-55%,,,
