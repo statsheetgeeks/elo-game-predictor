@@ -1633,13 +1633,13 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824487,2026-07-29,2026,Final,Cincinnati Reds,Cleveland Guardians,1.0,6.0,Brady Singer,Joey Cantillo
 824567,2026-07-29,2026,Final,Chicago White Sox,New York Yankees,6.0,5.0,Davis Martin,Cam Schlittler
 824973,2026-07-29,2026,Final,Athletics,Boston Red Sox,2.0,4.0,Jacob Lopez,Patrick Sandoval
-822946,2026-07-30,2026,Preview,Tampa Bay Rays,Texas Rangers,0.0,0.0,Shane McClanahan,Cole Winn
-823023,2026-07-30,2026,Preview,St. Louis Cardinals,Chicago Cubs,0.0,0.0,Andre Pallante,Javier Assad
+822946,2026-07-30,2026,Final,Tampa Bay Rays,Texas Rangers,3.0,2.0,Shane McClanahan,Cole Winn
+823023,2026-07-30,2026,Live,St. Louis Cardinals,Chicago Cubs,2.0,2.0,Andre Pallante,Javier Assad
 823271,2026-07-30,2026,Preview,San Diego Padres,San Francisco Giants,,,JP Sears,
-823595,2026-07-30,2026,Preview,New York Mets,Miami Marlins,,,Nolan McLean,Eury Pérez
-823674,2026-07-30,2026,Preview,Minnesota Twins,Kansas City Royals,0.0,0.0,Bailey Ober,Noah Cameron
+823595,2026-07-30,2026,Preview,New York Mets,Miami Marlins,0.0,0.0,Nolan McLean,Eury Pérez
+823674,2026-07-30,2026,Final,Minnesota Twins,Kansas City Royals,4.0,3.0,Bailey Ober,Noah Cameron
 823921,2026-07-30,2026,Preview,Los Angeles Dodgers,Seattle Mariners,,,Roki Sasaki,Bryan Woo
 824488,2026-07-30,2026,Preview,Cincinnati Reds,Pittsburgh Pirates,,,Rhett Lowder,Yohan Ramírez
-824568,2026-07-30,2026,Preview,Chicago White Sox,New York Yankees,0.0,0.0,Sean Burke,Ryan Weathers
-824894,2026-07-30,2026,Preview,Atlanta Braves,Washington Nationals,,,Grant Holmes,Jake Irvin
+824568,2026-07-30,2026,Live,Chicago White Sox,New York Yankees,0.0,1.0,Sean Burke,Ryan Weathers
+824894,2026-07-30,2026,Preview,Atlanta Braves,Washington Nationals,0.0,0.0,Grant Holmes,Jake Irvin
 824974,2026-07-30,2026,Preview,Athletics,Boston Red Sox,,,Mason Barnett,Sonny Gray

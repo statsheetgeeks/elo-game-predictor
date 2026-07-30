@@ -1,11 +1,11 @@
 as_of_date,game_pk,home_team,home_combined_rating,away_team,away_combined_rating,elo_diff,home_win_prob
-2026-07-30,822946,Tampa Bay Rays,1523.0,Texas Rangers,1514.6,8.4,56.2
-2026-07-30,823023,St. Louis Cardinals,1507.6,Chicago Cubs,1552.7,-45.1,46.5
+2026-07-30,822946,Tampa Bay Rays,1522.9,Texas Rangers,1509.6,13.3,56.9
+2026-07-30,823023,St. Louis Cardinals,1507.4,Chicago Cubs,1552.7,-45.3,46.4
 2026-07-30,823271,San Diego Padres,1510.6,San Francisco Giants,1467.1,43.5,59.8
-2026-07-30,823595,New York Mets,1480.4,Miami Marlins,1512.9,-32.5,49.1
-2026-07-30,823674,Minnesota Twins,1487.4,Kansas City Royals,1478.7,8.7,55.1
+2026-07-30,823595,New York Mets,1480.9,Miami Marlins,1514.0,-33.1,49.1
+2026-07-30,823674,Minnesota Twins,1487.2,Kansas City Royals,1473.3,13.9,55.8
 2026-07-30,823921,Los Angeles Dodgers,1562.1,Seattle Mariners,1508.9,53.2,63.6
 2026-07-30,824488,Cincinnati Reds,1496.3,Pittsburgh Pirates,1525.2,-28.9,48.4
-2026-07-30,824568,Chicago White Sox,1514.7,New York Yankees,1545.3,-30.6,50.4
-2026-07-30,824894,Atlanta Braves,1534.1,Washington Nationals,1505.1,29.0,57.0
+2026-07-30,824568,Chicago White Sox,1514.6,New York Yankees,1545.5,-30.9,50.4
+2026-07-30,824894,Atlanta Braves,1534.5,Washington Nationals,1508.5,26.0,56.6
 2026-07-30,824974,Athletics,1445.4,Boston Red Sox,1556.2,-110.8,37.3
