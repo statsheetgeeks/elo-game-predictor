@@ -14682,13 +14682,22 @@ date,season,game_pk,home_team,away_team,home_pitcher,away_pitcher,home_elo_pre,a
 2026-07-28,2026,824569,Chicago White Sox,New York Yankees,Anthony Kay,Gerrit Cole,1509.4,1527.8,-29.3,0.458,0.542,1507.1,1530.0,2,3,0
 2026-07-28,2026,824976,Athletics,Boston Red Sox,Gage Jump,Jake Bennett,1450.6,1540.6,-87.1,0.3772,0.6228,1454.2,1537.0,4,3,1
 2026-07-29,2026,822702,Washington Nationals,Toronto Blue Jays,Zack Littell,Trey Yesavage,1513.1,1476.0,38.6,0.5554,0.4446,1509.6,1479.5,2,5,0
-2026-07-29,2026,822947,Tampa Bay Rays,Texas Rangers,Casey Legumina,MacKenzie Gore,1511.7,1504.6,57.9,0.5826,0.4174,1508.7,1507.7,0,0,0
-2026-07-29,2026,823022,St. Louis Cardinals,Chicago Cubs,Dustin May,Matthew Boyd,1491.4,1543.0,-37.4,0.4464,0.5536,1489.5,1545.0,0,0,0
-2026-07-29,2026,823192,San Francisco Giants,Milwaukee Brewers,Logan Webb,Thomas Pannone,1453.9,1566.6,-33.9,0.4513,0.5487,1457.1,1563.4,3,1,1
-2026-07-29,2026,823273,San Diego Padres,Colorado Rockies,Kyle Hart,Gabriel Hughes,1506.6,1445.6,78.9,0.6116,0.3884,1503.3,1448.8,0,0,0
+2026-07-29,2026,822947,Tampa Bay Rays,Texas Rangers,Casey Legumina,MacKenzie Gore,1511.7,1504.6,57.9,0.5826,0.4174,1514.1,1502.3,3,0,1
+2026-07-29,2026,823022,St. Louis Cardinals,Chicago Cubs,Dustin May,Matthew Boyd,1491.4,1543.0,-37.4,0.4464,0.5536,1494.5,1540.0,3,2,1
+2026-07-29,2026,823192,San Francisco Giants,Milwaukee Brewers,Logan Webb,Thomas Pannone,1453.9,1566.6,-33.9,0.4513,0.5487,1459.4,1561.0,16,3,1
+2026-07-29,2026,823273,San Diego Padres,Colorado Rockies,Kyle Hart,Gabriel Hughes,1506.6,1445.6,78.9,0.6116,0.3884,1508.5,1443.6,3,1,1
 2026-07-29,2026,823351,Pittsburgh Pirates,Arizona Diamondbacks,Jared Jones,Eduardo Rodriguez,1513.2,1515.6,2.9,0.5042,0.4958,1510.1,1518.7,0,3,0
 2026-07-29,2026,823596,New York Mets,Atlanta Braves,Sean Manaea,AJ Smith-Shawver,1475.3,1518.7,-37.1,0.4468,0.5532,1478.3,1515.6,3,2,1
-2026-07-29,2026,823677,Minnesota Twins,Kansas City Royals,Joe Ryan,Randy Dobnak,1494.9,1464.5,64.7,0.5921,0.4079,1491.7,1467.6,0,0,0
+2026-07-29,2026,823598,New York Mets,Atlanta Braves,Christian Scott,Chris Sale,1478.3,1515.6,-64.6,0.4081,0.5919,1476.4,1517.5,0,1,0
+2026-07-29,2026,823677,Minnesota Twins,Kansas City Royals,Joe Ryan,Randy Dobnak,1494.9,1464.5,64.7,0.5921,0.4079,1490.9,1468.5,0,4,0
 2026-07-29,2026,823837,Miami Marlins,Philadelphia Phillies,Ryan Gusto,Jesús Luzardo,1503.8,1504.6,-6.7,0.4904,0.5096,1506.7,1501.7,8,6,1
+2026-07-29,2026,823924,Los Angeles Dodgers,Seattle Mariners,Eric Lauer,Emerson Hancock,1546.5,1487.7,114.8,0.6594,0.3406,1548.0,1486.2,4,2,1
+2026-07-29,2026,824002,Los Angeles Angels,Houston Astros,Grayson Rodriguez,Hayden Wesneski,1458.8,1501.4,-32.3,0.4536,0.5464,1456.2,1504.1,4,7,0
 2026-07-29,2026,824242,Detroit Tigers,Baltimore Orioles,Tarik Skubal,Trevor Rogers,1497.5,1508.9,62.7,0.5893,0.4107,1494.2,1512.2,9,10,0
-2026-07-29,2026,824487,Cincinnati Reds,Cleveland Guardians,Brady Singer,Joey Cantillo,1487.7,1498.8,-5.2,0.4926,0.5074,1485.4,1501.2,0,0,0
+2026-07-29,2026,824487,Cincinnati Reds,Cleveland Guardians,Brady Singer,Joey Cantillo,1487.7,1498.8,-5.2,0.4926,0.5074,1484.3,1502.2,1,6,0
+2026-07-29,2026,824567,Chicago White Sox,New York Yankees,Davis Martin,Cam Schlittler,1507.1,1530.0,-6.9,0.49,0.51,1509.8,1527.3,6,5,1
+2026-07-29,2026,824973,Athletics,Boston Red Sox,Jacob Lopez,Patrick Sandoval,1454.2,1537.0,-66.7,0.4052,0.5948,1452.1,1539.0,2,4,0
+2026-07-30,2026,822946,Tampa Bay Rays,Texas Rangers,Shane McClanahan,Cole Winn,1514.1,1502.3,81.3,0.6149,0.3851,1510.8,1505.6,0,0,0
+2026-07-30,2026,823023,St. Louis Cardinals,Chicago Cubs,Andre Pallante,Javier Assad,1494.5,1540.0,-25.4,0.4635,0.5365,1492.4,1542.1,0,0,0
+2026-07-30,2026,823674,Minnesota Twins,Kansas City Royals,Bailey Ober,Noah Cameron,1490.9,1468.5,49.8,0.5711,0.4289,1487.9,1471.4,0,0,0
+2026-07-30,2026,824568,Chicago White Sox,New York Yankees,Sean Burke,Ryan Weathers,1509.8,1527.3,25.7,0.5369,0.4631,1507.1,1530.0,0,0,0

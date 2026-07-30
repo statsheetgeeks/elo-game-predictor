@@ -1618,18 +1618,28 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824569,2026-07-28,2026,Final,Chicago White Sox,New York Yankees,2.0,3.0,Anthony Kay,Gerrit Cole
 824976,2026-07-28,2026,Final,Athletics,Boston Red Sox,4.0,3.0,Gage Jump,Jake Bennett
 822702,2026-07-29,2026,Final,Washington Nationals,Toronto Blue Jays,2.0,5.0,Zack Littell,Trey Yesavage
-822947,2026-07-29,2026,Preview,Tampa Bay Rays,Texas Rangers,0.0,0.0,Casey Legumina,MacKenzie Gore
-823022,2026-07-29,2026,Preview,St. Louis Cardinals,Chicago Cubs,0.0,0.0,Dustin May,Matthew Boyd
-823192,2026-07-29,2026,Live,San Francisco Giants,Milwaukee Brewers,3.0,1.0,Logan Webb,Thomas Pannone
-823273,2026-07-29,2026,Live,San Diego Padres,Colorado Rockies,0.0,0.0,Kyle Hart,Gabriel Hughes
+822947,2026-07-29,2026,Final,Tampa Bay Rays,Texas Rangers,3.0,0.0,Casey Legumina,MacKenzie Gore
+823022,2026-07-29,2026,Final,St. Louis Cardinals,Chicago Cubs,3.0,2.0,Dustin May,Matthew Boyd
+823192,2026-07-29,2026,Final,San Francisco Giants,Milwaukee Brewers,16.0,3.0,Logan Webb,Thomas Pannone
+823273,2026-07-29,2026,Final,San Diego Padres,Colorado Rockies,3.0,1.0,Kyle Hart,Gabriel Hughes
 823351,2026-07-29,2026,Final,Pittsburgh Pirates,Arizona Diamondbacks,0.0,3.0,Jared Jones,Eduardo Rodriguez
 823596,2026-07-29,2026,Final,New York Mets,Atlanta Braves,3.0,2.0,Sean Manaea,AJ Smith-Shawver
-823598,2026-07-29,2026,Preview,New York Mets,Atlanta Braves,,,Christian Scott,Chris Sale
-823677,2026-07-29,2026,Preview,Minnesota Twins,Kansas City Royals,0.0,0.0,Joe Ryan,Randy Dobnak
+823598,2026-07-29,2026,Final,New York Mets,Atlanta Braves,0.0,1.0,Christian Scott,Chris Sale
+823677,2026-07-29,2026,Final,Minnesota Twins,Kansas City Royals,0.0,4.0,Joe Ryan,Randy Dobnak
 823837,2026-07-29,2026,Final,Miami Marlins,Philadelphia Phillies,8.0,6.0,Ryan Gusto,Jesús Luzardo
-823924,2026-07-29,2026,Preview,Los Angeles Dodgers,Seattle Mariners,,,Eric Lauer,Emerson Hancock
-824002,2026-07-29,2026,Preview,Los Angeles Angels,Houston Astros,,,Grayson Rodriguez,Hayden Wesneski
-824242,2026-07-29,2026,Live,Detroit Tigers,Baltimore Orioles,9.0,10.0,Tarik Skubal,Trevor Rogers
-824487,2026-07-29,2026,Preview,Cincinnati Reds,Cleveland Guardians,0.0,0.0,Brady Singer,Joey Cantillo
-824567,2026-07-29,2026,Preview,Chicago White Sox,New York Yankees,,,Davis Martin,Cam Schlittler
-824973,2026-07-29,2026,Preview,Athletics,Boston Red Sox,,,Jacob Lopez,Patrick Sandoval
+823924,2026-07-29,2026,Final,Los Angeles Dodgers,Seattle Mariners,4.0,2.0,Eric Lauer,Emerson Hancock
+824002,2026-07-29,2026,Final,Los Angeles Angels,Houston Astros,4.0,7.0,Grayson Rodriguez,Hayden Wesneski
+824242,2026-07-29,2026,Final,Detroit Tigers,Baltimore Orioles,9.0,10.0,Tarik Skubal,Trevor Rogers
+824487,2026-07-29,2026,Final,Cincinnati Reds,Cleveland Guardians,1.0,6.0,Brady Singer,Joey Cantillo
+824567,2026-07-29,2026,Final,Chicago White Sox,New York Yankees,6.0,5.0,Davis Martin,Cam Schlittler
+824973,2026-07-29,2026,Final,Athletics,Boston Red Sox,2.0,4.0,Jacob Lopez,Patrick Sandoval
+822946,2026-07-30,2026,Preview,Tampa Bay Rays,Texas Rangers,0.0,0.0,Shane McClanahan,Cole Winn
+823023,2026-07-30,2026,Preview,St. Louis Cardinals,Chicago Cubs,0.0,0.0,Andre Pallante,Javier Assad
+823271,2026-07-30,2026,Preview,San Diego Padres,San Francisco Giants,,,JP Sears,
+823595,2026-07-30,2026,Preview,New York Mets,Miami Marlins,,,Nolan McLean,Eury Pérez
+823674,2026-07-30,2026,Preview,Minnesota Twins,Kansas City Royals,0.0,0.0,Bailey Ober,Noah Cameron
+823921,2026-07-30,2026,Preview,Los Angeles Dodgers,Seattle Mariners,,,Roki Sasaki,Bryan Woo
+824488,2026-07-30,2026,Preview,Cincinnati Reds,Pittsburgh Pirates,,,Rhett Lowder,Yohan Ramírez
+824568,2026-07-30,2026,Preview,Chicago White Sox,New York Yankees,0.0,0.0,Sean Burke,Ryan Weathers
+824894,2026-07-30,2026,Preview,Atlanta Braves,Washington Nationals,,,Grant Holmes,Jake Irvin
+824974,2026-07-30,2026,Preview,Athletics,Boston Red Sox,,,Mason Barnett,Sonny Gray
