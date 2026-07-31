@@ -1,0 +1,16 @@
+as_of_date,game_pk,home_team,home_combined_rating,away_team,away_combined_rating,elo_diff,home_win_prob
+2026-07-31,822782,Toronto Blue Jays,1490.3,St. Louis Cardinals,1507.2,-16.9,50.9
+2026-07-31,822945,Tampa Bay Rays,1522.9,Chicago White Sox,1514.6,8.3,56.2
+2026-07-31,823111,Seattle Mariners,1506.6,Minnesota Twins,1487.2,19.4,56.7
+2026-07-31,823272,San Diego Padres,1510.4,San Francisco Giants,1479.6,30.8,58.1
+2026-07-31,823593,New York Mets,1480.6,Miami Marlins,1508.4,-27.8,49.8
+2026-07-31,823922,Los Angeles Dodgers,1562.2,Boston Red Sox,1557.8,4.4,56.9
+2026-07-31,823999,Los Angeles Angels,1455.5,Milwaukee Brewers,1569.4,-113.9,36.2
+2026-07-31,824164,Houston Astros,1502.6,Texas Rangers,1509.6,-7.0,54.3
+2026-07-31,824325,Colorado Rockies,1430.4,Kansas City Royals,1473.3,-42.9,48.1
+2026-07-31,824407,Cleveland Guardians,1518.9,Arizona Diamondbacks,1520.3,-1.4,52.7
+2026-07-31,824486,Cincinnati Reds,1496.4,Pittsburgh Pirates,1514.9,-18.5,49.9
+2026-07-31,824651,Chicago Cubs,1553.8,New York Yankees,1543.7,10.1,53.8
+2026-07-31,824809,Baltimore Orioles,1521.5,Philadelphia Phillies,1520.9,0.6,49.9
+2026-07-31,824892,Atlanta Braves,1534.1,Washington Nationals,1503.3,30.8,57.3
+2026-07-31,824975,Athletics,1445.4,Detroit Tigers,1517.0,-71.6,42.7
