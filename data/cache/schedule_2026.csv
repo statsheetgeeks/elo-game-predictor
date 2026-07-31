@@ -1643,18 +1643,18 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824568,2026-07-30,2026,Final,Chicago White Sox,New York Yankees,2.0,1.0,Sean Burke,Ryan Weathers
 824894,2026-07-30,2026,Final,Atlanta Braves,Washington Nationals,5.0,4.0,Grant Holmes,Jake Irvin
 824974,2026-07-30,2026,Final,Athletics,Boston Red Sox,4.0,5.0,Mason Barnett,Sonny Gray
-822782,2026-07-31,2026,Preview,Toronto Blue Jays,St. Louis Cardinals,,,Dylan Cease,Kyle Leahy
-822945,2026-07-31,2026,Preview,Tampa Bay Rays,Chicago White Sox,,,Nick Martinez,Erick Fedde
+822782,2026-07-31,2026,Preview,Toronto Blue Jays,St. Louis Cardinals,0.0,0.0,Dylan Cease,Kyle Leahy
+822945,2026-07-31,2026,Preview,Tampa Bay Rays,Chicago White Sox,0.0,0.0,Nick Martinez,Erick Fedde
 823111,2026-07-31,2026,Preview,Seattle Mariners,Minnesota Twins,,,Bryce Miller,Zebby Matthews
 823272,2026-07-31,2026,Preview,San Diego Padres,San Francisco Giants,,,Bradgley Rodriguez,Carson Whisenhunt
-823593,2026-07-31,2026,Preview,New York Mets,Miami Marlins,,,Freddy Peralta,Janson Junk
+823593,2026-07-31,2026,Preview,New York Mets,Miami Marlins,0.0,0.0,Kodai Senga,Janson Junk
 823922,2026-07-31,2026,Preview,Los Angeles Dodgers,Boston Red Sox,,,Edgardo Henriquez,Ranger Suarez
 823999,2026-07-31,2026,Preview,Los Angeles Angels,Milwaukee Brewers,,,Ryan Johnson,Shane Drohan
-824164,2026-07-31,2026,Preview,Houston Astros,Texas Rangers,,,Hunter Brown,Nathan Eovaldi
-824325,2026-07-31,2026,Preview,Colorado Rockies,Kansas City Royals,,,Tomoyuki Sugano,Michael Wacha
-824407,2026-07-31,2026,Preview,Cleveland Guardians,Arizona Diamondbacks,,,Tanner Bibee,Mitch Bratt
-824486,2026-07-31,2026,Preview,Cincinnati Reds,Pittsburgh Pirates,,,Hunter Greene,Paul Skenes
-824651,2026-07-31,2026,Preview,Chicago Cubs,New York Yankees,0.0,0.0,Shota Imanaga,Will Warren
-824809,2026-07-31,2026,Preview,Baltimore Orioles,Philadelphia Phillies,,,Brandon Young,
-824892,2026-07-31,2026,Preview,Atlanta Braves,Washington Nationals,,,Bryce Elder,Foster Griffin
+824164,2026-07-31,2026,Preview,Houston Astros,Texas Rangers,0.0,0.0,Hunter Brown,Nathan Eovaldi
+824325,2026-07-31,2026,Preview,Colorado Rockies,Kansas City Royals,0.0,0.0,Tomoyuki Sugano,Michael Wacha
+824407,2026-07-31,2026,Preview,Cleveland Guardians,Arizona Diamondbacks,0.0,0.0,Tanner Bibee,Mitch Bratt
+824486,2026-07-31,2026,Preview,Cincinnati Reds,Pittsburgh Pirates,0.0,0.0,Hunter Greene,Paul Skenes
+824651,2026-07-31,2026,Final,Chicago Cubs,New York Yankees,0.0,2.0,Shota Imanaga,Will Warren
+824809,2026-07-31,2026,Preview,Baltimore Orioles,Philadelphia Phillies,0.0,0.0,Brandon Young,Andrew Painter
+824892,2026-07-31,2026,Preview,Atlanta Braves,Washington Nationals,0.0,0.0,Bryce Elder,Foster Griffin
 824975,2026-07-31,2026,Preview,Athletics,Detroit Tigers,,,Jeffrey Springs,

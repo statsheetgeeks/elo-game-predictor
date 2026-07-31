@@ -248,7 +248,7 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-07-31,824325,Colorado Rockies,Kansas City Royals,Kansas City Royals,48.1,Kansas City Royals,45-50%,,,
 2026-07-31,824407,Cleveland Guardians,Arizona Diamondbacks,Arizona Diamondbacks,52.7,Cleveland Guardians,50-55%,,,
 2026-07-31,824486,Cincinnati Reds,Pittsburgh Pirates,Pittsburgh Pirates,49.9,Pittsburgh Pirates,45-50%,,,
-2026-07-31,824651,Chicago Cubs,New York Yankees,Chicago Cubs,53.8,Chicago Cubs,50-55%,,,
+2026-07-31,824651,Chicago Cubs,New York Yankees,Chicago Cubs,53.8,Chicago Cubs,50-55%,New York Yankees,False,False
 2026-07-31,824809,Baltimore Orioles,Philadelphia Phillies,Baltimore Orioles,49.9,Philadelphia Phillies,45-50%,,,
 2026-07-31,824892,Atlanta Braves,Washington Nationals,Atlanta Braves,57.3,Atlanta Braves,55-60%,,,
 2026-07-31,824975,Athletics,Detroit Tigers,Detroit Tigers,42.7,Detroit Tigers,40-45%,,,

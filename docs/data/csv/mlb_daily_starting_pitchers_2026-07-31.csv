@@ -1,29 +1,30 @@
 as_of_date,rank,team,pitcher,rating,opponent
-2026-07-31,1,Boston Red Sox,Ranger Suarez,1567.9,Los Angeles Dodgers
-2026-07-31,2,Cleveland Guardians,Tanner Bibee,1567.2,Arizona Diamondbacks
-2026-07-31,3,New York Mets,Freddy Peralta,1567.1,Miami Marlins
-2026-07-31,4,Chicago Cubs,Shota Imanaga,1566.8,New York Yankees
-2026-07-31,5,Texas Rangers,Nathan Eovaldi,1561.3,Houston Astros
-2026-07-31,6,Toronto Blue Jays,Dylan Cease,1559.2,St. Louis Cardinals
-2026-07-31,7,Pittsburgh Pirates,Paul Skenes,1557.7,Cincinnati Reds
-2026-07-31,8,Tampa Bay Rays,Nick Martinez,1557.4,Chicago White Sox
-2026-07-31,9,Kansas City Royals,Michael Wacha,1549.5,Colorado Rockies
-2026-07-31,10,Houston Astros,Hunter Brown,1538.6,Texas Rangers
-2026-07-31,11,Cincinnati Reds,Hunter Greene,1528.8,Pittsburgh Pirates
-2026-07-31,12,Colorado Rockies,Tomoyuki Sugano,1522.6,Kansas City Royals
-2026-07-31,13,Seattle Mariners,Bryce Miller,1517.4,Minnesota Twins
-2026-07-31,14,Atlanta Braves,Bryce Elder,1514.0,Washington Nationals
-2026-07-31,15,St. Louis Cardinals,Kyle Leahy,1511.1,Toronto Blue Jays
-2026-07-31,16,Washington Nationals,Foster Griffin,1510.2,Atlanta Braves
-2026-07-31,17,San Diego Padres,Bradgley Rodriguez,1505.8,San Francisco Giants
-2026-07-31,18,San Francisco Giants,Carson Whisenhunt,1503.8,San Diego Padres
-2026-07-31,19,Baltimore Orioles,Brandon Young,1502.7,Philadelphia Phillies
-2026-07-31,20,Miami Marlins,Janson Junk,1501.4,New York Mets
-2026-07-31,21,Arizona Diamondbacks,Mitch Bratt,1501.4,Cleveland Guardians
+2026-07-31,1,Cleveland Guardians,Tanner Bibee,1571.9,Arizona Diamondbacks
+2026-07-31,2,Boston Red Sox,Ranger Suarez,1567.9,Los Angeles Dodgers
+2026-07-31,3,Texas Rangers,Nathan Eovaldi,1565.6,Houston Astros
+2026-07-31,4,Chicago Cubs,Shota Imanaga,1565.0,New York Yankees
+2026-07-31,5,Toronto Blue Jays,Dylan Cease,1563.1,St. Louis Cardinals
+2026-07-31,6,Tampa Bay Rays,Nick Martinez,1561.9,Chicago White Sox
+2026-07-31,7,Pittsburgh Pirates,Paul Skenes,1561.5,Cincinnati Reds
+2026-07-31,8,Kansas City Royals,Michael Wacha,1552.1,Colorado Rockies
+2026-07-31,9,Houston Astros,Hunter Brown,1542.8,Texas Rangers
+2026-07-31,10,New York Mets,Kodai Senga,1534.4,Miami Marlins
+2026-07-31,11,Cincinnati Reds,Hunter Greene,1533.2,Pittsburgh Pirates
+2026-07-31,12,Colorado Rockies,Tomoyuki Sugano,1525.9,Kansas City Royals
+2026-07-31,13,Atlanta Braves,Bryce Elder,1518.4,Washington Nationals
+2026-07-31,14,Seattle Mariners,Bryce Miller,1517.4,Minnesota Twins
+2026-07-31,15,Washington Nationals,Foster Griffin,1514.8,Atlanta Braves
+2026-07-31,16,St. Louis Cardinals,Kyle Leahy,1514.7,Toronto Blue Jays
+2026-07-31,17,Baltimore Orioles,Brandon Young,1506.8,Philadelphia Phillies
+2026-07-31,18,San Diego Padres,Bradgley Rodriguez,1505.8,San Francisco Giants
+2026-07-31,19,Arizona Diamondbacks,Mitch Bratt,1505.6,Cleveland Guardians
+2026-07-31,20,Miami Marlins,Janson Junk,1505.0,New York Mets
+2026-07-31,21,San Francisco Giants,Carson Whisenhunt,1503.8,San Diego Padres
 2026-07-31,22,Milwaukee Brewers,Shane Drohan,1498.3,Los Angeles Angels
-2026-07-31,23,Los Angeles Angels,Ryan Johnson,1493.3,Milwaukee Brewers
-2026-07-31,24,Athletics,Jeffrey Springs,1486.7,Detroit Tigers
-2026-07-31,25,Chicago White Sox,Erick Fedde,1469.1,Tampa Bay Rays
-2026-07-31,26,Minnesota Twins,Zebby Matthews,1467.9,Seattle Mariners
-2026-07-31,27,New York Yankees,Will Warren,1463.1,Chicago Cubs
-2026-07-31,28,Los Angeles Dodgers,Edgardo Henriquez,,Boston Red Sox
+2026-07-31,23,Philadelphia Phillies,Andrew Painter,1493.9,Baltimore Orioles
+2026-07-31,24,Los Angeles Angels,Ryan Johnson,1493.3,Milwaukee Brewers
+2026-07-31,25,Athletics,Jeffrey Springs,1486.7,Detroit Tigers
+2026-07-31,26,Chicago White Sox,Erick Fedde,1473.6,Tampa Bay Rays
+2026-07-31,27,Minnesota Twins,Zebby Matthews,1467.9,Seattle Mariners
+2026-07-31,28,New York Yankees,Will Warren,1463.1,Chicago Cubs
+2026-07-31,29,Los Angeles Dodgers,Edgardo Henriquez,,Boston Red Sox
