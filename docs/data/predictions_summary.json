@@ -1,13 +1,13 @@
 {
   "combined_elo_record": {
-    "wins": 139,
-    "losses": 116,
-    "pct": 54.5
+    "wins": 148,
+    "losses": 120,
+    "pct": 55.2
   },
   "home_prob_record": {
-    "wins": 140,
-    "losses": 115,
-    "pct": 54.9
+    "wins": 148,
+    "losses": 120,
+    "pct": 55.2
   },
   "calibration": [
     {
@@ -70,41 +70,41 @@
       "bucket": "35-40%",
       "range_low": 35,
       "range_high": 40,
-      "n_games": 8,
-      "avg_predicted_home_win_pct": 38.3,
-      "observed_home_win_pct": 37.5
+      "n_games": 9,
+      "avg_predicted_home_win_pct": 38.0,
+      "observed_home_win_pct": 33.3
     },
     {
       "bucket": "40-45%",
       "range_low": 40,
       "range_high": 45,
-      "n_games": 14,
+      "n_games": 15,
       "avg_predicted_home_win_pct": 43.2,
-      "observed_home_win_pct": 50.0
+      "observed_home_win_pct": 46.7
     },
     {
       "bucket": "45-50%",
       "range_low": 45,
       "range_high": 50,
-      "n_games": 52,
+      "n_games": 54,
       "avg_predicted_home_win_pct": 47.4,
-      "observed_home_win_pct": 42.3
+      "observed_home_win_pct": 42.6
     },
     {
       "bucket": "50-55%",
       "range_low": 50,
       "range_high": 55,
-      "n_games": 74,
+      "n_games": 79,
       "avg_predicted_home_win_pct": 52.4,
-      "observed_home_win_pct": 43.2
+      "observed_home_win_pct": 43.0
     },
     {
       "bucket": "55-60%",
       "range_low": 55,
       "range_high": 60,
-      "n_games": 77,
+      "n_games": 81,
       "avg_predicted_home_win_pct": 57.2,
-      "observed_home_win_pct": 63.6
+      "observed_home_win_pct": 64.2
     },
     {
       "bucket": "60-65%",
@@ -171,7 +171,7 @@
       "observed_home_win_pct": null
     }
   ],
-  "n_resolved": 255,
-  "n_pending": 13,
-  "generated_at": "2026-08-01"
+  "n_resolved": 268,
+  "n_pending": 15,
+  "generated_at": "2026-08-02"
 }
