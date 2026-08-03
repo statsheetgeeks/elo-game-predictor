@@ -1,6 +1,6 @@
 {
   "as_of_date": "2026-08-03",
-  "generated_at_utc": "2026-08-03T16:20:49.840768+00:00",
+  "generated_at_utc": "2026-08-03T20:59:05.707212+00:00",
   "model_flags": {
     "base_K": 4.790024057931767,
     "base_home_adv": 20.281754999102375,
@@ -60,7 +60,7 @@
         "primary": "#003087",
         "secondary": "#E4002C",
         "logo": "https://www.mlbstatic.com/team-logos/147.svg",
-        "combined_rating": 1544.0
+        "combined_rating": 1544.4
       },
       "away": {
         "name": "St. Louis Cardinals",
@@ -68,10 +68,10 @@
         "primary": "#C41E3A",
         "secondary": "#0C2340",
         "logo": "https://www.mlbstatic.com/team-logos/138.svg",
-        "combined_rating": 1493.6
+        "combined_rating": 1497.3
       },
-      "elo_diff": 50.4,
-      "home_win_prob": 61.6
+      "elo_diff": 47.1,
+      "home_win_prob": 61.2
     },
     {
       "game_pk": 823757,
@@ -224,11 +224,11 @@
       "team": "New York Yankees",
       "abbr": "NYY",
       "combined_rank": 5,
-      "combined_power_rating": 1544.0,
+      "combined_power_rating": 1544.4,
       "elo_rank": 5,
       "elo_rating": 1527.7,
       "home_adv": 31.8,
-      "avg_rotation_pitcher_rating": 1530.8
+      "avg_rotation_pitcher_rating": 1531.6
     },
     {
       "team": "Atlanta Braves",
@@ -365,15 +365,25 @@
       "abbr": "TEX",
       "combined_rank": 19,
       "combined_power_rating": 1500.1,
-      "elo_rank": 20,
+      "elo_rank": 21,
       "elo_rating": 1491.6,
       "home_adv": 22.2,
       "avg_rotation_pitcher_rating": 1516.1
     },
     {
+      "team": "St. Louis Cardinals",
+      "abbr": "STL",
+      "combined_rank": 20,
+      "combined_power_rating": 1497.3,
+      "elo_rank": 19,
+      "elo_rating": 1494.0,
+      "home_adv": 20.4,
+      "avg_rotation_pitcher_rating": 1506.3
+    },
+    {
       "team": "Cincinnati Reds",
       "abbr": "CIN",
-      "combined_rank": 20,
+      "combined_rank": 21,
       "combined_power_rating": 1496.9,
       "elo_rank": 22,
       "elo_rating": 1487.7,
@@ -383,22 +393,12 @@
     {
       "team": "Washington Nationals",
       "abbr": "WSH",
-      "combined_rank": 21,
+      "combined_rank": 22,
       "combined_power_rating": 1495.2,
       "elo_rank": 18,
       "elo_rating": 1499.6,
       "home_adv": 5.3,
       "avg_rotation_pitcher_rating": 1491.6
-    },
-    {
-      "team": "St. Louis Cardinals",
-      "abbr": "STL",
-      "combined_rank": 22,
-      "combined_power_rating": 1493.6,
-      "elo_rank": 21,
-      "elo_rating": 1490.7,
-      "home_adv": 20.4,
-      "avg_rotation_pitcher_rating": 1505.4
     },
     {
       "team": "Toronto Blue Jays",
@@ -415,7 +415,7 @@
       "abbr": "MIN",
       "combined_rank": 24,
       "combined_power_rating": 1487.7,
-      "elo_rank": 19,
+      "elo_rank": 20,
       "elo_rating": 1492.6,
       "home_adv": 26.9,
       "avg_rotation_pitcher_rating": 1490.7
@@ -503,7 +503,7 @@
       "team": "New York Yankees",
       "abbr": "NYY",
       "pitcher": "Cam Schlittler",
-      "rating": 1534.2,
+      "rating": 1538.1,
       "opponent": "St. Louis Cardinals"
     },
     {
@@ -527,11 +527,19 @@
       "team": "St. Louis Cardinals",
       "abbr": "STL",
       "pitcher": "Michael McGreevy",
-      "rating": 1504.0,
+      "rating": 1508.9,
       "opponent": "New York Yankees"
     },
     {
       "rank": 7,
+      "team": "Los Angeles Dodgers",
+      "abbr": "LAD",
+      "pitcher": "Justin Wrobleski",
+      "rating": 1505.5,
+      "opponent": "Chicago Cubs"
+    },
+    {
+      "rank": 8,
       "team": "Milwaukee Brewers",
       "abbr": "MIL",
       "pitcher": "Brandon Sproat",
@@ -539,7 +547,7 @@
       "opponent": "Pittsburgh Pirates"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "team": "Tampa Bay Rays",
       "abbr": "TB",
       "pitcher": "Ian Seymour",
@@ -547,7 +555,7 @@
       "opponent": "Colorado Rockies"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "team": "Washington Nationals",
       "abbr": "WSH",
       "pitcher": "Andrew Alvarez",
@@ -555,7 +563,7 @@
       "opponent": "Philadelphia Phillies"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "team": "Pittsburgh Pirates",
       "abbr": "PIT",
       "pitcher": "Bubba Chandler",
@@ -563,7 +571,7 @@
       "opponent": "Milwaukee Brewers"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "team": "Houston Astros",
       "abbr": "HOU",
       "pitcher": "Cristian Javier",
@@ -571,7 +579,7 @@
       "opponent": "Toronto Blue Jays"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "team": "Philadelphia Phillies",
       "abbr": "PHI",
       "pitcher": "Aaron Nola",
@@ -579,7 +587,7 @@
       "opponent": "Washington Nationals"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "team": "Colorado Rockies",
       "abbr": "COL",
       "pitcher": "Michael Lorenzen",
@@ -587,12 +595,20 @@
       "opponent": "Tampa Bay Rays"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "team": "Arizona Diamondbacks",
       "abbr": "ARI",
       "pitcher": "Brandon Pfaadt",
       "rating": 1482.9,
       "opponent": "San Diego Padres"
+    },
+    {
+      "rank": 16,
+      "team": "Texas Rangers",
+      "abbr": "TEX",
+      "pitcher": "Cal Quantrill",
+      "rating": 1475.7,
+      "opponent": "San Francisco Giants"
     }
   ]
 }

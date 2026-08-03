@@ -1,15 +1,17 @@
 as_of_date,rank,team,pitcher,rating,opponent
 2026-08-03,1,San Francisco Giants,Logan Webb,1586.7,Texas Rangers
 2026-08-03,2,Toronto Blue Jays,Shane Bieber,1567.6,Houston Astros
-2026-08-03,3,New York Yankees,Cam Schlittler,1534.2,St. Louis Cardinals
+2026-08-03,3,New York Yankees,Cam Schlittler,1538.1,St. Louis Cardinals
 2026-08-03,4,San Diego Padres,Michael King,1533.9,Arizona Diamondbacks
 2026-08-03,5,Chicago Cubs,Matthew Boyd,1519.5,Los Angeles Dodgers
-2026-08-03,6,St. Louis Cardinals,Michael McGreevy,1504.0,New York Yankees
-2026-08-03,7,Milwaukee Brewers,Brandon Sproat,1502.9,Pittsburgh Pirates
-2026-08-03,8,Tampa Bay Rays,Ian Seymour,1502.0,Colorado Rockies
-2026-08-03,9,Washington Nationals,Andrew Alvarez,1501.6,Philadelphia Phillies
-2026-08-03,10,Pittsburgh Pirates,Bubba Chandler,1498.1,Milwaukee Brewers
-2026-08-03,11,Houston Astros,Cristian Javier,1495.1,Toronto Blue Jays
-2026-08-03,12,Philadelphia Phillies,Aaron Nola,1489.8,Washington Nationals
-2026-08-03,13,Colorado Rockies,Michael Lorenzen,1484.1,Tampa Bay Rays
-2026-08-03,14,Arizona Diamondbacks,Brandon Pfaadt,1482.9,San Diego Padres
+2026-08-03,6,St. Louis Cardinals,Michael McGreevy,1508.9,New York Yankees
+2026-08-03,7,Los Angeles Dodgers,Justin Wrobleski,1505.5,Chicago Cubs
+2026-08-03,8,Milwaukee Brewers,Brandon Sproat,1502.9,Pittsburgh Pirates
+2026-08-03,9,Tampa Bay Rays,Ian Seymour,1502.0,Colorado Rockies
+2026-08-03,10,Washington Nationals,Andrew Alvarez,1501.6,Philadelphia Phillies
+2026-08-03,11,Pittsburgh Pirates,Bubba Chandler,1498.1,Milwaukee Brewers
+2026-08-03,12,Houston Astros,Cristian Javier,1495.1,Toronto Blue Jays
+2026-08-03,13,Philadelphia Phillies,Aaron Nola,1489.8,Washington Nationals
+2026-08-03,14,Colorado Rockies,Michael Lorenzen,1484.1,Tampa Bay Rays
+2026-08-03,15,Arizona Diamondbacks,Brandon Pfaadt,1482.9,San Diego Padres
+2026-08-03,16,Texas Rangers,Cal Quantrill,1475.7,San Francisco Giants

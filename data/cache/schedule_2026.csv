@@ -1688,11 +1688,11 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824807,2026-08-02,2026,Final,Baltimore Orioles,Philadelphia Phillies,0.0,8.0,Kyle Bradish,Zack Wheeler
 824891,2026-08-02,2026,Final,Atlanta Braves,Washington Nationals,4.0,2.0,JR Ritchie,Cade Cavalli
 824971,2026-08-02,2026,Final,Athletics,Detroit Tigers,0.0,11.0,Gage Jump,Keider Montero
-822867,2026-08-03,2026,Preview,Texas Rangers,San Francisco Giants,,,,Logan Webb
+822867,2026-08-03,2026,Preview,Texas Rangers,San Francisco Giants,,,Cal Quantrill,Logan Webb
 823431,2026-08-03,2026,Preview,Philadelphia Phillies,Washington Nationals,,,Aaron Nola,Andrew Alvarez
-823520,2026-08-03,2026,Preview,New York Yankees,St. Louis Cardinals,,,Cam Schlittler,Michael McGreevy
+823520,2026-08-03,2026,Preview,New York Yankees,St. Louis Cardinals,0.0,0.0,Cam Schlittler,Michael McGreevy
 823757,2026-08-03,2026,Preview,Milwaukee Brewers,Pittsburgh Pirates,,,Brandon Sproat,Bubba Chandler
 824160,2026-08-03,2026,Preview,Houston Astros,Toronto Blue Jays,,,Cristian Javier,Shane Bieber
 824324,2026-08-03,2026,Preview,Colorado Rockies,Tampa Bay Rays,,,Michael Lorenzen,Ian Seymour
-824647,2026-08-03,2026,Preview,Chicago Cubs,Los Angeles Dodgers,,,Matthew Boyd,
+824647,2026-08-03,2026,Preview,Chicago Cubs,Los Angeles Dodgers,,,Matthew Boyd,Justin Wrobleski
 825095,2026-08-03,2026,Preview,Arizona Diamondbacks,San Diego Padres,,,Brandon Pfaadt,Michael King

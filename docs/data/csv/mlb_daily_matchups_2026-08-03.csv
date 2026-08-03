@@ -1,7 +1,7 @@
 as_of_date,game_pk,home_team,home_combined_rating,away_team,away_combined_rating,elo_diff,home_win_prob
 2026-08-03,822867,Texas Rangers,1500.1,San Francisco Giants,1472.5,27.6,57.1
 2026-08-03,823431,Philadelphia Phillies,1526.7,Washington Nationals,1495.2,31.5,58.7
-2026-08-03,823520,New York Yankees,1544.0,St. Louis Cardinals,1493.6,50.4,61.6
+2026-08-03,823520,New York Yankees,1544.4,St. Louis Cardinals,1497.3,47.1,61.2
 2026-08-03,823757,Milwaukee Brewers,1569.4,Pittsburgh Pirates,1510.8,58.6,60.8
 2026-08-03,824160,Houston Astros,1503.1,Toronto Blue Jays,1491.3,11.8,56.9
 2026-08-03,824324,Colorado Rockies,1430.4,Tampa Bay Rays,1523.0,-92.6,41.1
