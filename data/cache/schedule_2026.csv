@@ -1675,16 +1675,24 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824972,2026-08-01,2026,Final,Athletics,Detroit Tigers,6.0,8.0,Jack Perkins,Framber Valdez
 822783,2026-08-02,2026,Final,Toronto Blue Jays,St. Louis Cardinals,1.0,5.0,Max Scherzer,Matthew Liberatore
 822943,2026-08-02,2026,Final,Tampa Bay Rays,Chicago White Sox,1.0,9.0,Griffin Jax,Anthony Kay
-823107,2026-08-02,2026,Live,Seattle Mariners,Minnesota Twins,2.0,0.0,George Kirby,Taj Bradley
-823270,2026-08-02,2026,Live,San Diego Padres,San Francisco Giants,2.0,0.0,Kyle Hart,Landen Roupp
+823107,2026-08-02,2026,Final,Seattle Mariners,Minnesota Twins,7.0,6.0,George Kirby,Taj Bradley
+823270,2026-08-02,2026,Final,San Diego Padres,San Francisco Giants,5.0,4.0,Kyle Hart,Landen Roupp
 823592,2026-08-02,2026,Final,New York Mets,Miami Marlins,0.0,2.0,Robert Stock,Sandy Alcantara
-823919,2026-08-02,2026,Preview,Los Angeles Dodgers,Boston Red Sox,0.0,0.0,Emmet Sheehan,Jake Bennett
-823996,2026-08-02,2026,Live,Los Angeles Angels,Milwaukee Brewers,2.0,0.0,Walbert Ureña,Jacob Misiorowski
-824163,2026-08-02,2026,Live,Houston Astros,Texas Rangers,7.0,3.0,Peter Lambert,Kumar Rocker
-824323,2026-08-02,2026,Live,Colorado Rockies,Kansas City Royals,2.0,1.0,Kyle Freeland,Seth Lugo
-824404,2026-08-02,2026,Live,Cleveland Guardians,Arizona Diamondbacks,5.0,0.0,Gavin Williams,Merrill Kelly
-824483,2026-08-02,2026,Live,Cincinnati Reds,Pittsburgh Pirates,9.0,2.0,Chase Burns,Mitch Keller
-824648,2026-08-02,2026,Live,Chicago Cubs,New York Yankees,1.0,2.0,Colin Rea,Gerrit Cole
-824807,2026-08-02,2026,Live,Baltimore Orioles,Philadelphia Phillies,0.0,4.0,Kyle Bradish,Zack Wheeler
+823919,2026-08-02,2026,Final,Los Angeles Dodgers,Boston Red Sox,4.0,8.0,Emmet Sheehan,Jake Bennett
+823996,2026-08-02,2026,Final,Los Angeles Angels,Milwaukee Brewers,3.0,0.0,Walbert Ureña,Jacob Misiorowski
+824163,2026-08-02,2026,Final,Houston Astros,Texas Rangers,7.0,3.0,Peter Lambert,Kumar Rocker
+824323,2026-08-02,2026,Final,Colorado Rockies,Kansas City Royals,8.0,1.0,Kyle Freeland,Seth Lugo
+824404,2026-08-02,2026,Final,Cleveland Guardians,Arizona Diamondbacks,5.0,0.0,Gavin Williams,Merrill Kelly
+824483,2026-08-02,2026,Final,Cincinnati Reds,Pittsburgh Pirates,10.0,2.0,Chase Burns,Mitch Keller
+824648,2026-08-02,2026,Final,Chicago Cubs,New York Yankees,1.0,2.0,Colin Rea,Gerrit Cole
+824807,2026-08-02,2026,Final,Baltimore Orioles,Philadelphia Phillies,0.0,8.0,Kyle Bradish,Zack Wheeler
 824891,2026-08-02,2026,Final,Atlanta Braves,Washington Nationals,4.0,2.0,JR Ritchie,Cade Cavalli
-824971,2026-08-02,2026,Live,Athletics,Detroit Tigers,0.0,2.0,Gage Jump,Keider Montero
+824971,2026-08-02,2026,Final,Athletics,Detroit Tigers,0.0,11.0,Gage Jump,Keider Montero
+822867,2026-08-03,2026,Preview,Texas Rangers,San Francisco Giants,,,,Logan Webb
+823431,2026-08-03,2026,Preview,Philadelphia Phillies,Washington Nationals,,,Aaron Nola,Andrew Alvarez
+823520,2026-08-03,2026,Preview,New York Yankees,St. Louis Cardinals,,,Cam Schlittler,Michael McGreevy
+823757,2026-08-03,2026,Preview,Milwaukee Brewers,Pittsburgh Pirates,,,Brandon Sproat,Bubba Chandler
+824160,2026-08-03,2026,Preview,Houston Astros,Toronto Blue Jays,,,Cristian Javier,Shane Bieber
+824324,2026-08-03,2026,Preview,Colorado Rockies,Tampa Bay Rays,,,Michael Lorenzen,Ian Seymour
+824647,2026-08-03,2026,Preview,Chicago Cubs,Los Angeles Dodgers,,,Matthew Boyd,
+825095,2026-08-03,2026,Preview,Arizona Diamondbacks,San Diego Padres,,,Brandon Pfaadt,Michael King
