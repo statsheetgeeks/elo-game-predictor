@@ -1,16 +1,16 @@
 as_of_date,game_pk,home_team,home_combined_rating,away_team,away_combined_rating,elo_diff,home_win_prob
-2026-08-04,822865,Texas Rangers,1499.9,San Francisco Giants,1476.4,23.5,56.5
+2026-08-04,822865,Texas Rangers,1500.0,San Francisco Giants,1479.0,21.0,56.2
 2026-08-04,823108,Seattle Mariners,1506.8,Detroit Tigers,1523.1,-16.3,51.6
 2026-08-04,823432,Philadelphia Phillies,1526.6,Washington Nationals,1492.5,34.1,59.1
-2026-08-04,823517,New York Yankees,1543.1,St. Louis Cardinals,1497.9,45.2,60.9
+2026-08-04,823517,New York Yankees,1543.4,St. Louis Cardinals,1501.2,42.2,60.5
 2026-08-04,823756,Milwaukee Brewers,1569.4,Pittsburgh Pirates,1514.6,54.8,60.3
-2026-08-04,824084,Kansas City Royals,1461.4,Minnesota Twins,1487.7,-26.3,48.8
-2026-08-04,824161,Houston Astros,1503.1,Toronto Blue Jays,1496.0,7.1,56.3
+2026-08-04,824084,Kansas City Royals,1461.4,Minnesota Twins,1490.2,-28.8,48.4
+2026-08-04,824161,Houston Astros,1503.1,Toronto Blue Jays,1499.3,3.8,55.8
 2026-08-04,824321,Colorado Rockies,1429.6,Tampa Bay Rays,1527.0,-97.4,40.4
-2026-08-04,824403,Cleveland Guardians,1519.1,New York Mets,1480.6,38.5,58.4
-2026-08-04,824484,Cincinnati Reds,1496.9,Athletics,1444.1,52.8,60.1
+2026-08-04,824403,Cleveland Guardians,1519.5,New York Mets,1484.1,35.4,57.9
+2026-08-04,824484,Cincinnati Reds,1497.1,Athletics,1435.1,62.0,61.3
 2026-08-04,824645,Chicago Cubs,1553.7,Los Angeles Dodgers,1547.9,5.8,53.2
-2026-08-04,824731,Boston Red Sox,1568.9,Chicago White Sox,1518.9,50.0,59.7
-2026-08-04,824805,Baltimore Orioles,1521.4,Los Angeles Angels,1456.4,65.0,59.1
-2026-08-04,824888,Atlanta Braves,1534.2,Miami Marlins,1518.0,16.2,55.2
+2026-08-04,824731,Boston Red Sox,1568.8,Chicago White Sox,1522.4,46.4,59.2
+2026-08-04,824805,Baltimore Orioles,1521.2,Los Angeles Angels,1451.9,69.3,59.7
+2026-08-04,824888,Atlanta Braves,1534.6,Miami Marlins,1521.1,13.5,54.8
 2026-08-04,825054,Arizona Diamondbacks,1523.7,San Diego Padres,1513.7,10.0,53.7
