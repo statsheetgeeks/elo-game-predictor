@@ -1688,11 +1688,26 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824807,2026-08-02,2026,Final,Baltimore Orioles,Philadelphia Phillies,0.0,8.0,Kyle Bradish,Zack Wheeler
 824891,2026-08-02,2026,Final,Atlanta Braves,Washington Nationals,4.0,2.0,JR Ritchie,Cade Cavalli
 824971,2026-08-02,2026,Final,Athletics,Detroit Tigers,0.0,11.0,Gage Jump,Keider Montero
-822867,2026-08-03,2026,Preview,Texas Rangers,San Francisco Giants,,,Cal Quantrill,Logan Webb
-823431,2026-08-03,2026,Preview,Philadelphia Phillies,Washington Nationals,,,Aaron Nola,Andrew Alvarez
-823520,2026-08-03,2026,Preview,New York Yankees,St. Louis Cardinals,0.0,0.0,Cam Schlittler,Michael McGreevy
-823757,2026-08-03,2026,Preview,Milwaukee Brewers,Pittsburgh Pirates,,,Brandon Sproat,Bubba Chandler
-824160,2026-08-03,2026,Preview,Houston Astros,Toronto Blue Jays,,,Cristian Javier,Shane Bieber
-824324,2026-08-03,2026,Preview,Colorado Rockies,Tampa Bay Rays,,,Michael Lorenzen,Ian Seymour
-824647,2026-08-03,2026,Preview,Chicago Cubs,Los Angeles Dodgers,,,Matthew Boyd,Justin Wrobleski
-825095,2026-08-03,2026,Preview,Arizona Diamondbacks,San Diego Padres,,,Brandon Pfaadt,Michael King
+822867,2026-08-03,2026,Final,Texas Rangers,San Francisco Giants,1.0,5.0,Cal Quantrill,Logan Webb
+823431,2026-08-03,2026,Final,Philadelphia Phillies,Washington Nationals,6.0,3.0,Aaron Nola,Andrew Alvarez
+823520,2026-08-03,2026,Final,New York Yankees,St. Louis Cardinals,7.0,13.0,Cam Schlittler,Michael McGreevy
+823757,2026-08-03,2026,Final,Milwaukee Brewers,Pittsburgh Pirates,3.0,4.0,Brandon Sproat,Bubba Chandler
+824160,2026-08-03,2026,Final,Houston Astros,Toronto Blue Jays,1.0,3.0,Cristian Javier,Shane Bieber
+824324,2026-08-03,2026,Final,Colorado Rockies,Tampa Bay Rays,9.0,13.0,Michael Lorenzen,Ian Seymour
+824647,2026-08-03,2026,Final,Chicago Cubs,Los Angeles Dodgers,10.0,5.0,Matthew Boyd,Justin Wrobleski
+825095,2026-08-03,2026,Final,Arizona Diamondbacks,San Diego Padres,5.0,1.0,Brandon Pfaadt,Michael King
+822865,2026-08-04,2026,Preview,Texas Rangers,San Francisco Giants,,,MacKenzie Gore,Blade Tidwell
+823108,2026-08-04,2026,Preview,Seattle Mariners,Detroit Tigers,,,Emerson Hancock,
+823432,2026-08-04,2026,Preview,Philadelphia Phillies,Washington Nationals,,,Jesús Luzardo,Zack Littell
+823517,2026-08-04,2026,Preview,New York Yankees,St. Louis Cardinals,,,Ryan Weathers,Hunter Dobbins
+823756,2026-08-04,2026,Preview,Milwaukee Brewers,Pittsburgh Pirates,,,Logan Henderson,Jared Jones
+824084,2026-08-04,2026,Preview,Kansas City Royals,Minnesota Twins,,,Randy Dobnak,Joe Ryan
+824161,2026-08-04,2026,Preview,Houston Astros,Toronto Blue Jays,,,Hayden Wesneski,Trey Yesavage
+824321,2026-08-04,2026,Preview,Colorado Rockies,Tampa Bay Rays,,,Gabriel Hughes,Freddy Peralta
+824403,2026-08-04,2026,Preview,Cleveland Guardians,New York Mets,,,Joey Cantillo,Sean Manaea
+824484,2026-08-04,2026,Preview,Cincinnati Reds,Athletics,,,Brady Singer,J.T. Ginn
+824645,2026-08-04,2026,Preview,Chicago Cubs,Los Angeles Dodgers,,,Javier Assad,Tarik Skubal
+824731,2026-08-04,2026,Preview,Boston Red Sox,Chicago White Sox,,,Patrick Sandoval,Davis Martin
+824805,2026-08-04,2026,Preview,Baltimore Orioles,Los Angeles Angels,,,,Grayson Rodriguez
+824888,2026-08-04,2026,Preview,Atlanta Braves,Miami Marlins,,,Grant Holmes,Ryan Gusto
+825054,2026-08-04,2026,Preview,Arizona Diamondbacks,San Diego Padres,,,Eduardo Rodriguez,Randy Vásquez
