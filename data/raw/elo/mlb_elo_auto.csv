@@ -14775,4 +14775,15 @@ date,season,game_pk,home_team,away_team,home_pitcher,away_pitcher,home_elo_pre,a
 2026-08-04,2026,824805,Baltimore Orioles,Los Angeles Angels,Cade Povich,Grayson Rodriguez,1507.7,1456.3,38.1,0.5547,0.4453,1510.1,1453.9,3,1,1
 2026-08-04,2026,824888,Atlanta Braves,Miami Marlins,Grant Holmes,Ryan Gusto,1527.5,1512.8,54.6,0.5779,0.4221,1529.7,1510.6,4,2,1
 2026-08-04,2026,825054,Arizona Diamondbacks,San Diego Padres,Eduardo Rodriguez,Randy Vásquez,1525.3,1508.5,30.2,0.5433,0.4567,1521.5,1512.4,4,9,0
-2026-08-05,2026,822866,Texas Rangers,San Francisco Giants,Cody Bradford,Carson Whisenhunt,1490.5,1457.2,53.5,0.5764,0.4236,1487.5,1460.2,0,0,0
+2026-08-05,2026,822866,Texas Rangers,San Francisco Giants,Cody Bradford,Carson Whisenhunt,1490.5,1457.2,53.5,0.5764,0.4236,1493.4,1454.4,5,0,1
+2026-08-05,2026,823429,Philadelphia Phillies,Washington Nationals,Andrew Painter,Jake Irvin,1511.7,1494.2,59.2,0.5843,0.4157,1508.7,1497.2,0,0,0
+2026-08-05,2026,823516,New York Yankees,St. Louis Cardinals,Will Warren,Andre Pallante,1525.2,1493.1,31.8,0.5456,0.4544,1522.5,1495.9,0,0,0
+2026-08-05,2026,824082,Kansas City Royals,Minnesota Twins,Noah Cameron,Dean Kremer,1459.3,1488.6,-11.6,0.4833,0.5167,1457.0,1490.9,0,0,0
+2026-08-05,2026,824158,Houston Astros,Toronto Blue Jays,Hunter Brown,Jameson Taillon,1512.7,1481.1,66.8,0.5949,0.4051,1509.1,1484.6,3,5,0
+2026-08-05,2026,824322,Colorado Rockies,Tampa Bay Rays,Tomoyuki Sugano,Nick Martinez,1449.8,1513.8,-50.8,0.4273,0.5727,1447.3,1516.2,0,3,0
+2026-08-05,2026,824402,Cleveland Guardians,New York Mets,Tanner Bibee,Christian Scott,1494.8,1474.5,72.5,0.6029,0.3971,1491.6,1477.7,0,0,0
+2026-08-05,2026,824482,Cincinnati Reds,Athletics,Rhett Lowder,Jacob Lopez,1492.4,1438.0,82.3,0.6162,0.3838,1489.1,1441.3,0,0,0
+2026-08-05,2026,824646,Chicago Cubs,Los Angeles Dodgers,Shota Imanaga,Eric Lauer,1546.5,1533.0,57.3,0.5818,0.4182,1549.5,1529.9,7,1,1
+2026-08-05,2026,824728,Boston Red Sox,Chicago White Sox,Sonny Gray,Sean Burke,1555.7,1514.5,86.3,0.6217,0.3783,1552.3,1517.9,0,0,0
+2026-08-05,2026,824806,Baltimore Orioles,Los Angeles Angels,Trevor Rogers,Reid Detmers,1510.1,1453.9,61.5,0.5875,0.4125,1507.0,1457.0,0,0,0
+2026-08-05,2026,824889,Atlanta Braves,Miami Marlins,Bryce Elder,Eury Pérez,1529.7,1510.6,48.9,0.5699,0.4301,1526.7,1513.5,0,0,0

@@ -1711,18 +1711,18 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824805,2026-08-04,2026,Final,Baltimore Orioles,Los Angeles Angels,3.0,1.0,Cade Povich,Grayson Rodriguez
 824888,2026-08-04,2026,Final,Atlanta Braves,Miami Marlins,4.0,2.0,Grant Holmes,Ryan Gusto
 825054,2026-08-04,2026,Final,Arizona Diamondbacks,San Diego Padres,4.0,9.0,Eduardo Rodriguez,Randy Vásquez
-822866,2026-08-05,2026,Preview,Texas Rangers,San Francisco Giants,0.0,0.0,Cody Bradford,Carson Whisenhunt
+822866,2026-08-05,2026,Live,Texas Rangers,San Francisco Giants,5.0,0.0,Cody Bradford,Carson Whisenhunt
 823106,2026-08-05,2026,Preview,Seattle Mariners,Detroit Tigers,,,Bryan Woo,Drew Anderson
-823429,2026-08-05,2026,Preview,Philadelphia Phillies,Washington Nationals,,,Andrew Painter,Jake Irvin
-823516,2026-08-05,2026,Preview,New York Yankees,St. Louis Cardinals,,,Will Warren,Andre Pallante
+823429,2026-08-05,2026,Preview,Philadelphia Phillies,Washington Nationals,0.0,0.0,Andrew Painter,Jake Irvin
+823516,2026-08-05,2026,Preview,New York Yankees,St. Louis Cardinals,0.0,0.0,Will Warren,Andre Pallante
 823753,2026-08-05,2026,Preview,Milwaukee Brewers,Pittsburgh Pirates,,,Kyle Harrison,Paul Skenes
-824082,2026-08-05,2026,Preview,Kansas City Royals,Minnesota Twins,,,Noah Cameron,Dean Kremer
-824158,2026-08-05,2026,Preview,Houston Astros,Toronto Blue Jays,,,Hunter Brown,Jameson Taillon
-824322,2026-08-05,2026,Preview,Colorado Rockies,Tampa Bay Rays,,,Tomoyuki Sugano,Nick Martinez
-824402,2026-08-05,2026,Preview,Cleveland Guardians,New York Mets,,,Tanner Bibee,Christian Scott
-824482,2026-08-05,2026,Preview,Cincinnati Reds,Athletics,,,Rhett Lowder,Jacob Lopez
-824646,2026-08-05,2026,Preview,Chicago Cubs,Los Angeles Dodgers,,,Shota Imanaga,Eric Lauer
-824728,2026-08-05,2026,Preview,Boston Red Sox,Chicago White Sox,,,Sonny Gray,Sean Burke
-824806,2026-08-05,2026,Preview,Baltimore Orioles,Los Angeles Angels,,,Trevor Rogers,Reid Detmers
-824889,2026-08-05,2026,Preview,Atlanta Braves,Miami Marlins,,,Bryce Elder,Eury Pérez
+824082,2026-08-05,2026,Preview,Kansas City Royals,Minnesota Twins,0.0,0.0,Noah Cameron,Dean Kremer
+824158,2026-08-05,2026,Live,Houston Astros,Toronto Blue Jays,3.0,5.0,Hunter Brown,Jameson Taillon
+824322,2026-08-05,2026,Live,Colorado Rockies,Tampa Bay Rays,0.0,3.0,Tomoyuki Sugano,Nick Martinez
+824402,2026-08-05,2026,Preview,Cleveland Guardians,New York Mets,0.0,0.0,Tanner Bibee,Christian Scott
+824482,2026-08-05,2026,Preview,Cincinnati Reds,Athletics,0.0,0.0,Rhett Lowder,Jacob Lopez
+824646,2026-08-05,2026,Live,Chicago Cubs,Los Angeles Dodgers,7.0,1.0,Shota Imanaga,Eric Lauer
+824728,2026-08-05,2026,Preview,Boston Red Sox,Chicago White Sox,0.0,0.0,Sonny Gray,Sean Burke
+824806,2026-08-05,2026,Preview,Baltimore Orioles,Los Angeles Angels,0.0,0.0,Trevor Rogers,Reid Detmers
+824889,2026-08-05,2026,Preview,Atlanta Braves,Miami Marlins,0.0,0.0,Bryce Elder,Eury Pérez
 825052,2026-08-05,2026,Preview,Arizona Diamondbacks,San Diego Padres,,,Mitch Bratt,Casey Mize
