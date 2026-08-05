@@ -14760,12 +14760,19 @@ date,season,game_pk,home_team,away_team,home_pitcher,away_pitcher,home_elo_pre,a
 2026-08-03,2026,824324,Colorado Rockies,Tampa Bay Rays,Michael Lorenzen,Ian Seymour,1454.7,1508.9,-33.8,0.4514,0.5486,1451.9,1511.7,9,13,0
 2026-08-03,2026,824647,Chicago Cubs,Los Angeles Dodgers,Matthew Boyd,Justin Wrobleski,1539.9,1539.6,23.9,0.5343,0.4657,1543.1,1536.4,10,5,1
 2026-08-03,2026,825095,Arizona Diamondbacks,San Diego Padres,Brandon Pfaadt,Michael King,1522.0,1511.8,-1.1,0.4984,0.5016,1525.3,1508.5,5,1,1
-2026-08-04,2026,822865,Texas Rangers,San Francisco Giants,MacKenzie Gore,Blade Tidwell,1488.4,1459.4,40.9,0.5586,0.4414,1485.5,1462.2,0,0,0
-2026-08-04,2026,823517,New York Yankees,St. Louis Cardinals,Ryan Weathers,Hunter Dobbins,1523.1,1495.3,55.6,0.5794,0.4206,1520.0,1498.4,0,0,0
-2026-08-04,2026,824084,Kansas City Royals,Minnesota Twins,Randy Dobnak,Joe Ryan,1455.3,1492.6,-24.6,0.4647,0.5353,1453.2,1494.7,0,0,0
-2026-08-04,2026,824161,Houston Astros,Toronto Blue Jays,Hayden Wesneski,Trey Yesavage,1509.9,1483.9,55.1,0.5786,0.4214,1506.9,1486.9,0,0,0
-2026-08-04,2026,824403,Cleveland Guardians,New York Mets,Joey Cantillo,Sean Manaea,1499.0,1470.3,79.6,0.6126,0.3874,1495.7,1473.6,0,0,0
-2026-08-04,2026,824484,Cincinnati Reds,Athletics,Brady Singer,J.T. Ginn,1490.5,1439.9,62.1,0.5884,0.4116,1487.4,1443.0,0,0,0
-2026-08-04,2026,824731,Boston Red Sox,Chicago White Sox,Patrick Sandoval,Davis Martin,1551.2,1519.0,41.0,0.5587,0.4413,1548.4,1521.9,0,0,0
-2026-08-04,2026,824805,Baltimore Orioles,Los Angeles Angels,Cade Povich,Grayson Rodriguez,1507.7,1456.3,38.1,0.5547,0.4453,1504.9,1459.1,0,0,0
-2026-08-04,2026,824888,Atlanta Braves,Miami Marlins,Grant Holmes,Ryan Gusto,1527.5,1512.8,54.6,0.5779,0.4221,1524.5,1515.8,0,0,0
+2026-08-04,2026,822865,Texas Rangers,San Francisco Giants,MacKenzie Gore,Blade Tidwell,1488.4,1459.4,40.9,0.5586,0.4414,1490.5,1457.2,5,4,1
+2026-08-04,2026,823108,Seattle Mariners,Detroit Tigers,Emerson Hancock,Troy Melton,1484.2,1504.9,-14.0,0.4798,0.5202,1480.2,1508.9,0,8,0
+2026-08-04,2026,823432,Philadelphia Phillies,Washington Nationals,Jesús Luzardo,Carson Palmquist,1509.0,1496.9,61.2,0.5871,0.4129,1511.7,1494.2,5,0,1
+2026-08-04,2026,823517,New York Yankees,St. Louis Cardinals,Ryan Weathers,Hunter Dobbins,1523.1,1495.3,55.6,0.5794,0.4206,1525.2,1493.1,2,0,1
+2026-08-04,2026,823756,Milwaukee Brewers,Pittsburgh Pirates,Logan Henderson,Jared Jones,1557.4,1507.4,80.1,0.6133,0.3867,1559.3,1505.5,4,2,1
+2026-08-04,2026,824084,Kansas City Royals,Minnesota Twins,Randy Dobnak,Joe Ryan,1455.3,1492.6,-24.6,0.4647,0.5353,1459.3,1488.6,8,2,1
+2026-08-04,2026,824161,Houston Astros,Toronto Blue Jays,Hayden Wesneski,Trey Yesavage,1509.9,1483.9,55.1,0.5786,0.4214,1512.7,1481.1,7,2,1
+2026-08-04,2026,824321,Colorado Rockies,Tampa Bay Rays,Gabriel Hughes,Freddy Peralta,1451.9,1511.7,-66.9,0.4048,0.5952,1449.8,1513.8,7,9,0
+2026-08-04,2026,824403,Cleveland Guardians,New York Mets,Joey Cantillo,Sean Manaea,1499.0,1470.3,79.6,0.6126,0.3874,1494.8,1474.5,2,6,0
+2026-08-04,2026,824484,Cincinnati Reds,Athletics,Brady Singer,J.T. Ginn,1490.5,1439.9,62.1,0.5884,0.4116,1492.4,1438.0,5,4,1
+2026-08-04,2026,824645,Chicago Cubs,Los Angeles Dodgers,Javier Assad,Tarik Skubal,1543.1,1536.4,-17.5,0.4748,0.5252,1546.5,1533.0,5,1,1
+2026-08-04,2026,824731,Boston Red Sox,Chicago White Sox,Patrick Sandoval,Davis Martin,1551.2,1519.0,41.0,0.5587,0.4413,1555.7,1514.5,14,2,1
+2026-08-04,2026,824805,Baltimore Orioles,Los Angeles Angels,Cade Povich,Grayson Rodriguez,1507.7,1456.3,38.1,0.5547,0.4453,1510.1,1453.9,3,1,1
+2026-08-04,2026,824888,Atlanta Braves,Miami Marlins,Grant Holmes,Ryan Gusto,1527.5,1512.8,54.6,0.5779,0.4221,1529.7,1510.6,4,2,1
+2026-08-04,2026,825054,Arizona Diamondbacks,San Diego Padres,Eduardo Rodriguez,Randy Vásquez,1525.3,1508.5,30.2,0.5433,0.4567,1521.5,1512.4,4,9,0
+2026-08-05,2026,822866,Texas Rangers,San Francisco Giants,Cody Bradford,Carson Whisenhunt,1490.5,1457.2,53.5,0.5764,0.4236,1487.5,1460.2,0,0,0
