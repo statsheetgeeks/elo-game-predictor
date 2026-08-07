@@ -1726,16 +1726,16 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824889,2026-08-05,2026,Final,Atlanta Braves,Miami Marlins,4.0,1.0,Bryce Elder,Eury Pérez
 825052,2026-08-05,2026,Final,Arizona Diamondbacks,San Diego Padres,10.0,4.0,Mitch Bratt,Casey Mize
 823105,2026-08-06,2026,Final,Seattle Mariners,Detroit Tigers,0.0,11.0,Bryce Miller,Framber Valdez
-823430,2026-08-06,2026,Live,Philadelphia Phillies,Washington Nationals,7.0,3.0,Cristopher Sánchez,Miles Mikolas
+823430,2026-08-06,2026,Final,Philadelphia Phillies,Washington Nationals,7.0,3.0,Cristopher Sánchez,Miles Mikolas
 823754,2026-08-06,2026,Final,Milwaukee Brewers,Pittsburgh Pirates,5.0,2.0,Dustin May,Braxton Ashcraft
-824080,2026-08-06,2026,Live,Kansas City Royals,Minnesota Twins,2.0,1.0,Michael Wacha,Bailey Ober
+824080,2026-08-06,2026,Final,Kansas City Royals,Minnesota Twins,3.0,4.0,Michael Wacha,Bailey Ober
 824401,2026-08-06,2026,Final,Cleveland Guardians,New York Mets,6.0,13.0,Foster Griffin,Nolan McLean
 824481,2026-08-06,2026,Final,Cincinnati Reds,Athletics,6.0,5.0,Andrew Abbott,Mason Barnett
 824664,2026-08-06,2026,Final,Chicago Cubs,Toronto Blue Jays,3.0,2.0,David Peterson,Dylan Cease
-824729,2026-08-06,2026,Live,Boston Red Sox,Chicago White Sox,5.0,5.0,Ranger Suarez,Luis Castillo
+824729,2026-08-06,2026,Final,Boston Red Sox,Chicago White Sox,12.0,11.0,Ranger Suarez,Luis Castillo
 824804,2026-08-06,2026,Final,Baltimore Orioles,Los Angeles Angels,1.0,4.0,Brandon Young,Ryan Johnson
-824885,2026-08-06,2026,Live,Atlanta Braves,Miami Marlins,2.0,0.0,Martín Pérez,Janson Junk
-825053,2026-08-06,2026,Preview,Arizona Diamondbacks,San Diego Padres,0.0,0.0,Kohl Drake,Walker Buehler
+824885,2026-08-06,2026,Final,Atlanta Braves,Miami Marlins,11.0,3.0,Martín Pérez,Janson Junk
+825053,2026-08-06,2026,Final,Arizona Diamondbacks,San Diego Padres,1.0,5.0,Kohl Drake,Walker Buehler
 822699,2026-08-07,2026,Preview,Washington Nationals,Cincinnati Reds,,,Cade Cavalli,
 822863,2026-08-07,2026,Preview,Texas Rangers,Baltimore Orioles,,,Nathan Eovaldi,Shane Baz
 823024,2026-08-07,2026,Preview,St. Louis Cardinals,Colorado Rockies,,,Kyle Leahy,Ryan Feltner
@@ -1745,9 +1745,9 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 823349,2026-08-07,2026,Preview,Pittsburgh Pirates,New York Mets,,,Carmen Mlodzinski,Zac Thornton
 823428,2026-08-07,2026,Preview,Philadelphia Phillies,Toronto Blue Jays,,,Zack Wheeler,José Soriano
 823515,2026-08-07,2026,Preview,New York Yankees,Atlanta Braves,,,Max Fried,Tyler Mahle
-823750,2026-08-07,2026,Preview,Milwaukee Brewers,Minnesota Twins,,,Shane Drohan,
+823750,2026-08-07,2026,Preview,Milwaukee Brewers,Minnesota Twins,,,Shane Drohan,Zebby Matthews
 823836,2026-08-07,2026,Preview,Miami Marlins,Los Angeles Angels,,,Tyler Phillips,George Klassen
-824081,2026-08-07,2026,Preview,Kansas City Royals,Chicago Cubs,,,,
+824081,2026-08-07,2026,Preview,Kansas City Royals,Chicago Cubs,,,Daniel Lynch IV,
 824566,2026-08-07,2026,Preview,Chicago White Sox,Cleveland Guardians,,,Noah Schultz,Parker Messick
 824727,2026-08-07,2026,Preview,Boston Red Sox,Athletics,,,Payton Tolle,Jack Perkins
 825051,2026-08-07,2026,Preview,Arizona Diamondbacks,Los Angeles Dodgers,,,Merrill Kelly,Roki Sasaki
