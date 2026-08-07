@@ -1,28 +1,31 @@
 as_of_date,rank,team,pitcher,rating,opponent
-2026-08-07,1,Philadelphia Phillies,Zack Wheeler,1636.9,Toronto Blue Jays
-2026-08-07,2,New York Yankees,Max Fried,1622.8,Atlanta Braves
+2026-08-07,1,Philadelphia Phillies,Zack Wheeler,1640.6,Toronto Blue Jays
+2026-08-07,2,New York Yankees,Max Fried,1627.9,Atlanta Braves
 2026-08-07,3,Seattle Mariners,Logan Gilbert,1602.1,Tampa Bay Rays
 2026-08-07,4,Tampa Bay Rays,Drew Rasmussen,1560.5,Seattle Mariners
-2026-08-07,5,San Diego Padres,Robbie Ray,1555.9,Houston Astros
-2026-08-07,6,Texas Rangers,Nathan Eovaldi,1555.4,Baltimore Orioles
-2026-08-07,7,Arizona Diamondbacks,Merrill Kelly,1545.3,Los Angeles Dodgers
-2026-08-07,8,Detroit Tigers,Keider Montero,1530.7,San Francisco Giants
-2026-08-07,9,Baltimore Orioles,Shane Baz,1529.4,Texas Rangers
-2026-08-07,10,Cleveland Guardians,Parker Messick,1527.1,Chicago White Sox
-2026-08-07,11,Houston Astros,Ronel Blanco,1523.7,San Diego Padres
-2026-08-07,12,Pittsburgh Pirates,Carmen Mlodzinski,1514.7,New York Mets
-2026-08-07,13,St. Louis Cardinals,Kyle Leahy,1511.9,Colorado Rockies
-2026-08-07,14,Atlanta Braves,Tyler Mahle,1509.3,New York Yankees
-2026-08-07,15,Boston Red Sox,Payton Tolle,1508.0,Athletics
-2026-08-07,16,New York Mets,Zac Thornton,1506.9,Pittsburgh Pirates
-2026-08-07,17,Miami Marlins,Tyler Phillips,1506.6,Los Angeles Angels
-2026-08-07,18,Milwaukee Brewers,Shane Drohan,1499.4,Minnesota Twins
-2026-08-07,19,Kansas City Royals,Daniel Lynch IV,1498.7,Chicago Cubs
-2026-08-07,20,Los Angeles Angels,George Klassen,1495.9,Miami Marlins
-2026-08-07,21,Los Angeles Dodgers,Roki Sasaki,1494.0,Arizona Diamondbacks
-2026-08-07,22,Athletics,Jack Perkins,1486.7,Boston Red Sox
-2026-08-07,23,Washington Nationals,Cade Cavalli,1481.1,Cincinnati Reds
-2026-08-07,24,Toronto Blue Jays,José Soriano,1480.5,Philadelphia Phillies
-2026-08-07,25,Chicago White Sox,Noah Schultz,1476.3,Cleveland Guardians
-2026-08-07,26,Minnesota Twins,Zebby Matthews,1468.8,Milwaukee Brewers
-2026-08-07,27,Colorado Rockies,Ryan Feltner,1438.3,St. Louis Cardinals
+2026-08-07,5,Chicago Cubs,Kevin Gausman,1558.5,Kansas City Royals
+2026-08-07,6,San Diego Padres,Robbie Ray,1555.9,Houston Astros
+2026-08-07,7,Texas Rangers,Nathan Eovaldi,1555.4,Baltimore Orioles
+2026-08-07,8,Arizona Diamondbacks,Merrill Kelly,1545.3,Los Angeles Dodgers
+2026-08-07,9,Cleveland Guardians,Parker Messick,1531.5,Chicago White Sox
+2026-08-07,10,Detroit Tigers,Keider Montero,1530.7,San Francisco Giants
+2026-08-07,11,Baltimore Orioles,Shane Baz,1529.4,Texas Rangers
+2026-08-07,12,Houston Astros,Ronel Blanco,1523.7,San Diego Padres
+2026-08-07,13,Pittsburgh Pirates,Carmen Mlodzinski,1518.3,New York Mets
+2026-08-07,14,St. Louis Cardinals,Kyle Leahy,1514.6,Colorado Rockies
+2026-08-07,15,Atlanta Braves,Tyler Mahle,1514.0,New York Yankees
+2026-08-07,16,New York Mets,Zac Thornton,1511.1,Pittsburgh Pirates
+2026-08-07,17,Boston Red Sox,Payton Tolle,1510.4,Athletics
+2026-08-07,18,Miami Marlins,Tyler Phillips,1509.6,Los Angeles Angels
+2026-08-07,19,Los Angeles Angels,George Klassen,1500.1,Miami Marlins
+2026-08-07,20,Milwaukee Brewers,Shane Drohan,1499.4,Minnesota Twins
+2026-08-07,21,Cincinnati Reds,Chase Petty,1498.9,Washington Nationals
+2026-08-07,22,Kansas City Royals,Daniel Lynch IV,1498.7,Chicago Cubs
+2026-08-07,23,Los Angeles Dodgers,Roki Sasaki,1494.0,Arizona Diamondbacks
+2026-08-07,24,Athletics,Jack Perkins,1492.5,Boston Red Sox
+2026-08-07,25,San Francisco Giants,JT Brubaker,1485.5,Detroit Tigers
+2026-08-07,26,Washington Nationals,Cade Cavalli,1485.2,Cincinnati Reds
+2026-08-07,27,Toronto Blue Jays,José Soriano,1484.9,Philadelphia Phillies
+2026-08-07,28,Chicago White Sox,Noah Schultz,1480.1,Cleveland Guardians
+2026-08-07,29,Minnesota Twins,Zebby Matthews,1468.8,Milwaukee Brewers
+2026-08-07,30,Colorado Rockies,Ryan Feltner,1442.3,St. Louis Cardinals

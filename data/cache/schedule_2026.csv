@@ -1736,18 +1736,18 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824804,2026-08-06,2026,Final,Baltimore Orioles,Los Angeles Angels,1.0,4.0,Brandon Young,Ryan Johnson
 824885,2026-08-06,2026,Final,Atlanta Braves,Miami Marlins,11.0,3.0,Martín Pérez,Janson Junk
 825053,2026-08-06,2026,Final,Arizona Diamondbacks,San Diego Padres,1.0,5.0,Kohl Drake,Walker Buehler
-822699,2026-08-07,2026,Preview,Washington Nationals,Cincinnati Reds,,,Cade Cavalli,
+822699,2026-08-07,2026,Preview,Washington Nationals,Cincinnati Reds,0.0,0.0,Cade Cavalli,Chase Petty
 822863,2026-08-07,2026,Preview,Texas Rangers,Baltimore Orioles,,,Nathan Eovaldi,Shane Baz
-823024,2026-08-07,2026,Preview,St. Louis Cardinals,Colorado Rockies,,,Kyle Leahy,Ryan Feltner
+823024,2026-08-07,2026,Preview,St. Louis Cardinals,Colorado Rockies,0.0,0.0,Kyle Leahy,Ryan Feltner
 823103,2026-08-07,2026,Preview,Seattle Mariners,Tampa Bay Rays,,,Logan Gilbert,Drew Rasmussen
-823191,2026-08-07,2026,Preview,San Francisco Giants,Detroit Tigers,,,,Keider Montero
+823191,2026-08-07,2026,Preview,San Francisco Giants,Detroit Tigers,,,JT Brubaker,Keider Montero
 823266,2026-08-07,2026,Preview,San Diego Padres,Houston Astros,,,Robbie Ray,Ronel Blanco
-823349,2026-08-07,2026,Preview,Pittsburgh Pirates,New York Mets,,,Carmen Mlodzinski,Zac Thornton
-823428,2026-08-07,2026,Preview,Philadelphia Phillies,Toronto Blue Jays,,,Zack Wheeler,José Soriano
-823515,2026-08-07,2026,Preview,New York Yankees,Atlanta Braves,,,Max Fried,Tyler Mahle
+823349,2026-08-07,2026,Preview,Pittsburgh Pirates,New York Mets,0.0,0.0,Carmen Mlodzinski,Zac Thornton
+823428,2026-08-07,2026,Preview,Philadelphia Phillies,Toronto Blue Jays,0.0,0.0,Zack Wheeler,José Soriano
+823515,2026-08-07,2026,Preview,New York Yankees,Atlanta Braves,0.0,0.0,Max Fried,Tyler Mahle
 823750,2026-08-07,2026,Preview,Milwaukee Brewers,Minnesota Twins,,,Shane Drohan,Zebby Matthews
-823836,2026-08-07,2026,Preview,Miami Marlins,Los Angeles Angels,,,Tyler Phillips,George Klassen
-824081,2026-08-07,2026,Preview,Kansas City Royals,Chicago Cubs,,,Daniel Lynch IV,
-824566,2026-08-07,2026,Preview,Chicago White Sox,Cleveland Guardians,,,Noah Schultz,Parker Messick
-824727,2026-08-07,2026,Preview,Boston Red Sox,Athletics,,,Payton Tolle,Jack Perkins
+823836,2026-08-07,2026,Preview,Miami Marlins,Los Angeles Angels,0.0,0.0,Tyler Phillips,George Klassen
+824081,2026-08-07,2026,Preview,Kansas City Royals,Chicago Cubs,,,Daniel Lynch IV,Kevin Gausman
+824566,2026-08-07,2026,Preview,Chicago White Sox,Cleveland Guardians,0.0,0.0,Noah Schultz,Parker Messick
+824727,2026-08-07,2026,Preview,Boston Red Sox,Athletics,0.0,0.0,Payton Tolle,Jack Perkins
 825051,2026-08-07,2026,Preview,Arizona Diamondbacks,Los Angeles Dodgers,,,Merrill Kelly,Roki Sasaki
