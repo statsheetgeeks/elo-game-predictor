@@ -1,30 +1,31 @@
 as_of_date,rank,team,pitcher,rating,opponent
-2026-08-09,1,San Francisco Giants,Logan Webb,1589.7,Detroit Tigers
-2026-08-09,2,Toronto Blue Jays,Shane Bieber,1571.1,Philadelphia Phillies
-2026-08-09,3,Detroit Tigers,Troy Melton,1533.0,San Francisco Giants
-2026-08-09,4,Philadelphia Phillies,Jesús Luzardo,1532.4,Toronto Blue Jays
-2026-08-09,5,Milwaukee Brewers,Jacob Misiorowski,1530.8,Minnesota Twins
-2026-08-09,6,New York Yankees,Cam Schlittler,1526.1,Atlanta Braves
-2026-08-09,7,Cleveland Guardians,Joey Cantillo,1526.1,Chicago White Sox
-2026-08-09,8,Chicago Cubs,Matthew Boyd,1520.1,Kansas City Royals
-2026-08-09,9,Atlanta Braves,Grant Holmes,1518.7,New York Yankees
-2026-08-09,10,Arizona Diamondbacks,Eduardo Rodriguez,1515.7,Los Angeles Dodgers
-2026-08-09,11,Athletics,J.T. Ginn,1512.9,Boston Red Sox
-2026-08-09,12,Kansas City Royals,Randy Dobnak,1510.6,Chicago Cubs
-2026-08-09,13,Cincinnati Reds,Brady Singer,1504.3,Washington Nationals
-2026-08-09,14,St. Louis Cardinals,Michael McGreevy,1502.4,Colorado Rockies
-2026-08-09,15,Los Angeles Dodgers,Justin Wrobleski,1501.5,Arizona Diamondbacks
-2026-08-09,16,Washington Nationals,Brad Lord,1500.8,Cincinnati Reds
-2026-08-09,17,Tampa Bay Rays,Ian Seymour,1496.6,Seattle Mariners
-2026-08-09,18,Houston Astros,Cristian Javier,1495.9,San Diego Padres
-2026-08-09,19,Pittsburgh Pirates,Jared Jones,1495.9,New York Mets
-2026-08-09,20,Chicago White Sox,Davis Martin,1495.4,Cleveland Guardians
-2026-08-09,21,Boston Red Sox,Erik Miller,1494.9,Athletics
-2026-08-09,22,Seattle Mariners,Emerson Hancock,1486.7,Tampa Bay Rays
-2026-08-09,23,Los Angeles Angels,Grayson Rodriguez,1485.4,Miami Marlins
-2026-08-09,24,Texas Rangers,Kumar Rocker,1484.6,Baltimore Orioles
-2026-08-09,25,Miami Marlins,Ryan Gusto,1479.7,Los Angeles Angels
-2026-08-09,26,Colorado Rockies,Michael Lorenzen,1476.5,St. Louis Cardinals
-2026-08-09,27,Minnesota Twins,Connor Prielipp,1473.2,Milwaukee Brewers
-2026-08-09,28,New York Mets,Sean Manaea,1472.7,Pittsburgh Pirates
-2026-08-09,29,Baltimore Orioles,Cade Povich,1463.1,Texas Rangers
+2026-08-09,1,San Francisco Giants,Logan Webb,1594.1,Detroit Tigers
+2026-08-09,2,Toronto Blue Jays,Shane Bieber,1570.7,Philadelphia Phillies
+2026-08-09,3,Detroit Tigers,Troy Melton,1535.9,San Francisco Giants
+2026-08-09,4,Milwaukee Brewers,Jacob Misiorowski,1532.0,Minnesota Twins
+2026-08-09,5,Philadelphia Phillies,Jesús Luzardo,1531.7,Toronto Blue Jays
+2026-08-09,6,Cleveland Guardians,Joey Cantillo,1529.6,Chicago White Sox
+2026-08-09,7,New York Yankees,Cam Schlittler,1529.3,Atlanta Braves
+2026-08-09,8,San Diego Padres,Randy Vásquez,1525.1,Houston Astros
+2026-08-09,9,Atlanta Braves,Grant Holmes,1522.6,New York Yankees
+2026-08-09,10,Chicago Cubs,Matthew Boyd,1521.4,Kansas City Royals
+2026-08-09,11,Arizona Diamondbacks,Eduardo Rodriguez,1520.7,Los Angeles Dodgers
+2026-08-09,12,Athletics,J.T. Ginn,1515.8,Boston Red Sox
+2026-08-09,13,Kansas City Royals,Randy Dobnak,1506.8,Chicago Cubs
+2026-08-09,14,Los Angeles Dodgers,Justin Wrobleski,1506.2,Arizona Diamondbacks
+2026-08-09,15,St. Louis Cardinals,Michael McGreevy,1502.5,Colorado Rockies
+2026-08-09,16,Tampa Bay Rays,Ian Seymour,1500.0,Seattle Mariners
+2026-08-09,17,Washington Nationals,Brad Lord,1499.9,Cincinnati Reds
+2026-08-09,18,Cincinnati Reds,Brady Singer,1497.8,Washington Nationals
+2026-08-09,19,Chicago White Sox,Davis Martin,1497.4,Cleveland Guardians
+2026-08-09,20,Houston Astros,Cristian Javier,1495.9,San Diego Padres
+2026-08-09,21,Boston Red Sox,Erik Miller,1493.6,Athletics
+2026-08-09,22,Seattle Mariners,Emerson Hancock,1491.4,Tampa Bay Rays
+2026-08-09,23,Pittsburgh Pirates,Jared Jones,1489.4,New York Mets
+2026-08-09,24,Texas Rangers,Kumar Rocker,1482.4,Baltimore Orioles
+2026-08-09,25,Miami Marlins,Ryan Gusto,1480.8,Los Angeles Angels
+2026-08-09,26,Los Angeles Angels,Grayson Rodriguez,1479.5,Miami Marlins
+2026-08-09,27,Colorado Rockies,Michael Lorenzen,1476.8,St. Louis Cardinals
+2026-08-09,28,Minnesota Twins,Connor Prielipp,1476.2,Milwaukee Brewers
+2026-08-09,29,New York Mets,Sean Manaea,1475.9,Pittsburgh Pirates
+2026-08-09,30,Baltimore Orioles,Cade Povich,1464.4,Texas Rangers
