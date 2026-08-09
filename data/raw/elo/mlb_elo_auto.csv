@@ -14816,16 +14816,19 @@ date,season,game_pk,home_team,away_team,home_pitcher,away_pitcher,home_elo_pre,a
 2026-08-07,2026,824566,Chicago White Sox,Cleveland Guardians,Noah Schultz,Parker Messick,1510.6,1487.2,30.0,0.5431,0.4569,1506.6,1491.2,2,8,0
 2026-08-07,2026,824727,Boston Red Sox,Athletics,Payton Tolle,Jack Perkins,1559.7,1434.9,154.4,0.7087,0.2913,1562.9,1431.7,13,1,1
 2026-08-07,2026,825051,Arizona Diamondbacks,Los Angeles Dodgers,Merrill Kelly,Roki Sasaki,1521.6,1531.0,33.4,0.548,0.452,1523.8,1528.8,4,3,1
-2026-08-08,2026,822701,Washington Nationals,Cincinnati Reds,Andrew Alvarez,Chase Burns,1499.1,1492.7,-0.0,0.5,0.5,1496.7,1495.1,0,0,0
-2026-08-08,2026,822864,Texas Rangers,Baltimore Orioles,Jacob deGrom,Kyle Bradish,1496.0,1506.3,22.2,0.5319,0.4681,1493.3,1508.9,0,0,0
-2026-08-08,2026,823021,St. Louis Cardinals,Colorado Rockies,Matthew Liberatore,Kyle Freeland,1497.7,1445.7,108.6,0.6514,0.3486,1494.1,1449.3,0,0,0
-2026-08-08,2026,823188,San Francisco Giants,Detroit Tigers,Landen Roupp,Jackson Jobe,1457.7,1507.2,-11.6,0.4833,0.5167,1455.5,1509.5,0,0,0
-2026-08-08,2026,823267,San Diego Padres,Houston Astros,Michael King,Peter Lambert,1508.7,1512.9,36.5,0.5523,0.4477,1505.9,1515.7,0,0,0
-2026-08-08,2026,823348,Pittsburgh Pirates,New York Mets,Bubba Chandler,Robert Stock,1497.8,1485.4,29.1,0.5418,0.4582,1495.1,1488.1,0,0,0
-2026-08-08,2026,823426,Philadelphia Phillies,Toronto Blue Jays,Aaron Nola,Max Scherzer,1505.5,1486.5,22.6,0.5324,0.4676,1502.8,1489.2,0,0,0
-2026-08-08,2026,823514,New York Yankees,Atlanta Braves,Gerrit Cole,Chris Sale,1523.8,1534.0,17.1,0.5245,0.4755,1521.0,1536.8,1,2,0
-2026-08-08,2026,823752,Milwaukee Brewers,Minnesota Twins,Robert Gasser,Taj Bradley,1559.7,1492.8,92.9,0.6306,0.3694,1556.2,1496.2,0,0,0
-2026-08-08,2026,823834,Miami Marlins,Los Angeles Angels,Sandy Alcantara,Walbert Ureña,1501.1,1458.8,82.3,0.6162,0.3838,1497.7,1462.1,0,0,0
-2026-08-08,2026,824079,Kansas City Royals,Chicago Cubs,Seth Lugo,Clay Holmes,1457.5,1552.2,-88.8,0.3749,0.6251,1456.1,1553.6,0,0,0
-2026-08-08,2026,824565,Chicago White Sox,Cleveland Guardians,Anthony Kay,Gavin Williams,1506.6,1491.2,35.7,0.5513,0.4487,1503.7,1494.0,0,0,0
-2026-08-08,2026,824726,Boston Red Sox,Athletics,Jake Bennett,Gage Jump,1562.9,1431.7,169.4,0.7262,0.2738,1558.7,1435.9,0,0,0
+2026-08-08,2026,822701,Washington Nationals,Cincinnati Reds,Andrew Alvarez,Chase Burns,1499.1,1492.7,-0.0,0.5,0.5,1502.8,1489.0,8,2,1
+2026-08-08,2026,822864,Texas Rangers,Baltimore Orioles,Jacob deGrom,Kyle Bradish,1496.0,1506.3,22.2,0.5319,0.4681,1499.0,1503.3,5,1,1
+2026-08-08,2026,823021,St. Louis Cardinals,Colorado Rockies,Matthew Liberatore,Kyle Freeland,1497.7,1445.7,108.6,0.6514,0.3486,1493.7,1449.8,6,8,0
+2026-08-08,2026,823102,Seattle Mariners,Tampa Bay Rays,George Kirby,Casey Legumina,1475.6,1519.2,13.1,0.5189,0.4811,1472.8,1522.0,2,3,0
+2026-08-08,2026,823188,San Francisco Giants,Detroit Tigers,Landen Roupp,Jackson Jobe,1457.7,1507.2,-11.6,0.4833,0.5167,1453.8,1511.2,0,8,0
+2026-08-08,2026,823267,San Diego Padres,Houston Astros,Michael King,Peter Lambert,1508.7,1512.9,36.5,0.5523,0.4477,1510.9,1510.7,3,2,1
+2026-08-08,2026,823348,Pittsburgh Pirates,New York Mets,Bubba Chandler,Robert Stock,1497.8,1485.4,29.1,0.5418,0.4582,1501.8,1481.4,9,0,1
+2026-08-08,2026,823426,Philadelphia Phillies,Toronto Blue Jays,Aaron Nola,Max Scherzer,1505.5,1486.5,22.6,0.5324,0.4676,1502.4,1489.6,5,7,0
+2026-08-08,2026,823514,New York Yankees,Atlanta Braves,Gerrit Cole,Chris Sale,1523.8,1534.0,17.1,0.5245,0.4755,1526.2,1531.6,5,4,1
+2026-08-08,2026,823752,Milwaukee Brewers,Minnesota Twins,Robert Gasser,Taj Bradley,1559.7,1492.8,92.9,0.6306,0.3694,1561.2,1491.2,4,3,1
+2026-08-08,2026,823834,Miami Marlins,Los Angeles Angels,Sandy Alcantara,Walbert Ureña,1501.1,1458.8,82.3,0.6162,0.3838,1504.0,1455.9,7,0,1
+2026-08-08,2026,824079,Kansas City Royals,Chicago Cubs,Seth Lugo,Clay Holmes,1457.5,1552.2,-88.8,0.3749,0.6251,1461.5,1548.2,6,3,1
+2026-08-08,2026,824565,Chicago White Sox,Cleveland Guardians,Anthony Kay,Gavin Williams,1506.6,1491.2,35.7,0.5513,0.4487,1509.2,1488.5,6,3,1
+2026-08-08,2026,824726,Boston Red Sox,Athletics,Jake Bennett,Gage Jump,1562.9,1431.7,169.4,0.7262,0.2738,1557.8,1436.8,3,7,0
+2026-08-08,2026,825049,Arizona Diamondbacks,Los Angeles Dodgers,Brandon Pfaadt,Yoshinobu Yamamoto,1523.8,1528.8,-32.2,0.4538,0.5462,1521.5,1531.0,1,2,0
+2026-08-09,2026,822700,Washington Nationals,Cincinnati Reds,Brad Lord,Brady Singer,1502.8,1489.0,17.4,0.525,0.475,1500.2,1491.6,0,0,0

@@ -1,0 +1,16 @@
+as_of_date,game_pk,home_team,home_combined_rating,away_team,away_combined_rating,elo_diff,home_win_prob
+2026-08-09,822700,Washington Nationals,1491.1,Cincinnati Reds,1500.5,-9.4,49.4
+2026-08-09,822862,Texas Rangers,1500.7,Baltimore Orioles,1512.6,-11.9,51.5
+2026-08-09,823020,St. Louis Cardinals,1499.2,Colorado Rockies,1435.7,63.5,61.8
+2026-08-09,823104,Seattle Mariners,1506.4,Tampa Bay Rays,1538.2,-31.8,49.4
+2026-08-09,823190,San Francisco Giants,1470.3,Detroit Tigers,1529.4,-59.1,46.5
+2026-08-09,823268,San Diego Padres,1518.7,Houston Astros,1510.2,8.5,54.9
+2026-08-09,823345,Pittsburgh Pirates,1509.0,New York Mets,1491.0,18.0,55.1
+2026-08-09,823425,Philadelphia Phillies,1526.6,Toronto Blue Jays,1501.8,24.8,57.8
+2026-08-09,823513,New York Yankees,1544.2,Atlanta Braves,1549.1,-4.9,53.9
+2026-08-09,823751,Milwaukee Brewers,1569.4,Minnesota Twins,1486.1,83.3,64.2
+2026-08-09,823835,Miami Marlins,1509.8,Los Angeles Angels,1448.9,60.9,61.6
+2026-08-09,824078,Kansas City Royals,1462.0,Chicago Cubs,1560.0,-98.0,38.6
+2026-08-09,824564,Chicago White Sox,1510.0,Cleveland Guardians,1505.1,4.9,55.5
+2026-08-09,824724,Boston Red Sox,1568.7,Athletics,1428.4,140.3,71.4
+2026-08-09,825050,Arizona Diamondbacks,1523.9,Los Angeles Dodgers,1543.3,-19.4,49.5
