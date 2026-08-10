@@ -1,6 +1,6 @@
 {
   "as_of_date": "2026-08-10",
-  "generated_at_utc": "2026-08-10T14:56:27.194078+00:00",
+  "generated_at_utc": "2026-08-10T20:36:17.134769+00:00",
   "model_flags": {
     "base_K": 4.790024057931767,
     "base_home_adv": 20.281754999102375,
@@ -18,7 +18,7 @@
         "primary": "#134A8E",
         "secondary": "#E8291C",
         "logo": "https://www.mlbstatic.com/team-logos/141.svg",
-        "combined_rating": 1499.5
+        "combined_rating": 1499.7
       },
       "away": {
         "name": "Boston Red Sox",
@@ -26,10 +26,10 @@
         "primary": "#BD3039",
         "secondary": "#0C2340",
         "logo": "https://www.mlbstatic.com/team-logos/111.svg",
-        "combined_rating": 1568.5
+        "combined_rating": 1573.4
       },
-      "elo_diff": -69.0,
-      "home_win_prob": 43.5
+      "elo_diff": -73.7,
+      "home_win_prob": 42.8
     },
     {
       "game_pk": 823018,
@@ -110,10 +110,10 @@
         "primary": "#DF4601",
         "secondary": "#000000",
         "logo": "https://www.mlbstatic.com/team-logos/110.svg",
-        "combined_rating": 1516.2
+        "combined_rating": 1519.0
       },
-      "elo_diff": -31.2,
-      "home_win_prob": 49.4
+      "elo_diff": -34.0,
+      "home_win_prob": 49.0
     },
     {
       "game_pk": 823918,
@@ -165,7 +165,7 @@
         "primary": "#CE1141",
         "secondary": "#13274F",
         "logo": "https://www.mlbstatic.com/team-logos/144.svg",
-        "combined_rating": 1552.4
+        "combined_rating": 1552.7
       },
       "away": {
         "name": "New York Mets",
@@ -173,10 +173,10 @@
         "primary": "#002D72",
         "secondary": "#FF5910",
         "logo": "https://www.mlbstatic.com/team-logos/121.svg",
-        "combined_rating": 1496.1
+        "combined_rating": 1499.7
       },
-      "elo_diff": 56.3,
-      "home_win_prob": 60.8
+      "elo_diff": 53.0,
+      "home_win_prob": 60.4
     },
     {
       "game_pk": 824969,
@@ -223,9 +223,19 @@
   ],
   "rankings": [
     {
+      "team": "Boston Red Sox",
+      "abbr": "BOS",
+      "combined_rank": 1,
+      "combined_power_rating": 1573.4,
+      "elo_rank": 2,
+      "elo_rating": 1555.5,
+      "home_adv": 18.5,
+      "avg_rotation_pitcher_rating": 1533.7
+    },
+    {
       "team": "Milwaukee Brewers",
       "abbr": "MIL",
-      "combined_rank": 1,
+      "combined_rank": 2,
       "combined_power_rating": 1569.6,
       "elo_rank": 1,
       "elo_rating": 1560.9,
@@ -233,34 +243,24 @@
       "avg_rotation_pitcher_rating": 1516.5
     },
     {
-      "team": "Boston Red Sox",
-      "abbr": "BOS",
-      "combined_rank": 2,
-      "combined_power_rating": 1568.5,
-      "elo_rank": 3,
-      "elo_rating": 1551.2,
-      "home_adv": 18.5,
-      "avg_rotation_pitcher_rating": 1532.7
-    },
-    {
       "team": "Chicago Cubs",
       "abbr": "CHC",
       "combined_rank": 3,
-      "combined_power_rating": 1563.2,
-      "elo_rank": 2,
+      "combined_power_rating": 1563.6,
+      "elo_rank": 3,
       "elo_rating": 1551.4,
       "home_adv": 16.2,
-      "avg_rotation_pitcher_rating": 1522.3
+      "avg_rotation_pitcher_rating": 1523.0
     },
     {
       "team": "Atlanta Braves",
       "abbr": "ATL",
       "combined_rank": 4,
-      "combined_power_rating": 1552.4,
+      "combined_power_rating": 1552.7,
       "elo_rank": 4,
       "elo_rating": 1534.5,
       "home_adv": 20.0,
-      "avg_rotation_pitcher_rating": 1533.7
+      "avg_rotation_pitcher_rating": 1534.3
     },
     {
       "team": "New York Yankees",
@@ -336,11 +336,11 @@
       "team": "Baltimore Orioles",
       "abbr": "BAL",
       "combined_rank": 12,
-      "combined_power_rating": 1516.2,
-      "elo_rank": 13,
-      "elo_rating": 1507.1,
+      "combined_power_rating": 1519.0,
+      "elo_rank": 12,
+      "elo_rating": 1509.5,
       "home_adv": -1.2,
-      "avg_rotation_pitcher_rating": 1517.1
+      "avg_rotation_pitcher_rating": 1518.0
     },
     {
       "team": "Chicago White Sox",
@@ -377,7 +377,7 @@
       "abbr": "HOU",
       "combined_rank": 16,
       "combined_power_rating": 1507.2,
-      "elo_rank": 12,
+      "elo_rank": 13,
       "elo_rating": 1507.7,
       "home_adv": 36.7,
       "avg_rotation_pitcher_rating": 1499.0
@@ -413,34 +413,34 @@
       "avg_rotation_pitcher_rating": 1516.1
     },
     {
+      "team": "New York Mets",
+      "abbr": "NYM",
+      "combined_rank": 20,
+      "combined_power_rating": 1499.7,
+      "elo_rank": 21,
+      "elo_rating": 1489.8,
+      "home_adv": 26.5,
+      "avg_rotation_pitcher_rating": 1518.7
+    },
+    {
       "team": "Toronto Blue Jays",
       "abbr": "TOR",
-      "combined_rank": 20,
-      "combined_power_rating": 1499.5,
-      "elo_rank": 21,
+      "combined_rank": 21,
+      "combined_power_rating": 1499.7,
+      "elo_rank": 22,
       "elo_rating": 1487.2,
       "home_adv": 23.5,
-      "avg_rotation_pitcher_rating": 1523.3
+      "avg_rotation_pitcher_rating": 1523.6
     },
     {
       "team": "St. Louis Cardinals",
       "abbr": "STL",
-      "combined_rank": 21,
+      "combined_rank": 22,
       "combined_power_rating": 1499.2,
       "elo_rank": 18,
       "elo_rating": 1496.3,
       "home_adv": 20.4,
       "avg_rotation_pitcher_rating": 1505.4
-    },
-    {
-      "team": "New York Mets",
-      "abbr": "NYM",
-      "combined_rank": 22,
-      "combined_power_rating": 1496.1,
-      "elo_rank": 22,
-      "elo_rating": 1486.5,
-      "home_adv": 26.5,
-      "avg_rotation_pitcher_rating": 1518.1
     },
     {
       "team": "Cincinnati Reds",
@@ -470,7 +470,7 @@
       "elo_rank": 20,
       "elo_rating": 1490.0,
       "home_adv": 26.9,
-      "avg_rotation_pitcher_rating": 1490.5
+      "avg_rotation_pitcher_rating": 1490.6
     },
     {
       "team": "San Francisco Giants",
@@ -537,7 +537,7 @@
       "team": "Boston Red Sox",
       "abbr": "BOS",
       "pitcher": "Sonny Gray",
-      "rating": 1569.4,
+      "rating": 1573.2,
       "opponent": "Toronto Blue Jays"
     },
     {
@@ -553,7 +553,7 @@
       "team": "Toronto Blue Jays",
       "abbr": "TOR",
       "pitcher": "Jameson Taillon",
-      "rating": 1544.7,
+      "rating": 1550.3,
       "opponent": "Boston Red Sox"
     },
     {
@@ -561,7 +561,7 @@
       "team": "Atlanta Braves",
       "abbr": "ATL",
       "pitcher": "Bryce Elder",
-      "rating": 1520.0,
+      "rating": 1523.8,
       "opponent": "New York Mets"
     },
     {
@@ -585,7 +585,7 @@
       "team": "New York Mets",
       "abbr": "NYM",
       "pitcher": "Christian Scott",
-      "rating": 1507.3,
+      "rating": 1512.4,
       "opponent": "Atlanta Braves"
     },
     {
@@ -601,11 +601,19 @@
       "team": "Baltimore Orioles",
       "abbr": "BAL",
       "pitcher": "Trevor Rogers",
-      "rating": 1500.5,
+      "rating": 1504.4,
       "opponent": "Minnesota Twins"
     },
     {
       "rank": 11,
+      "team": "Minnesota Twins",
+      "abbr": "MIN",
+      "pitcher": "Dean Kremer",
+      "rating": 1499.0,
+      "opponent": "Baltimore Orioles"
+    },
+    {
+      "rank": 12,
       "team": "Houston Astros",
       "abbr": "HOU",
       "pitcher": "Hayden Wesneski",
@@ -613,20 +621,12 @@
       "opponent": "San Francisco Giants"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "team": "Kansas City Royals",
       "abbr": "KC",
       "pitcher": "Noah Cameron",
       "rating": 1496.5,
       "opponent": "Los Angeles Dodgers"
-    },
-    {
-      "rank": 13,
-      "team": "Minnesota Twins",
-      "abbr": "MIN",
-      "pitcher": "Dean Kremer",
-      "rating": 1494.7,
-      "opponent": "Baltimore Orioles"
     },
     {
       "rank": 14,
