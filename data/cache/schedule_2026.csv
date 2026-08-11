@@ -1781,13 +1781,28 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824564,2026-08-09,2026,Final,Chicago White Sox,Cleveland Guardians,5.0,3.0,Davis Martin,Joey Cantillo
 824724,2026-08-09,2026,Final,Boston Red Sox,Athletics,3.0,4.0,Erik Miller,J.T. Ginn
 825050,2026-08-09,2026,Final,Arizona Diamondbacks,Los Angeles Dodgers,4.0,2.0,Eduardo Rodriguez,Justin Wrobleski
-822780,2026-08-10,2026,Preview,Toronto Blue Jays,Boston Red Sox,0.0,0.0,Jameson Taillon,Sonny Gray
-823018,2026-08-10,2026,Preview,St. Louis Cardinals,Philadelphia Phillies,,,Hunter Dobbins,Andrew Painter
-823189,2026-08-10,2026,Preview,San Francisco Giants,Houston Astros,,,Blade Tidwell,Hayden Wesneski
-823265,2026-08-10,2026,Preview,San Diego Padres,Milwaukee Brewers,,,Casey Mize,Logan Henderson
-823675,2026-08-10,2026,Preview,Minnesota Twins,Baltimore Orioles,0.0,0.0,Dean Kremer,Trevor Rogers
-823918,2026-08-10,2026,Preview,Los Angeles Dodgers,Kansas City Royals,,,Tarik Skubal,Noah Cameron
-823998,2026-08-10,2026,Preview,Los Angeles Angels,Texas Rangers,,,Reid Detmers,MacKenzie Gore
-824887,2026-08-10,2026,Preview,Atlanta Braves,New York Mets,0.0,0.0,Bryce Elder,Christian Scott
-824969,2026-08-10,2026,Preview,Athletics,Tampa Bay Rays,,,Jacob Lopez,Freddy Peralta
-825048,2026-08-10,2026,Preview,Arizona Diamondbacks,Colorado Rockies,,,Michael Soroka,Gabriel Hughes
+822780,2026-08-10,2026,Final,Toronto Blue Jays,Boston Red Sox,2.0,1.0,Jameson Taillon,Sonny Gray
+823018,2026-08-10,2026,Final,St. Louis Cardinals,Philadelphia Phillies,5.0,6.0,Hunter Dobbins,Andrew Painter
+823189,2026-08-10,2026,Final,San Francisco Giants,Houston Astros,3.0,6.0,Blade Tidwell,Hayden Wesneski
+823265,2026-08-10,2026,Final,San Diego Padres,Milwaukee Brewers,3.0,2.0,Casey Mize,Logan Henderson
+823675,2026-08-10,2026,Final,Minnesota Twins,Baltimore Orioles,9.0,5.0,Dean Kremer,Trevor Rogers
+823918,2026-08-10,2026,Final,Los Angeles Dodgers,Kansas City Royals,6.0,5.0,Tarik Skubal,Noah Cameron
+823998,2026-08-10,2026,Final,Los Angeles Angels,Texas Rangers,1.0,4.0,Reid Detmers,MacKenzie Gore
+824887,2026-08-10,2026,Final,Atlanta Braves,New York Mets,5.0,8.0,Bryce Elder,Christian Scott
+824969,2026-08-10,2026,Final,Athletics,Tampa Bay Rays,6.0,10.0,Jacob Lopez,Freddy Peralta
+825048,2026-08-10,2026,Final,Arizona Diamondbacks,Colorado Rockies,9.0,0.0,Michael Soroka,Gabriel Hughes
+822697,2026-08-11,2026,Preview,Washington Nationals,Chicago Cubs,,,,Shota Imanaga
+822778,2026-08-11,2026,Preview,Toronto Blue Jays,Boston Red Sox,,,Dylan Cease,Patrick Sandoval
+823019,2026-08-11,2026,Preview,St. Louis Cardinals,Philadelphia Phillies,,,Andre Pallante,Cristopher Sánchez
+823186,2026-08-11,2026,Preview,San Francisco Giants,Houston Astros,,,,Hunter Brown
+823264,2026-08-11,2026,Preview,San Diego Padres,Milwaukee Brewers,,,Walker Buehler,Kyle Harrison
+823512,2026-08-11,2026,Preview,New York Yankees,Seattle Mariners,,,Ryan Weathers,Bryan Woo
+823673,2026-08-11,2026,Preview,Minnesota Twins,Baltimore Orioles,,,Bailey Ober,Brandon Young
+823832,2026-08-11,2026,Preview,Miami Marlins,Pittsburgh Pirates,,,Eury Pérez,Paul Skenes
+823917,2026-08-11,2026,Preview,Los Angeles Dodgers,Kansas City Royals,,,Blake Snell,Michael Wacha
+823997,2026-08-11,2026,Preview,Los Angeles Angels,Texas Rangers,,,Ryan Johnson,Cody Bradford
+824240,2026-08-11,2026,Preview,Detroit Tigers,Cleveland Guardians,,,Drew Anderson,Tanner Bibee
+824563,2026-08-11,2026,Preview,Chicago White Sox,Cincinnati Reds,,,Sean Burke,Nick Lodolo
+824886,2026-08-11,2026,Preview,Atlanta Braves,New York Mets,,,Martín Pérez,Nolan McLean
+824970,2026-08-11,2026,Preview,Athletics,Tampa Bay Rays,,,Mason Barnett,Nick Martinez
+825046,2026-08-11,2026,Preview,Arizona Diamondbacks,Colorado Rockies,,,Mitch Bratt,Tomoyuki Sugano
