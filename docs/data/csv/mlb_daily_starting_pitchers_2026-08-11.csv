@@ -1,29 +1,31 @@
 as_of_date,rank,team,pitcher,rating,opponent
 2026-08-11,1,Los Angeles Dodgers,Blake Snell,1583.2,Kansas City Royals
 2026-08-11,2,Philadelphia Phillies,Cristopher Sánchez,1574.7,St. Louis Cardinals
-2026-08-11,3,Cleveland Guardians,Tanner Bibee,1566.1,Detroit Tigers
-2026-08-11,4,Toronto Blue Jays,Dylan Cease,1564.8,Boston Red Sox
-2026-08-11,5,Chicago Cubs,Shota Imanaga,1564.5,Washington Nationals
-2026-08-11,6,Tampa Bay Rays,Nick Martinez,1559.1,Athletics
-2026-08-11,7,Pittsburgh Pirates,Paul Skenes,1556.2,Miami Marlins
+2026-08-11,3,Cleveland Guardians,Tanner Bibee,1570.6,Detroit Tigers
+2026-08-11,4,Chicago Cubs,Shota Imanaga,1568.8,Washington Nationals
+2026-08-11,5,Toronto Blue Jays,Dylan Cease,1564.8,Boston Red Sox
+2026-08-11,6,Pittsburgh Pirates,Paul Skenes,1560.5,Miami Marlins
+2026-08-11,7,Tampa Bay Rays,Nick Martinez,1559.1,Athletics
 2026-08-11,8,Kansas City Royals,Michael Wacha,1549.4,Los Angeles Dodgers
-2026-08-11,9,Houston Astros,Hunter Brown,1540.0,San Francisco Giants
-2026-08-11,10,Seattle Mariners,Bryan Woo,1538.4,New York Yankees
+2026-08-11,9,Seattle Mariners,Bryan Woo,1543.1,New York Yankees
+2026-08-11,10,Houston Astros,Hunter Brown,1540.0,San Francisco Giants
 2026-08-11,11,San Diego Padres,Walker Buehler,1530.5,Milwaukee Brewers
 2026-08-11,12,St. Louis Cardinals,Andre Pallante,1527.7,Philadelphia Phillies
 2026-08-11,13,Colorado Rockies,Tomoyuki Sugano,1525.8,Arizona Diamondbacks
 2026-08-11,14,Milwaukee Brewers,Kyle Harrison,1524.9,San Diego Padres
-2026-08-11,15,Cincinnati Reds,Nick Lodolo,1517.8,Chicago White Sox
-2026-08-11,16,New York Mets,Nolan McLean,1517.5,Atlanta Braves
-2026-08-11,17,Chicago White Sox,Sean Burke,1516.5,Cincinnati Reds
+2026-08-11,15,Cincinnati Reds,Nick Lodolo,1522.3,Chicago White Sox
+2026-08-11,16,Chicago White Sox,Sean Burke,1520.3,Cincinnati Reds
+2026-08-11,17,New York Mets,Nolan McLean,1517.5,Atlanta Braves
 2026-08-11,18,Atlanta Braves,Martín Pérez,1511.8,New York Mets
-2026-08-11,19,Arizona Diamondbacks,Mitch Bratt,1505.4,Colorado Rockies
-2026-08-11,20,Baltimore Orioles,Brandon Young,1502.3,Minnesota Twins
-2026-08-11,21,Texas Rangers,Cody Bradford,1500.9,Los Angeles Angels
-2026-08-11,22,Miami Marlins,Eury Pérez,1499.3,Pittsburgh Pirates
-2026-08-11,23,Athletics,Mason Barnett,1499.2,Tampa Bay Rays
-2026-08-11,24,New York Yankees,Ryan Weathers,1498.8,Seattle Mariners
-2026-08-11,25,Detroit Tigers,Drew Anderson,1497.5,Cleveland Guardians
-2026-08-11,26,Los Angeles Angels,Ryan Johnson,1497.1,Texas Rangers
-2026-08-11,27,Minnesota Twins,Bailey Ober,1495.0,Baltimore Orioles
-2026-08-11,28,Boston Red Sox,Patrick Sandoval,1487.3,Toronto Blue Jays
+2026-08-11,19,Baltimore Orioles,Brandon Young,1506.3,Minnesota Twins
+2026-08-11,20,Arizona Diamondbacks,Mitch Bratt,1505.4,Colorado Rockies
+2026-08-11,21,Miami Marlins,Eury Pérez,1503.4,Pittsburgh Pirates
+2026-08-11,22,New York Yankees,Ryan Weathers,1502.1,Seattle Mariners
+2026-08-11,23,Detroit Tigers,Drew Anderson,1501.2,Cleveland Guardians
+2026-08-11,24,Texas Rangers,Cody Bradford,1500.9,Los Angeles Angels
+2026-08-11,25,San Francisco Giants,Carson Whisenhunt,1500.0,Houston Astros
+2026-08-11,26,Minnesota Twins,Bailey Ober,1499.2,Baltimore Orioles
+2026-08-11,27,Athletics,Mason Barnett,1499.2,Tampa Bay Rays
+2026-08-11,28,Los Angeles Angels,Ryan Johnson,1497.1,Texas Rangers
+2026-08-11,29,Boston Red Sox,Patrick Sandoval,1487.3,Toronto Blue Jays
+2026-08-11,30,Washington Nationals,Jake Irvin,1472.2,Chicago Cubs
