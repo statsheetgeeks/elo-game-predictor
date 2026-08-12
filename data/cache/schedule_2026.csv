@@ -1807,17 +1807,17 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824970,2026-08-11,2026,Final,Athletics,Tampa Bay Rays,4.0,12.0,Mason Barnett,Nick Martinez
 825046,2026-08-11,2026,Final,Arizona Diamondbacks,Colorado Rockies,2.0,3.0,Mitch Bratt,Tomoyuki Sugano
 822698,2026-08-12,2026,Preview,Washington Nationals,Chicago Cubs,,,Jackson Kent,David Peterson
-822779,2026-08-12,2026,Preview,Toronto Blue Jays,Boston Red Sox,,,José Soriano,Ranger Suarez
-823017,2026-08-12,2026,Preview,St. Louis Cardinals,Philadelphia Phillies,,,Kyle Leahy,Zack Wheeler
-823187,2026-08-12,2026,Preview,San Francisco Giants,Houston Astros,,,,Bryan King
-823263,2026-08-12,2026,Preview,San Diego Padres,Milwaukee Brewers,,,Robbie Ray,Dustin May
-823511,2026-08-12,2026,Preview,New York Yankees,Seattle Mariners,,,Will Warren,Bryce Miller
-823672,2026-08-12,2026,Preview,Minnesota Twins,Baltimore Orioles,,,Zebby Matthews,Shane Baz
-823833,2026-08-12,2026,Preview,Miami Marlins,Pittsburgh Pirates,,,Janson Junk,Carmen Mlodzinski
+822779,2026-08-12,2026,Preview,Toronto Blue Jays,Boston Red Sox,0.0,0.0,José Soriano,Ranger Suarez
+823017,2026-08-12,2026,Live,St. Louis Cardinals,Philadelphia Phillies,7.0,1.0,Kyle Leahy,Zack Wheeler
+823187,2026-08-12,2026,Live,San Francisco Giants,Houston Astros,1.0,0.0,Adrian Houser,Bryan King
+823263,2026-08-12,2026,Live,San Diego Padres,Milwaukee Brewers,0.0,1.0,Robbie Ray,Dustin May
+823511,2026-08-12,2026,Preview,New York Yankees,Seattle Mariners,0.0,0.0,Will Warren,Bryce Miller
+823672,2026-08-12,2026,Final,Minnesota Twins,Baltimore Orioles,7.0,5.0,Zebby Matthews,Shane Baz
+823833,2026-08-12,2026,Preview,Miami Marlins,Pittsburgh Pirates,0.0,0.0,Janson Junk,Carmen Mlodzinski
 823916,2026-08-12,2026,Preview,Los Angeles Dodgers,Kansas City Royals,,,Eric Lauer,Daniel Lynch IV
 823994,2026-08-12,2026,Preview,Los Angeles Angels,Texas Rangers,,,George Klassen,Cal Quantrill
 824241,2026-08-12,2026,Preview,Detroit Tigers,Cleveland Guardians,,,Framber Valdez,Foster Griffin
-824562,2026-08-12,2026,Preview,Chicago White Sox,Cincinnati Reds,,,Luis Castillo,Rhett Lowder
-824883,2026-08-12,2026,Preview,Atlanta Braves,New York Mets,,,Tyler Mahle,Zac Thornton
-824967,2026-08-12,2026,Preview,Athletics,Tampa Bay Rays,,,Jack Perkins,Drew Rasmussen
-825047,2026-08-12,2026,Preview,Arizona Diamondbacks,Colorado Rockies,,,Merrill Kelly,Ryan Feltner
+824562,2026-08-12,2026,Preview,Chicago White Sox,Cincinnati Reds,0.0,0.0,Luis Castillo,Rhett Lowder
+824883,2026-08-12,2026,Preview,Atlanta Braves,New York Mets,0.0,0.0,Tyler Mahle,Zac Thornton
+824967,2026-08-12,2026,Live,Athletics,Tampa Bay Rays,2.0,7.0,Jack Perkins,Drew Rasmussen
+825047,2026-08-12,2026,Live,Arizona Diamondbacks,Colorado Rockies,1.0,4.0,Merrill Kelly,Ryan Feltner

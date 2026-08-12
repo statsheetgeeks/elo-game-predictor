@@ -1,30 +1,31 @@
 as_of_date,rank,team,pitcher,rating,opponent
-2026-08-12,1,Philadelphia Phillies,Zack Wheeler,1636.0,St. Louis Cardinals
+2026-08-12,1,Philadelphia Phillies,Zack Wheeler,1633.6,St. Louis Cardinals
 2026-08-12,2,Detroit Tigers,Framber Valdez,1568.5,Cleveland Guardians
-2026-08-12,3,Boston Red Sox,Ranger Suarez,1564.0,Toronto Blue Jays
-2026-08-12,4,Tampa Bay Rays,Drew Rasmussen,1563.2,Athletics
-2026-08-12,5,San Diego Padres,Robbie Ray,1554.8,Milwaukee Brewers
-2026-08-12,6,Arizona Diamondbacks,Merrill Kelly,1547.5,Colorado Rockies
-2026-08-12,7,Baltimore Orioles,Shane Baz,1531.5,Minnesota Twins
-2026-08-12,8,Chicago White Sox,Luis Castillo,1528.0,Cincinnati Reds
-2026-08-12,9,St. Louis Cardinals,Kyle Leahy,1512.8,Philadelphia Phillies
-2026-08-12,10,Pittsburgh Pirates,Carmen Mlodzinski,1512.8,Miami Marlins
-2026-08-12,11,Milwaukee Brewers,Dustin May,1512.4,San Diego Padres
-2026-08-12,12,Los Angeles Dodgers,Eric Lauer,1511.8,Kansas City Royals
-2026-08-12,13,Atlanta Braves,Tyler Mahle,1511.3,New York Mets
-2026-08-12,14,Seattle Mariners,Bryce Miller,1510.9,New York Yankees
-2026-08-12,15,New York Mets,Zac Thornton,1507.4,Atlanta Braves
-2026-08-12,16,Cleveland Guardians,Foster Griffin,1500.9,Detroit Tigers
-2026-08-12,17,Kansas City Royals,Daniel Lynch IV,1498.6,Los Angeles Dodgers
-2026-08-12,18,Chicago Cubs,David Peterson,1498.3,Washington Nationals
-2026-08-12,19,Miami Marlins,Janson Junk,1498.0,Pittsburgh Pirates
-2026-08-12,20,Los Angeles Angels,George Klassen,1497.4,Texas Rangers
-2026-08-12,21,Cincinnati Reds,Rhett Lowder,1496.1,Chicago White Sox
-2026-08-12,22,Toronto Blue Jays,José Soriano,1481.2,Boston Red Sox
-2026-08-12,23,Athletics,Jack Perkins,1480.5,Tampa Bay Rays
-2026-08-12,24,Texas Rangers,Cal Quantrill,1474.0,Los Angeles Angels
-2026-08-12,25,Minnesota Twins,Zebby Matthews,1469.2,Baltimore Orioles
-2026-08-12,26,New York Yankees,Will Warren,1464.3,Seattle Mariners
-2026-08-12,27,Colorado Rockies,Ryan Feltner,1439.5,Arizona Diamondbacks
-2026-08-12,28,Washington Nationals,Jackson Kent,,Chicago Cubs
-2026-08-12,29,Houston Astros,Bryan King,,San Francisco Giants
+2026-08-12,3,Boston Red Sox,Ranger Suarez,1568.0,Toronto Blue Jays
+2026-08-12,4,Tampa Bay Rays,Drew Rasmussen,1563.8,Athletics
+2026-08-12,5,San Diego Padres,Robbie Ray,1559.4,Milwaukee Brewers
+2026-08-12,6,Arizona Diamondbacks,Merrill Kelly,1546.6,Colorado Rockies
+2026-08-12,7,Chicago White Sox,Luis Castillo,1531.9,Cincinnati Reds
+2026-08-12,8,Baltimore Orioles,Shane Baz,1528.9,Minnesota Twins
+2026-08-12,9,Pittsburgh Pirates,Carmen Mlodzinski,1517.2,Miami Marlins
+2026-08-12,10,Milwaukee Brewers,Dustin May,1517.1,San Diego Padres
+2026-08-12,11,St. Louis Cardinals,Kyle Leahy,1516.1,Philadelphia Phillies
+2026-08-12,12,Seattle Mariners,Bryce Miller,1515.7,New York Yankees
+2026-08-12,13,Atlanta Braves,Tyler Mahle,1515.1,New York Mets
+2026-08-12,14,San Francisco Giants,Adrian Houser,1513.6,Houston Astros
+2026-08-12,15,New York Mets,Zac Thornton,1512.4,Atlanta Braves
+2026-08-12,16,Los Angeles Dodgers,Eric Lauer,1511.8,Kansas City Royals
+2026-08-12,17,Miami Marlins,Janson Junk,1502.0,Pittsburgh Pirates
+2026-08-12,18,Houston Astros,Bryan King,1501.9,San Francisco Giants
+2026-08-12,19,Cleveland Guardians,Foster Griffin,1500.9,Detroit Tigers
+2026-08-12,20,Cincinnati Reds,Rhett Lowder,1500.5,Chicago White Sox
+2026-08-12,21,Kansas City Royals,Daniel Lynch IV,1498.6,Los Angeles Dodgers
+2026-08-12,22,Chicago Cubs,David Peterson,1498.3,Washington Nationals
+2026-08-12,23,Los Angeles Angels,George Klassen,1497.4,Texas Rangers
+2026-08-12,24,Toronto Blue Jays,José Soriano,1486.6,Boston Red Sox
+2026-08-12,25,Athletics,Jack Perkins,1479.0,Tampa Bay Rays
+2026-08-12,26,Texas Rangers,Cal Quantrill,1474.0,Los Angeles Angels
+2026-08-12,27,Minnesota Twins,Zebby Matthews,1468.9,Baltimore Orioles
+2026-08-12,28,New York Yankees,Will Warren,1467.6,Seattle Mariners
+2026-08-12,29,Colorado Rockies,Ryan Feltner,1443.4,Arizona Diamondbacks
+2026-08-12,30,Washington Nationals,Jackson Kent,,Chicago Cubs
