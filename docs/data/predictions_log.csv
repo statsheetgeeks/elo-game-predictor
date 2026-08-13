@@ -406,11 +406,11 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-08-12,824967,Athletics,Tampa Bay Rays,Tampa Bay Rays,36.9,Tampa Bay Rays,35-40%,Tampa Bay Rays,True,True
 2026-08-12,825047,Arizona Diamondbacks,Colorado Rockies,Arizona Diamondbacks,64.8,Arizona Diamondbacks,60-65%,Colorado Rockies,False,False
 2026-08-13,822696,Washington Nationals,Chicago Cubs,Chicago Cubs,39.8,Chicago Cubs,35-40%,,,
-2026-08-13,822776,Toronto Blue Jays,Boston Red Sox,Boston Red Sox,44.6,Boston Red Sox,40-45%,,,
-2026-08-13,823508,New York Yankees,Seattle Mariners,New York Yankees,62.5,New York Yankees,60-65%,,,
+2026-08-13,822776,Toronto Blue Jays,Boston Red Sox,Boston Red Sox,44.6,Boston Red Sox,40-45%,Boston Red Sox,True,True
+2026-08-13,823508,New York Yankees,Seattle Mariners,New York Yankees,62.5,New York Yankees,60-65%,Seattle Mariners,False,False
 2026-08-13,823669,Minnesota Twins,Philadelphia Phillies,Philadelphia Phillies,48.7,Philadelphia Phillies,45-50%,,,
-2026-08-13,823829,Miami Marlins,Pittsburgh Pirates,Miami Marlins,54.3,Miami Marlins,50-55%,,,
+2026-08-13,823829,Miami Marlins,Pittsburgh Pirates,Miami Marlins,54.3,Miami Marlins,50-55%,Pittsburgh Pirates,False,False
 2026-08-13,823915,Los Angeles Dodgers,Milwaukee Brewers,Milwaukee Brewers,53.5,Los Angeles Dodgers,50-55%,,,
 2026-08-13,823995,Los Angeles Angels,Texas Rangers,Texas Rangers,44.4,Texas Rangers,40-45%,,,
-2026-08-13,824238,Detroit Tigers,Cleveland Guardians,Detroit Tigers,56.5,Detroit Tigers,55-60%,,,
-2026-08-13,824561,Chicago White Sox,Cincinnati Reds,Chicago White Sox,57.1,Chicago White Sox,55-60%,,,
+2026-08-13,824238,Detroit Tigers,Cleveland Guardians,Detroit Tigers,56.5,Detroit Tigers,55-60%,Detroit Tigers,True,True
+2026-08-13,824561,Chicago White Sox,Cincinnati Reds,Chicago White Sox,57.1,Chicago White Sox,55-60%,Cincinnati Reds,False,False

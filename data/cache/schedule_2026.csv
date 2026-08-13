@@ -1821,12 +1821,12 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824883,2026-08-12,2026,Final,Atlanta Braves,New York Mets,6.0,3.0,Tyler Mahle,Zac Thornton
 824967,2026-08-12,2026,Final,Athletics,Tampa Bay Rays,4.0,8.0,Jack Perkins,Drew Rasmussen
 825047,2026-08-12,2026,Final,Arizona Diamondbacks,Colorado Rockies,4.0,6.0,Merrill Kelly,Ryan Feltner
-822696,2026-08-13,2026,Preview,Washington Nationals,Chicago Cubs,,,Cade Cavalli,Kevin Gausman
-822776,2026-08-13,2026,Preview,Toronto Blue Jays,Boston Red Sox,,,Max Scherzer,Payton Tolle
-823508,2026-08-13,2026,Preview,New York Yankees,Seattle Mariners,,,Max Fried,Logan Gilbert
-823669,2026-08-13,2026,Preview,Minnesota Twins,Philadelphia Phillies,,,Taj Bradley,Aaron Nola
-823829,2026-08-13,2026,Preview,Miami Marlins,Pittsburgh Pirates,0.0,0.0,Tyler Phillips,Braxton Ashcraft
+822696,2026-08-13,2026,Live,Washington Nationals,Chicago Cubs,0.0,0.0,Cade Cavalli,Kevin Gausman
+822776,2026-08-13,2026,Live,Toronto Blue Jays,Boston Red Sox,0.0,1.0,Max Scherzer,Payton Tolle
+823508,2026-08-13,2026,Final,New York Yankees,Seattle Mariners,0.0,1.0,Max Fried,Logan Gilbert
+823669,2026-08-13,2026,Preview,Minnesota Twins,Philadelphia Phillies,0.0,0.0,Taj Bradley,Aaron Nola
+823829,2026-08-13,2026,Final,Miami Marlins,Pittsburgh Pirates,1.0,13.0,Tyler Phillips,Braxton Ashcraft
 823915,2026-08-13,2026,Preview,Los Angeles Dodgers,Milwaukee Brewers,,,Roki Sasaki,Shane Drohan
 823995,2026-08-13,2026,Preview,Los Angeles Angels,Texas Rangers,,,Walbert Ureña,Jacob deGrom
-824238,2026-08-13,2026,Preview,Detroit Tigers,Cleveland Guardians,0.0,0.0,Keider Montero,Parker Messick
-824561,2026-08-13,2026,Preview,Chicago White Sox,Cincinnati Reds,,,Davis Martin,Andrew Abbott
+824238,2026-08-13,2026,Final,Detroit Tigers,Cleveland Guardians,3.0,0.0,Keider Montero,Parker Messick
+824561,2026-08-13,2026,Final,Chicago White Sox,Cincinnati Reds,8.0,9.0,Davis Martin,Andrew Abbott
