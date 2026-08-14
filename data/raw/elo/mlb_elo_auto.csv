@@ -14895,3 +14895,12 @@ date,season,game_pk,home_team,away_team,home_pitcher,away_pitcher,home_elo_pre,a
 2026-08-13,2026,823995,Los Angeles Angels,Texas Rangers,Walbert Ureña,Jacob deGrom,1455.7,1491.8,-57.0,0.4188,0.5812,1460.2,1487.2,7,0,1
 2026-08-13,2026,824238,Detroit Tigers,Cleveland Guardians,Keider Montero,Parker Messick,1513.0,1487.3,45.1,0.5646,0.4354,1515.5,1484.8,3,0,1
 2026-08-13,2026,824561,Chicago White Sox,Cincinnati Reds,Davis Martin,Andrew Abbott,1511.0,1486.1,27.5,0.5395,0.4605,1508.0,1489.1,8,9,0
+2026-08-14,2026,822777,Toronto Blue Jays,New York Yankees,Shane Bieber,Gerrit Cole,1493.1,1524.5,-25.5,0.4633,0.5367,1491.0,1526.6,0,0,0
+2026-08-14,2026,822942,Tampa Bay Rays,Baltimore Orioles,Steven Matz,Chris Bassitt,1531.7,1504.0,38.0,0.5545,0.4455,1528.8,1506.8,0,0,0
+2026-08-14,2026,823346,Pittsburgh Pirates,Boston Red Sox,Bubba Chandler,Jake Bennett,1496.0,1547.9,-38.0,0.4455,0.5545,1494.0,1549.8,0,0,0
+2026-08-14,2026,823591,New York Mets,Washington Nationals,Robert Stock,Andrew Alvarez,1485.5,1506.2,3.6,0.5052,0.4948,1483.1,1508.6,0,0,0
+2026-08-14,2026,824237,Detroit Tigers,Chicago White Sox,Jackson Jobe,Sean Newcomb,1515.5,1508.0,40.4,0.5579,0.4421,1512.7,1510.9,0,0,0
+2026-08-14,2026,824399,Cleveland Guardians,San Diego Padres,Gavin Williams,Michael King,1484.8,1523.7,-17.2,0.4752,0.5248,1482.6,1525.9,0,0,0
+2026-08-14,2026,824479,Cincinnati Reds,Miami Marlins,Chase Burns,Sandy Alcantara,1489.1,1508.3,-20.5,0.4706,0.5294,1486.9,1510.5,0,0,0
+2026-08-14,2026,824643,Chicago Cubs,St. Louis Cardinals,Clay Holmes,Matthew Liberatore,1551.5,1500.3,93.7,0.6316,0.3684,1553.5,1498.3,3,0,1
+2026-08-14,2026,824882,Atlanta Braves,Arizona Diamondbacks,Chris Sale,Brandon Pfaadt,1535.5,1519.6,99.5,0.6394,0.3606,1532.0,1523.1,0,0,0

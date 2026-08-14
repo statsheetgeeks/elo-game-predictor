@@ -425,6 +425,6 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-08-14,824237,Detroit Tigers,Chicago White Sox,Detroit Tigers,56.1,Detroit Tigers,55-60%,,,
 2026-08-14,824399,Cleveland Guardians,San Diego Padres,San Diego Padres,50.3,Cleveland Guardians,50-55%,,,
 2026-08-14,824479,Cincinnati Reds,Miami Marlins,Miami Marlins,50.8,Cincinnati Reds,50-55%,,,
-2026-08-14,824643,Chicago Cubs,St. Louis Cardinals,Chicago Cubs,61.3,Chicago Cubs,60-65%,,,
+2026-08-14,824643,Chicago Cubs,St. Louis Cardinals,Chicago Cubs,61.3,Chicago Cubs,60-65%,Chicago Cubs,True,True
 2026-08-14,824882,Atlanta Braves,Arizona Diamondbacks,Atlanta Braves,56.8,Atlanta Braves,55-60%,,,
 2026-08-14,824968,Athletics,Texas Rangers,Texas Rangers,43.9,Texas Rangers,40-45%,,,
