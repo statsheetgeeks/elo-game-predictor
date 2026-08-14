@@ -1821,12 +1821,26 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824883,2026-08-12,2026,Final,Atlanta Braves,New York Mets,6.0,3.0,Tyler Mahle,Zac Thornton
 824967,2026-08-12,2026,Final,Athletics,Tampa Bay Rays,4.0,8.0,Jack Perkins,Drew Rasmussen
 825047,2026-08-12,2026,Final,Arizona Diamondbacks,Colorado Rockies,4.0,6.0,Merrill Kelly,Ryan Feltner
-822696,2026-08-13,2026,Live,Washington Nationals,Chicago Cubs,0.0,0.0,Cade Cavalli,Kevin Gausman
-822776,2026-08-13,2026,Live,Toronto Blue Jays,Boston Red Sox,0.0,1.0,Max Scherzer,Payton Tolle
+822696,2026-08-13,2026,Final,Washington Nationals,Chicago Cubs,7.0,0.0,Cade Cavalli,Kevin Gausman
+822776,2026-08-13,2026,Final,Toronto Blue Jays,Boston Red Sox,0.0,7.0,Max Scherzer,Payton Tolle
 823508,2026-08-13,2026,Final,New York Yankees,Seattle Mariners,0.0,1.0,Max Fried,Logan Gilbert
-823669,2026-08-13,2026,Preview,Minnesota Twins,Philadelphia Phillies,0.0,0.0,Taj Bradley,Aaron Nola
+823669,2026-08-13,2026,Final,Minnesota Twins,Philadelphia Phillies,1.0,7.0,Taj Bradley,Aaron Nola
 823829,2026-08-13,2026,Final,Miami Marlins,Pittsburgh Pirates,1.0,13.0,Tyler Phillips,Braxton Ashcraft
-823915,2026-08-13,2026,Preview,Los Angeles Dodgers,Milwaukee Brewers,,,Roki Sasaki,Shane Drohan
-823995,2026-08-13,2026,Preview,Los Angeles Angels,Texas Rangers,,,Walbert Ureña,Jacob deGrom
+823915,2026-08-13,2026,Final,Los Angeles Dodgers,Milwaukee Brewers,4.0,5.0,Roki Sasaki,Shane Drohan
+823995,2026-08-13,2026,Final,Los Angeles Angels,Texas Rangers,7.0,0.0,Walbert Ureña,Jacob deGrom
 824238,2026-08-13,2026,Final,Detroit Tigers,Cleveland Guardians,3.0,0.0,Keider Montero,Parker Messick
 824561,2026-08-13,2026,Final,Chicago White Sox,Cincinnati Reds,8.0,9.0,Davis Martin,Andrew Abbott
+822777,2026-08-14,2026,Preview,Toronto Blue Jays,New York Yankees,,,Shane Bieber,Gerrit Cole
+822942,2026-08-14,2026,Preview,Tampa Bay Rays,Baltimore Orioles,,,Steven Matz,
+823185,2026-08-14,2026,Preview,San Francisco Giants,Colorado Rockies,,,Landen Roupp,Kyle Freeland
+823346,2026-08-14,2026,Preview,Pittsburgh Pirates,Boston Red Sox,,,Bubba Chandler,Jake Bennett
+823591,2026-08-14,2026,Preview,New York Mets,Washington Nationals,,,Robert Stock,Andrew Alvarez
+823913,2026-08-14,2026,Preview,Los Angeles Dodgers,Milwaukee Brewers,,,Yoshinobu Yamamoto,Robert Gasser
+823993,2026-08-14,2026,Preview,Los Angeles Angels,Kansas City Royals,,,Grayson Rodriguez,Seth Lugo
+824159,2026-08-14,2026,Preview,Houston Astros,Seattle Mariners,,,Peter Lambert,George Kirby
+824237,2026-08-14,2026,Preview,Detroit Tigers,Chicago White Sox,,,Jackson Jobe,Sean Newcomb
+824399,2026-08-14,2026,Preview,Cleveland Guardians,San Diego Padres,,,Gavin Williams,Michael King
+824479,2026-08-14,2026,Preview,Cincinnati Reds,Miami Marlins,,,Chase Burns,Sandy Alcantara
+824643,2026-08-14,2026,Preview,Chicago Cubs,St. Louis Cardinals,,,Clay Holmes,Matthew Liberatore
+824882,2026-08-14,2026,Preview,Atlanta Braves,Arizona Diamondbacks,,,,Brandon Pfaadt
+824968,2026-08-14,2026,Preview,Athletics,Texas Rangers,,,,Kumar Rocker
