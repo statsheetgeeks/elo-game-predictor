@@ -1,0 +1,16 @@
+as_of_date,game_pk,home_team,home_combined_rating,away_team,away_combined_rating,elo_diff,home_win_prob
+2026-08-16,822774,Toronto Blue Jays,1500.2,New York Yankees,1535.7,-35.5,48.3
+2026-08-16,822940,Tampa Bay Rays,1547.5,Baltimore Orioles,1518.8,28.7,59.1
+2026-08-16,823182,San Francisco Giants,1471.0,Colorado Rockies,1439.0,32.0,59.5
+2026-08-16,823344,Pittsburgh Pirates,1504.2,Boston Red Sox,1564.6,-60.4,43.9
+2026-08-16,823590,New York Mets,1494.8,Washington Nationals,1495.9,-1.1,53.6
+2026-08-16,823670,Minnesota Twins,1484.2,Philadelphia Phillies,1528.9,-44.7,47.4
+2026-08-16,823912,Los Angeles Dodgers,1542.0,Milwaukee Brewers,1565.4,-23.4,52.9
+2026-08-16,823991,Los Angeles Angels,1445.8,Kansas City Royals,1461.5,-15.7,50.0
+2026-08-16,824156,Houston Astros,1508.6,Seattle Mariners,1493.3,15.3,57.4
+2026-08-16,824236,Detroit Tigers,1532.6,Chicago White Sox,1514.0,18.6,55.5
+2026-08-16,824397,Cleveland Guardians,1501.8,San Diego Padres,1530.1,-28.3,48.8
+2026-08-16,824477,Cincinnati Reds,1497.2,Miami Marlins,1514.4,-17.2,50.1
+2026-08-16,824642,Chicago Cubs,1563.5,St. Louis Cardinals,1506.6,56.9,60.4
+2026-08-16,824880,Atlanta Braves,1552.1,Arizona Diamondbacks,1530.5,21.6,56.0
+2026-08-16,824965,Athletics,1432.4,Texas Rangers,1493.6,-61.2,44.1
