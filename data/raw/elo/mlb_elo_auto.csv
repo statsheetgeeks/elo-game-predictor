@@ -14924,3 +14924,17 @@ date,season,game_pk,home_team,away_team,home_pitcher,away_pitcher,home_elo_pre,a
 2026-08-15,2026,824644,Chicago Cubs,St. Louis Cardinals,Matthew Boyd,Michael McGreevy,1553.5,1498.3,81.9,0.6157,0.3843,1549.3,1502.5,4,8,0
 2026-08-15,2026,824884,Atlanta Braves,Arizona Diamondbacks,Grant Holmes,Eduardo Rodriguez,1531.6,1523.6,30.1,0.5432,0.4568,1527.3,1527.8,3,10,0
 2026-08-15,2026,824966,Athletics,Texas Rangers,J.T. Ginn,MacKenzie Gore,1437.7,1483.4,-4.7,0.4932,0.5068,1434.9,1486.2,3,5,0
+2026-08-16,2026,822774,Toronto Blue Jays,New York Yankees,Dylan Cease,Ryan Weathers,1499.4,1518.2,39.8,0.5571,0.4429,1496.3,1521.3,1,2,0
+2026-08-16,2026,822940,Tampa Bay Rays,Baltimore Orioles,Freddy Peralta,Trevor Rogers,1525.7,1509.9,84.9,0.6198,0.3802,1520.7,1515.0,2,10,0
+2026-08-16,2026,823182,San Francisco Giants,Colorado Rockies,Blade Tidwell,Gabriel Hughes,1448.0,1453.5,30.5,0.5437,0.4563,1445.2,1456.2,0,0,0
+2026-08-16,2026,823344,Pittsburgh Pirates,Boston Red Sox,Lake Bachar,Patrick Sandoval,1497.2,1546.6,-21.8,0.4687,0.5313,1500.7,1543.1,7,3,1
+2026-08-16,2026,823590,New York Mets,Washington Nationals,Christian Scott,Jake Irvin,1491.2,1500.6,39.8,0.5571,0.4429,1493.3,1498.4,4,3,1
+2026-08-16,2026,823670,Minnesota Twins,Philadelphia Phillies,Dean Kremer,Andrew Painter,1485.3,1508.1,10.4,0.5149,0.4851,1487.7,1505.6,5,4,1
+2026-08-16,2026,823912,Los Angeles Dodgers,Milwaukee Brewers,Tarik Skubal,Logan Henderson,1527.9,1556.5,57.3,0.5817,0.4183,1524.9,1559.5,0,0,0
+2026-08-16,2026,823991,Los Angeles Angels,Kansas City Royals,Ryan Johnson,Noah Cameron,1460.1,1455.1,22.5,0.5324,0.4676,1457.5,1457.7,0,0,0
+2026-08-16,2026,824236,Detroit Tigers,Chicago White Sox,Drew Anderson,Sean Burke,1508.9,1514.7,4.3,0.5062,0.4938,1506.2,1517.4,5,6,0
+2026-08-16,2026,824397,Cleveland Guardians,San Diego Padres,Tanner Bibee,Casey Mize,1485.8,1522.7,7.0,0.5101,0.4899,1483.3,1525.2,0,0,0
+2026-08-16,2026,824477,Cincinnati Reds,Miami Marlins,Nick Lodolo,Eury Pérez,1488.5,1508.9,5.7,0.5082,0.4918,1485.8,1511.5,1,2,0
+2026-08-16,2026,824642,Chicago Cubs,St. Louis Cardinals,Edward Cabrera,Hunter Dobbins,1549.3,1502.5,51.2,0.5731,0.4269,1546.1,1505.7,2,3,0
+2026-08-16,2026,824880,Atlanta Braves,Arizona Diamondbacks,Bryce Elder,Michael Soroka,1527.3,1527.8,48.7,0.5696,0.4304,1529.6,1525.5,5,3,1
+2026-08-16,2026,824965,Athletics,Texas Rangers,Jacob Lopez,Cody Bradford,1434.9,1486.2,-45.4,0.435,0.565,1433.0,1488.0,0,0,0

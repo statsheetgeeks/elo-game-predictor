@@ -1859,18 +1859,18 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824644,2026-08-15,2026,Final,Chicago Cubs,St. Louis Cardinals,4.0,8.0,Matthew Boyd,Michael McGreevy
 824884,2026-08-15,2026,Final,Atlanta Braves,Arizona Diamondbacks,3.0,10.0,Grant Holmes,Eduardo Rodriguez
 824966,2026-08-15,2026,Final,Athletics,Texas Rangers,3.0,5.0,J.T. Ginn,MacKenzie Gore
-822774,2026-08-16,2026,Preview,Toronto Blue Jays,New York Yankees,,,Dylan Cease,Ryan Weathers
-822940,2026-08-16,2026,Preview,Tampa Bay Rays,Baltimore Orioles,,,Freddy Peralta,Trevor Rogers
-823182,2026-08-16,2026,Preview,San Francisco Giants,Colorado Rockies,,,Blade Tidwell,Gabriel Hughes
-823344,2026-08-16,2026,Preview,Pittsburgh Pirates,Boston Red Sox,,,Lake Bachar,Patrick Sandoval
-823590,2026-08-16,2026,Preview,New York Mets,Washington Nationals,,,Christian Scott,Jake Irvin
-823670,2026-08-16,2026,Preview,Minnesota Twins,Philadelphia Phillies,,,Dean Kremer,Andrew Painter
-823912,2026-08-16,2026,Preview,Los Angeles Dodgers,Milwaukee Brewers,,,Tarik Skubal,Logan Henderson
-823991,2026-08-16,2026,Preview,Los Angeles Angels,Kansas City Royals,,,Ryan Johnson,Noah Cameron
+822774,2026-08-16,2026,Live,Toronto Blue Jays,New York Yankees,1.0,2.0,Dylan Cease,Ryan Weathers
+822940,2026-08-16,2026,Final,Tampa Bay Rays,Baltimore Orioles,2.0,10.0,Freddy Peralta,Trevor Rogers
+823182,2026-08-16,2026,Live,San Francisco Giants,Colorado Rockies,0.0,0.0,Blade Tidwell,Gabriel Hughes
+823344,2026-08-16,2026,Live,Pittsburgh Pirates,Boston Red Sox,7.0,3.0,Lake Bachar,Patrick Sandoval
+823590,2026-08-16,2026,Final,New York Mets,Washington Nationals,4.0,3.0,Christian Scott,Jake Irvin
+823670,2026-08-16,2026,Live,Minnesota Twins,Philadelphia Phillies,5.0,4.0,Dean Kremer,Andrew Painter
+823912,2026-08-16,2026,Live,Los Angeles Dodgers,Milwaukee Brewers,0.0,0.0,Tarik Skubal,Logan Henderson
+823991,2026-08-16,2026,Live,Los Angeles Angels,Kansas City Royals,0.0,0.0,Ryan Johnson,Noah Cameron
 824156,2026-08-16,2026,Preview,Houston Astros,Seattle Mariners,,,Hunter Brown,Bryan Woo
-824236,2026-08-16,2026,Preview,Detroit Tigers,Chicago White Sox,,,Drew Anderson,Sean Burke
-824397,2026-08-16,2026,Preview,Cleveland Guardians,San Diego Padres,,,Tanner Bibee,Casey Mize
-824477,2026-08-16,2026,Preview,Cincinnati Reds,Miami Marlins,,,Nick Lodolo,Eury Pérez
-824642,2026-08-16,2026,Preview,Chicago Cubs,St. Louis Cardinals,,,Edward Cabrera,Hunter Dobbins
-824880,2026-08-16,2026,Preview,Atlanta Braves,Arizona Diamondbacks,,,Bryce Elder,Michael Soroka
-824965,2026-08-16,2026,Preview,Athletics,Texas Rangers,,,Jacob Lopez,Cody Bradford
+824236,2026-08-16,2026,Live,Detroit Tigers,Chicago White Sox,5.0,6.0,Drew Anderson,Sean Burke
+824397,2026-08-16,2026,Preview,Cleveland Guardians,San Diego Padres,0.0,0.0,Tanner Bibee,Casey Mize
+824477,2026-08-16,2026,Live,Cincinnati Reds,Miami Marlins,1.0,2.0,Nick Lodolo,Eury Pérez
+824642,2026-08-16,2026,Live,Chicago Cubs,St. Louis Cardinals,2.0,3.0,Edward Cabrera,Hunter Dobbins
+824880,2026-08-16,2026,Final,Atlanta Braves,Arizona Diamondbacks,5.0,3.0,Bryce Elder,Michael Soroka
+824965,2026-08-16,2026,Live,Athletics,Texas Rangers,0.0,0.0,Jacob Lopez,Cody Bradford
