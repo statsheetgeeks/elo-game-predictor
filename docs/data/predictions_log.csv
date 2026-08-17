@@ -466,6 +466,6 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-08-17,824077,Kansas City Royals,Athletics,Kansas City Royals,57.2,Kansas City Royals,55-60%,,,
 2026-08-17,824320,Colorado Rockies,Los Angeles Dodgers,Los Angeles Dodgers,40.1,Los Angeles Dodgers,40-45%,,,
 2026-08-17,824478,Cincinnati Reds,St. Louis Cardinals,St. Louis Cardinals,50.6,Cincinnati Reds,50-55%,,,
-2026-08-17,824514,Cincinnati Reds,St. Louis Cardinals,St. Louis Cardinals,50.6,Cincinnati Reds,50-55%,,,
+2026-08-17,824514,Cincinnati Reds,St. Louis Cardinals,St. Louis Cardinals,50.6,Cincinnati Reds,50-55%,St. Louis Cardinals,True,False
 2026-08-17,824641,Chicago Cubs,Chicago White Sox,Chicago Cubs,58.8,Chicago Cubs,55-60%,,,
 2026-08-17,824725,Boston Red Sox,Arizona Diamondbacks,Boston Red Sox,57.3,Boston Red Sox,55-60%,,,

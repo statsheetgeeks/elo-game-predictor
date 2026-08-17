@@ -1,22 +1,23 @@
 as_of_date,rank,team,pitcher,rating,opponent
 2026-08-17,1,Los Angeles Dodgers,Blake Snell,1582.5,Colorado Rockies
-2026-08-17,2,Philadelphia Phillies,Cristopher Sánchez,1576.8,Miami Marlins
-2026-08-17,3,Tampa Bay Rays,Shane McClanahan,1567.6,Baltimore Orioles
-2026-08-17,4,Detroit Tigers,Framber Valdez,1566.7,Pittsburgh Pirates
+2026-08-17,2,Philadelphia Phillies,Cristopher Sánchez,1581.3,Miami Marlins
+2026-08-17,3,Detroit Tigers,Framber Valdez,1570.8,Pittsburgh Pirates
+2026-08-17,4,Tampa Bay Rays,Shane McClanahan,1567.6,Baltimore Orioles
 2026-08-17,5,Chicago Cubs,Shota Imanaga,1563.3,Chicago White Sox
 2026-08-17,6,Kansas City Royals,Michael Wacha,1549.8,Athletics
 2026-08-17,7,San Diego Padres,Walker Buehler,1534.4,New York Mets
 2026-08-17,8,St. Louis Cardinals,Andre Pallante,1532.0,Cincinnati Reds
 2026-08-17,9,Chicago White Sox,Luis Castillo,1531.9,Chicago Cubs
 2026-08-17,10,Colorado Rockies,Tomoyuki Sugano,1528.8,Los Angeles Dodgers
-2026-08-17,11,New York Mets,Nolan McLean,1518.8,San Diego Padres
-2026-08-17,12,Atlanta Braves,Martín Pérez,1515.7,Minnesota Twins
-2026-08-17,13,Pittsburgh Pirates,Carmen Mlodzinski,1509.9,Detroit Tigers
+2026-08-17,11,Atlanta Braves,Martín Pérez,1519.4,Minnesota Twins
+2026-08-17,12,New York Mets,Nolan McLean,1518.8,San Diego Padres
+2026-08-17,13,Pittsburgh Pirates,Carmen Mlodzinski,1514.2,Detroit Tigers
 2026-08-17,14,Arizona Diamondbacks,Mitch Bratt,1505.3,Boston Red Sox
-2026-08-17,15,Baltimore Orioles,Brandon Young,1504.4,Tampa Bay Rays
-2026-08-17,16,Miami Marlins,Janson Junk,1500.1,Philadelphia Phillies
-2026-08-17,17,St. Louis Cardinals,Quinn Mathews,1499.1,Cincinnati Reds
-2026-08-17,18,Cincinnati Reds,Rhett Lowder,1495.9,St. Louis Cardinals
-2026-08-17,19,Minnesota Twins,Bailey Ober,1494.6,Atlanta Braves
-2026-08-17,20,Athletics,Mason Barnett,1493.0,Kansas City Royals
-2026-08-17,21,Cincinnati Reds,Kent Emanuel,,St. Louis Cardinals
+2026-08-17,15,Miami Marlins,Janson Junk,1504.6,Philadelphia Phillies
+2026-08-17,16,Baltimore Orioles,Brandon Young,1504.4,Tampa Bay Rays
+2026-08-17,17,Cincinnati Reds,Kent Emanuel,1502.5,St. Louis Cardinals
+2026-08-17,18,St. Louis Cardinals,Quinn Mathews,1501.9,Cincinnati Reds
+2026-08-17,19,Minnesota Twins,Bailey Ober,1499.6,Atlanta Braves
+2026-08-17,20,Cincinnati Reds,Rhett Lowder,1495.9,St. Louis Cardinals
+2026-08-17,21,Athletics,Mason Barnett,1493.0,Kansas City Royals
+2026-08-17,22,Boston Red Sox,Alec Gamboa,,Arizona Diamondbacks
