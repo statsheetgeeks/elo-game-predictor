@@ -1,29 +1,31 @@
 as_of_date,rank,team,pitcher,rating,opponent
-2026-08-18,1,Philadelphia Phillies,Zack Wheeler,1633.6,Miami Marlins
-2026-08-18,2,Boston Red Sox,Ranger Suarez,1562.5,Arizona Diamondbacks
-2026-08-18,3,New York Yankees,Carlos Rodón,1562.1,Baltimore Orioles
-2026-08-18,4,Tampa Bay Rays,Nick Martinez,1558.0,Toronto Blue Jays
-2026-08-18,5,San Diego Padres,Robbie Ray,1557.6,New York Mets
-2026-08-18,6,Chicago Cubs,Kevin Gausman,1555.6,Chicago White Sox
-2026-08-18,7,Cincinnati Reds,Andrew Abbott,1551.8,St. Louis Cardinals
-2026-08-18,8,Arizona Diamondbacks,Merrill Kelly,1544.8,Boston Red Sox
-2026-08-18,9,Detroit Tigers,Keider Montero,1532.8,Pittsburgh Pirates
-2026-08-18,10,Baltimore Orioles,Shane Baz,1528.9,New York Yankees
-2026-08-18,11,Milwaukee Brewers,Kyle Harrison,1519.4,Seattle Mariners
-2026-08-18,12,Pittsburgh Pirates,Braxton Ashcraft,1517.6,Detroit Tigers
-2026-08-18,13,St. Louis Cardinals,Kyle Leahy,1516.1,Cincinnati Reds
+2026-08-18,1,Philadelphia Phillies,Zack Wheeler,1638.0,Miami Marlins
+2026-08-18,2,Boston Red Sox,Ranger Suarez,1567.2,Arizona Diamondbacks
+2026-08-18,3,New York Yankees,Carlos Rodón,1566.6,Baltimore Orioles
+2026-08-18,4,Tampa Bay Rays,Nick Martinez,1562.0,Toronto Blue Jays
+2026-08-18,5,San Diego Padres,Robbie Ray,1561.6,New York Mets
+2026-08-18,6,Cincinnati Reds,Andrew Abbott,1556.1,St. Louis Cardinals
+2026-08-18,7,Chicago Cubs,Kevin Gausman,1555.6,Chicago White Sox
+2026-08-18,8,Arizona Diamondbacks,Merrill Kelly,1550.2,Boston Red Sox
+2026-08-18,9,Baltimore Orioles,Shane Baz,1533.7,New York Yankees
+2026-08-18,10,Detroit Tigers,Keider Montero,1532.8,Pittsburgh Pirates
+2026-08-18,11,St. Louis Cardinals,Kyle Leahy,1519.9,Cincinnati Reds
+2026-08-18,12,Milwaukee Brewers,Kyle Harrison,1519.4,Seattle Mariners
+2026-08-18,13,Pittsburgh Pirates,Braxton Ashcraft,1517.6,Detroit Tigers
 2026-08-18,14,Los Angeles Dodgers,Eric Lauer,1513.0,Colorado Rockies
 2026-08-18,15,Atlanta Braves,Tyler Mahle,1512.3,Minnesota Twins
-2026-08-18,16,New York Mets,Zac Thornton,1506.9,San Diego Padres
-2026-08-18,17,Seattle Mariners,Bryce Miller,1506.5,Milwaukee Brewers
-2026-08-18,18,San Francisco Giants,Carson Whisenhunt,1503.5,Cleveland Guardians
-2026-08-18,19,Cleveland Guardians,Foster Griffin,1501.8,San Francisco Giants
-2026-08-18,20,Miami Marlins,Cade Gibson,1500.9,Philadelphia Phillies
-2026-08-18,21,Los Angeles Angels,George Klassen,1499.5,Houston Astros
-2026-08-18,22,Washington Nationals,Jackson Kent,1494.5,Texas Rangers
-2026-08-18,23,Houston Astros,Cristian Javier,1493.9,Los Angeles Angels
-2026-08-18,24,Toronto Blue Jays,José Soriano,1482.9,Tampa Bay Rays
-2026-08-18,25,Athletics,Jack Perkins,1478.1,Kansas City Royals
-2026-08-18,26,Texas Rangers,Cal Quantrill,1472.3,Washington Nationals
-2026-08-18,27,Minnesota Twins,Zebby Matthews,1468.9,Atlanta Braves
-2026-08-18,28,Colorado Rockies,Ryan Feltner,1440.6,Los Angeles Dodgers
+2026-08-18,16,New York Mets,Zac Thornton,1511.7,San Diego Padres
+2026-08-18,17,San Francisco Giants,Carson Whisenhunt,1507.2,Cleveland Guardians
+2026-08-18,18,Seattle Mariners,Bryce Miller,1506.5,Milwaukee Brewers
+2026-08-18,19,Miami Marlins,Cade Gibson,1505.4,Philadelphia Phillies
+2026-08-18,20,Chicago White Sox,Bryan Hudson,1505.1,Chicago Cubs
+2026-08-18,21,Cleveland Guardians,Foster Griffin,1504.5,San Francisco Giants
+2026-08-18,22,Kansas City Royals,Daniel Lynch IV,1499.9,Athletics
+2026-08-18,23,Los Angeles Angels,George Klassen,1499.5,Houston Astros
+2026-08-18,24,Washington Nationals,Jackson Kent,1494.5,Texas Rangers
+2026-08-18,25,Houston Astros,Cristian Javier,1493.9,Los Angeles Angels
+2026-08-18,26,Toronto Blue Jays,José Soriano,1487.7,Tampa Bay Rays
+2026-08-18,27,Athletics,Jack Perkins,1478.1,Kansas City Royals
+2026-08-18,28,Texas Rangers,Cal Quantrill,1472.3,Washington Nationals
+2026-08-18,29,Minnesota Twins,Zebby Matthews,1468.9,Atlanta Braves
+2026-08-18,30,Colorado Rockies,Ryan Feltner,1440.6,Los Angeles Dodgers
