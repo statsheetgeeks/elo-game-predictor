@@ -1873,14 +1873,29 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824642,2026-08-16,2026,Final,Chicago Cubs,St. Louis Cardinals,4.0,11.0,Edward Cabrera,Hunter Dobbins
 824880,2026-08-16,2026,Final,Atlanta Braves,Arizona Diamondbacks,5.0,3.0,Bryce Elder,Michael Soroka
 824965,2026-08-16,2026,Final,Athletics,Texas Rangers,5.0,2.0,Jacob Lopez,Cody Bradford
-822939,2026-08-17,2026,Preview,Tampa Bay Rays,Baltimore Orioles,,,Shane McClanahan,Brandon Young
-823343,2026-08-17,2026,Preview,Pittsburgh Pirates,Detroit Tigers,0.0,0.0,Carmen Mlodzinski,Framber Valdez
-823427,2026-08-17,2026,Preview,Philadelphia Phillies,Miami Marlins,0.0,0.0,Cristopher Sánchez,Janson Junk
-823589,2026-08-17,2026,Preview,New York Mets,San Diego Padres,,,Nolan McLean,Walker Buehler
-823668,2026-08-17,2026,Preview,Minnesota Twins,Atlanta Braves,0.0,0.0,Bailey Ober,Martín Pérez
-824077,2026-08-17,2026,Preview,Kansas City Royals,Athletics,,,Michael Wacha,Mason Barnett
-824320,2026-08-17,2026,Preview,Colorado Rockies,Los Angeles Dodgers,,,Tomoyuki Sugano,Blake Snell
-824478,2026-08-17,2026,Preview,Cincinnati Reds,St. Louis Cardinals,,,Rhett Lowder,Andre Pallante
-824514,2026-08-17,2026,Live,Cincinnati Reds,St. Louis Cardinals,1.0,2.0,Kent Emanuel,Quinn Mathews
-824641,2026-08-17,2026,Preview,Chicago Cubs,Chicago White Sox,,,Shota Imanaga,Luis Castillo
-824725,2026-08-17,2026,Preview,Boston Red Sox,Arizona Diamondbacks,,,Alec Gamboa,Mitch Bratt
+822939,2026-08-17,2026,Final,Tampa Bay Rays,Baltimore Orioles,7.0,6.0,Shane McClanahan,Brandon Young
+823343,2026-08-17,2026,Final,Pittsburgh Pirates,Detroit Tigers,5.0,8.0,Carmen Mlodzinski,Framber Valdez
+823427,2026-08-17,2026,Final,Philadelphia Phillies,Miami Marlins,6.0,5.0,Cristopher Sánchez,Janson Junk
+823589,2026-08-17,2026,Final,New York Mets,San Diego Padres,2.0,1.0,Nolan McLean,Walker Buehler
+823668,2026-08-17,2026,Final,Minnesota Twins,Atlanta Braves,4.0,2.0,Bailey Ober,Martín Pérez
+824077,2026-08-17,2026,Final,Kansas City Royals,Athletics,9.0,5.0,Michael Wacha,Mason Barnett
+824320,2026-08-17,2026,Final,Colorado Rockies,Los Angeles Dodgers,5.0,11.0,Tomoyuki Sugano,Blake Snell
+824478,2026-08-17,2026,Final,Cincinnati Reds,St. Louis Cardinals,6.0,5.0,Rhett Lowder,Andre Pallante
+824514,2026-08-17,2026,Final,Cincinnati Reds,St. Louis Cardinals,1.0,2.0,Kent Emanuel,Quinn Mathews
+824641,2026-08-17,2026,Final,Chicago Cubs,Chicago White Sox,7.0,5.0,Shota Imanaga,Luis Castillo
+824725,2026-08-17,2026,Final,Boston Red Sox,Arizona Diamondbacks,11.0,1.0,Alec Gamboa,Mitch Bratt
+822859,2026-08-18,2026,Preview,Texas Rangers,Washington Nationals,,,Cal Quantrill,Jackson Kent
+822938,2026-08-18,2026,Preview,Tampa Bay Rays,Toronto Blue Jays,,,Nick Martinez,José Soriano
+823341,2026-08-18,2026,Preview,Pittsburgh Pirates,Detroit Tigers,,,Braxton Ashcraft,Keider Montero
+823423,2026-08-18,2026,Preview,Philadelphia Phillies,Miami Marlins,,,Zack Wheeler,Cade Gibson
+823586,2026-08-18,2026,Preview,New York Mets,San Diego Padres,,,Zac Thornton,Robbie Ray
+823667,2026-08-18,2026,Preview,Minnesota Twins,Atlanta Braves,,,Zebby Matthews,Tyler Mahle
+823749,2026-08-18,2026,Preview,Milwaukee Brewers,Seattle Mariners,,,Kyle Harrison,Bryce Miller
+824075,2026-08-18,2026,Preview,Kansas City Royals,Athletics,,,,Jack Perkins
+824154,2026-08-18,2026,Preview,Houston Astros,Los Angeles Angels,,,Cristian Javier,George Klassen
+824319,2026-08-18,2026,Preview,Colorado Rockies,Los Angeles Dodgers,,,Ryan Feltner,Eric Lauer
+824398,2026-08-18,2026,Preview,Cleveland Guardians,San Francisco Giants,,,Foster Griffin,Carson Whisenhunt
+824475,2026-08-18,2026,Preview,Cincinnati Reds,St. Louis Cardinals,,,Andrew Abbott,Kyle Leahy
+824639,2026-08-18,2026,Preview,Chicago Cubs,Chicago White Sox,,,Kevin Gausman,
+824723,2026-08-18,2026,Preview,Boston Red Sox,Arizona Diamondbacks,,,Ranger Suarez,Merrill Kelly
+824803,2026-08-18,2026,Preview,Baltimore Orioles,New York Yankees,,,Shane Baz,Carlos Rodón
