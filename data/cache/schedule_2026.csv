@@ -1900,17 +1900,17 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824723,2026-08-18,2026,Final,Boston Red Sox,Arizona Diamondbacks,9.0,4.0,Ranger Suarez,Merrill Kelly
 824803,2026-08-18,2026,Final,Baltimore Orioles,New York Yankees,1.0,3.0,Shane Baz,Carlos Rodón
 822860,2026-08-19,2026,Preview,Texas Rangers,Washington Nationals,,,Kumar Rocker,Cade Cavalli
-822937,2026-08-19,2026,Preview,Tampa Bay Rays,Toronto Blue Jays,,,Drew Rasmussen,Max Scherzer
-823342,2026-08-19,2026,Preview,Pittsburgh Pirates,Detroit Tigers,0.0,0.0,Paul Skenes,Jackson Jobe
-823424,2026-08-19,2026,Preview,Philadelphia Phillies,Miami Marlins,,,Aaron Nola,Sandy Alcantara
-823587,2026-08-19,2026,Preview,New York Mets,San Diego Padres,,,Robert Stock,Michael King
-823664,2026-08-19,2026,Preview,Minnesota Twins,Atlanta Braves,,,Taj Bradley,AJ Smith-Shawver
+822937,2026-08-19,2026,Preview,Tampa Bay Rays,Toronto Blue Jays,0.0,0.0,Drew Rasmussen,Max Scherzer
+823342,2026-08-19,2026,Final,Pittsburgh Pirates,Detroit Tigers,4.0,3.0,Paul Skenes,Jackson Jobe
+823424,2026-08-19,2026,Preview,Philadelphia Phillies,Miami Marlins,0.0,0.0,Aaron Nola,Sandy Alcantara
+823587,2026-08-19,2026,Final,New York Mets,San Diego Padres,4.0,2.0,Robert Stock,Michael King
+823664,2026-08-19,2026,Live,Minnesota Twins,Atlanta Braves,6.0,4.0,Taj Bradley,AJ Smith-Shawver
 823748,2026-08-19,2026,Preview,Milwaukee Brewers,Seattle Mariners,,,Dustin May,Logan Gilbert
-824076,2026-08-19,2026,Preview,Kansas City Royals,Athletics,,,,
-824155,2026-08-19,2026,Preview,Houston Astros,Los Angeles Angels,,,Ethan Pecko,Walbert Ureña
+824076,2026-08-19,2026,Preview,Kansas City Royals,Athletics,,,Seth Lugo,Jeffrey Springs
+824155,2026-08-19,2026,Preview,Houston Astros,Los Angeles Angels,0.0,0.0,Ethan Pecko,Walbert Ureña
 824318,2026-08-19,2026,Preview,Colorado Rockies,Los Angeles Dodgers,,,Kyle Freeland,Roki Sasaki
-824394,2026-08-19,2026,Preview,Cleveland Guardians,San Francisco Giants,,,Parker Messick,Matt Wilkinson
-824476,2026-08-19,2026,Preview,Cincinnati Reds,St. Louis Cardinals,,,Chase Burns,Matthew Liberatore
-824640,2026-08-19,2026,Preview,Chicago Cubs,Chicago White Sox,,,Clay Holmes,Sean Newcomb
-824722,2026-08-19,2026,Preview,Boston Red Sox,Arizona Diamondbacks,,,Payton Tolle,Brandon Pfaadt
+824394,2026-08-19,2026,Preview,Cleveland Guardians,San Francisco Giants,0.0,0.0,Parker Messick,Matt Wilkinson
+824476,2026-08-19,2026,Preview,Cincinnati Reds,St. Louis Cardinals,0.0,0.0,Chase Burns,Matthew Liberatore
+824640,2026-08-19,2026,Live,Chicago Cubs,Chicago White Sox,0.0,1.0,Clay Holmes,Sean Newcomb
+824722,2026-08-19,2026,Live,Boston Red Sox,Arizona Diamondbacks,0.0,0.0,Payton Tolle,Brandon Pfaadt
 824801,2026-08-19,2026,Preview,Baltimore Orioles,New York Yankees,,,Chris Bassitt,Will Warren

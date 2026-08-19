@@ -486,16 +486,16 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-08-18,824803,Baltimore Orioles,New York Yankees,New York Yankees,47.4,New York Yankees,45-50%,New York Yankees,True,True
 2026-08-19,822860,Texas Rangers,Washington Nationals,Washington Nationals,53.1,Texas Rangers,50-55%,,,
 2026-08-19,822937,Tampa Bay Rays,Toronto Blue Jays,Tampa Bay Rays,59.7,Tampa Bay Rays,55-60%,,,
-2026-08-19,823342,Pittsburgh Pirates,Detroit Tigers,Detroit Tigers,49.3,Detroit Tigers,45-50%,,,
+2026-08-19,823342,Pittsburgh Pirates,Detroit Tigers,Detroit Tigers,49.3,Detroit Tigers,45-50%,Pittsburgh Pirates,False,False
 2026-08-19,823424,Philadelphia Phillies,Miami Marlins,Philadelphia Phillies,56.7,Philadelphia Phillies,55-60%,,,
-2026-08-19,823587,New York Mets,San Diego Padres,San Diego Padres,48.2,San Diego Padres,45-50%,,,
-2026-08-19,823664,Minnesota Twins,Atlanta Braves,Atlanta Braves,45.8,Atlanta Braves,45-50%,,,
+2026-08-19,823587,New York Mets,San Diego Padres,San Diego Padres,48.2,San Diego Padres,45-50%,New York Mets,False,False
+2026-08-19,823664,Minnesota Twins,Atlanta Braves,Atlanta Braves,45.8,Atlanta Braves,45-50%,Minnesota Twins,False,False
 2026-08-19,823748,Milwaukee Brewers,Seattle Mariners,Milwaukee Brewers,63.7,Milwaukee Brewers,60-65%,,,
 2026-08-19,824076,Kansas City Royals,Athletics,Kansas City Royals,58.1,Kansas City Royals,55-60%,,,
 2026-08-19,824155,Houston Astros,Los Angeles Angels,Houston Astros,62.8,Houston Astros,60-65%,,,
 2026-08-19,824318,Colorado Rockies,Los Angeles Dodgers,Los Angeles Dodgers,40.0,Los Angeles Dodgers,40-45%,,,
 2026-08-19,824394,Cleveland Guardians,San Francisco Giants,Cleveland Guardians,59.2,Cleveland Guardians,55-60%,,,
 2026-08-19,824476,Cincinnati Reds,St. Louis Cardinals,St. Louis Cardinals,50.1,Cincinnati Reds,50-55%,,,
-2026-08-19,824640,Chicago Cubs,Chicago White Sox,Chicago Cubs,59.4,Chicago Cubs,55-60%,,,
+2026-08-19,824640,Chicago Cubs,Chicago White Sox,Chicago Cubs,59.4,Chicago Cubs,55-60%,Chicago White Sox,False,False
 2026-08-19,824722,Boston Red Sox,Arizona Diamondbacks,Boston Red Sox,58.3,Boston Red Sox,55-60%,,,
 2026-08-19,824801,Baltimore Orioles,New York Yankees,New York Yankees,47.1,New York Yankees,45-50%,,,
