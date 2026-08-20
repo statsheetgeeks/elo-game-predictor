@@ -1,0 +1,10 @@
+as_of_date,game_pk,home_team,home_combined_rating,away_team,away_combined_rating,elo_diff,home_win_prob
+2026-08-20,822861,Texas Rangers,1489.6,Washington Nationals,1494.4,-4.8,52.5
+2026-08-20,822934,Tampa Bay Rays,1547.3,Toronto Blue Jays,1512.2,35.1,59.9
+2026-08-20,823747,Milwaukee Brewers,1569.7,Seattle Mariners,1493.9,75.8,63.2
+2026-08-20,824074,Kansas City Royals,1464.4,Athletics,1422.9,41.5,58.4
+2026-08-20,824153,Houston Astros,1508.7,Los Angeles Angels,1452.7,56.0,63.0
+2026-08-20,824395,Cleveland Guardians,1502.0,San Francisco Giants,1460.6,41.4,58.8
+2026-08-20,824474,Cincinnati Reds,1497.7,St. Louis Cardinals,1514.1,-16.4,50.2
+2026-08-20,824589,Chicago White Sox,1517.2,Atlanta Braves,1537.4,-20.2,51.9
+2026-08-20,824802,Baltimore Orioles,1522.3,New York Yankees,1544.4,-22.1,46.7
