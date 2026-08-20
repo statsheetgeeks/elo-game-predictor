@@ -500,11 +500,11 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-08-19,824722,Boston Red Sox,Arizona Diamondbacks,Boston Red Sox,58.3,Boston Red Sox,55-60%,Arizona Diamondbacks,False,False
 2026-08-19,824801,Baltimore Orioles,New York Yankees,New York Yankees,47.1,New York Yankees,45-50%,New York Yankees,True,True
 2026-08-20,822861,Texas Rangers,Washington Nationals,Washington Nationals,52.5,Texas Rangers,50-55%,,,
-2026-08-20,822934,Tampa Bay Rays,Toronto Blue Jays,Tampa Bay Rays,59.9,Tampa Bay Rays,55-60%,,,
-2026-08-20,823747,Milwaukee Brewers,Seattle Mariners,Milwaukee Brewers,63.2,Milwaukee Brewers,60-65%,,,
-2026-08-20,824074,Kansas City Royals,Athletics,Kansas City Royals,58.4,Kansas City Royals,55-60%,,,
+2026-08-20,822934,Tampa Bay Rays,Toronto Blue Jays,Tampa Bay Rays,59.9,Tampa Bay Rays,55-60%,Toronto Blue Jays,False,False
+2026-08-20,823747,Milwaukee Brewers,Seattle Mariners,Milwaukee Brewers,63.2,Milwaukee Brewers,60-65%,Milwaukee Brewers,True,True
+2026-08-20,824074,Kansas City Royals,Athletics,Kansas City Royals,58.4,Kansas City Royals,55-60%,Kansas City Royals,True,True
 2026-08-20,824153,Houston Astros,Los Angeles Angels,Houston Astros,63.0,Houston Astros,60-65%,,,
-2026-08-20,824395,Cleveland Guardians,San Francisco Giants,Cleveland Guardians,58.8,Cleveland Guardians,55-60%,,,
-2026-08-20,824474,Cincinnati Reds,St. Louis Cardinals,St. Louis Cardinals,50.2,Cincinnati Reds,50-55%,,,
-2026-08-20,824589,Chicago White Sox,Atlanta Braves,Atlanta Braves,51.9,Chicago White Sox,50-55%,,,
+2026-08-20,824395,Cleveland Guardians,San Francisco Giants,Cleveland Guardians,58.8,Cleveland Guardians,55-60%,Cleveland Guardians,True,True
+2026-08-20,824474,Cincinnati Reds,St. Louis Cardinals,St. Louis Cardinals,50.2,Cincinnati Reds,50-55%,St. Louis Cardinals,True,False
+2026-08-20,824589,Chicago White Sox,Atlanta Braves,Atlanta Braves,51.9,Chicago White Sox,50-55%,Atlanta Braves,True,False
 2026-08-20,824802,Baltimore Orioles,New York Yankees,New York Yankees,46.7,New York Yankees,45-50%,,,

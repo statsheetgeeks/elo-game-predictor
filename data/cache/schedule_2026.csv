@@ -1914,11 +1914,11 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824722,2026-08-19,2026,Final,Boston Red Sox,Arizona Diamondbacks,6.0,7.0,Payton Tolle,Brandon Pfaadt
 824801,2026-08-19,2026,Final,Baltimore Orioles,New York Yankees,3.0,5.0,Chris Bassitt,Will Warren
 822861,2026-08-20,2026,Preview,Texas Rangers,Washington Nationals,,,Jacob deGrom,Andrew Alvarez
-822934,2026-08-20,2026,Preview,Tampa Bay Rays,Toronto Blue Jays,,,Ian Seymour,Shane Bieber
-823747,2026-08-20,2026,Preview,Milwaukee Brewers,Seattle Mariners,,,Robert Gasser,George Kirby
-824074,2026-08-20,2026,Preview,Kansas City Royals,Athletics,,,Randy Dobnak,Gage Jump
+822934,2026-08-20,2026,Final,Tampa Bay Rays,Toronto Blue Jays,1.0,5.0,Ian Seymour,Shane Bieber
+823747,2026-08-20,2026,Live,Milwaukee Brewers,Seattle Mariners,6.0,4.0,Robert Gasser,George Kirby
+824074,2026-08-20,2026,Live,Kansas City Royals,Athletics,6.0,2.0,Randy Dobnak,Gage Jump
 824153,2026-08-20,2026,Preview,Houston Astros,Los Angeles Angels,,,Peter Lambert,Grayson Rodriguez
-824395,2026-08-20,2026,Preview,Cleveland Guardians,San Francisco Giants,,,Gavin Williams,Landen Roupp
-824474,2026-08-20,2026,Preview,Cincinnati Reds,St. Louis Cardinals,0.0,0.0,Brady Singer,Michael McGreevy
-824589,2026-08-20,2026,Preview,Chicago White Sox,Atlanta Braves,,,Anthony Kay,Grant Holmes
-824802,2026-08-20,2026,Preview,Baltimore Orioles,New York Yankees,,,Kyle Bradish,Gerrit Cole
+824395,2026-08-20,2026,Final,Cleveland Guardians,San Francisco Giants,5.0,2.0,Gavin Williams,Landen Roupp
+824474,2026-08-20,2026,Final,Cincinnati Reds,St. Louis Cardinals,9.0,10.0,Brady Singer,Michael McGreevy
+824589,2026-08-20,2026,Live,Chicago White Sox,Atlanta Braves,0.0,2.0,Anthony Kay,Grant Holmes
+824802,2026-08-20,2026,Preview,Baltimore Orioles,New York Yankees,0.0,0.0,Kyle Bradish,Gerrit Cole
