@@ -1925,15 +1925,15 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 822857,2026-08-21,2026,Preview,Texas Rangers,Los Angeles Angels,,,MacKenzie Gore,Reid Detmers
 823101,2026-08-21,2026,Preview,Seattle Mariners,Chicago Cubs,,,Emerson Hancock,Matthew Boyd
 823262,2026-08-21,2026,Preview,San Diego Padres,Minnesota Twins,,,,Connor Prielipp
-823420,2026-08-21,2026,Preview,Philadelphia Phillies,St. Louis Cardinals,,,Jesús Luzardo,
+823420,2026-08-21,2026,Preview,Philadelphia Phillies,St. Louis Cardinals,0.0,0.0,Jesús Luzardo,Hunter Dobbins
 823510,2026-08-21,2026,Preview,New York Yankees,Toronto Blue Jays,,,Cam Schlittler,Mason Fluharty
-823746,2026-08-21,2026,Preview,Milwaukee Brewers,Atlanta Braves,,,Jacob Misiorowski,Chris Sale
+823746,2026-08-21,2026,Live,Milwaukee Brewers,Atlanta Braves,0.0,0.0,Jacob Misiorowski,Chris Sale
 823830,2026-08-21,2026,Preview,Miami Marlins,Washington Nationals,,,Ryan Gusto,Brad Lord
 823911,2026-08-21,2026,Preview,Los Angeles Dodgers,Pittsburgh Pirates,,,Yoshinobu Yamamoto,Bubba Chandler
 824072,2026-08-21,2026,Preview,Kansas City Royals,Detroit Tigers,,,Noah Cameron,Troy Melton
 824152,2026-08-21,2026,Preview,Houston Astros,Athletics,,,Hayden Wesneski,J.T. Ginn
 824317,2026-08-21,2026,Preview,Colorado Rockies,Cleveland Guardians,,,Tanner Gordon,Joey Cantillo
 824559,2026-08-21,2026,Preview,Chicago White Sox,New York Mets,,,Sean Burke,Sean Manaea
-824721,2026-08-21,2026,Preview,Boston Red Sox,San Francisco Giants,,,Sonny Gray,Logan Webb
+824721,2026-08-21,2026,Preview,Boston Red Sox,San Francisco Giants,0.0,0.0,Sonny Gray,Logan Webb
 824800,2026-08-21,2026,Preview,Baltimore Orioles,Tampa Bay Rays,,,Trevor Rogers,Freddy Peralta
 825045,2026-08-21,2026,Preview,Arizona Diamondbacks,Cincinnati Reds,,,Eduardo Rodriguez,Nick Lodolo
