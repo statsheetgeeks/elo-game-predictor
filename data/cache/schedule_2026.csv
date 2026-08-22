@@ -1938,17 +1938,17 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824800,2026-08-21,2026,Final,Baltimore Orioles,Tampa Bay Rays,5.0,3.0,Trevor Rogers,Freddy Peralta
 825045,2026-08-21,2026,Final,Arizona Diamondbacks,Cincinnati Reds,9.0,0.0,Eduardo Rodriguez,Nick Lodolo
 822858,2026-08-22,2026,Preview,Texas Rangers,Los Angeles Angels,,,Cody Bradford,Ryan Johnson
-823100,2026-08-22,2026,Preview,Seattle Mariners,Chicago Cubs,,,Kade Anderson,David Peterson
+823100,2026-08-22,2026,Preview,Seattle Mariners,Chicago Cubs,0.0,0.0,Kade Anderson,David Peterson
 823261,2026-08-22,2026,Preview,San Diego Padres,Minnesota Twins,,,Casey Mize,Dean Kremer
-823422,2026-08-22,2026,Preview,Philadelphia Phillies,St. Louis Cardinals,,,Andrew Painter,
-823509,2026-08-22,2026,Preview,New York Yankees,Toronto Blue Jays,,,Ryan Weathers,Dylan Cease
-823743,2026-08-22,2026,Preview,Milwaukee Brewers,Atlanta Braves,,,Logan Henderson,Martín Pérez
-823831,2026-08-22,2026,Preview,Miami Marlins,Washington Nationals,,,Eury Pérez,Jake Irvin
-823910,2026-08-22,2026,Preview,Los Angeles Dodgers,Pittsburgh Pirates,,,Tarik Skubal,Jared Jones
-824073,2026-08-22,2026,Preview,Kansas City Royals,Detroit Tigers,,,Michael Wacha,Drew Anderson
+823422,2026-08-22,2026,Preview,Philadelphia Phillies,St. Louis Cardinals,0.0,0.0,Andrew Painter,Quinn Mathews
+823509,2026-08-22,2026,Live,New York Yankees,Toronto Blue Jays,1.0,3.0,Ryan Weathers,Dylan Cease
+823743,2026-08-22,2026,Live,Milwaukee Brewers,Atlanta Braves,4.0,1.0,Logan Henderson,Martín Pérez
+823831,2026-08-22,2026,Live,Miami Marlins,Washington Nationals,0.0,0.0,Eury Pérez,Jake Irvin
+823910,2026-08-22,2026,Preview,Los Angeles Dodgers,Pittsburgh Pirates,0.0,0.0,Tarik Skubal,Jared Jones
+824073,2026-08-22,2026,Preview,Kansas City Royals,Detroit Tigers,0.0,0.0,Michael Wacha,Drew Anderson
 824151,2026-08-22,2026,Preview,Houston Astros,Athletics,,,Hunter Brown,Jacob Lopez
 824316,2026-08-22,2026,Preview,Colorado Rockies,Cleveland Guardians,,,Gabriel Hughes,Tanner Bibee
 824560,2026-08-22,2026,Preview,Chicago White Sox,New York Mets,,,Luis Castillo,Christian Scott
-824718,2026-08-22,2026,Preview,Boston Red Sox,San Francisco Giants,,,Patrick Sandoval,Blade Tidwell
+824718,2026-08-22,2026,Preview,Boston Red Sox,San Francisco Giants,0.0,0.0,Patrick Sandoval,Blade Tidwell
 824798,2026-08-22,2026,Preview,Baltimore Orioles,Tampa Bay Rays,,,Brandon Young,Shane McClanahan
 825044,2026-08-22,2026,Preview,Arizona Diamondbacks,Cincinnati Reds,,,Michael Soroka,Rhett Lowder
