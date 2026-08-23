@@ -15019,3 +15019,17 @@ date,season,game_pk,home_team,away_team,home_pitcher,away_pitcher,home_elo_pre,a
 2026-08-22,2026,824718,Boston Red Sox,San Francisco Giants,Patrick Sandoval,Blade Tidwell,1548.2,1440.5,125.9,0.6737,0.3263,1549.4,1439.3,3,2,1
 2026-08-22,2026,824798,Baltimore Orioles,Tampa Bay Rays,Brandon Young,Shane McClanahan,1508.0,1513.0,-40.0,0.4427,0.5573,1511.1,1509.9,3,2,1
 2026-08-22,2026,825044,Arizona Diamondbacks,Cincinnati Reds,Michael Soroka,Rhett Lowder,1525.5,1478.1,45.2,0.5647,0.4353,1521.3,1482.3,5,11,0
+2026-08-23,2026,822856,Texas Rangers,Los Angeles Angels,Cal Quantrill,Yusei Kikuchi,1483.3,1466.7,42.7,0.5611,0.4389,1486.3,1463.7,5,0,1
+2026-08-23,2026,823099,Seattle Mariners,Chicago Cubs,Bryce Miller,Shota Imanaga,1476.2,1538.5,-72.4,0.3973,0.6027,1474.6,1540.0,0,0,0
+2026-08-23,2026,823258,San Diego Padres,Minnesota Twins,Walker Buehler,Bailey Ober,1527.3,1487.8,85.7,0.6209,0.3791,1523.9,1491.2,0,0,0
+2026-08-23,2026,823421,Philadelphia Phillies,St. Louis Cardinals,Cristopher Sánchez,Kyle Leahy,1523.6,1504.0,79.3,0.6122,0.3878,1519.4,1508.1,0,4,0
+2026-08-23,2026,823507,New York Yankees,Toronto Blue Jays,Carlos Rodón,José Soriano,1528.8,1503.4,101.0,0.6414,0.3586,1531.2,1501.1,7,2,1
+2026-08-23,2026,823827,Miami Marlins,Washington Nationals,Janson Junk,Jackson Kent,1510.6,1491.8,43.2,0.5619,0.4381,1513.1,1489.3,5,2,1
+2026-08-23,2026,823909,Los Angeles Dodgers,Pittsburgh Pirates,Blake Snell,Lake Bachar,1533.0,1500.7,114.5,0.6591,0.3409,1529.3,1504.4,0,0,0
+2026-08-23,2026,824071,Kansas City Royals,Detroit Tigers,Daniel Lynch IV,Jacob Waguespack,1473.8,1497.5,-7.3,0.4895,0.5105,1476.9,1494.4,9,6,1
+2026-08-23,2026,824150,Houston Astros,Athletics,Cristian Javier,Brady Basso,1493.4,1431.1,95.4,0.6339,0.3661,1490.0,1434.6,6,6,0
+2026-08-23,2026,824315,Colorado Rockies,Cleveland Guardians,Tomoyuki Sugano,Foster Griffin,1445.5,1489.7,-3.9,0.4944,0.5056,1442.5,1492.7,2,5,0
+2026-08-23,2026,824558,Chicago White Sox,New York Mets,Sean Newcomb,Nolan McLean,1512.2,1498.7,29.6,0.5425,0.4575,1509.4,1501.4,0,0,0
+2026-08-23,2026,824720,Boston Red Sox,San Francisco Giants,Jake Bennett,Matt Wilkinson,1549.4,1439.3,131.0,0.6801,0.3199,1545.4,1443.3,2,3,0
+2026-08-23,2026,824799,Baltimore Orioles,Tampa Bay Rays,Shane Baz,Nick Martinez,1511.1,1509.9,-11.6,0.4833,0.5167,1508.2,1512.8,0,3,0
+2026-08-23,2026,825043,Arizona Diamondbacks,Cincinnati Reds,Mitch Bratt,Andrew Abbott,1521.3,1482.3,26.7,0.5384,0.4616,1518.6,1485.0,0,0,0

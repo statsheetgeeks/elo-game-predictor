@@ -1,16 +1,16 @@
 as_of_date,game_pk,home_team,home_combined_rating,away_team,away_combined_rating,elo_diff,home_win_prob
-2026-08-23,822856,Texas Rangers,1490.3,Los Angeles Angels,1461.2,29.1,57.3
-2026-08-23,823099,Seattle Mariners,1491.1,Chicago Cubs,1550.0,-58.9,45.5
-2026-08-23,823258,San Diego Padres,1531.4,Minnesota Twins,1482.4,49.0,60.6
-2026-08-23,823421,Philadelphia Phillies,1532.0,St. Louis Cardinals,1507.3,24.7,57.8
-2026-08-23,823507,New York Yankees,1548.2,Toronto Blue Jays,1517.3,30.9,58.9
+2026-08-23,822856,Texas Rangers,1490.3,Los Angeles Angels,1457.9,32.4,57.8
+2026-08-23,823099,Seattle Mariners,1491.3,Chicago Cubs,1552.0,-60.7,45.3
+2026-08-23,823258,San Diego Padres,1531.9,Minnesota Twins,1486.3,45.6,60.1
+2026-08-23,823421,Philadelphia Phillies,1532.2,St. Louis Cardinals,1512.0,20.2,57.1
+2026-08-23,823507,New York Yankees,1548.4,Toronto Blue Jays,1514.8,33.6,59.3
 2026-08-23,823745,Milwaukee Brewers,1570.3,Atlanta Braves,1537.3,33.0,57.3
-2026-08-23,823827,Miami Marlins,1512.1,Washington Nationals,1487.7,24.4,56.6
-2026-08-23,823909,Los Angeles Dodgers,1544.8,Pittsburgh Pirates,1509.4,35.4,61.2
-2026-08-23,824071,Kansas City Royals,1465.1,Detroit Tigers,1515.9,-50.8,45.3
-2026-08-23,824150,Houston Astros,1507.7,Athletics,1422.4,85.3,66.9
-2026-08-23,824315,Colorado Rockies,1442.0,Cleveland Guardians,1507.3,-65.3,44.9
-2026-08-23,824558,Chicago White Sox,1517.7,New York Mets,1507.7,10.0,56.2
-2026-08-23,824720,Boston Red Sox,1560.3,San Francisco Giants,1455.6,104.7,67.0
-2026-08-23,824799,Baltimore Orioles,1522.7,Tampa Bay Rays,1525.7,-3.0,49.4
-2026-08-23,825043,Arizona Diamondbacks,1523.8,Cincinnati Reds,1489.7,34.1,57.1
+2026-08-23,823827,Miami Marlins,1512.4,Washington Nationals,1485.3,27.1,56.9
+2026-08-23,823909,Los Angeles Dodgers,1545.0,Pittsburgh Pirates,1513.1,31.9,60.7
+2026-08-23,824071,Kansas City Royals,1465.0,Detroit Tigers,1512.6,-47.6,45.7
+2026-08-23,824150,Houston Astros,1507.5,Athletics,1426.0,81.5,66.4
+2026-08-23,824315,Colorado Rockies,1442.1,Cleveland Guardians,1510.2,-68.1,44.5
+2026-08-23,824558,Chicago White Sox,1517.7,New York Mets,1510.9,6.8,55.8
+2026-08-23,824720,Boston Red Sox,1560.2,San Francisco Giants,1459.5,100.7,66.5
+2026-08-23,824799,Baltimore Orioles,1522.9,Tampa Bay Rays,1529.2,-6.3,48.9
+2026-08-23,825043,Arizona Diamondbacks,1523.9,Cincinnati Reds,1493.1,30.8,56.7
