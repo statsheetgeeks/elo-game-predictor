@@ -1967,13 +1967,13 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824720,2026-08-23,2026,Final,Boston Red Sox,San Francisco Giants,5.0,4.0,Jake Bennett,Matt Wilkinson
 824799,2026-08-23,2026,Final,Baltimore Orioles,Tampa Bay Rays,1.0,3.0,Shane Baz,Nick Martinez
 825043,2026-08-23,2026,Final,Arizona Diamondbacks,Cincinnati Reds,5.0,3.0,Mitch Bratt,Andrew Abbott
-822695,2026-08-24,2026,Preview,Washington Nationals,Colorado Rockies,,,Cade Cavalli,Ryan Feltner
+822695,2026-08-24,2026,Preview,Washington Nationals,Colorado Rockies,0.0,0.0,Cade Cavalli,Ryan Feltner
 823097,2026-08-24,2026,Preview,Seattle Mariners,Philadelphia Phillies,,,Logan Gilbert,Zack Wheeler
-823183,2026-08-24,2026,Preview,San Francisco Giants,Cincinnati Reds,,,,Chase Burns
+823183,2026-08-24,2026,Preview,San Francisco Giants,Cincinnati Reds,,,Carson Whisenhunt,Chase Burns
 823260,2026-08-24,2026,Preview,San Diego Padres,Pittsburgh Pirates,,,Robbie Ray,Braxton Ashcraft
-823828,2026-08-24,2026,Preview,Miami Marlins,Boston Red Sox,,,Sandy Alcantara,Ranger Suarez
+823828,2026-08-24,2026,Preview,Miami Marlins,Boston Red Sox,0.0,0.0,Sandy Alcantara,Ranger Suarez
 823992,2026-08-24,2026,Preview,Los Angeles Angels,Cleveland Guardians,,,George Klassen,Parker Messick
-824235,2026-08-24,2026,Preview,Detroit Tigers,Tampa Bay Rays,,,Framber Valdez,Drew Rasmussen
-824557,2026-08-24,2026,Preview,Chicago White Sox,Texas Rangers,,,,Kumar Rocker
+824235,2026-08-24,2026,Preview,Detroit Tigers,Tampa Bay Rays,0.0,0.0,Framber Valdez,Drew Rasmussen
+824557,2026-08-24,2026,Preview,Chicago White Sox,Texas Rangers,,,José Urquidy,Kumar Rocker
 824964,2026-08-24,2026,Preview,Athletics,Minnesota Twins,,,Jeffrey Springs,Zebby Matthews
 825041,2026-08-24,2026,Preview,Arizona Diamondbacks,Chicago Cubs,,,Merrill Kelly,Kevin Gausman
