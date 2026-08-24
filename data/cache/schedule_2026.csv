@@ -1952,18 +1952,28 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824718,2026-08-22,2026,Final,Boston Red Sox,San Francisco Giants,3.0,2.0,Patrick Sandoval,Blade Tidwell
 824798,2026-08-22,2026,Final,Baltimore Orioles,Tampa Bay Rays,3.0,2.0,Brandon Young,Shane McClanahan
 825044,2026-08-22,2026,Final,Arizona Diamondbacks,Cincinnati Reds,5.0,11.0,Michael Soroka,Rhett Lowder
-822856,2026-08-23,2026,Live,Texas Rangers,Los Angeles Angels,5.0,0.0,Cal Quantrill,Yusei Kikuchi
-823099,2026-08-23,2026,Live,Seattle Mariners,Chicago Cubs,0.0,0.0,Bryce Miller,Shota Imanaga
-823258,2026-08-23,2026,Live,San Diego Padres,Minnesota Twins,0.0,0.0,Walker Buehler,Bailey Ober
-823421,2026-08-23,2026,Live,Philadelphia Phillies,St. Louis Cardinals,0.0,4.0,Cristopher Sánchez,Kyle Leahy
-823507,2026-08-23,2026,Live,New York Yankees,Toronto Blue Jays,7.0,2.0,Carlos Rodón,José Soriano
-823745,2026-08-23,2026,Preview,Milwaukee Brewers,Atlanta Braves,,,Shane Drohan,Tyler Mahle
-823827,2026-08-23,2026,Live,Miami Marlins,Washington Nationals,5.0,2.0,Janson Junk,Jackson Kent
-823909,2026-08-23,2026,Live,Los Angeles Dodgers,Pittsburgh Pirates,0.0,0.0,Blake Snell,Lake Bachar
-824071,2026-08-23,2026,Live,Kansas City Royals,Detroit Tigers,9.0,6.0,Daniel Lynch IV,Jacob Waguespack
-824150,2026-08-23,2026,Live,Houston Astros,Athletics,6.0,6.0,Cristian Javier,Brady Basso
-824315,2026-08-23,2026,Live,Colorado Rockies,Cleveland Guardians,2.0,5.0,Tomoyuki Sugano,Foster Griffin
-824558,2026-08-23,2026,Live,Chicago White Sox,New York Mets,0.0,0.0,Sean Newcomb,Nolan McLean
-824720,2026-08-23,2026,Live,Boston Red Sox,San Francisco Giants,2.0,3.0,Jake Bennett,Matt Wilkinson
-824799,2026-08-23,2026,Live,Baltimore Orioles,Tampa Bay Rays,0.0,3.0,Shane Baz,Nick Martinez
-825043,2026-08-23,2026,Live,Arizona Diamondbacks,Cincinnati Reds,0.0,0.0,Mitch Bratt,Andrew Abbott
+822856,2026-08-23,2026,Final,Texas Rangers,Los Angeles Angels,5.0,3.0,Cal Quantrill,Yusei Kikuchi
+823099,2026-08-23,2026,Final,Seattle Mariners,Chicago Cubs,2.0,19.0,Bryce Miller,Shota Imanaga
+823258,2026-08-23,2026,Final,San Diego Padres,Minnesota Twins,8.0,1.0,Walker Buehler,Bailey Ober
+823421,2026-08-23,2026,Final,Philadelphia Phillies,St. Louis Cardinals,6.0,4.0,Cristopher Sánchez,Kyle Leahy
+823507,2026-08-23,2026,Final,New York Yankees,Toronto Blue Jays,8.0,3.0,Carlos Rodón,José Soriano
+823745,2026-08-23,2026,Final,Milwaukee Brewers,Atlanta Braves,2.0,4.0,Shane Drohan,Tyler Mahle
+823827,2026-08-23,2026,Final,Miami Marlins,Washington Nationals,6.0,2.0,Janson Junk,Jackson Kent
+823909,2026-08-23,2026,Final,Los Angeles Dodgers,Pittsburgh Pirates,4.0,0.0,Blake Snell,Lake Bachar
+824071,2026-08-23,2026,Final,Kansas City Royals,Detroit Tigers,11.0,7.0,Daniel Lynch IV,Jacob Waguespack
+824150,2026-08-23,2026,Final,Houston Astros,Athletics,6.0,7.0,Cristian Javier,Brady Basso
+824315,2026-08-23,2026,Final,Colorado Rockies,Cleveland Guardians,2.0,7.0,Tomoyuki Sugano,Foster Griffin
+824558,2026-08-23,2026,Final,Chicago White Sox,New York Mets,2.0,1.0,Sean Newcomb,Nolan McLean
+824720,2026-08-23,2026,Final,Boston Red Sox,San Francisco Giants,5.0,4.0,Jake Bennett,Matt Wilkinson
+824799,2026-08-23,2026,Final,Baltimore Orioles,Tampa Bay Rays,1.0,3.0,Shane Baz,Nick Martinez
+825043,2026-08-23,2026,Final,Arizona Diamondbacks,Cincinnati Reds,5.0,3.0,Mitch Bratt,Andrew Abbott
+822695,2026-08-24,2026,Preview,Washington Nationals,Colorado Rockies,,,Cade Cavalli,Ryan Feltner
+823097,2026-08-24,2026,Preview,Seattle Mariners,Philadelphia Phillies,,,Logan Gilbert,Zack Wheeler
+823183,2026-08-24,2026,Preview,San Francisco Giants,Cincinnati Reds,,,,Chase Burns
+823260,2026-08-24,2026,Preview,San Diego Padres,Pittsburgh Pirates,,,Robbie Ray,Braxton Ashcraft
+823828,2026-08-24,2026,Preview,Miami Marlins,Boston Red Sox,,,Sandy Alcantara,Ranger Suarez
+823992,2026-08-24,2026,Preview,Los Angeles Angels,Cleveland Guardians,,,George Klassen,Parker Messick
+824235,2026-08-24,2026,Preview,Detroit Tigers,Tampa Bay Rays,,,Framber Valdez,Drew Rasmussen
+824557,2026-08-24,2026,Preview,Chicago White Sox,Texas Rangers,,,,Kumar Rocker
+824964,2026-08-24,2026,Preview,Athletics,Minnesota Twins,,,Jeffrey Springs,Zebby Matthews
+825041,2026-08-24,2026,Preview,Arizona Diamondbacks,Chicago Cubs,,,Merrill Kelly,Kevin Gausman
