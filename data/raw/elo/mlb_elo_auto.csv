@@ -15034,6 +15034,13 @@ date,season,game_pk,home_team,away_team,home_pitcher,away_pitcher,home_elo_pre,a
 2026-08-23,2026,824720,Boston Red Sox,San Francisco Giants,Jake Bennett,Matt Wilkinson,1549.4,1439.3,131.0,0.6801,0.3199,1550.6,1438.1,5,4,1
 2026-08-23,2026,824799,Baltimore Orioles,Tampa Bay Rays,Shane Baz,Nick Martinez,1511.1,1509.9,-11.6,0.4833,0.5167,1508.4,1512.6,1,3,0
 2026-08-23,2026,825043,Arizona Diamondbacks,Cincinnati Reds,Mitch Bratt,Andrew Abbott,1521.3,1482.3,26.7,0.5384,0.4616,1523.8,1479.7,5,3,1
-2026-08-24,2026,822695,Washington Nationals,Colorado Rockies,Cade Cavalli,Ryan Feltner,1489.1,1442.1,80.2,0.6134,0.3866,1485.8,1445.4,0,0,0
-2026-08-24,2026,823828,Miami Marlins,Boston Red Sox,Sandy Alcantara,Ranger Suarez,1513.4,1550.6,-17.9,0.4743,0.5257,1511.2,1552.8,0,0,0
-2026-08-24,2026,824235,Detroit Tigers,Tampa Bay Rays,Framber Valdez,Drew Rasmussen,1494.2,1512.6,4.3,0.5063,0.4937,1491.7,1515.0,0,0,0
+2026-08-24,2026,822695,Washington Nationals,Colorado Rockies,Cade Cavalli,Ryan Feltner,1489.1,1442.1,80.2,0.6134,0.3866,1492.7,1438.4,13,3,1
+2026-08-24,2026,823097,Seattle Mariners,Philadelphia Phillies,Logan Gilbert,Zack Wheeler,1470.9,1525.5,-39.2,0.4438,0.5562,1475.3,1521.1,9,2,1
+2026-08-24,2026,823183,San Francisco Giants,Cincinnati Reds,Carson Whisenhunt,Chase Burns,1438.1,1479.7,-20.0,0.4713,0.5287,1441.8,1476.1,5,0,1
+2026-08-24,2026,823260,San Diego Padres,Pittsburgh Pirates,Robbie Ray,Braxton Ashcraft,1530.2,1498.8,77.7,0.61,0.39,1526.8,1502.2,2,3,0
+2026-08-24,2026,823828,Miami Marlins,Boston Red Sox,Sandy Alcantara,Ranger Suarez,1513.4,1550.6,-17.9,0.4743,0.5257,1510.7,1553.2,2,4,0
+2026-08-24,2026,823992,Los Angeles Angels,Cleveland Guardians,George Klassen,Parker Messick,1464.4,1493.1,-29.1,0.4582,0.5418,1461.9,1495.6,2,4,0
+2026-08-24,2026,824235,Detroit Tigers,Tampa Bay Rays,Framber Valdez,Drew Rasmussen,1494.2,1512.6,4.3,0.5063,0.4937,1491.1,1515.7,1,4,0
+2026-08-24,2026,824557,Chicago White Sox,Texas Rangers,José Urquidy,Kumar Rocker,1514.4,1485.7,87.6,0.6235,0.3765,1509.1,1491.0,2,11,0
+2026-08-24,2026,824964,Athletics,Minnesota Twins,Jeffrey Springs,Zebby Matthews,1434.8,1484.9,-29.3,0.4579,0.5421,1432.1,1487.6,6,9,0
+2026-08-24,2026,825041,Arizona Diamondbacks,Chicago Cubs,Merrill Kelly,Kevin Gausman,1523.8,1543.7,-12.4,0.4822,0.5178,1520.0,1547.4,0,7,0
