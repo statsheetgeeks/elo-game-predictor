@@ -1,16 +1,16 @@
 as_of_date,game_pk,home_team,home_combined_rating,away_team,away_combined_rating,elo_diff,home_win_prob
-2026-08-26,822692,Washington Nationals,1485.1,Colorado Rockies,1425.8,59.3,59.2
-2026-08-26,822772,Toronto Blue Jays,1515.2,Kansas City Royals,1487.4,27.8,57.3
-2026-08-26,823015,St. Louis Cardinals,1504.5,Baltimore Orioles,1523.2,-18.7,50.2
-2026-08-26,823096,Seattle Mariners,1491.3,Philadelphia Phillies,1539.3,-48.0,47.1
-2026-08-26,823180,San Francisco Giants,1454.8,Cincinnati Reds,1480.7,-25.9,51.3
-2026-08-26,823255,San Diego Padres,1532.4,Pittsburgh Pirates,1515.0,17.4,56.2
-2026-08-26,823506,New York Yankees,1547.7,Houston Astros,1491.4,56.3,62.4
-2026-08-26,823584,New York Mets,1505.8,Milwaukee Brewers,1572.8,-67.0,44.2
-2026-08-26,823825,Miami Marlins,1512.6,Boston Red Sox,1573.8,-61.2,44.3
-2026-08-26,823988,Los Angeles Angels,1458.5,Cleveland Guardians,1515.5,-57.0,44.1
-2026-08-26,824234,Detroit Tigers,1512.6,Tampa Bay Rays,1529.2,-16.6,50.5
-2026-08-26,824555,Chicago White Sox,1517.6,Texas Rangers,1495.3,22.3,58.0
-2026-08-26,824878,Atlanta Braves,1540.9,Los Angeles Dodgers,1547.0,-6.1,52.0
-2026-08-26,824963,Athletics,1425.8,Minnesota Twins,1478.3,-52.5,45.4
-2026-08-26,825039,Arizona Diamondbacks,1523.9,Chicago Cubs,1556.6,-32.7,47.6
+2026-08-26,822692,Washington Nationals,1485.1,Colorado Rockies,1429.0,56.1,58.7
+2026-08-26,822772,Toronto Blue Jays,1515.1,Kansas City Royals,1490.2,24.9,56.9
+2026-08-26,823015,St. Louis Cardinals,1505.3,Baltimore Orioles,1525.8,-20.5,50.0
+2026-08-26,823096,Seattle Mariners,1491.1,Philadelphia Phillies,1543.2,-52.1,46.5
+2026-08-26,823180,San Francisco Giants,1455.1,Cincinnati Reds,1477.3,-22.2,51.8
+2026-08-26,823255,San Diego Padres,1532.9,Pittsburgh Pirates,1513.1,19.8,56.5
+2026-08-26,823506,New York Yankees,1547.7,Houston Astros,1495.0,52.7,61.9
+2026-08-26,823584,New York Mets,1506.2,Milwaukee Brewers,1574.8,-68.6,44.0
+2026-08-26,823825,Miami Marlins,1512.7,Boston Red Sox,1576.0,-63.3,44.0
+2026-08-26,823988,Los Angeles Angels,1458.5,Cleveland Guardians,1512.3,-53.8,44.5
+2026-08-26,824234,Detroit Tigers,1512.7,Tampa Bay Rays,1532.3,-19.6,50.0
+2026-08-26,824555,Chicago White Sox,1518.0,Texas Rangers,1498.9,19.1,57.5
+2026-08-26,824878,Atlanta Braves,1540.8,Los Angeles Dodgers,1549.9,-9.1,51.6
+2026-08-26,824963,Athletics,1426.3,Minnesota Twins,1480.8,-54.5,45.1
+2026-08-26,825039,Arizona Diamondbacks,1524.6,Chicago Cubs,1553.9,-29.3,48.0
