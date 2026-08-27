@@ -1992,18 +1992,25 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824881,2026-08-25,2026,Final,Atlanta Braves,Los Angeles Dodgers,4.0,3.0,Bryce Elder,Tyler Glasnow
 824962,2026-08-25,2026,Final,Athletics,Minnesota Twins,4.0,2.0,Gage Jump,Taj Bradley
 825042,2026-08-25,2026,Final,Arizona Diamondbacks,Chicago Cubs,5.0,4.0,Brandon Pfaadt,Clay Holmes
-822692,2026-08-26,2026,Live,Washington Nationals,Colorado Rockies,0.0,0.0,Matt Waldron,Tanner Gordon
-822772,2026-08-26,2026,Preview,Toronto Blue Jays,Kansas City Royals,0.0,0.0,Spencer Miles,Randy Dobnak
-823015,2026-08-26,2026,Preview,St. Louis Cardinals,Baltimore Orioles,0.0,0.0,Michael McGreevy,Kyle Bradish
-823096,2026-08-26,2026,Live,Seattle Mariners,Philadelphia Phillies,0.0,6.0,Bryan Woo,Jesús Luzardo
-823180,2026-08-26,2026,Live,San Francisco Giants,Cincinnati Reds,9.0,4.0,Logan Webb,Nick Lodolo
-823255,2026-08-26,2026,Live,San Diego Padres,Pittsburgh Pirates,2.0,0.0,Randy Vásquez,Bubba Chandler
-823506,2026-08-26,2026,Preview,New York Yankees,Houston Astros,0.0,0.0,Elmer Rodríguez,Peter Lambert
-823584,2026-08-26,2026,Preview,New York Mets,Milwaukee Brewers,0.0,0.0,Robert Stock,Dustin May
-823825,2026-08-26,2026,Live,Miami Marlins,Boston Red Sox,0.0,0.0,Ryan Gusto,Sonny Gray
-823988,2026-08-26,2026,Live,Los Angeles Angels,Cleveland Guardians,3.0,2.0,Grayson Rodriguez,Joey Cantillo
+822692,2026-08-26,2026,Final,Washington Nationals,Colorado Rockies,1.0,13.0,Matt Waldron,Tanner Gordon
+822772,2026-08-26,2026,Final,Toronto Blue Jays,Kansas City Royals,3.0,0.0,Spencer Miles,Randy Dobnak
+823015,2026-08-26,2026,Final,St. Louis Cardinals,Baltimore Orioles,7.0,8.0,Michael McGreevy,Kyle Bradish
+823096,2026-08-26,2026,Final,Seattle Mariners,Philadelphia Phillies,0.0,6.0,Bryan Woo,Jesús Luzardo
+823180,2026-08-26,2026,Final,San Francisco Giants,Cincinnati Reds,9.0,10.0,Logan Webb,Nick Lodolo
+823255,2026-08-26,2026,Final,San Diego Padres,Pittsburgh Pirates,3.0,0.0,Randy Vásquez,Bubba Chandler
+823506,2026-08-26,2026,Final,New York Yankees,Houston Astros,9.0,3.0,Elmer Rodríguez,Peter Lambert
+823584,2026-08-26,2026,Final,New York Mets,Milwaukee Brewers,1.0,8.0,Robert Stock,Dustin May
+823825,2026-08-26,2026,Final,Miami Marlins,Boston Red Sox,4.0,0.0,Ryan Gusto,Sonny Gray
+823988,2026-08-26,2026,Final,Los Angeles Angels,Cleveland Guardians,3.0,4.0,Grayson Rodriguez,Joey Cantillo
 824234,2026-08-26,2026,Final,Detroit Tigers,Tampa Bay Rays,0.0,3.0,Troy Melton,Freddy Peralta
-824555,2026-08-26,2026,Preview,Chicago White Sox,Texas Rangers,0.0,0.0,Sean Burke,MacKenzie Gore
-824878,2026-08-26,2026,Preview,Atlanta Braves,Los Angeles Dodgers,0.0,0.0,AJ Smith-Shawver,Roki Sasaki
-824963,2026-08-26,2026,Preview,Athletics,Minnesota Twins,0.0,0.0,J.T. Ginn,Connor Prielipp
+824555,2026-08-26,2026,Final,Chicago White Sox,Texas Rangers,10.0,4.0,Sean Burke,MacKenzie Gore
+824878,2026-08-26,2026,Final,Atlanta Braves,Los Angeles Dodgers,6.0,5.0,AJ Smith-Shawver,Roki Sasaki
+824963,2026-08-26,2026,Final,Athletics,Minnesota Twins,7.0,4.0,J.T. Ginn,Connor Prielipp
 825039,2026-08-26,2026,Final,Arizona Diamondbacks,Chicago Cubs,2.0,0.0,Eduardo Rodriguez,Matthew Boyd
+822694,2026-08-27,2026,Final,Washington Nationals,Colorado Rockies,7.0,1.0,Jake Irvin,Gabriel Hughes
+822771,2026-08-27,2026,Live,Toronto Blue Jays,Kansas City Royals,0.0,2.0,Spencer Arrighetti,Noah Cameron
+823014,2026-08-27,2026,Final,St. Louis Cardinals,Baltimore Orioles,7.0,5.0,Gordon Graceffo,Trevor Rogers
+823179,2026-08-27,2026,Preview,San Francisco Giants,Arizona Diamondbacks,0.0,0.0,Landen Roupp,Jose Cabrera
+823503,2026-08-27,2026,Live,New York Yankees,Houston Astros,0.0,0.0,Gerrit Cole,Hayden Wesneski
+823581,2026-08-27,2026,Live,New York Mets,Milwaukee Brewers,0.0,2.0,Sean Manaea,Jacob Misiorowski
+824879,2026-08-27,2026,Live,Atlanta Braves,Los Angeles Dodgers,0.0,0.0,Chris Sale,Yoshinobu Yamamoto

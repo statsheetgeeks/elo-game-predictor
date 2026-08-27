@@ -578,18 +578,25 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-08-25,824881,Atlanta Braves,Los Angeles Dodgers,Los Angeles Dodgers,52.3,Atlanta Braves,50-55%,Atlanta Braves,False,True
 2026-08-25,824962,Athletics,Minnesota Twins,Minnesota Twins,44.9,Minnesota Twins,40-45%,Athletics,False,False
 2026-08-25,825042,Arizona Diamondbacks,Chicago Cubs,Chicago Cubs,47.1,Chicago Cubs,45-50%,Arizona Diamondbacks,False,False
-2026-08-26,822692,Washington Nationals,Colorado Rockies,Washington Nationals,59.2,Washington Nationals,55-60%,,,
-2026-08-26,822772,Toronto Blue Jays,Kansas City Royals,Toronto Blue Jays,57.3,Toronto Blue Jays,55-60%,,,
-2026-08-26,823015,St. Louis Cardinals,Baltimore Orioles,Baltimore Orioles,50.2,St. Louis Cardinals,50-55%,,,
+2026-08-26,822692,Washington Nationals,Colorado Rockies,Washington Nationals,59.2,Washington Nationals,55-60%,Colorado Rockies,False,False
+2026-08-26,822772,Toronto Blue Jays,Kansas City Royals,Toronto Blue Jays,57.3,Toronto Blue Jays,55-60%,Toronto Blue Jays,True,True
+2026-08-26,823015,St. Louis Cardinals,Baltimore Orioles,Baltimore Orioles,50.2,St. Louis Cardinals,50-55%,Baltimore Orioles,True,False
 2026-08-26,823096,Seattle Mariners,Philadelphia Phillies,Philadelphia Phillies,47.1,Philadelphia Phillies,45-50%,Philadelphia Phillies,True,True
 2026-08-26,823180,San Francisco Giants,Cincinnati Reds,Cincinnati Reds,51.3,San Francisco Giants,50-55%,San Francisco Giants,False,True
 2026-08-26,823255,San Diego Padres,Pittsburgh Pirates,San Diego Padres,56.2,San Diego Padres,55-60%,San Diego Padres,True,True
-2026-08-26,823506,New York Yankees,Houston Astros,New York Yankees,62.4,New York Yankees,60-65%,,,
-2026-08-26,823584,New York Mets,Milwaukee Brewers,Milwaukee Brewers,44.2,Milwaukee Brewers,40-45%,,,
-2026-08-26,823825,Miami Marlins,Boston Red Sox,Boston Red Sox,44.3,Boston Red Sox,40-45%,,,
+2026-08-26,823506,New York Yankees,Houston Astros,New York Yankees,62.4,New York Yankees,60-65%,New York Yankees,True,True
+2026-08-26,823584,New York Mets,Milwaukee Brewers,Milwaukee Brewers,44.2,Milwaukee Brewers,40-45%,Milwaukee Brewers,True,True
+2026-08-26,823825,Miami Marlins,Boston Red Sox,Boston Red Sox,44.3,Boston Red Sox,40-45%,Miami Marlins,False,False
 2026-08-26,823988,Los Angeles Angels,Cleveland Guardians,Cleveland Guardians,44.1,Cleveland Guardians,40-45%,Los Angeles Angels,False,False
 2026-08-26,824234,Detroit Tigers,Tampa Bay Rays,Tampa Bay Rays,50.5,Detroit Tigers,50-55%,Tampa Bay Rays,True,False
-2026-08-26,824555,Chicago White Sox,Texas Rangers,Chicago White Sox,58.0,Chicago White Sox,55-60%,,,
-2026-08-26,824878,Atlanta Braves,Los Angeles Dodgers,Los Angeles Dodgers,52.0,Atlanta Braves,50-55%,,,
-2026-08-26,824963,Athletics,Minnesota Twins,Minnesota Twins,45.4,Minnesota Twins,45-50%,,,
+2026-08-26,824555,Chicago White Sox,Texas Rangers,Chicago White Sox,58.0,Chicago White Sox,55-60%,Chicago White Sox,True,True
+2026-08-26,824878,Atlanta Braves,Los Angeles Dodgers,Los Angeles Dodgers,52.0,Atlanta Braves,50-55%,Atlanta Braves,False,True
+2026-08-26,824963,Athletics,Minnesota Twins,Minnesota Twins,45.4,Minnesota Twins,45-50%,Athletics,False,False
 2026-08-26,825039,Arizona Diamondbacks,Chicago Cubs,Chicago Cubs,47.6,Chicago Cubs,45-50%,Arizona Diamondbacks,False,False
+2026-08-27,822694,Washington Nationals,Colorado Rockies,Washington Nationals,58.9,Washington Nationals,55-60%,Washington Nationals,True,True
+2026-08-27,822771,Toronto Blue Jays,Kansas City Royals,Toronto Blue Jays,57.2,Toronto Blue Jays,55-60%,Kansas City Royals,False,False
+2026-08-27,823014,St. Louis Cardinals,Baltimore Orioles,Baltimore Orioles,50.4,St. Louis Cardinals,50-55%,St. Louis Cardinals,False,True
+2026-08-27,823179,San Francisco Giants,Arizona Diamondbacks,Arizona Diamondbacks,44.1,Arizona Diamondbacks,40-45%,,,
+2026-08-27,823503,New York Yankees,Houston Astros,New York Yankees,62.3,New York Yankees,60-65%,,,
+2026-08-27,823581,New York Mets,Milwaukee Brewers,Milwaukee Brewers,43.4,Milwaukee Brewers,40-45%,Milwaukee Brewers,True,True
+2026-08-27,824879,Atlanta Braves,Los Angeles Dodgers,Los Angeles Dodgers,52.0,Atlanta Braves,50-55%,,,
