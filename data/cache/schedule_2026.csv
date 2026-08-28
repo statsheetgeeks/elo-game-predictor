@@ -2010,22 +2010,22 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 822694,2026-08-27,2026,Final,Washington Nationals,Colorado Rockies,7.0,1.0,Jake Irvin,Gabriel Hughes
 822771,2026-08-27,2026,Final,Toronto Blue Jays,Kansas City Royals,2.0,13.0,Spencer Arrighetti,Noah Cameron
 823014,2026-08-27,2026,Final,St. Louis Cardinals,Baltimore Orioles,7.0,5.0,Gordon Graceffo,Trevor Rogers
-823179,2026-08-27,2026,Live,San Francisco Giants,Arizona Diamondbacks,2.0,1.0,Landen Roupp,Jose Cabrera
+823179,2026-08-27,2026,Final,San Francisco Giants,Arizona Diamondbacks,6.0,1.0,Landen Roupp,Jose Cabrera
 823503,2026-08-27,2026,Final,New York Yankees,Houston Astros,1.0,5.0,Gerrit Cole,Hayden Wesneski
 823581,2026-08-27,2026,Final,New York Mets,Milwaukee Brewers,2.0,8.0,Sean Manaea,Jacob Misiorowski
 824879,2026-08-27,2026,Final,Atlanta Braves,Los Angeles Dodgers,1.0,0.0,Chris Sale,Yoshinobu Yamamoto
-822691,2026-08-28,2026,Preview,Washington Nationals,Miami Marlins,,,Jackson Kent,Eury Pérez
-822769,2026-08-28,2026,Preview,Toronto Blue Jays,Seattle Mariners,,,Dylan Cease,
-822935,2026-08-28,2026,Preview,Tampa Bay Rays,San Diego Padres,,,Shane McClanahan,Casey Mize
-823013,2026-08-28,2026,Preview,St. Louis Cardinals,Pittsburgh Pirates,,,Quinn Mathews,Jared Jones
-823178,2026-08-28,2026,Preview,San Francisco Giants,Arizona Diamondbacks,,,Blade Tidwell,
-823504,2026-08-28,2026,Preview,New York Yankees,Boston Red Sox,,,Cam Schlittler,Patrick Sandoval
-823583,2026-08-28,2026,Preview,New York Mets,Houston Astros,,,Christian Scott,Hunter Brown
-823666,2026-08-28,2026,Preview,Minnesota Twins,Chicago White Sox,,,Dean Kremer,Luis Castillo
-823744,2026-08-28,2026,Preview,Milwaukee Brewers,Texas Rangers,,,Logan Henderson,Cody Bradford
-823985,2026-08-28,2026,Preview,Los Angeles Angels,Philadelphia Phillies,,,Reid Detmers,Andrew Painter
-824231,2026-08-28,2026,Preview,Detroit Tigers,Los Angeles Dodgers,,,Drew Anderson,Tarik Skubal
-824396,2026-08-28,2026,Preview,Cleveland Guardians,Kansas City Royals,,,Tanner Bibee,Michael Wacha
-824638,2026-08-28,2026,Preview,Chicago Cubs,Cincinnati Reds,,,David Peterson,Rhett Lowder
-824877,2026-08-28,2026,Preview,Atlanta Braves,Colorado Rockies,,,Grant Holmes,Tomoyuki Sugano
-824960,2026-08-28,2026,Preview,Athletics,Baltimore Orioles,,,,Brandon Young
+822691,2026-08-28,2026,Live,Washington Nationals,Miami Marlins,0.0,1.0,Jackson Kent,Eury Pérez
+822769,2026-08-28,2026,Live,Toronto Blue Jays,Seattle Mariners,0.0,0.0,Dylan Cease,Emerson Hancock
+822935,2026-08-28,2026,Live,Tampa Bay Rays,San Diego Padres,0.0,0.0,Shane McClanahan,Casey Mize
+823013,2026-08-28,2026,Preview,St. Louis Cardinals,Pittsburgh Pirates,0.0,0.0,Quinn Mathews,Jared Jones
+823178,2026-08-28,2026,Preview,San Francisco Giants,Arizona Diamondbacks,0.0,0.0,Blade Tidwell,Kohl Drake
+823504,2026-08-28,2026,Live,New York Yankees,Boston Red Sox,0.0,0.0,Cam Schlittler,Patrick Sandoval
+823583,2026-08-28,2026,Live,New York Mets,Houston Astros,0.0,0.0,Christian Scott,Hunter Brown
+823666,2026-08-28,2026,Preview,Minnesota Twins,Chicago White Sox,0.0,0.0,Dean Kremer,Luis Castillo
+823744,2026-08-28,2026,Live,Milwaukee Brewers,Texas Rangers,0.0,0.0,Logan Henderson,Cody Bradford
+823985,2026-08-28,2026,Preview,Los Angeles Angels,Philadelphia Phillies,0.0,0.0,Reid Detmers,Andrew Painter
+824231,2026-08-28,2026,Live,Detroit Tigers,Los Angeles Dodgers,0.0,0.0,Drew Anderson,Tarik Skubal
+824396,2026-08-28,2026,Live,Cleveland Guardians,Kansas City Royals,0.0,0.0,Tanner Bibee,Michael Wacha
+824638,2026-08-28,2026,Final,Chicago Cubs,Cincinnati Reds,8.0,10.0,David Peterson,Rhett Lowder
+824877,2026-08-28,2026,Live,Atlanta Braves,Colorado Rockies,0.0,0.0,Grant Holmes,Tomoyuki Sugano
+824960,2026-08-28,2026,Preview,Athletics,Baltimore Orioles,0.0,0.0,Jacob Lopez,Brandon Young

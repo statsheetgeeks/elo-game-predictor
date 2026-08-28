@@ -600,7 +600,7 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-08-27,823503,New York Yankees,Houston Astros,New York Yankees,62.3,New York Yankees,60-65%,Houston Astros,False,False
 2026-08-27,823581,New York Mets,Milwaukee Brewers,Milwaukee Brewers,43.4,Milwaukee Brewers,40-45%,Milwaukee Brewers,True,True
 2026-08-27,824879,Atlanta Braves,Los Angeles Dodgers,Los Angeles Dodgers,52.0,Atlanta Braves,50-55%,Atlanta Braves,False,True
-2026-08-28,822691,Washington Nationals,Miami Marlins,Miami Marlins,46.8,Miami Marlins,45-50%,,,
+2026-08-28,822691,Washington Nationals,Miami Marlins,Miami Marlins,46.8,Miami Marlins,45-50%,Miami Marlins,True,True
 2026-08-28,822769,Toronto Blue Jays,Seattle Mariners,Toronto Blue Jays,56.8,Toronto Blue Jays,55-60%,,,
 2026-08-28,822935,Tampa Bay Rays,San Diego Padres,San Diego Padres,54.9,Tampa Bay Rays,50-55%,,,
 2026-08-28,823013,St. Louis Cardinals,Pittsburgh Pirates,Pittsburgh Pirates,51.7,St. Louis Cardinals,50-55%,,,
@@ -612,6 +612,6 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-08-28,823985,Los Angeles Angels,Philadelphia Phillies,Philadelphia Phillies,40.2,Philadelphia Phillies,40-45%,,,
 2026-08-28,824231,Detroit Tigers,Los Angeles Dodgers,Los Angeles Dodgers,48.5,Los Angeles Dodgers,45-50%,,,
 2026-08-28,824396,Cleveland Guardians,Kansas City Royals,Cleveland Guardians,56.8,Cleveland Guardians,55-60%,,,
-2026-08-28,824638,Chicago Cubs,Cincinnati Reds,Chicago Cubs,62.2,Chicago Cubs,60-65%,,,
+2026-08-28,824638,Chicago Cubs,Cincinnati Reds,Chicago Cubs,62.2,Chicago Cubs,60-65%,Cincinnati Reds,False,False
 2026-08-28,824877,Atlanta Braves,Colorado Rockies,Atlanta Braves,68.3,Atlanta Braves,65-70%,,,
 2026-08-28,824960,Athletics,Baltimore Orioles,Baltimore Orioles,39.2,Baltimore Orioles,35-40%,,,
