@@ -1,18 +1,18 @@
 as_of_date,game_pk,home_team,home_combined_rating,away_team,away_combined_rating,elo_diff,home_win_prob
-2026-08-29,822690,Washington Nationals,1485.1,Miami Marlins,1513.9,-28.8,46.6
-2026-08-29,822770,Toronto Blue Jays,1515.3,Seattle Mariners,1492.4,22.9,56.6
-2026-08-29,822936,Tampa Bay Rays,1532.6,San Diego Padres,1532.8,-0.2,55.0
-2026-08-29,823011,St. Louis Cardinals,1504.4,Pittsburgh Pirates,1510.1,-5.7,52.1
-2026-08-29,823176,San Francisco Giants,1454.7,Arizona Diamondbacks,1526.4,-71.7,44.7
-2026-08-29,823177,San Francisco Giants,1454.7,Arizona Diamondbacks,1526.4,-71.7,44.7
-2026-08-29,823501,New York Yankees,1548.4,Boston Red Sox,1567.7,-19.3,51.8
-2026-08-29,823539,New York Yankees,1548.4,Boston Red Sox,1567.7,-19.3,51.8
+2026-08-29,822690,Washington Nationals,1485.9,Miami Marlins,1516.4,-30.5,46.4
+2026-08-29,822770,Toronto Blue Jays,1515.6,Seattle Mariners,1495.2,20.4,56.3
+2026-08-29,822936,Tampa Bay Rays,1533.1,San Diego Padres,1536.2,-3.1,54.6
+2026-08-29,823011,St. Louis Cardinals,1504.9,Pittsburgh Pirates,1512.5,-7.6,51.8
+2026-08-29,823176,San Francisco Giants,1454.5,Arizona Diamondbacks,1527.1,-72.6,44.6
+2026-08-29,823177,San Francisco Giants,1454.5,Arizona Diamondbacks,1527.1,-72.6,44.6
+2026-08-29,823501,New York Yankees,1548.8,Boston Red Sox,1570.9,-22.1,51.4
+2026-08-29,823539,New York Yankees,1548.8,Boston Red Sox,1570.9,-22.1,51.4
 2026-08-29,823582,New York Mets,1505.7,Houston Astros,1495.7,10.0,55.2
-2026-08-29,823665,Minnesota Twins,1474.8,Chicago White Sox,1517.7,-42.9,47.7
+2026-08-29,823665,Minnesota Twins,1475.2,Chicago White Sox,1520.4,-45.2,47.4
 2026-08-29,823741,Milwaukee Brewers,1579.5,Texas Rangers,1489.7,89.8,65.0
-2026-08-29,823986,Los Angeles Angels,1458.9,Philadelphia Phillies,1539.4,-80.5,40.8
-2026-08-29,824230,Detroit Tigers,1512.6,Los Angeles Dodgers,1544.9,-32.3,48.2
-2026-08-29,824392,Cleveland Guardians,1517.8,Kansas City Royals,1494.2,23.6,56.3
-2026-08-29,824637,Chicago Cubs,1553.5,Cincinnati Reds,1487.0,66.5,61.7
-2026-08-29,824874,Atlanta Braves,1541.4,Colorado Rockies,1426.7,114.7,68.5
-2026-08-29,824961,Athletics,1426.1,Baltimore Orioles,1524.3,-98.2,39.0
+2026-08-29,823986,Los Angeles Angels,1458.7,Philadelphia Phillies,1545.3,-86.6,39.9
+2026-08-29,824230,Detroit Tigers,1513.0,Los Angeles Dodgers,1547.0,-34.0,48.0
+2026-08-29,824392,Cleveland Guardians,1517.8,Kansas City Royals,1497.0,20.8,55.9
+2026-08-29,824637,Chicago Cubs,1553.8,Cincinnati Reds,1491.0,62.8,61.2
+2026-08-29,824874,Atlanta Braves,1541.5,Colorado Rockies,1431.1,110.4,67.9
+2026-08-29,824961,Athletics,1426.0,Baltimore Orioles,1523.9,-97.9,39.0

@@ -604,7 +604,7 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-08-28,822769,Toronto Blue Jays,Seattle Mariners,Toronto Blue Jays,56.8,Toronto Blue Jays,55-60%,Toronto Blue Jays,True,True
 2026-08-28,822935,Tampa Bay Rays,San Diego Padres,San Diego Padres,54.9,Tampa Bay Rays,50-55%,Tampa Bay Rays,False,True
 2026-08-28,823013,St. Louis Cardinals,Pittsburgh Pirates,Pittsburgh Pirates,51.7,St. Louis Cardinals,50-55%,St. Louis Cardinals,False,True
-2026-08-28,823178,San Francisco Giants,Arizona Diamondbacks,Arizona Diamondbacks,44.8,Arizona Diamondbacks,40-45%,,,
+2026-08-28,823178,San Francisco Giants,Arizona Diamondbacks,Arizona Diamondbacks,44.8,Arizona Diamondbacks,40-45%,Arizona Diamondbacks,True,True
 2026-08-28,823504,New York Yankees,Boston Red Sox,Boston Red Sox,51.4,New York Yankees,50-55%,New York Yankees,False,True
 2026-08-28,823583,New York Mets,Houston Astros,New York Mets,55.7,New York Mets,55-60%,Houston Astros,False,False
 2026-08-28,823666,Minnesota Twins,Chicago White Sox,Chicago White Sox,47.7,Chicago White Sox,45-50%,Chicago White Sox,True,True
@@ -622,7 +622,7 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-08-29,823176,San Francisco Giants,Arizona Diamondbacks,Arizona Diamondbacks,44.7,Arizona Diamondbacks,40-45%,,,
 2026-08-29,823177,San Francisco Giants,Arizona Diamondbacks,Arizona Diamondbacks,44.7,Arizona Diamondbacks,40-45%,,,
 2026-08-29,823501,New York Yankees,Boston Red Sox,Boston Red Sox,51.8,New York Yankees,50-55%,,,
-2026-08-29,823539,New York Yankees,Boston Red Sox,Boston Red Sox,51.8,New York Yankees,50-55%,,,
+2026-08-29,823539,New York Yankees,Boston Red Sox,Boston Red Sox,51.8,New York Yankees,50-55%,Boston Red Sox,True,False
 2026-08-29,823582,New York Mets,Houston Astros,New York Mets,55.2,New York Mets,55-60%,,,
 2026-08-29,823665,Minnesota Twins,Chicago White Sox,Chicago White Sox,47.7,Chicago White Sox,45-50%,,,
 2026-08-29,823741,Milwaukee Brewers,Texas Rangers,Milwaukee Brewers,65.0,Milwaukee Brewers,65-70%,,,
