@@ -1,32 +1,34 @@
 as_of_date,rank,team,pitcher,rating,opponent
-2026-08-29,1,New York Yankees,Max Fried,1628.3,Boston Red Sox
-2026-08-29,2,Los Angeles Dodgers,Blake Snell,1588.9,Detroit Tigers
+2026-08-29,1,New York Yankees,Max Fried,1633.8,Boston Red Sox
+2026-08-29,2,Los Angeles Dodgers,Blake Snell,1587.1,Detroit Tigers
 2026-08-29,3,Philadelphia Phillies,Cristopher Sánchez,1577.2,Los Angeles Angels
-2026-08-29,4,New York Yankees,Carlos Rodón,1571.7,Boston Red Sox
-2026-08-29,5,Chicago Cubs,Kevin Gausman,1565.8,Cincinnati Reds
-2026-08-29,6,Miami Marlins,Sandy Alcantara,1565.1,Washington Nationals
-2026-08-29,7,Tampa Bay Rays,Nick Martinez,1561.1,San Diego Padres
-2026-08-29,8,Cincinnati Reds,Andrew Abbott,1558.6,Chicago Cubs
-2026-08-29,9,San Diego Padres,Walker Buehler,1544.0,Tampa Bay Rays
-2026-08-29,10,Arizona Diamondbacks,Merrill Kelly,1540.7,San Francisco Giants
-2026-08-29,11,Detroit Tigers,Keider Montero,1538.2,Los Angeles Dodgers
-2026-08-29,12,Baltimore Orioles,Shane Baz,1532.5,Athletics
-2026-08-29,13,New York Mets,Nolan McLean,1525.3,Houston Astros
-2026-08-29,14,St. Louis Cardinals,Kyle Leahy,1523.3,Pittsburgh Pirates
-2026-08-29,15,Atlanta Braves,Martín Pérez,1520.6,Colorado Rockies
-2026-08-29,16,Pittsburgh Pirates,Lake Bachar,1513.9,St. Louis Cardinals
+2026-08-29,4,New York Yankees,Carlos Rodón,1567.2,Boston Red Sox
+2026-08-29,5,Miami Marlins,Sandy Alcantara,1561.4,Washington Nationals
+2026-08-29,6,Chicago Cubs,Kevin Gausman,1561.2,Cincinnati Reds
+2026-08-29,7,Tampa Bay Rays,Nick Martinez,1555.6,San Diego Padres
+2026-08-29,8,Arizona Diamondbacks,Merrill Kelly,1543.4,San Francisco Giants
+2026-08-29,9,Cincinnati Reds,Andrew Abbott,1542.9,Chicago Cubs
+2026-08-29,10,San Diego Padres,Walker Buehler,1541.3,Tampa Bay Rays
+2026-08-29,11,Detroit Tigers,Keider Montero,1537.2,Los Angeles Dodgers
+2026-08-29,12,Baltimore Orioles,Shane Baz,1535.0,Athletics
+2026-08-29,13,New York Mets,Nolan McLean,1528.5,Houston Astros
+2026-08-29,14,Atlanta Braves,Martín Pérez,1519.6,Colorado Rockies
+2026-08-29,15,St. Louis Cardinals,Kyle Leahy,1517.7,Pittsburgh Pirates
+2026-08-29,16,Pittsburgh Pirates,Lake Bachar,1512.1,St. Louis Cardinals
 2026-08-29,17,Boston Red Sox,Jake Bennett,1512.0,New York Yankees
-2026-08-29,18,Cleveland Guardians,Foster Griffin,1508.2,Kansas City Royals
-2026-08-29,19,Seattle Mariners,Kade Anderson,1505.7,Toronto Blue Jays
-2026-08-29,20,Los Angeles Angels,Ryan Johnson,1503.3,Philadelphia Phillies
-2026-08-29,21,Arizona Diamondbacks,Mitch Bratt,1501.4,San Francisco Giants
-2026-08-29,22,Kansas City Royals,Daniel Lynch IV,1501.3,Cleveland Guardians
-2026-08-29,23,Minnesota Twins,Bailey Ober,1499.9,Chicago White Sox
-2026-08-29,24,Milwaukee Brewers,Shane Drohan,1498.2,Texas Rangers
-2026-08-29,25,Washington Nationals,Cade Cavalli,1496.0,Miami Marlins
-2026-08-29,26,Toronto Blue Jays,José Soriano,1484.0,Seattle Mariners
-2026-08-29,27,Athletics,Jack Perkins,1478.1,Baltimore Orioles
-2026-08-29,28,Texas Rangers,Cal Quantrill,1476.9,Milwaukee Brewers
-2026-08-29,29,Chicago White Sox,Erick Fedde,1476.3,Minnesota Twins
-2026-08-29,30,Colorado Rockies,Ryan Feltner,1435.9,Atlanta Braves
-2026-08-29,31,Houston Astros,Bennett Sousa,,New York Mets
+2026-08-29,18,Boston Red Sox,Alec Gamboa,1508.8,New York Yankees
+2026-08-29,19,Colorado Rockies,Zach Agnos,1507.0,Atlanta Braves
+2026-08-29,20,San Francisco Giants,Matt Wilkinson,1505.7,Arizona Diamondbacks
+2026-08-29,21,Los Angeles Angels,Ryan Johnson,1503.3,Philadelphia Phillies
+2026-08-29,22,Cleveland Guardians,Foster Griffin,1502.6,Kansas City Royals
+2026-08-29,23,Seattle Mariners,Kade Anderson,1502.0,Toronto Blue Jays
+2026-08-29,24,Milwaukee Brewers,Shane Drohan,1501.8,Texas Rangers
+2026-08-29,25,Arizona Diamondbacks,Mitch Bratt,1501.4,San Francisco Giants
+2026-08-29,26,Houston Astros,Bennett Sousa,1500.2,New York Mets
+2026-08-29,27,Kansas City Royals,Daniel Lynch IV,1499.4,Cleveland Guardians
+2026-08-29,28,Minnesota Twins,Bailey Ober,1497.1,Chicago White Sox
+2026-08-29,29,Washington Nationals,Cade Cavalli,1494.2,Miami Marlins
+2026-08-29,30,Texas Rangers,Cal Quantrill,1482.9,Milwaukee Brewers
+2026-08-29,31,Athletics,Jack Perkins,1482.6,Baltimore Orioles
+2026-08-29,32,Toronto Blue Jays,José Soriano,1481.2,Seattle Mariners
+2026-08-29,33,Chicago White Sox,Erick Fedde,1474.4,Minnesota Twins
