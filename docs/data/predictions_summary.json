@@ -1,13 +1,13 @@
 {
   "combined_elo_record": {
-    "wins": 345,
-    "losses": 283,
-    "pct": 54.9
+    "wins": 349,
+    "losses": 286,
+    "pct": 55.0
   },
   "home_prob_record": {
-    "wins": 341,
-    "losses": 287,
-    "pct": 54.3
+    "wins": 346,
+    "losses": 289,
+    "pct": 54.5
   },
   "calibration": [
     {
@@ -70,41 +70,41 @@
       "bucket": "35-40%",
       "range_low": 35,
       "range_high": 40,
-      "n_games": 18,
-      "avg_predicted_home_win_pct": 38.0,
-      "observed_home_win_pct": 33.3
+      "n_games": 19,
+      "avg_predicted_home_win_pct": 38.1,
+      "observed_home_win_pct": 31.6
     },
     {
       "bucket": "40-45%",
       "range_low": 40,
       "range_high": 45,
-      "n_games": 56,
+      "n_games": 58,
       "avg_predicted_home_win_pct": 43.3,
-      "observed_home_win_pct": 48.2
+      "observed_home_win_pct": 48.3
     },
     {
       "bucket": "45-50%",
       "range_low": 45,
       "range_high": 50,
-      "n_games": 126,
+      "n_games": 127,
       "avg_predicted_home_win_pct": 47.7,
-      "observed_home_win_pct": 50.0
+      "observed_home_win_pct": 50.4
     },
     {
       "bucket": "50-55%",
       "range_low": 50,
       "range_high": 55,
-      "n_games": 143,
+      "n_games": 144,
       "avg_predicted_home_win_pct": 52.3,
-      "observed_home_win_pct": 47.6
+      "observed_home_win_pct": 47.9
     },
     {
       "bucket": "55-60%",
       "range_low": 55,
       "range_high": 60,
-      "n_games": 190,
+      "n_games": 191,
       "avg_predicted_home_win_pct": 57.3,
-      "observed_home_win_pct": 60.0
+      "observed_home_win_pct": 60.2
     },
     {
       "bucket": "60-65%",
@@ -118,9 +118,9 @@
       "bucket": "65-70%",
       "range_low": 65,
       "range_high": 70,
-      "n_games": 17,
-      "avg_predicted_home_win_pct": 66.6,
-      "observed_home_win_pct": 47.1
+      "n_games": 18,
+      "avg_predicted_home_win_pct": 66.5,
+      "observed_home_win_pct": 50.0
     },
     {
       "bucket": "70-75%",
@@ -171,7 +171,7 @@
       "observed_home_win_pct": null
     }
   ],
-  "n_resolved": 628,
-  "n_pending": 5,
-  "generated_at": "2026-08-29"
+  "n_resolved": 635,
+  "n_pending": 12,
+  "generated_at": "2026-08-30"
 }
