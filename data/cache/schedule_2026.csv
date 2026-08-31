@@ -2058,15 +2058,15 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824636,2026-08-30,2026,Final,Chicago Cubs,Cincinnati Reds,5.0,7.0,Shota Imanaga,Chase Burns
 824876,2026-08-30,2026,Final,Atlanta Braves,Colorado Rockies,3.0,2.0,Tyler Mahle,Mason Adams
 824959,2026-08-30,2026,Final,Athletics,Baltimore Orioles,5.0,8.0,Jeffrey Springs,Chris Bassitt
-822689,2026-08-31,2026,Preview,Washington Nationals,Miami Marlins,,,Will Dion,Ryan Gusto
-822855,2026-08-31,2026,Preview,Texas Rangers,Athletics,,,Jacob deGrom,Gage Jump
-822932,2026-08-31,2026,Preview,Tampa Bay Rays,New York Mets,0.0,0.0,Ian Seymour,Robert Stock
-823663,2026-08-31,2026,Preview,Minnesota Twins,Detroit Tigers,,,Taj Bradley,Jackson Jobe
+822689,2026-08-31,2026,Live,Washington Nationals,Miami Marlins,0.0,0.0,Will Dion,Ryan Gusto
+822855,2026-08-31,2026,Preview,Texas Rangers,Athletics,0.0,0.0,Jacob deGrom,Gage Jump
+822932,2026-08-31,2026,Live,Tampa Bay Rays,New York Mets,0.0,1.0,Ian Seymour,Robert Stock
+823663,2026-08-31,2026,Live,Minnesota Twins,Detroit Tigers,0.0,0.0,Taj Bradley,Jackson Jobe
 823982,2026-08-31,2026,Preview,Los Angeles Angels,New York Yankees,,,Walbert Ureña,Elmer Rodríguez
-824149,2026-08-31,2026,Preview,Houston Astros,Chicago White Sox,,,Peter Lambert,Anthony Kay
-824314,2026-08-31,2026,Preview,Colorado Rockies,Baltimore Orioles,,,Tanner Gordon,Cade Povich
-824473,2026-08-31,2026,Preview,Cincinnati Reds,San Diego Padres,0.0,0.0,Brady Singer,Michael King
-824635,2026-08-31,2026,Preview,Chicago Cubs,Milwaukee Brewers,,,Clay Holmes,Kyle Harrison
-824719,2026-08-31,2026,Preview,Boston Red Sox,Seattle Mariners,0.0,0.0,Payton Tolle,George Kirby
-824911,2026-08-31,2026,Preview,Atlanta Braves,San Francisco Giants,0.0,0.0,Bryce Elder,Anthony Molina
+824149,2026-08-31,2026,Preview,Houston Astros,Chicago White Sox,0.0,0.0,Peter Lambert,Anthony Kay
+824314,2026-08-31,2026,Preview,Colorado Rockies,Baltimore Orioles,0.0,0.0,Tanner Gordon,Cade Povich
+824473,2026-08-31,2026,Live,Cincinnati Reds,San Diego Padres,0.0,0.0,Brady Singer,Michael King
+824635,2026-08-31,2026,Live,Chicago Cubs,Milwaukee Brewers,0.0,0.0,Clay Holmes,Kyle Harrison
+824719,2026-08-31,2026,Live,Boston Red Sox,Seattle Mariners,3.0,2.0,Payton Tolle,George Kirby
+824911,2026-08-31,2026,Live,Atlanta Braves,San Francisco Giants,3.0,3.0,Bryce Elder,Anthony Molina
 825040,2026-08-31,2026,Preview,Arizona Diamondbacks,Philadelphia Phillies,,,Brandon Pfaadt,Aaron Nola
