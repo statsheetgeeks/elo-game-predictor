@@ -1,0 +1,13 @@
+as_of_date,game_pk,home_team,home_combined_rating,away_team,away_combined_rating,elo_diff,home_win_prob
+2026-08-31,822689,Washington Nationals,1484.8,Miami Marlins,1514.3,-29.5,46.5
+2026-08-31,822855,Texas Rangers,1492.6,Athletics,1425.6,67.0,62.6
+2026-08-31,822932,Tampa Bay Rays,1532.8,New York Mets,1502.6,30.2,59.3
+2026-08-31,823663,Minnesota Twins,1475.2,Detroit Tigers,1513.0,-37.8,48.4
+2026-08-31,823982,Los Angeles Angels,1458.6,New York Yankees,1549.3,-90.7,39.4
+2026-08-31,824149,Houston Astros,1496.2,Chicago White Sox,1516.8,-20.6,52.3
+2026-08-31,824314,Colorado Rockies,1424.4,Baltimore Orioles,1527.7,-103.3,39.6
+2026-08-31,824473,Cincinnati Reds,1486.4,San Diego Padres,1530.8,-44.4,46.2
+2026-08-31,824635,Chicago Cubs,1553.5,Milwaukee Brewers,1579.4,-25.9,48.6
+2026-08-31,824719,Boston Red Sox,1562.1,Seattle Mariners,1490.2,71.9,62.7
+2026-08-31,824911,Atlanta Braves,1541.6,San Francisco Giants,1463.5,78.1,63.8
+2026-08-31,825040,Arizona Diamondbacks,1526.3,Philadelphia Phillies,1549.2,-22.9,49.0

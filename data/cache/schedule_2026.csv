@@ -1115,7 +1115,6 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 823772,2026-06-18,2026,Final,Milwaukee Brewers,Cleveland Guardians,2.0,4.0,Shane Drohan,Parker Messick
 824098,2026-06-18,2026,Final,Kansas City Royals,St. Louis Cardinals,14.0,6.0,Noah Cameron,Matthew Liberatore
 824748,2026-06-18,2026,Final,Boston Red Sox,Toronto Blue Jays,3.0,4.0,Sonny Gray,Trey Yesavage
-824911,2026-06-18,2026,Final,Atlanta Braves,San Francisco Giants,,,Martín Pérez,Landen Roupp
 824989,2026-06-18,2026,Final,Athletics,Los Angeles Angels,5.0,0.0,Gage Jump,Ryan Johnson
 822886,2026-06-19,2026,Final,Texas Rangers,San Diego Padres,9.0,7.0,Jacob deGrom,Randy Vásquez
 822966,2026-06-19,2026,Final,Tampa Bay Rays,Washington Nationals,5.0,2.0,Griffin Jax,PJ Poulin
@@ -2053,9 +2052,21 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 823580,2026-08-30,2026,Final,New York Mets,Houston Astros,3.0,6.0,Zac Thornton,Ethan Pecko
 823662,2026-08-30,2026,Final,Minnesota Twins,Chicago White Sox,5.0,1.0,Zebby Matthews,Jordan Hicks
 823740,2026-08-30,2026,Final,Milwaukee Brewers,Texas Rangers,4.0,7.0,Dustin May,Kumar Rocker
-823987,2026-08-30,2026,Live,Los Angeles Angels,Philadelphia Phillies,1.0,2.0,Yusei Kikuchi,Zack Wheeler
+823987,2026-08-30,2026,Final,Los Angeles Angels,Philadelphia Phillies,2.0,5.0,Yusei Kikuchi,Zack Wheeler
 824232,2026-08-30,2026,Final,Detroit Tigers,Los Angeles Dodgers,1.0,6.0,Framber Valdez,Tyler Glasnow
 824393,2026-08-30,2026,Final,Cleveland Guardians,Kansas City Royals,11.0,1.0,Parker Messick,Seth Lugo
-824636,2026-08-30,2026,Preview,Chicago Cubs,Cincinnati Reds,0.0,0.0,Shota Imanaga,Chase Burns
+824636,2026-08-30,2026,Final,Chicago Cubs,Cincinnati Reds,5.0,7.0,Shota Imanaga,Chase Burns
 824876,2026-08-30,2026,Final,Atlanta Braves,Colorado Rockies,3.0,2.0,Tyler Mahle,Mason Adams
-824959,2026-08-30,2026,Live,Athletics,Baltimore Orioles,5.0,7.0,Jeffrey Springs,Chris Bassitt
+824959,2026-08-30,2026,Final,Athletics,Baltimore Orioles,5.0,8.0,Jeffrey Springs,Chris Bassitt
+822689,2026-08-31,2026,Preview,Washington Nationals,Miami Marlins,,,Will Dion,Ryan Gusto
+822855,2026-08-31,2026,Preview,Texas Rangers,Athletics,,,Jacob deGrom,Gage Jump
+822932,2026-08-31,2026,Preview,Tampa Bay Rays,New York Mets,0.0,0.0,Ian Seymour,Robert Stock
+823663,2026-08-31,2026,Preview,Minnesota Twins,Detroit Tigers,,,Taj Bradley,Jackson Jobe
+823982,2026-08-31,2026,Preview,Los Angeles Angels,New York Yankees,,,Walbert Ureña,Elmer Rodríguez
+824149,2026-08-31,2026,Preview,Houston Astros,Chicago White Sox,,,Peter Lambert,Anthony Kay
+824314,2026-08-31,2026,Preview,Colorado Rockies,Baltimore Orioles,,,Tanner Gordon,Cade Povich
+824473,2026-08-31,2026,Preview,Cincinnati Reds,San Diego Padres,0.0,0.0,Brady Singer,Michael King
+824635,2026-08-31,2026,Preview,Chicago Cubs,Milwaukee Brewers,,,Clay Holmes,Kyle Harrison
+824719,2026-08-31,2026,Preview,Boston Red Sox,Seattle Mariners,0.0,0.0,Payton Tolle,George Kirby
+824911,2026-08-31,2026,Preview,Atlanta Braves,San Francisco Giants,0.0,0.0,Bryce Elder,Anthony Molina
+825040,2026-08-31,2026,Preview,Arizona Diamondbacks,Philadelphia Phillies,,,Brandon Pfaadt,Aaron Nola
