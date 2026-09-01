@@ -2070,18 +2070,18 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824719,2026-08-31,2026,Final,Boston Red Sox,Seattle Mariners,9.0,8.0,Payton Tolle,George Kirby
 824911,2026-08-31,2026,Final,Atlanta Braves,San Francisco Giants,3.0,7.0,Bryce Elder,Anthony Molina
 825040,2026-08-31,2026,Final,Arizona Diamondbacks,Philadelphia Phillies,1.0,2.0,Brandon Pfaadt,Aaron Nola
-822687,2026-09-01,2026,Preview,Washington Nationals,Atlanta Braves,,,Jake Irvin,AJ Smith-Shawver
-822854,2026-09-01,2026,Preview,Texas Rangers,Athletics,,,MacKenzie Gore,Brady Basso
-822929,2026-09-01,2026,Preview,Tampa Bay Rays,New York Mets,,,Freddy Peralta,Sean Manaea
-823340,2026-09-01,2026,Preview,Pittsburgh Pirates,San Francisco Giants,,,Paul Skenes,Logan Webb
-823661,2026-09-01,2026,Preview,Minnesota Twins,Detroit Tigers,,,Andrew Morris,Troy Melton
-823908,2026-09-01,2026,Preview,Los Angeles Dodgers,St. Louis Cardinals,,,Eric Lauer,Michael McGreevy
+822687,2026-09-01,2026,Preview,Washington Nationals,Atlanta Braves,0.0,0.0,Jake Irvin,AJ Smith-Shawver
+822854,2026-09-01,2026,Preview,Texas Rangers,Athletics,0.0,0.0,MacKenzie Gore,Brady Basso
+822929,2026-09-01,2026,Preview,Tampa Bay Rays,New York Mets,0.0,0.0,Freddy Peralta,Sean Manaea
+823340,2026-09-01,2026,Preview,Pittsburgh Pirates,San Francisco Giants,0.0,0.0,Paul Skenes,Logan Webb
+823661,2026-09-01,2026,Preview,Minnesota Twins,Detroit Tigers,0.0,0.0,Andrew Morris,Troy Melton
+823908,2026-09-01,2026,Preview,Los Angeles Dodgers,St. Louis Cardinals,0.0,0.0,Eric Lauer,Michael McGreevy
 823984,2026-09-01,2026,Preview,Los Angeles Angels,New York Yankees,,,Grayson Rodriguez,Gerrit Cole
-824070,2026-09-01,2026,Preview,Kansas City Royals,Miami Marlins,,,Randy Dobnak,Tyler Phillips
-824148,2026-09-01,2026,Preview,Houston Astros,Chicago White Sox,,,Ronel Blanco,Sean Burke
+824070,2026-09-01,2026,Preview,Kansas City Royals,Miami Marlins,0.0,0.0,Randy Dobnak,Tyler Phillips
+824148,2026-09-01,2026,Preview,Houston Astros,Chicago White Sox,0.0,0.0,Ronel Blanco,Sean Burke
 824313,2026-09-01,2026,Preview,Colorado Rockies,Baltimore Orioles,,,Gabriel Hughes,Kyle Bradish
-824391,2026-09-01,2026,Preview,Cleveland Guardians,Toronto Blue Jays,,,Gavin Williams,Spencer Miles
-824472,2026-09-01,2026,Preview,Cincinnati Reds,San Diego Padres,,,Nick Lodolo,Randy Vásquez
-824633,2026-09-01,2026,Preview,Chicago Cubs,Milwaukee Brewers,,,Matthew Boyd,Robert Gasser
-824716,2026-09-01,2026,Preview,Boston Red Sox,Seattle Mariners,,,Jedixson Paez,Bryan Woo
+824391,2026-09-01,2026,Preview,Cleveland Guardians,Toronto Blue Jays,0.0,0.0,Gavin Williams,Spencer Miles
+824472,2026-09-01,2026,Preview,Cincinnati Reds,San Diego Padres,0.0,0.0,Nick Lodolo,Randy Vásquez
+824633,2026-09-01,2026,Preview,Chicago Cubs,Milwaukee Brewers,0.0,0.0,Matthew Boyd,Robert Gasser
+824716,2026-09-01,2026,Preview,Boston Red Sox,Seattle Mariners,0.0,0.0,Jedixson Paez,Bryan Woo
 825038,2026-09-01,2026,Preview,Arizona Diamondbacks,Philadelphia Phillies,,,Eduardo Rodriguez,Jesús Luzardo
