@@ -2058,15 +2058,30 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824636,2026-08-30,2026,Final,Chicago Cubs,Cincinnati Reds,5.0,7.0,Shota Imanaga,Chase Burns
 824876,2026-08-30,2026,Final,Atlanta Braves,Colorado Rockies,3.0,2.0,Tyler Mahle,Mason Adams
 824959,2026-08-30,2026,Final,Athletics,Baltimore Orioles,5.0,8.0,Jeffrey Springs,Chris Bassitt
-822689,2026-08-31,2026,Live,Washington Nationals,Miami Marlins,0.0,0.0,Will Dion,Ryan Gusto
-822855,2026-08-31,2026,Preview,Texas Rangers,Athletics,0.0,0.0,Jacob deGrom,Gage Jump
-822932,2026-08-31,2026,Live,Tampa Bay Rays,New York Mets,0.0,1.0,Ian Seymour,Robert Stock
-823663,2026-08-31,2026,Live,Minnesota Twins,Detroit Tigers,0.0,0.0,Taj Bradley,Jackson Jobe
-823982,2026-08-31,2026,Preview,Los Angeles Angels,New York Yankees,,,Walbert Ureña,Elmer Rodríguez
-824149,2026-08-31,2026,Preview,Houston Astros,Chicago White Sox,0.0,0.0,Peter Lambert,Anthony Kay
-824314,2026-08-31,2026,Preview,Colorado Rockies,Baltimore Orioles,0.0,0.0,Tanner Gordon,Cade Povich
-824473,2026-08-31,2026,Live,Cincinnati Reds,San Diego Padres,0.0,0.0,Brady Singer,Michael King
-824635,2026-08-31,2026,Live,Chicago Cubs,Milwaukee Brewers,0.0,0.0,Clay Holmes,Kyle Harrison
-824719,2026-08-31,2026,Live,Boston Red Sox,Seattle Mariners,3.0,2.0,Payton Tolle,George Kirby
-824911,2026-08-31,2026,Live,Atlanta Braves,San Francisco Giants,3.0,3.0,Bryce Elder,Anthony Molina
-825040,2026-08-31,2026,Preview,Arizona Diamondbacks,Philadelphia Phillies,,,Brandon Pfaadt,Aaron Nola
+822689,2026-08-31,2026,Final,Washington Nationals,Miami Marlins,6.0,3.0,Will Dion,Ryan Gusto
+822855,2026-08-31,2026,Final,Texas Rangers,Athletics,8.0,1.0,Jacob deGrom,Gage Jump
+822932,2026-08-31,2026,Final,Tampa Bay Rays,New York Mets,2.0,3.0,Ian Seymour,Robert Stock
+823663,2026-08-31,2026,Final,Minnesota Twins,Detroit Tigers,11.0,1.0,Taj Bradley,Jackson Jobe
+823982,2026-08-31,2026,Final,Los Angeles Angels,New York Yankees,10.0,1.0,Walbert Ureña,Elmer Rodríguez
+824149,2026-08-31,2026,Final,Houston Astros,Chicago White Sox,6.0,3.0,Peter Lambert,Anthony Kay
+824314,2026-08-31,2026,Final,Colorado Rockies,Baltimore Orioles,1.0,2.0,Tanner Gordon,Cade Povich
+824473,2026-08-31,2026,Final,Cincinnati Reds,San Diego Padres,0.0,5.0,Brady Singer,Michael King
+824635,2026-08-31,2026,Final,Chicago Cubs,Milwaukee Brewers,17.0,3.0,Clay Holmes,Kyle Harrison
+824719,2026-08-31,2026,Final,Boston Red Sox,Seattle Mariners,9.0,8.0,Payton Tolle,George Kirby
+824911,2026-08-31,2026,Final,Atlanta Braves,San Francisco Giants,3.0,7.0,Bryce Elder,Anthony Molina
+825040,2026-08-31,2026,Final,Arizona Diamondbacks,Philadelphia Phillies,1.0,2.0,Brandon Pfaadt,Aaron Nola
+822687,2026-09-01,2026,Preview,Washington Nationals,Atlanta Braves,,,Jake Irvin,AJ Smith-Shawver
+822854,2026-09-01,2026,Preview,Texas Rangers,Athletics,,,MacKenzie Gore,Brady Basso
+822929,2026-09-01,2026,Preview,Tampa Bay Rays,New York Mets,,,Freddy Peralta,Sean Manaea
+823340,2026-09-01,2026,Preview,Pittsburgh Pirates,San Francisco Giants,,,Paul Skenes,Logan Webb
+823661,2026-09-01,2026,Preview,Minnesota Twins,Detroit Tigers,,,Andrew Morris,Troy Melton
+823908,2026-09-01,2026,Preview,Los Angeles Dodgers,St. Louis Cardinals,,,Eric Lauer,Michael McGreevy
+823984,2026-09-01,2026,Preview,Los Angeles Angels,New York Yankees,,,Grayson Rodriguez,Gerrit Cole
+824070,2026-09-01,2026,Preview,Kansas City Royals,Miami Marlins,,,Randy Dobnak,Tyler Phillips
+824148,2026-09-01,2026,Preview,Houston Astros,Chicago White Sox,,,Ronel Blanco,Sean Burke
+824313,2026-09-01,2026,Preview,Colorado Rockies,Baltimore Orioles,,,Gabriel Hughes,Kyle Bradish
+824391,2026-09-01,2026,Preview,Cleveland Guardians,Toronto Blue Jays,,,Gavin Williams,Spencer Miles
+824472,2026-09-01,2026,Preview,Cincinnati Reds,San Diego Padres,,,Nick Lodolo,Randy Vásquez
+824633,2026-09-01,2026,Preview,Chicago Cubs,Milwaukee Brewers,,,Matthew Boyd,Robert Gasser
+824716,2026-09-01,2026,Preview,Boston Red Sox,Seattle Mariners,,,Jedixson Paez,Bryan Woo
+825038,2026-09-01,2026,Preview,Arizona Diamondbacks,Philadelphia Phillies,,,Eduardo Rodriguez,Jesús Luzardo
