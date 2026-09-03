@@ -693,7 +693,7 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-09-03,823337,Pittsburgh Pirates,San Francisco Giants,Pittsburgh Pirates,59.8,Pittsburgh Pirates,55-60%,Pittsburgh Pirates,True,True
 2026-09-03,823907,Los Angeles Dodgers,St. Louis Cardinals,Los Angeles Dodgers,61.9,Los Angeles Dodgers,60-65%,,,
 2026-09-03,824069,Kansas City Royals,Miami Marlins,Miami Marlins,49.1,Miami Marlins,45-50%,,,
-2026-09-03,824144,Houston Astros,Chicago White Sox,Chicago White Sox,52.2,Houston Astros,50-55%,,,
-2026-09-03,824388,Cleveland Guardians,Toronto Blue Jays,Toronto Blue Jays,52.2,Cleveland Guardians,50-55%,,,
+2026-09-03,824144,Houston Astros,Chicago White Sox,Chicago White Sox,52.2,Houston Astros,50-55%,Houston Astros,False,True
+2026-09-03,824388,Cleveland Guardians,Toronto Blue Jays,Toronto Blue Jays,52.2,Cleveland Guardians,50-55%,Toronto Blue Jays,True,False
 2026-09-03,824632,Chicago Cubs,Milwaukee Brewers,Milwaukee Brewers,48.6,Milwaukee Brewers,45-50%,,,
 2026-09-03,824796,Baltimore Orioles,Boston Red Sox,Boston Red Sox,44.3,Boston Red Sox,40-45%,,,

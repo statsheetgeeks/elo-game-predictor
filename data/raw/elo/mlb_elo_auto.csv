@@ -15169,6 +15169,10 @@ date,season,game_pk,home_team,away_team,home_pitcher,away_pitcher,home_elo_pre,a
 2026-09-02,2026,824634,Chicago Cubs,Milwaukee Brewers,David Peterson,Jacob Misiorowski,1540.0,1566.3,-37.5,0.4462,0.5538,1537.1,1569.1,5,9,0
 2026-09-02,2026,824717,Boston Red Sox,Seattle Mariners,Patrick Sandoval,Bryce Miller,1542.7,1467.9,97.6,0.6369,0.3631,1538.1,1472.4,3,8,0
 2026-09-02,2026,825037,Arizona Diamondbacks,Philadelphia Phillies,Taylor Clarke,Andrew Painter,1517.1,1533.9,7.6,0.5109,0.4891,1519.7,1531.4,1,0,1
-2026-09-03,2026,823337,Pittsburgh Pirates,San Francisco Giants,Lake Bachar,Blade Tidwell,1504.4,1449.8,88.1,0.6241,0.3759,1506.2,1448.0,2,0,1
-2026-09-03,2026,824144,Houston Astros,Chicago White Sox,Hunter Brown,Luis Castillo,1500.5,1514.7,30.8,0.5442,0.4558,1497.7,1517.4,0,0,0
-2026-09-03,2026,824388,Cleveland Guardians,Toronto Blue Jays,Tanner Bibee,José Soriano,1495.2,1505.5,54.9,0.5784,0.4216,1492.1,1508.6,0,0,0
+2026-09-03,2026,822853,Texas Rangers,Tampa Bay Rays,Cal Quantrill,Shane McClanahan,1485.7,1517.1,-57.5,0.4181,0.5819,1484.0,1518.9,0,0,0
+2026-09-03,2026,823337,Pittsburgh Pirates,San Francisco Giants,Lake Bachar,Blade Tidwell,1504.4,1449.8,88.1,0.6241,0.3759,1506.5,1447.7,5,2,1
+2026-09-03,2026,824069,Kansas City Royals,Miami Marlins,Michael Wacha,Sandy Alcantara,1480.4,1510.7,-15.5,0.4777,0.5223,1478.2,1513.0,0,0,0
+2026-09-03,2026,824144,Houston Astros,Chicago White Sox,Hunter Brown,Luis Castillo,1500.5,1514.7,30.8,0.5442,0.4558,1503.4,1511.8,6,2,1
+2026-09-03,2026,824388,Cleveland Guardians,Toronto Blue Jays,Tanner Bibee,José Soriano,1495.2,1505.5,54.9,0.5784,0.4216,1491.5,1509.2,3,6,0
+2026-09-03,2026,824632,Chicago Cubs,Milwaukee Brewers,Kevin Gausman,Logan Henderson,1537.1,1569.1,0.3,0.5005,0.4995,1534.7,1571.5,0,0,0
+2026-09-03,2026,824796,Baltimore Orioles,Boston Red Sox,Brandon Young,Jake Bennett,1513.5,1538.1,-29.5,0.4577,0.5423,1511.5,1540.2,0,0,0

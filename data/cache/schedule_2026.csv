@@ -2100,12 +2100,12 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824634,2026-09-02,2026,Final,Chicago Cubs,Milwaukee Brewers,5.0,9.0,David Peterson,Jacob Misiorowski
 824717,2026-09-02,2026,Final,Boston Red Sox,Seattle Mariners,3.0,8.0,Patrick Sandoval,Bryce Miller
 825037,2026-09-02,2026,Final,Arizona Diamondbacks,Philadelphia Phillies,1.0,0.0,Taylor Clarke,Andrew Painter
-822853,2026-09-03,2026,Preview,Texas Rangers,Tampa Bay Rays,,,Cal Quantrill,Shane McClanahan
+822853,2026-09-03,2026,Preview,Texas Rangers,Tampa Bay Rays,0.0,0.0,Cal Quantrill,Shane McClanahan
 823095,2026-09-03,2026,Preview,Seattle Mariners,Athletics,,,Kade Anderson,Jack Perkins
-823337,2026-09-03,2026,Live,Pittsburgh Pirates,San Francisco Giants,2.0,0.0,Lake Bachar,Blade Tidwell
+823337,2026-09-03,2026,Final,Pittsburgh Pirates,San Francisco Giants,5.0,2.0,Lake Bachar,Blade Tidwell
 823907,2026-09-03,2026,Preview,Los Angeles Dodgers,St. Louis Cardinals,,,Tarik Skubal,Quinn Mathews
-824069,2026-09-03,2026,Preview,Kansas City Royals,Miami Marlins,,,Michael Wacha,Sandy Alcantara
-824144,2026-09-03,2026,Preview,Houston Astros,Chicago White Sox,0.0,0.0,Hunter Brown,Luis Castillo
-824388,2026-09-03,2026,Live,Cleveland Guardians,Toronto Blue Jays,0.0,0.0,Tanner Bibee,José Soriano
-824632,2026-09-03,2026,Preview,Chicago Cubs,Milwaukee Brewers,,,Kevin Gausman,Logan Henderson
-824796,2026-09-03,2026,Preview,Baltimore Orioles,Boston Red Sox,,,Brandon Young,Jake Bennett
+824069,2026-09-03,2026,Preview,Kansas City Royals,Miami Marlins,0.0,0.0,Michael Wacha,Sandy Alcantara
+824144,2026-09-03,2026,Final,Houston Astros,Chicago White Sox,6.0,2.0,Hunter Brown,Luis Castillo
+824388,2026-09-03,2026,Final,Cleveland Guardians,Toronto Blue Jays,3.0,6.0,Tanner Bibee,José Soriano
+824632,2026-09-03,2026,Preview,Chicago Cubs,Milwaukee Brewers,0.0,0.0,Kevin Gausman,Logan Henderson
+824796,2026-09-03,2026,Preview,Baltimore Orioles,Boston Red Sox,0.0,0.0,Brandon Young,Jake Bennett

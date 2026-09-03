@@ -1,22 +1,22 @@
 as_of_date,rank,team,elo_rating,anticipated_win_pct
-2026-09-03,1,Milwaukee Brewers,1569.1,59.6
-2026-09-03,2,Boston Red Sox,1544.8,56.2
-2026-09-03,3,Chicago Cubs,1541.6,55.7
+2026-09-03,1,Milwaukee Brewers,1571.5,59.9
+2026-09-03,2,Chicago Cubs,1541.6,55.7
+2026-09-03,3,Boston Red Sox,1540.2,55.5
 2026-09-03,4,New York Yankees,1532.1,54.4
 2026-09-03,5,Philadelphia Phillies,1531.4,54.3
 2026-09-03,6,Los Angeles Dodgers,1529.4,54.0
 2026-09-03,7,Atlanta Braves,1529.1,53.9
 2026-09-03,8,Arizona Diamondbacks,1523.6,53.2
-2026-09-03,9,Chicago White Sox,1517.4,52.3
-2026-09-03,10,Tampa Bay Rays,1515.5,52.0
-2026-09-03,11,San Diego Padres,1515.0,51.9
-2026-09-03,12,Baltimore Orioles,1513.5,51.7
-2026-09-03,13,Miami Marlins,1510.7,51.3
-2026-09-03,14,Toronto Blue Jays,1508.6,51.0
+2026-09-03,9,Tampa Bay Rays,1518.9,52.5
+2026-09-03,10,San Diego Padres,1515.0,51.9
+2026-09-03,11,Baltimore Orioles,1513.5,51.7
+2026-09-03,12,Miami Marlins,1513.0,51.6
+2026-09-03,13,Chicago White Sox,1511.8,51.5
+2026-09-03,14,Toronto Blue Jays,1509.2,51.1
 2026-09-03,15,Pittsburgh Pirates,1506.0,50.6
 2026-09-03,16,St. Louis Cardinals,1503.1,50.2
 2026-09-03,17,Cleveland Guardians,1500.2,49.8
-2026-09-03,18,Houston Astros,1498.5,49.5
+2026-09-03,18,Houston Astros,1498.5,49.6
 2026-09-03,19,New York Mets,1495.6,49.1
 2026-09-03,20,Washington Nationals,1489.1,48.2
 2026-09-03,21,Kansas City Royals,1486.5,47.8
@@ -26,6 +26,6 @@ as_of_date,rank,team,elo_rating,anticipated_win_pct
 2026-09-03,25,Cincinnati Reds,1480.2,46.9
 2026-09-03,26,Seattle Mariners,1472.4,45.8
 2026-09-03,27,Los Angeles Angels,1464.4,44.7
-2026-09-03,28,San Francisco Giants,1448.0,42.3
-2026-09-03,29,Colorado Rockies,1440.2,41.2
-2026-09-03,30,Athletics,1433.0,40.2
+2026-09-03,28,San Francisco Giants,1447.7,42.3
+2026-09-03,29,Colorado Rockies,1440.2,41.3
+2026-09-03,30,Athletics,1433.0,40.3
