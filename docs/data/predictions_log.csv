@@ -675,16 +675,25 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-09-01,825038,Arizona Diamondbacks,Philadelphia Phillies,Philadelphia Phillies,48.5,Philadelphia Phillies,45-50%,Philadelphia Phillies,True,True
 2026-09-02,822686,Washington Nationals,Atlanta Braves,Atlanta Braves,42.0,Atlanta Braves,40-45%,Atlanta Braves,True,True
 2026-09-02,822851,Texas Rangers,Athletics,Texas Rangers,63.0,Texas Rangers,60-65%,Athletics,False,False
-2026-09-02,822931,Tampa Bay Rays,New York Mets,Tampa Bay Rays,59.5,Tampa Bay Rays,55-60%,,,
-2026-09-02,823339,Pittsburgh Pirates,San Francisco Giants,Pittsburgh Pirates,60.0,Pittsburgh Pirates,60-65%,,,
-2026-09-02,823660,Minnesota Twins,Detroit Tigers,Detroit Tigers,50.7,Minnesota Twins,50-55%,,,
-2026-09-02,823906,Los Angeles Dodgers,St. Louis Cardinals,Los Angeles Dodgers,62.4,Los Angeles Dodgers,60-65%,,,
-2026-09-02,823983,Los Angeles Angels,New York Yankees,New York Yankees,39.4,New York Yankees,35-40%,,,
-2026-09-02,824068,Kansas City Royals,Miami Marlins,Miami Marlins,49.5,Miami Marlins,45-50%,,,
-2026-09-02,824147,Houston Astros,Chicago White Sox,Chicago White Sox,52.2,Houston Astros,50-55%,,,
-2026-09-02,824312,Colorado Rockies,Baltimore Orioles,Baltimore Orioles,39.9,Baltimore Orioles,35-40%,,,
-2026-09-02,824390,Cleveland Guardians,Toronto Blue Jays,Cleveland Guardians,53.4,Cleveland Guardians,50-55%,,,
+2026-09-02,822931,Tampa Bay Rays,New York Mets,Tampa Bay Rays,59.5,Tampa Bay Rays,55-60%,New York Mets,False,False
+2026-09-02,823339,Pittsburgh Pirates,San Francisco Giants,Pittsburgh Pirates,60.0,Pittsburgh Pirates,60-65%,San Francisco Giants,False,False
+2026-09-02,823660,Minnesota Twins,Detroit Tigers,Detroit Tigers,50.7,Minnesota Twins,50-55%,Detroit Tigers,True,False
+2026-09-02,823906,Los Angeles Dodgers,St. Louis Cardinals,Los Angeles Dodgers,62.4,Los Angeles Dodgers,60-65%,St. Louis Cardinals,False,False
+2026-09-02,823983,Los Angeles Angels,New York Yankees,New York Yankees,39.4,New York Yankees,35-40%,New York Yankees,True,True
+2026-09-02,824068,Kansas City Royals,Miami Marlins,Miami Marlins,49.5,Miami Marlins,45-50%,Miami Marlins,True,True
+2026-09-02,824147,Houston Astros,Chicago White Sox,Chicago White Sox,52.2,Houston Astros,50-55%,Houston Astros,False,True
+2026-09-02,824312,Colorado Rockies,Baltimore Orioles,Baltimore Orioles,39.9,Baltimore Orioles,35-40%,Colorado Rockies,False,False
+2026-09-02,824390,Cleveland Guardians,Toronto Blue Jays,Cleveland Guardians,53.4,Cleveland Guardians,50-55%,Toronto Blue Jays,False,False
 2026-09-02,824470,Cincinnati Reds,San Diego Padres,San Diego Padres,46.9,San Diego Padres,45-50%,Cincinnati Reds,False,False
-2026-09-02,824634,Chicago Cubs,Milwaukee Brewers,Milwaukee Brewers,49.1,Milwaukee Brewers,45-50%,,,
+2026-09-02,824634,Chicago Cubs,Milwaukee Brewers,Milwaukee Brewers,49.1,Milwaukee Brewers,45-50%,Milwaukee Brewers,True,True
 2026-09-02,824717,Boston Red Sox,Seattle Mariners,Boston Red Sox,62.4,Boston Red Sox,60-65%,Seattle Mariners,False,False
 2026-09-02,825037,Arizona Diamondbacks,Philadelphia Phillies,Philadelphia Phillies,47.6,Philadelphia Phillies,45-50%,Arizona Diamondbacks,False,False
+2026-09-03,822853,Texas Rangers,Tampa Bay Rays,Tampa Bay Rays,47.5,Tampa Bay Rays,45-50%,,,
+2026-09-03,823095,Seattle Mariners,Athletics,Seattle Mariners,63.6,Seattle Mariners,60-65%,,,
+2026-09-03,823337,Pittsburgh Pirates,San Francisco Giants,Pittsburgh Pirates,59.8,Pittsburgh Pirates,55-60%,Pittsburgh Pirates,True,True
+2026-09-03,823907,Los Angeles Dodgers,St. Louis Cardinals,Los Angeles Dodgers,61.9,Los Angeles Dodgers,60-65%,,,
+2026-09-03,824069,Kansas City Royals,Miami Marlins,Miami Marlins,49.1,Miami Marlins,45-50%,,,
+2026-09-03,824144,Houston Astros,Chicago White Sox,Chicago White Sox,52.2,Houston Astros,50-55%,,,
+2026-09-03,824388,Cleveland Guardians,Toronto Blue Jays,Toronto Blue Jays,52.2,Cleveland Guardians,50-55%,,,
+2026-09-03,824632,Chicago Cubs,Milwaukee Brewers,Milwaukee Brewers,48.6,Milwaukee Brewers,45-50%,,,
+2026-09-03,824796,Baltimore Orioles,Boston Red Sox,Boston Red Sox,44.3,Boston Red Sox,40-45%,,,
