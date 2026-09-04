@@ -1,17 +1,17 @@
 as_of_date,game_pk,home_team,home_combined_rating,away_team,away_combined_rating,elo_diff,home_win_prob
-2026-09-04,822852,Texas Rangers,1492.5,Tampa Bay Rays,1529.6,-37.1,47.9
+2026-09-04,822852,Texas Rangers,1492.4,Tampa Bay Rays,1532.0,-39.6,47.5
 2026-09-04,823093,Seattle Mariners,1492.6,Athletics,1427.6,65.0,63.0
 2026-09-04,823256,San Diego Padres,1525.1,New York Yankees,1551.6,-26.5,49.9
-2026-09-04,823338,Pittsburgh Pirates,1514.9,Los Angeles Angels,1458.9,56.0,60.4
-2026-09-04,823418,Philadelphia Phillies,1553.9,Atlanta Braves,1548.2,5.7,55.1
-2026-09-04,823579,New York Mets,1505.0,San Francisco Giants,1463.2,41.8,59.7
-2026-09-04,823824,Miami Marlins,1513.3,Chicago Cubs,1553.5,-40.2,47.3
+2026-09-04,823338,Pittsburgh Pirates,1515.0,Los Angeles Angels,1450.7,64.3,61.6
+2026-09-04,823418,Philadelphia Phillies,1554.6,Atlanta Braves,1551.5,3.1,54.7
+2026-09-04,823579,New York Mets,1505.3,San Francisco Giants,1466.5,38.8,59.3
+2026-09-04,823824,Miami Marlins,1513.7,Chicago Cubs,1554.4,-40.7,47.2
 2026-09-04,823905,Los Angeles Dodgers,1545.3,Washington Nationals,1484.8,60.5,64.6
-2026-09-04,824067,Kansas City Royals,1493.1,Toronto Blue Jays,1523.9,-30.8,48.1
-2026-09-04,824146,Houston Astros,1497.0,Arizona Diamondbacks,1526.4,-29.4,51.1
-2026-09-04,824311,Colorado Rockies,1424.7,St. Louis Cardinals,1503.4,-78.7,43.0
-2026-09-04,824387,Cleveland Guardians,1517.5,Detroit Tigers,1503.9,13.6,54.9
-2026-09-04,824424,Cleveland Guardians,1517.5,Detroit Tigers,1503.9,13.6,54.9
-2026-09-04,824471,Cincinnati Reds,1486.0,Milwaukee Brewers,1576.5,-90.5,39.7
-2026-09-04,824554,Chicago White Sox,1512.4,Minnesota Twins,1475.4,37.0,60.0
-2026-09-04,824797,Baltimore Orioles,1522.0,Boston Red Sox,1556.6,-34.6,44.9
+2026-09-04,824067,Kansas City Royals,1493.1,Toronto Blue Jays,1526.1,-33.0,47.8
+2026-09-04,824146,Houston Astros,1497.1,Arizona Diamondbacks,1525.3,-28.2,51.2
+2026-09-04,824311,Colorado Rockies,1424.9,St. Louis Cardinals,1505.3,-80.4,42.8
+2026-09-04,824387,Cleveland Guardians,1517.5,Detroit Tigers,1503.4,14.1,54.9
+2026-09-04,824424,Cleveland Guardians,1517.5,Detroit Tigers,1503.4,14.1,54.9
+2026-09-04,824471,Cincinnati Reds,1486.4,Milwaukee Brewers,1578.2,-91.8,39.5
+2026-09-04,824554,Chicago White Sox,1512.6,Minnesota Twins,1482.8,29.8,59.0
+2026-09-04,824797,Baltimore Orioles,1522.7,Boston Red Sox,1559.0,-36.3,44.6
