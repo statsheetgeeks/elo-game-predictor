@@ -15194,3 +15194,16 @@ date,season,game_pk,home_team,away_team,home_pitcher,away_pitcher,home_elo_pre,a
 2026-09-04,2026,824471,Cincinnati Reds,Milwaukee Brewers,Rhett Lowder,Shane Drohan,1484.0,1566.5,-67.3,0.4044,0.5956,1481.7,1568.7,7,10,0
 2026-09-04,2026,824554,Chicago White Sox,Minnesota Twins,Erick Fedde,Zebby Matthews,1511.8,1485.3,60.5,0.5862,0.4138,1514.2,1482.9,4,1,1
 2026-09-04,2026,824797,Baltimore Orioles,Boston Red Sox,Shane Baz,Ranger Suarez,1511.2,1540.4,-43.1,0.4384,0.5616,1509.1,1542.5,0,1,0
+2026-09-05,2026,822850,Texas Rangers,Tampa Bay Rays,Jacob deGrom,Drew Rasmussen,1487.9,1514.9,3.7,0.5053,0.4947,1485.5,1517.4,0,0,0
+2026-09-05,2026,823257,San Diego Padres,New York Yankees,Robbie Ray,Carlos Rodón,1518.1,1529.0,11.7,0.5168,0.4832,1515.6,1531.5,0,0,0
+2026-09-05,2026,823335,Pittsburgh Pirates,Los Angeles Angels,Braxton Ashcraft,Yusei Kikuchi,1508.3,1450.9,104.6,0.6461,0.3539,1504.8,1454.5,0,0,0
+2026-09-05,2026,823419,Philadelphia Phillies,Atlanta Braves,Zack Wheeler,Martín Pérez,1528.3,1532.3,84.3,0.6191,0.3809,1524.9,1535.6,0,0,0
+2026-09-05,2026,823577,New York Mets,San Francisco Giants,Zac Thornton,Anthony Molina,1497.8,1445.5,85.1,0.6201,0.3799,1493.6,1449.7,2,6,0
+2026-09-05,2026,823823,Miami Marlins,Chicago Cubs,Ryan Gusto,Javier Assad,1504.3,1542.7,-39.6,0.4433,0.5567,1501.9,1545.1,2,4,0
+2026-09-05,2026,823904,Los Angeles Dodgers,Washington Nationals,Tyler Glasnow,Cade Cavalli,1523.6,1492.3,120.5,0.6668,0.3332,1519.9,1496.1,0,0,0
+2026-09-05,2026,824066,Kansas City Royals,Toronto Blue Jays,Seth Lugo,Max Scherzer,1480.3,1512.7,-37.7,0.4459,0.5541,1478.4,1514.7,0,0,0
+2026-09-05,2026,824145,Houston Astros,Arizona Diamondbacks,Ethan Pecko,Brandon Pfaadt,1506.3,1516.8,27.1,0.539,0.461,1503.6,1519.5,0,0,0
+2026-09-05,2026,824389,Cleveland Guardians,Detroit Tigers,Parker Messick,Framber Valdez,1496.4,1478.7,22.7,0.5326,0.4674,1493.7,1481.3,0,0,0
+2026-09-05,2026,824468,Cincinnati Reds,Milwaukee Brewers,Andrew Abbott,Dustin May,1481.7,1568.7,-51.9,0.4259,0.5741,1479.9,1570.6,0,0,0
+2026-09-05,2026,824553,Chicago White Sox,Minnesota Twins,Anthony Kay,Taj Bradley,1514.2,1482.9,82.1,0.6161,0.3839,1510.8,1486.3,0,0,0
+2026-09-05,2026,824795,Baltimore Orioles,Boston Red Sox,Chris Bassitt,Sonny Gray,1509.1,1542.5,-64.4,0.4084,0.5916,1507.5,1544.2,0,0,0

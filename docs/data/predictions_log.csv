@@ -718,8 +718,8 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-09-05,823257,San Diego Padres,New York Yankees,New York Yankees,50.3,San Diego Padres,50-55%,,,
 2026-09-05,823335,Pittsburgh Pirates,Los Angeles Angels,Pittsburgh Pirates,62.2,Pittsburgh Pirates,60-65%,,,
 2026-09-05,823419,Philadelphia Phillies,Atlanta Braves,Philadelphia Phillies,54.5,Philadelphia Phillies,50-55%,,,
-2026-09-05,823577,New York Mets,San Francisco Giants,New York Mets,60.0,New York Mets,60-65%,,,
-2026-09-05,823823,Miami Marlins,Chicago Cubs,Chicago Cubs,47.1,Chicago Cubs,45-50%,,,
+2026-09-05,823577,New York Mets,San Francisco Giants,New York Mets,60.0,New York Mets,60-65%,San Francisco Giants,False,False
+2026-09-05,823823,Miami Marlins,Chicago Cubs,Chicago Cubs,47.1,Chicago Cubs,45-50%,Chicago Cubs,True,True
 2026-09-05,823904,Los Angeles Dodgers,Washington Nationals,Los Angeles Dodgers,64.2,Los Angeles Dodgers,60-65%,,,
 2026-09-05,824066,Kansas City Royals,Toronto Blue Jays,Toronto Blue Jays,47.6,Toronto Blue Jays,45-50%,,,
 2026-09-05,824145,Houston Astros,Arizona Diamondbacks,Arizona Diamondbacks,52.0,Houston Astros,50-55%,,,

@@ -2124,18 +2124,18 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824471,2026-09-04,2026,Final,Cincinnati Reds,Milwaukee Brewers,7.0,10.0,Rhett Lowder,Shane Drohan
 824554,2026-09-04,2026,Final,Chicago White Sox,Minnesota Twins,4.0,1.0,Erick Fedde,Zebby Matthews
 824797,2026-09-04,2026,Final,Baltimore Orioles,Boston Red Sox,0.0,1.0,Shane Baz,Ranger Suarez
-822850,2026-09-05,2026,Preview,Texas Rangers,Tampa Bay Rays,,,Jacob deGrom,Drew Rasmussen
+822850,2026-09-05,2026,Preview,Texas Rangers,Tampa Bay Rays,0.0,0.0,Jacob deGrom,Drew Rasmussen
 823094,2026-09-05,2026,Preview,Seattle Mariners,Athletics,,,George Kirby,Jeffrey Springs
-823257,2026-09-05,2026,Preview,San Diego Padres,New York Yankees,,,Robbie Ray,Carlos Rodón
-823335,2026-09-05,2026,Preview,Pittsburgh Pirates,Los Angeles Angels,,,Braxton Ashcraft,Yusei Kikuchi
-823419,2026-09-05,2026,Preview,Philadelphia Phillies,Atlanta Braves,,,Zack Wheeler,Martín Pérez
-823577,2026-09-05,2026,Preview,New York Mets,San Francisco Giants,,,Zac Thornton,Anthony Molina
-823823,2026-09-05,2026,Preview,Miami Marlins,Chicago Cubs,,,Ryan Gusto,Javier Assad
-823904,2026-09-05,2026,Preview,Los Angeles Dodgers,Washington Nationals,,,Tyler Glasnow,Cade Cavalli
-824066,2026-09-05,2026,Preview,Kansas City Royals,Toronto Blue Jays,,,Seth Lugo,Max Scherzer
-824145,2026-09-05,2026,Preview,Houston Astros,Arizona Diamondbacks,,,Ethan Pecko,Brandon Pfaadt
+823257,2026-09-05,2026,Preview,San Diego Padres,New York Yankees,0.0,0.0,Robbie Ray,Carlos Rodón
+823335,2026-09-05,2026,Preview,Pittsburgh Pirates,Los Angeles Angels,0.0,0.0,Braxton Ashcraft,Yusei Kikuchi
+823419,2026-09-05,2026,Live,Philadelphia Phillies,Atlanta Braves,0.0,0.0,Zack Wheeler,Martín Pérez
+823577,2026-09-05,2026,Live,New York Mets,San Francisco Giants,2.0,6.0,Zac Thornton,Anthony Molina
+823823,2026-09-05,2026,Live,Miami Marlins,Chicago Cubs,2.0,4.0,Ryan Gusto,Javier Assad
+823904,2026-09-05,2026,Preview,Los Angeles Dodgers,Washington Nationals,0.0,0.0,Tyler Glasnow,Cade Cavalli
+824066,2026-09-05,2026,Preview,Kansas City Royals,Toronto Blue Jays,0.0,0.0,Seth Lugo,Max Scherzer
+824145,2026-09-05,2026,Preview,Houston Astros,Arizona Diamondbacks,0.0,0.0,Ethan Pecko,Brandon Pfaadt
 824310,2026-09-05,2026,Preview,Colorado Rockies,St. Louis Cardinals,,,Mason Adams,Matthew Liberatore
-824389,2026-09-05,2026,Preview,Cleveland Guardians,Detroit Tigers,,,Parker Messick,Framber Valdez
-824468,2026-09-05,2026,Preview,Cincinnati Reds,Milwaukee Brewers,,,Andrew Abbott,Dustin May
-824553,2026-09-05,2026,Preview,Chicago White Sox,Minnesota Twins,,,Anthony Kay,Taj Bradley
-824795,2026-09-05,2026,Preview,Baltimore Orioles,Boston Red Sox,,,Chris Bassitt,Sonny Gray
+824389,2026-09-05,2026,Live,Cleveland Guardians,Detroit Tigers,0.0,0.0,Parker Messick,Framber Valdez
+824468,2026-09-05,2026,Preview,Cincinnati Reds,Milwaukee Brewers,0.0,0.0,Andrew Abbott,Dustin May
+824553,2026-09-05,2026,Preview,Chicago White Sox,Minnesota Twins,0.0,0.0,Anthony Kay,Taj Bradley
+824795,2026-09-05,2026,Preview,Baltimore Orioles,Boston Red Sox,0.0,0.0,Chris Bassitt,Sonny Gray

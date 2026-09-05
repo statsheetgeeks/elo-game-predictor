@@ -1,6 +1,6 @@
 {
   "as_of_date": "2026-09-05",
-  "generated_at_utc": "2026-09-05T16:29:20.097136+00:00",
+  "generated_at_utc": "2026-09-05T21:50:32.905856+00:00",
   "model_flags": {
     "base_K": 4.790024057931767,
     "base_home_adv": 20.281754999102375,
@@ -18,7 +18,7 @@
         "primary": "#003278",
         "secondary": "#C0111F",
         "logo": "https://www.mlbstatic.com/team-logos/140.svg",
-        "combined_rating": 1492.4
+        "combined_rating": 1493.1
       },
       "away": {
         "name": "Tampa Bay Rays",
@@ -26,10 +26,10 @@
         "primary": "#092C5C",
         "secondary": "#8FBCE6",
         "logo": "https://www.mlbstatic.com/team-logos/139.svg",
-        "combined_rating": 1531.6
+        "combined_rating": 1534.6
       },
-      "elo_diff": -39.2,
-      "home_win_prob": 47.6
+      "elo_diff": -41.5,
+      "home_win_prob": 47.2
     },
     {
       "game_pk": 823094,
@@ -60,7 +60,7 @@
         "primary": "#2F241D",
         "secondary": "#FFC425",
         "logo": "https://www.mlbstatic.com/team-logos/135.svg",
-        "combined_rating": 1525.5
+        "combined_rating": 1525.8
       },
       "away": {
         "name": "New York Yankees",
@@ -68,10 +68,10 @@
         "primary": "#003087",
         "secondary": "#E4002C",
         "logo": "https://www.mlbstatic.com/team-logos/147.svg",
-        "combined_rating": 1549.0
+        "combined_rating": 1551.8
       },
-      "elo_diff": -23.5,
-      "home_win_prob": 50.3
+      "elo_diff": -26.0,
+      "home_win_prob": 50.0
     },
     {
       "game_pk": 823335,
@@ -81,7 +81,7 @@
         "primary": "#FDB827",
         "secondary": "#27251F",
         "logo": "https://www.mlbstatic.com/team-logos/134.svg",
-        "combined_rating": 1515.0
+        "combined_rating": 1515.3
       },
       "away": {
         "name": "Los Angeles Angels",
@@ -89,10 +89,10 @@
         "primary": "#BA0021",
         "secondary": "#003263",
         "logo": "https://www.mlbstatic.com/team-logos/108.svg",
-        "combined_rating": 1445.7
+        "combined_rating": 1449.4
       },
-      "elo_diff": 69.3,
-      "home_win_prob": 62.2
+      "elo_diff": 65.9,
+      "home_win_prob": 61.8
     },
     {
       "game_pk": 823419,
@@ -102,7 +102,7 @@
         "primary": "#E81828",
         "secondary": "#002D72",
         "logo": "https://www.mlbstatic.com/team-logos/143.svg",
-        "combined_rating": 1554.1
+        "combined_rating": 1554.9
       },
       "away": {
         "name": "Atlanta Braves",
@@ -110,10 +110,10 @@
         "primary": "#CE1141",
         "secondary": "#13274F",
         "logo": "https://www.mlbstatic.com/team-logos/144.svg",
-        "combined_rating": 1552.1
+        "combined_rating": 1555.7
       },
-      "elo_diff": 2.0,
-      "home_win_prob": 54.5
+      "elo_diff": -0.8,
+      "home_win_prob": 54.1
     },
     {
       "game_pk": 823577,
@@ -123,7 +123,7 @@
         "primary": "#002D72",
         "secondary": "#FF5910",
         "logo": "https://www.mlbstatic.com/team-logos/121.svg",
-        "combined_rating": 1504.8
+        "combined_rating": 1504.7
       },
       "away": {
         "name": "San Francisco Giants",
@@ -131,10 +131,10 @@
         "primary": "#FD5A1E",
         "secondary": "#27251F",
         "logo": "https://www.mlbstatic.com/team-logos/137.svg",
-        "combined_rating": 1460.8
+        "combined_rating": 1465.3
       },
-      "elo_diff": 44.0,
-      "home_win_prob": 60.0
+      "elo_diff": 39.4,
+      "home_win_prob": 59.4
     },
     {
       "game_pk": 823823,
@@ -152,10 +152,10 @@
         "primary": "#0E3386",
         "secondary": "#CC3433",
         "logo": "https://www.mlbstatic.com/team-logos/112.svg",
-        "combined_rating": 1555.2
+        "combined_rating": 1557.7
       },
-      "elo_diff": -42.0,
-      "home_win_prob": 47.1
+      "elo_diff": -44.5,
+      "home_win_prob": 46.7
     },
     {
       "game_pk": 823904,
@@ -165,7 +165,7 @@
         "primary": "#005A9C",
         "secondary": "#EF3E42",
         "logo": "https://www.mlbstatic.com/team-logos/119.svg",
-        "combined_rating": 1545.6
+        "combined_rating": 1545.9
       },
       "away": {
         "name": "Washington Nationals",
@@ -173,10 +173,10 @@
         "primary": "#AB0003",
         "secondary": "#14225A",
         "logo": "https://www.mlbstatic.com/team-logos/120.svg",
-        "combined_rating": 1488.1
+        "combined_rating": 1492.3
       },
-      "elo_diff": 57.5,
-      "home_win_prob": 64.2
+      "elo_diff": 53.6,
+      "home_win_prob": 63.7
     },
     {
       "game_pk": 824066,
@@ -186,7 +186,7 @@
         "primary": "#004687",
         "secondary": "#BD9B60",
         "logo": "https://www.mlbstatic.com/team-logos/118.svg",
-        "combined_rating": 1493.0
+        "combined_rating": 1493.4
       },
       "away": {
         "name": "Toronto Blue Jays",
@@ -194,10 +194,10 @@
         "primary": "#134A8E",
         "secondary": "#E8291C",
         "logo": "https://www.mlbstatic.com/team-logos/141.svg",
-        "combined_rating": 1527.5
+        "combined_rating": 1529.7
       },
-      "elo_diff": -34.5,
-      "home_win_prob": 47.6
+      "elo_diff": -36.3,
+      "home_win_prob": 47.3
     },
     {
       "game_pk": 824145,
@@ -215,10 +215,10 @@
         "primary": "#A71930",
         "secondary": "#E3D4AD",
         "logo": "https://www.mlbstatic.com/team-logos/109.svg",
-        "combined_rating": 1519.9
+        "combined_rating": 1522.8
       },
-      "elo_diff": -22.8,
-      "home_win_prob": 52.0
+      "elo_diff": -25.7,
+      "home_win_prob": 51.6
     },
     {
       "game_pk": 824310,
@@ -236,9 +236,9 @@
         "primary": "#C41E3A",
         "secondary": "#0C2340",
         "logo": "https://www.mlbstatic.com/team-logos/138.svg",
-        "combined_rating": 1505.0
+        "combined_rating": 1505.3
       },
-      "elo_diff": -80.6,
+      "elo_diff": -80.9,
       "home_win_prob": 42.7
     },
     {
@@ -249,7 +249,7 @@
         "primary": "#00385D",
         "secondary": "#E50022",
         "logo": "https://www.mlbstatic.com/team-logos/114.svg",
-        "combined_rating": 1517.4
+        "combined_rating": 1517.7
       },
       "away": {
         "name": "Detroit Tigers",
@@ -257,10 +257,10 @@
         "primary": "#0C2340",
         "secondary": "#FA4616",
         "logo": "https://www.mlbstatic.com/team-logos/116.svg",
-        "combined_rating": 1496.0
+        "combined_rating": 1499.2
       },
-      "elo_diff": 21.4,
-      "home_win_prob": 56.0
+      "elo_diff": 18.5,
+      "home_win_prob": 55.6
     },
     {
       "game_pk": 824468,
@@ -270,7 +270,7 @@
         "primary": "#C6011F",
         "secondary": "#000000",
         "logo": "https://www.mlbstatic.com/team-logos/113.svg",
-        "combined_rating": 1485.7
+        "combined_rating": 1486.4
       },
       "away": {
         "name": "Milwaukee Brewers",
@@ -278,10 +278,10 @@
         "primary": "#12284B",
         "secondary": "#FFC52F",
         "logo": "https://www.mlbstatic.com/team-logos/158.svg",
-        "combined_rating": 1578.4
+        "combined_rating": 1580.3
       },
-      "elo_diff": -92.7,
-      "home_win_prob": 39.4
+      "elo_diff": -93.9,
+      "home_win_prob": 39.2
     },
     {
       "game_pk": 824553,
@@ -291,7 +291,7 @@
         "primary": "#27251F",
         "secondary": "#C4CED4",
         "logo": "https://www.mlbstatic.com/team-logos/145.svg",
-        "combined_rating": 1512.5
+        "combined_rating": 1513.0
       },
       "away": {
         "name": "Minnesota Twins",
@@ -299,10 +299,10 @@
         "primary": "#002B5C",
         "secondary": "#D31145",
         "logo": "https://www.mlbstatic.com/team-logos/142.svg",
-        "combined_rating": 1477.1
+        "combined_rating": 1480.9
       },
-      "elo_diff": 35.4,
-      "home_win_prob": 59.8
+      "elo_diff": 32.1,
+      "home_win_prob": 59.3
     },
     {
       "game_pk": 824795,
@@ -312,7 +312,7 @@
         "primary": "#DF4601",
         "secondary": "#000000",
         "logo": "https://www.mlbstatic.com/team-logos/110.svg",
-        "combined_rating": 1522.6
+        "combined_rating": 1522.8
       },
       "away": {
         "name": "Boston Red Sox",
@@ -320,10 +320,10 @@
         "primary": "#BD3039",
         "secondary": "#0C2340",
         "logo": "https://www.mlbstatic.com/team-logos/111.svg",
-        "combined_rating": 1559.2
+        "combined_rating": 1561.5
       },
-      "elo_diff": -36.6,
-      "home_win_prob": 44.6
+      "elo_diff": -38.7,
+      "home_win_prob": 44.3
     }
   ],
   "rankings": [
@@ -331,141 +331,141 @@
       "team": "Milwaukee Brewers",
       "abbr": "MIL",
       "combined_rank": 1,
-      "combined_power_rating": 1578.4,
+      "combined_power_rating": 1580.3,
       "elo_rank": 1,
-      "elo_rating": 1568.7,
+      "elo_rating": 1570.6,
       "home_adv": 17.9,
-      "avg_rotation_pitcher_rating": 1518.3
+      "avg_rotation_pitcher_rating": 1518.4
     },
     {
       "team": "Boston Red Sox",
       "abbr": "BOS",
       "combined_rank": 2,
-      "combined_power_rating": 1559.2,
+      "combined_power_rating": 1561.5,
       "elo_rank": 3,
-      "elo_rating": 1542.5,
+      "elo_rating": 1544.2,
       "home_adv": 18.5,
-      "avg_rotation_pitcher_rating": 1531.5
+      "avg_rotation_pitcher_rating": 1532.6
     },
     {
       "team": "Chicago Cubs",
       "abbr": "CHC",
       "combined_rank": 3,
-      "combined_power_rating": 1555.2,
+      "combined_power_rating": 1557.7,
       "elo_rank": 2,
-      "elo_rating": 1542.7,
+      "elo_rating": 1545.1,
       "home_adv": 16.2,
-      "avg_rotation_pitcher_rating": 1523.6
-    },
-    {
-      "team": "Philadelphia Phillies",
-      "abbr": "PHI",
-      "combined_rank": 4,
-      "combined_power_rating": 1554.1,
-      "elo_rank": 5,
-      "elo_rating": 1531.4,
-      "home_adv": 29.7,
-      "avg_rotation_pitcher_rating": 1542.8
+      "avg_rotation_pitcher_rating": 1523.8
     },
     {
       "team": "Atlanta Braves",
       "abbr": "ATL",
-      "combined_rank": 5,
-      "combined_power_rating": 1552.1,
+      "combined_rank": 4,
+      "combined_power_rating": 1555.7,
       "elo_rank": 4,
-      "elo_rating": 1532.3,
+      "elo_rating": 1535.6,
       "home_adv": 20.0,
-      "avg_rotation_pitcher_rating": 1537.3
+      "avg_rotation_pitcher_rating": 1537.9
+    },
+    {
+      "team": "Philadelphia Phillies",
+      "abbr": "PHI",
+      "combined_rank": 5,
+      "combined_power_rating": 1554.9,
+      "elo_rank": 6,
+      "elo_rating": 1531.4,
+      "home_adv": 29.7,
+      "avg_rotation_pitcher_rating": 1544.3
     },
     {
       "team": "New York Yankees",
       "abbr": "NYY",
       "combined_rank": 6,
-      "combined_power_rating": 1549.0,
-      "elo_rank": 7,
-      "elo_rating": 1529.0,
+      "combined_power_rating": 1551.8,
+      "elo_rank": 5,
+      "elo_rating": 1531.5,
       "home_adv": 31.8,
-      "avg_rotation_pitcher_rating": 1537.7
+      "avg_rotation_pitcher_rating": 1538.4
     },
     {
       "team": "Los Angeles Dodgers",
       "abbr": "LAD",
       "combined_rank": 7,
-      "combined_power_rating": 1545.6,
-      "elo_rank": 6,
+      "combined_power_rating": 1545.9,
+      "elo_rank": 7,
       "elo_rating": 1529.4,
       "home_adv": 43.9,
-      "avg_rotation_pitcher_rating": 1530.5
+      "avg_rotation_pitcher_rating": 1531.1
     },
     {
       "team": "Tampa Bay Rays",
       "abbr": "TB",
       "combined_rank": 8,
-      "combined_power_rating": 1531.6,
-      "elo_rank": 10,
-      "elo_rating": 1514.9,
+      "combined_power_rating": 1534.6,
+      "elo_rank": 9,
+      "elo_rating": 1517.4,
       "home_adv": 34.9,
-      "avg_rotation_pitcher_rating": 1531.6
+      "avg_rotation_pitcher_rating": 1532.5
     },
     {
       "team": "Toronto Blue Jays",
       "abbr": "TOR",
       "combined_rank": 9,
-      "combined_power_rating": 1527.5,
-      "elo_rank": 12,
-      "elo_rating": 1512.7,
+      "combined_power_rating": 1529.7,
+      "elo_rank": 11,
+      "elo_rating": 1514.7,
       "home_adv": 23.5,
-      "avg_rotation_pitcher_rating": 1528.0
+      "avg_rotation_pitcher_rating": 1528.4
     },
     {
       "team": "San Diego Padres",
       "abbr": "SD",
       "combined_rank": 10,
-      "combined_power_rating": 1525.5,
-      "elo_rank": 9,
+      "combined_power_rating": 1525.8,
+      "elo_rank": 10,
       "elo_rating": 1515.0,
       "home_adv": 25.7,
-      "avg_rotation_pitcher_rating": 1519.8
-    },
-    {
-      "team": "Baltimore Orioles",
-      "abbr": "BAL",
-      "combined_rank": 11,
-      "combined_power_rating": 1522.6,
-      "elo_rank": 11,
-      "elo_rating": 1513.5,
-      "home_adv": -1.2,
-      "avg_rotation_pitcher_rating": 1517.1
+      "avg_rotation_pitcher_rating": 1520.3
     },
     {
       "team": "Arizona Diamondbacks",
       "abbr": "ARI",
-      "combined_rank": 12,
-      "combined_power_rating": 1519.9,
+      "combined_rank": 11,
+      "combined_power_rating": 1522.8,
       "elo_rank": 8,
-      "elo_rating": 1516.8,
+      "elo_rating": 1519.5,
       "home_adv": 15.7,
-      "avg_rotation_pitcher_rating": 1505.8
+      "avg_rotation_pitcher_rating": 1506.2
+    },
+    {
+      "team": "Baltimore Orioles",
+      "abbr": "BAL",
+      "combined_rank": 12,
+      "combined_power_rating": 1522.8,
+      "elo_rank": 12,
+      "elo_rating": 1513.5,
+      "home_adv": -1.2,
+      "avg_rotation_pitcher_rating": 1517.6
     },
     {
       "team": "Cleveland Guardians",
       "abbr": "CLE",
       "combined_rank": 13,
-      "combined_power_rating": 1517.4,
+      "combined_power_rating": 1517.7,
       "elo_rank": 17,
       "elo_rating": 1500.2,
       "home_adv": 20.3,
-      "avg_rotation_pitcher_rating": 1532.4
+      "avg_rotation_pitcher_rating": 1533.1
     },
     {
       "team": "Pittsburgh Pirates",
       "abbr": "PIT",
       "combined_rank": 14,
-      "combined_power_rating": 1515.0,
+      "combined_power_rating": 1515.3,
       "elo_rank": 15,
       "elo_rating": 1506.0,
       "home_adv": 17.5,
-      "avg_rotation_pitcher_rating": 1517.0
+      "avg_rotation_pitcher_rating": 1517.6
     },
     {
       "team": "Miami Marlins",
@@ -481,71 +481,71 @@
       "team": "Chicago White Sox",
       "abbr": "CWS",
       "combined_rank": 16,
-      "combined_power_rating": 1512.5,
+      "combined_power_rating": 1513.0,
       "elo_rank": 13,
       "elo_rating": 1511.8,
       "home_adv": 33.5,
-      "avg_rotation_pitcher_rating": 1501.4
+      "avg_rotation_pitcher_rating": 1502.2
     },
     {
       "team": "St. Louis Cardinals",
       "abbr": "STL",
       "combined_rank": 17,
-      "combined_power_rating": 1505.0,
+      "combined_power_rating": 1505.3,
       "elo_rank": 16,
       "elo_rating": 1503.6,
       "home_adv": 20.4,
-      "avg_rotation_pitcher_rating": 1502.7
+      "avg_rotation_pitcher_rating": 1503.2
     },
     {
       "team": "New York Mets",
       "abbr": "NYM",
       "combined_rank": 18,
-      "combined_power_rating": 1504.8,
-      "elo_rank": 19,
+      "combined_power_rating": 1504.7,
+      "elo_rank": 20,
       "elo_rating": 1495.6,
       "home_adv": 26.5,
-      "avg_rotation_pitcher_rating": 1517.3
-    },
-    {
-      "team": "Houston Astros",
-      "abbr": "HOU",
-      "combined_rank": 19,
-      "combined_power_rating": 1497.1,
-      "elo_rank": 18,
-      "elo_rating": 1498.5,
-      "home_adv": 36.7,
-      "avg_rotation_pitcher_rating": 1497.3
+      "avg_rotation_pitcher_rating": 1517.1
     },
     {
       "team": "Detroit Tigers",
       "abbr": "DET",
-      "combined_rank": 20,
-      "combined_power_rating": 1496.0,
-      "elo_rank": 25,
-      "elo_rating": 1478.7,
+      "combined_rank": 19,
+      "combined_power_rating": 1499.2,
+      "elo_rank": 24,
+      "elo_rating": 1481.3,
       "home_adv": 19.8,
-      "avg_rotation_pitcher_rating": 1532.7
+      "avg_rotation_pitcher_rating": 1533.8
+    },
+    {
+      "team": "Houston Astros",
+      "abbr": "HOU",
+      "combined_rank": 20,
+      "combined_power_rating": 1497.1,
+      "elo_rank": 18,
+      "elo_rating": 1498.5,
+      "home_adv": 36.7,
+      "avg_rotation_pitcher_rating": 1497.4
     },
     {
       "team": "Kansas City Royals",
       "abbr": "KC",
       "combined_rank": 21,
-      "combined_power_rating": 1493.0,
+      "combined_power_rating": 1493.4,
       "elo_rank": 21,
       "elo_rating": 1486.5,
       "home_adv": 17.7,
-      "avg_rotation_pitcher_rating": 1512.2
+      "avg_rotation_pitcher_rating": 1513.0
     },
     {
       "team": "Texas Rangers",
       "abbr": "TEX",
       "combined_rank": 22,
-      "combined_power_rating": 1492.4,
-      "elo_rank": 22,
+      "combined_power_rating": 1493.1,
+      "elo_rank": 23,
       "elo_rating": 1485.9,
       "home_adv": 22.2,
-      "avg_rotation_pitcher_rating": 1512.2
+      "avg_rotation_pitcher_rating": 1513.5
     },
     {
       "team": "Seattle Mariners",
@@ -561,51 +561,51 @@
       "team": "Washington Nationals",
       "abbr": "WSH",
       "combined_rank": 24,
-      "combined_power_rating": 1488.1,
-      "elo_rank": 20,
-      "elo_rating": 1492.3,
+      "combined_power_rating": 1492.3,
+      "elo_rank": 19,
+      "elo_rating": 1496.1,
       "home_adv": 5.3,
-      "avg_rotation_pitcher_rating": 1492.0
+      "avg_rotation_pitcher_rating": 1492.9
     },
     {
       "team": "Cincinnati Reds",
       "abbr": "CIN",
       "combined_rank": 25,
-      "combined_power_rating": 1485.7,
-      "elo_rank": 24,
+      "combined_power_rating": 1486.4,
+      "elo_rank": 25,
       "elo_rating": 1480.2,
       "home_adv": 18.0,
-      "avg_rotation_pitcher_rating": 1510.3
+      "avg_rotation_pitcher_rating": 1511.7
     },
     {
       "team": "Minnesota Twins",
       "abbr": "MIN",
       "combined_rank": 26,
-      "combined_power_rating": 1477.1,
-      "elo_rank": 23,
-      "elo_rating": 1482.9,
+      "combined_power_rating": 1480.9,
+      "elo_rank": 22,
+      "elo_rating": 1486.3,
       "home_adv": 26.9,
-      "avg_rotation_pitcher_rating": 1489.0
+      "avg_rotation_pitcher_rating": 1489.9
     },
     {
       "team": "San Francisco Giants",
       "abbr": "SF",
       "combined_rank": 27,
-      "combined_power_rating": 1460.8,
+      "combined_power_rating": 1465.3,
       "elo_rank": 28,
-      "elo_rating": 1445.5,
+      "elo_rating": 1449.7,
       "home_adv": 34.6,
-      "avg_rotation_pitcher_rating": 1528.8
+      "avg_rotation_pitcher_rating": 1529.4
     },
     {
       "team": "Los Angeles Angels",
       "abbr": "LAA",
       "combined_rank": 28,
-      "combined_power_rating": 1445.7,
+      "combined_power_rating": 1449.4,
       "elo_rank": 27,
-      "elo_rating": 1450.9,
+      "elo_rating": 1454.5,
       "home_adv": 15.7,
-      "avg_rotation_pitcher_rating": 1490.1
+      "avg_rotation_pitcher_rating": 1490.3
     },
     {
       "team": "Athletics",
@@ -634,7 +634,7 @@
       "team": "Philadelphia Phillies",
       "abbr": "PHI",
       "pitcher": "Zack Wheeler",
-      "rating": 1630.5,
+      "rating": 1635.5,
       "opponent": "Atlanta Braves"
     },
     {
@@ -642,7 +642,7 @@
       "team": "Texas Rangers",
       "abbr": "TEX",
       "pitcher": "Jacob deGrom",
-      "rating": 1580.7,
+      "rating": 1585.2,
       "opponent": "Tampa Bay Rays"
     },
     {
@@ -650,7 +650,7 @@
       "team": "Los Angeles Dodgers",
       "abbr": "LAD",
       "pitcher": "Tyler Glasnow",
-      "rating": 1577.9,
+      "rating": 1581.9,
       "opponent": "Washington Nationals"
     },
     {
@@ -658,7 +658,7 @@
       "team": "Boston Red Sox",
       "abbr": "BOS",
       "pitcher": "Sonny Gray",
-      "rating": 1575.1,
+      "rating": 1579.5,
       "opponent": "Baltimore Orioles"
     },
     {
@@ -666,7 +666,7 @@
       "team": "New York Yankees",
       "abbr": "NYY",
       "pitcher": "Carlos Rod\u00f3n",
-      "rating": 1567.0,
+      "rating": 1571.6,
       "opponent": "San Diego Padres"
     },
     {
@@ -674,7 +674,7 @@
       "team": "Detroit Tigers",
       "abbr": "DET",
       "pitcher": "Framber Valdez",
-      "rating": 1566.3,
+      "rating": 1570.4,
       "opponent": "Cleveland Guardians"
     },
     {
@@ -682,7 +682,7 @@
       "team": "Tampa Bay Rays",
       "abbr": "TB",
       "pitcher": "Drew Rasmussen",
-      "rating": 1564.7,
+      "rating": 1568.5,
       "opponent": "Texas Rangers"
     },
     {
@@ -690,7 +690,7 @@
       "team": "San Diego Padres",
       "abbr": "SD",
       "pitcher": "Robbie Ray",
-      "rating": 1561.2,
+      "rating": 1566.2,
       "opponent": "New York Yankees"
     },
     {
@@ -706,7 +706,7 @@
       "team": "Cincinnati Reds",
       "abbr": "CIN",
       "pitcher": "Andrew Abbott",
-      "rating": 1542.9,
+      "rating": 1548.9,
       "opponent": "Milwaukee Brewers"
     },
     {
@@ -714,7 +714,7 @@
       "team": "Toronto Blue Jays",
       "abbr": "TOR",
       "pitcher": "Max Scherzer",
-      "rating": 1539.4,
+      "rating": 1543.0,
       "opponent": "Kansas City Royals"
     },
     {
@@ -722,7 +722,7 @@
       "team": "Cleveland Guardians",
       "abbr": "CLE",
       "pitcher": "Parker Messick",
-      "rating": 1537.4,
+      "rating": 1541.0,
       "opponent": "Detroit Tigers"
     },
     {
@@ -730,7 +730,7 @@
       "team": "Chicago Cubs",
       "abbr": "CHC",
       "pitcher": "Javier Assad",
-      "rating": 1529.3,
+      "rating": 1531.7,
       "opponent": "Miami Marlins"
     },
     {
@@ -738,7 +738,7 @@
       "team": "Pittsburgh Pirates",
       "abbr": "PIT",
       "pitcher": "Braxton Ashcraft",
-      "rating": 1524.5,
+      "rating": 1527.4,
       "opponent": "Los Angeles Angels"
     },
     {
@@ -746,7 +746,7 @@
       "team": "Atlanta Braves",
       "abbr": "ATL",
       "pitcher": "Mart\u00edn P\u00e9rez",
-      "rating": 1519.6,
+      "rating": 1524.5,
       "opponent": "Philadelphia Phillies"
     },
     {
@@ -754,7 +754,7 @@
       "team": "Baltimore Orioles",
       "abbr": "BAL",
       "pitcher": "Chris Bassitt",
-      "rating": 1518.8,
+      "rating": 1524.0,
       "opponent": "Boston Red Sox"
     },
     {
@@ -762,7 +762,7 @@
       "team": "Chicago White Sox",
       "abbr": "CWS",
       "pitcher": "Anthony Kay",
-      "rating": 1517.6,
+      "rating": 1521.3,
       "opponent": "Minnesota Twins"
     },
     {
@@ -770,7 +770,7 @@
       "team": "Milwaukee Brewers",
       "abbr": "MIL",
       "pitcher": "Dustin May",
-      "rating": 1510.7,
+      "rating": 1514.3,
       "opponent": "Cincinnati Reds"
     },
     {
@@ -778,11 +778,19 @@
       "team": "New York Mets",
       "abbr": "NYM",
       "pitcher": "Zac Thornton",
-      "rating": 1509.6,
+      "rating": 1506.8,
       "opponent": "San Francisco Giants"
     },
     {
       "rank": 20,
+      "team": "Houston Astros",
+      "abbr": "HOU",
+      "pitcher": "Ethan Pecko",
+      "rating": 1505.6,
+      "opponent": "Arizona Diamondbacks"
+    },
+    {
+      "rank": 21,
       "team": "Colorado Rockies",
       "abbr": "COL",
       "pitcher": "Mason Adams",
@@ -790,76 +798,68 @@
       "opponent": "St. Louis Cardinals"
     },
     {
-      "rank": 21,
-      "team": "Houston Astros",
-      "abbr": "HOU",
-      "pitcher": "Ethan Pecko",
-      "rating": 1501.0,
-      "opponent": "Arizona Diamondbacks"
-    },
-    {
       "rank": 22,
       "team": "Arizona Diamondbacks",
       "abbr": "ARI",
       "pitcher": "Brandon Pfaadt",
-      "rating": 1499.3,
+      "rating": 1503.6,
       "opponent": "Houston Astros"
     },
     {
       "rank": 23,
-      "team": "San Francisco Giants",
-      "abbr": "SF",
-      "pitcher": "Anthony Molina",
-      "rating": 1497.8,
-      "opponent": "New York Mets"
-    },
-    {
-      "rank": 24,
       "team": "Kansas City Royals",
       "abbr": "KC",
       "pitcher": "Seth Lugo",
-      "rating": 1495.8,
+      "rating": 1500.3,
       "opponent": "Toronto Blue Jays"
+    },
+    {
+      "rank": 24,
+      "team": "San Francisco Giants",
+      "abbr": "SF",
+      "pitcher": "Anthony Molina",
+      "rating": 1500.0,
+      "opponent": "New York Mets"
     },
     {
       "rank": 25,
       "team": "Washington Nationals",
       "abbr": "WSH",
       "pitcher": "Cade Cavalli",
-      "rating": 1492.3,
+      "rating": 1497.1,
       "opponent": "Los Angeles Dodgers"
     },
     {
       "rank": 26,
-      "team": "Miami Marlins",
-      "abbr": "MIA",
-      "pitcher": "Ryan Gusto",
-      "rating": 1486.4,
-      "opponent": "Chicago Cubs"
-    },
-    {
-      "rank": 27,
       "team": "Minnesota Twins",
       "abbr": "MIN",
       "pitcher": "Taj Bradley",
-      "rating": 1484.6,
+      "rating": 1489.1,
       "opponent": "Chicago White Sox"
     },
     {
+      "rank": 27,
+      "team": "Miami Marlins",
+      "abbr": "MIA",
+      "pitcher": "Ryan Gusto",
+      "rating": 1488.0,
+      "opponent": "Chicago Cubs"
+    },
+    {
       "rank": 28,
+      "team": "Los Angeles Angels",
+      "abbr": "LAA",
+      "pitcher": "Yusei Kikuchi",
+      "rating": 1472.8,
+      "opponent": "Pittsburgh Pirates"
+    },
+    {
+      "rank": 29,
       "team": "St. Louis Cardinals",
       "abbr": "STL",
       "pitcher": "Matthew Liberatore",
       "rating": 1468.6,
       "opponent": "Colorado Rockies"
-    },
-    {
-      "rank": 29,
-      "team": "Los Angeles Angels",
-      "abbr": "LAA",
-      "pitcher": "Yusei Kikuchi",
-      "rating": 1468.5,
-      "opponent": "Pittsburgh Pirates"
     },
     {
       "rank": 30,
