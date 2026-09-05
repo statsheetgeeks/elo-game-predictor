@@ -1,0 +1,16 @@
+as_of_date,game_pk,home_team,home_combined_rating,away_team,away_combined_rating,elo_diff,home_win_prob
+2026-09-05,822850,Texas Rangers,1492.4,Tampa Bay Rays,1531.6,-39.2,47.6
+2026-09-05,823094,Seattle Mariners,1492.4,Athletics,1431.6,60.8,62.5
+2026-09-05,823257,San Diego Padres,1525.5,New York Yankees,1549.0,-23.5,50.3
+2026-09-05,823335,Pittsburgh Pirates,1515.0,Los Angeles Angels,1445.7,69.3,62.2
+2026-09-05,823419,Philadelphia Phillies,1554.1,Atlanta Braves,1552.1,2.0,54.5
+2026-09-05,823577,New York Mets,1504.8,San Francisco Giants,1460.8,44.0,60.0
+2026-09-05,823823,Miami Marlins,1513.2,Chicago Cubs,1555.2,-42.0,47.1
+2026-09-05,823904,Los Angeles Dodgers,1545.6,Washington Nationals,1488.1,57.5,64.2
+2026-09-05,824066,Kansas City Royals,1493.0,Toronto Blue Jays,1527.5,-34.5,47.6
+2026-09-05,824145,Houston Astros,1497.1,Arizona Diamondbacks,1519.9,-22.8,52.0
+2026-09-05,824310,Colorado Rockies,1424.4,St. Louis Cardinals,1505.0,-80.6,42.7
+2026-09-05,824389,Cleveland Guardians,1517.4,Detroit Tigers,1496.0,21.4,56.0
+2026-09-05,824468,Cincinnati Reds,1485.7,Milwaukee Brewers,1578.4,-92.7,39.4
+2026-09-05,824553,Chicago White Sox,1512.5,Minnesota Twins,1477.1,35.4,59.8
+2026-09-05,824795,Baltimore Orioles,1522.6,Boston Red Sox,1559.2,-36.6,44.6
