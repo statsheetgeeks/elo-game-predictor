@@ -2139,18 +2139,18 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824468,2026-09-05,2026,Final,Cincinnati Reds,Milwaukee Brewers,5.0,3.0,Andrew Abbott,Dustin May
 824553,2026-09-05,2026,Final,Chicago White Sox,Minnesota Twins,4.0,6.0,Anthony Kay,Taj Bradley
 824795,2026-09-05,2026,Final,Baltimore Orioles,Boston Red Sox,0.0,5.0,Chris Bassitt,Sonny Gray
-822848,2026-09-06,2026,Preview,Texas Rangers,Tampa Bay Rays,0.0,0.0,MacKenzie Gore,Ian Seymour
-823091,2026-09-06,2026,Preview,Seattle Mariners,Athletics,,,Bryan Woo,Gage Jump
-823253,2026-09-06,2026,Preview,San Diego Padres,New York Yankees,,,Michael King,Gerrit Cole
-823336,2026-09-06,2026,Preview,Pittsburgh Pirates,Los Angeles Angels,0.0,0.0,Paul Skenes,Walbert Ureña
-823417,2026-09-06,2026,Preview,Philadelphia Phillies,Atlanta Braves,0.0,0.0,Aaron Nola,Tyler Mahle
-823578,2026-09-06,2026,Preview,New York Mets,San Francisco Giants,0.0,0.0,Christian Scott,Cesar Perdomo
-823822,2026-09-06,2026,Preview,Miami Marlins,Chicago Cubs,0.0,0.0,Tyler Phillips,Clay Holmes
+822848,2026-09-06,2026,Final,Texas Rangers,Tampa Bay Rays,8.0,6.0,MacKenzie Gore,Ian Seymour
+823091,2026-09-06,2026,Live,Seattle Mariners,Athletics,2.0,0.0,Bryan Woo,Gage Jump
+823253,2026-09-06,2026,Live,San Diego Padres,New York Yankees,3.0,0.0,Michael King,Gerrit Cole
+823336,2026-09-06,2026,Final,Pittsburgh Pirates,Los Angeles Angels,1.0,0.0,Paul Skenes,Walbert Ureña
+823417,2026-09-06,2026,Final,Philadelphia Phillies,Atlanta Braves,4.0,5.0,Aaron Nola,Tyler Mahle
+823578,2026-09-06,2026,Final,New York Mets,San Francisco Giants,4.0,2.0,Christian Scott,Cesar Perdomo
+823822,2026-09-06,2026,Final,Miami Marlins,Chicago Cubs,10.0,3.0,Tyler Phillips,Clay Holmes
 823903,2026-09-06,2026,Preview,Los Angeles Dodgers,Washington Nationals,,,Justin Wrobleski,Andrew Alvarez
-824065,2026-09-06,2026,Preview,Kansas City Royals,Toronto Blue Jays,0.0,0.0,Randy Dobnak,Spencer Arrighetti
-824142,2026-09-06,2026,Preview,Houston Astros,Arizona Diamondbacks,0.0,0.0,Peter Lambert,Eduardo Rodriguez
-824309,2026-09-06,2026,Preview,Colorado Rockies,St. Louis Cardinals,,,Tanner Gordon,Kyle Leahy
-824385,2026-09-06,2026,Preview,Cleveland Guardians,Detroit Tigers,0.0,0.0,Gavin Williams,Jackson Jobe
-824469,2026-09-06,2026,Live,Cincinnati Reds,Milwaukee Brewers,1.0,0.0,Brady Singer,Kyle Harrison
-824552,2026-09-06,2026,Preview,Chicago White Sox,Minnesota Twins,,,Bryan Hudson,Bailey Ober
-824794,2026-09-06,2026,Preview,Baltimore Orioles,Boston Red Sox,0.0,0.0,Kyle Bradish,Payton Tolle
+824065,2026-09-06,2026,Final,Kansas City Royals,Toronto Blue Jays,6.0,1.0,Randy Dobnak,Spencer Arrighetti
+824142,2026-09-06,2026,Final,Houston Astros,Arizona Diamondbacks,2.0,3.0,Peter Lambert,Eduardo Rodriguez
+824309,2026-09-06,2026,Live,Colorado Rockies,St. Louis Cardinals,6.0,10.0,Tanner Gordon,Kyle Leahy
+824385,2026-09-06,2026,Final,Cleveland Guardians,Detroit Tigers,3.0,2.0,Gavin Williams,Jackson Jobe
+824469,2026-09-06,2026,Final,Cincinnati Reds,Milwaukee Brewers,12.0,8.0,Brady Singer,Kyle Harrison
+824552,2026-09-06,2026,Preview,Chicago White Sox,Minnesota Twins,0.0,0.0,Bryan Hudson,Bailey Ober
+824794,2026-09-06,2026,Final,Baltimore Orioles,Boston Red Sox,1.0,3.0,Kyle Bradish,Payton Tolle
