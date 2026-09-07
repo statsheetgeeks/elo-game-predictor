@@ -15224,10 +15224,13 @@ date,season,game_pk,home_team,away_team,home_pitcher,away_pitcher,home_elo_pre,a
 2026-09-06,2026,824469,Cincinnati Reds,Milwaukee Brewers,Brady Singer,Kyle Harrison,1485.2,1565.3,-74.8,0.394,0.606,1489.3,1561.2,12,8,1
 2026-09-06,2026,824552,Chicago White Sox,Minnesota Twins,Bryan Hudson,Bailey Ober,1510.4,1486.7,62.3,0.5888,0.4112,1514.0,1483.1,10,1,1
 2026-09-06,2026,824794,Baltimore Orioles,Boston Red Sox,Kyle Bradish,Payton Tolle,1506.4,1545.2,-13.7,0.4803,0.5197,1503.7,1547.9,1,3,0
-2026-09-07,2026,823415,Philadelphia Phillies,Atlanta Braves,Jesús Luzardo,Grant Holmes,1527.3,1533.2,31.2,0.5447,0.4553,1524.5,1536.0,0,0,0
-2026-09-07,2026,823742,Milwaukee Brewers,Chicago Cubs,Robert Gasser,Matthew Boyd,1561.2,1540.5,31.1,0.5447,0.4553,1558.5,1543.3,0,0,0
-2026-09-07,2026,823820,Miami Marlins,New York Mets,Eury Pérez,Jonah Tong,1506.5,1495.6,37.9,0.5543,0.4457,1503.5,1498.6,4,5,0
-2026-09-07,2026,824062,Kansas City Royals,Arizona Diamondbacks,Noah Cameron,Derek Law,1481.7,1522.3,-22.7,0.4673,0.5327,1479.5,1524.4,0,0,0
-2026-09-07,2026,824229,Detroit Tigers,Minnesota Twins,Troy Melton,Joe Ryan,1480.6,1483.1,23.9,0.5343,0.4657,1477.9,1485.7,0,0,0
-2026-09-07,2026,824715,Boston Red Sox,Los Angeles Angels,Brayan Bello,Grayson Rodriguez,1547.9,1453.9,123.5,0.6706,0.3294,1549.8,1452.1,4,0,1
-2026-09-07,2026,824793,Baltimore Orioles,Cleveland Guardians,Trevor Rogers,Joey Cantillo,1503.7,1494.5,-8.1,0.4883,0.5117,1506.4,1491.8,1,0,1
+2026-09-07,2026,823175,San Francisco Giants,St. Louis Cardinals,Logan Webb,Michael McGreevy,1447.7,1502.5,25.5,0.5366,0.4634,1445.0,1505.2,0,0,0
+2026-09-07,2026,823254,San Diego Padres,Washington Nationals,Nick Pivetta,Jake Irvin,1517.6,1489.1,94.0,0.6321,0.3679,1519.6,1487.2,3,0,1
+2026-09-07,2026,823415,Philadelphia Phillies,Atlanta Braves,Jesús Luzardo,Grant Holmes,1527.3,1533.2,31.2,0.5447,0.4553,1529.5,1531.0,1,0,1
+2026-09-07,2026,823742,Milwaukee Brewers,Chicago Cubs,Robert Gasser,Matthew Boyd,1561.2,1540.5,31.1,0.5447,0.4553,1563.5,1538.3,4,3,1
+2026-09-07,2026,823820,Miami Marlins,New York Mets,Eury Pérez,Jonah Tong,1506.5,1495.6,37.9,0.5543,0.4457,1502.6,1499.5,4,9,0
+2026-09-07,2026,823902,Los Angeles Dodgers,Cincinnati Reds,Emmet Sheehan,Chase Burns,1526.8,1489.3,61.9,0.5881,0.4119,1523.7,1492.4,0,0,0
+2026-09-07,2026,824062,Kansas City Royals,Arizona Diamondbacks,Noah Cameron,Derek Law,1481.7,1522.3,-22.7,0.4673,0.5327,1479.3,1524.6,4,5,0
+2026-09-07,2026,824229,Detroit Tigers,Minnesota Twins,Troy Melton,Joe Ryan,1480.6,1483.1,23.9,0.5343,0.4657,1482.9,1480.7,5,4,1
+2026-09-07,2026,824715,Boston Red Sox,Los Angeles Angels,Brayan Bello,Grayson Rodriguez,1547.9,1453.9,123.5,0.6706,0.3294,1549.6,1452.3,5,2,1
+2026-09-07,2026,824793,Baltimore Orioles,Cleveland Guardians,Trevor Rogers,Joey Cantillo,1503.7,1494.5,-8.1,0.4883,0.5117,1506.6,1491.6,6,4,1
