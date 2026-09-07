@@ -1,0 +1,12 @@
+as_of_date,game_pk,home_team,home_combined_rating,away_team,away_combined_rating,elo_diff,home_win_prob
+2026-09-07,823175,San Francisco Giants,1462.9,St. Louis Cardinals,1502.7,-39.8,49.3
+2026-09-07,823254,San Diego Padres,1526.0,Washington Nationals,1484.7,41.3,59.5
+2026-09-07,823415,Philadelphia Phillies,1555.1,Atlanta Braves,1556.2,-1.1,54.1
+2026-09-07,823742,Milwaukee Brewers,1570.5,Chicago Cubs,1556.1,14.4,54.6
+2026-09-07,823820,Miami Marlins,1513.1,New York Mets,1507.3,5.8,53.9
+2026-09-07,823902,Los Angeles Dodgers,1545.6,Cincinnati Reds,1485.9,59.7,64.5
+2026-09-07,824062,Kansas City Royals,1493.5,Arizona Diamondbacks,1527.8,-34.3,47.6
+2026-09-07,824229,Detroit Tigers,1498.6,Minnesota Twins,1480.0,18.6,55.5
+2026-09-07,824715,Boston Red Sox,1565.3,Los Angeles Angels,1447.4,117.9,68.7
+2026-09-07,824793,Baltimore Orioles,1523.3,Cleveland Guardians,1509.3,14.0,51.8
+2026-09-07,824958,Athletics,1434.1,Toronto Blue Jays,1526.1,-92.0,39.8
