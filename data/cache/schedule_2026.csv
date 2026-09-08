@@ -2165,18 +2165,18 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824715,2026-09-07,2026,Final,Boston Red Sox,Los Angeles Angels,5.0,2.0,Brayan Bello,Grayson Rodriguez
 824793,2026-09-07,2026,Final,Baltimore Orioles,Cleveland Guardians,6.0,4.0,Trevor Rogers,Joey Cantillo
 824958,2026-09-07,2026,Final,Athletics,Toronto Blue Jays,6.0,5.0,Jacob Lopez,Dylan Cease
-823092,2026-09-08,2026,Preview,Seattle Mariners,Texas Rangers,,,,
+823092,2026-09-08,2026,Preview,Seattle Mariners,Texas Rangers,,,Bryce Miller,Cal Quantrill
 823174,2026-09-08,2026,Preview,San Francisco Giants,St. Louis Cardinals,,,Landen Roupp,Quinn Mathews
-823250,2026-09-08,2026,Preview,San Diego Padres,Washington Nationals,,,Casey Mize,Riley Cornelio
-823414,2026-09-08,2026,Preview,Philadelphia Phillies,Houston Astros,,,Andrew Painter,Hayden Wesneski
-823500,2026-09-08,2026,Preview,New York Yankees,Colorado Rockies,,,Cam Schlittler,Gabriel Hughes
-823738,2026-09-08,2026,Preview,Milwaukee Brewers,Chicago Cubs,,,Jacob Misiorowski,David Peterson
-823821,2026-09-08,2026,Preview,Miami Marlins,New York Mets,,,Sandy Alcantara,Sean Manaea
+823250,2026-09-08,2026,Preview,San Diego Padres,Washington Nationals,0.0,0.0,Casey Mize,Riley Cornelio
+823414,2026-09-08,2026,Preview,Philadelphia Phillies,Houston Astros,0.0,0.0,Andrew Painter,Hayden Wesneski
+823500,2026-09-08,2026,Preview,New York Yankees,Colorado Rockies,0.0,0.0,Cam Schlittler,Gabriel Hughes
+823738,2026-09-08,2026,Preview,Milwaukee Brewers,Chicago Cubs,0.0,0.0,Jacob Misiorowski,David Peterson
+823821,2026-09-08,2026,Preview,Miami Marlins,New York Mets,0.0,0.0,Sandy Alcantara,Sean Manaea
 823901,2026-09-08,2026,Preview,Los Angeles Dodgers,Cincinnati Reds,,,Tarik Skubal,Nick Lodolo
-824063,2026-09-08,2026,Preview,Kansas City Royals,Arizona Diamondbacks,,,Michael Wacha,Corbin Burnes
-824228,2026-09-08,2026,Preview,Detroit Tigers,Minnesota Twins,,,Drew Anderson,Dean Kremer
-824551,2026-09-08,2026,Preview,Chicago White Sox,Pittsburgh Pirates,,,Sean Burke,Bubba Chandler
-824714,2026-09-08,2026,Preview,Boston Red Sox,Los Angeles Angels,,,Patrick Sandoval,Reid Detmers
-824792,2026-09-08,2026,Preview,Baltimore Orioles,Cleveland Guardians,,,Brandon Young,Tanner Bibee
-824875,2026-09-08,2026,Preview,Atlanta Braves,Tampa Bay Rays,,,AJ Smith-Shawver,Freddy Peralta
+824063,2026-09-08,2026,Preview,Kansas City Royals,Arizona Diamondbacks,0.0,0.0,Michael Wacha,Corbin Burnes
+824228,2026-09-08,2026,Preview,Detroit Tigers,Minnesota Twins,0.0,0.0,Drew Anderson,Dean Kremer
+824551,2026-09-08,2026,Preview,Chicago White Sox,Pittsburgh Pirates,0.0,0.0,Sean Burke,Bubba Chandler
+824714,2026-09-08,2026,Preview,Boston Red Sox,Los Angeles Angels,0.0,0.0,Patrick Sandoval,Reid Detmers
+824792,2026-09-08,2026,Preview,Baltimore Orioles,Cleveland Guardians,0.0,0.0,Brandon Young,Tanner Bibee
+824875,2026-09-08,2026,Preview,Atlanta Braves,Tampa Bay Rays,0.0,0.0,AJ Smith-Shawver,Freddy Peralta
 824957,2026-09-08,2026,Preview,Athletics,Toronto Blue Jays,,,Jack Perkins,José Soriano

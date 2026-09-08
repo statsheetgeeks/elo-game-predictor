@@ -1,29 +1,31 @@
 as_of_date,rank,team,pitcher,rating,opponent
 2026-09-08,1,Los Angeles Dodgers,Tarik Skubal,1607.3,Cincinnati Reds
-2026-09-08,2,Arizona Diamondbacks,Corbin Burnes,1573.5,Kansas City Royals
-2026-09-08,3,Cleveland Guardians,Tanner Bibee,1564.9,Baltimore Orioles
-2026-09-08,4,Tampa Bay Rays,Freddy Peralta,1561.5,Atlanta Braves
-2026-09-08,5,Miami Marlins,Sandy Alcantara,1557.7,New York Mets
-2026-09-08,6,Kansas City Royals,Michael Wacha,1556.7,Arizona Diamondbacks
-2026-09-08,7,Milwaukee Brewers,Jacob Misiorowski,1542.7,Chicago Cubs
-2026-09-08,8,New York Yankees,Cam Schlittler,1538.6,Colorado Rockies
-2026-09-08,9,Chicago White Sox,Sean Burke,1519.2,Pittsburgh Pirates
-2026-09-08,10,San Diego Padres,Casey Mize,1516.8,Washington Nationals
-2026-09-08,11,San Francisco Giants,Landen Roupp,1511.5,St. Louis Cardinals
-2026-09-08,12,Cincinnati Reds,Nick Lodolo,1509.3,Los Angeles Dodgers
-2026-09-08,13,Pittsburgh Pirates,Bubba Chandler,1507.1,Chicago White Sox
-2026-09-08,14,Baltimore Orioles,Brandon Young,1504.7,Cleveland Guardians
-2026-09-08,15,Houston Astros,Hayden Wesneski,1502.5,Philadelphia Phillies
-2026-09-08,16,St. Louis Cardinals,Quinn Mathews,1500.8,San Francisco Giants
-2026-09-08,17,Atlanta Braves,AJ Smith-Shawver,1500.8,Tampa Bay Rays
-2026-09-08,18,Detroit Tigers,Drew Anderson,1497.6,Minnesota Twins
-2026-09-08,19,Los Angeles Angels,Reid Detmers,1491.8,Boston Red Sox
-2026-09-08,20,Chicago Cubs,David Peterson,1487.8,Milwaukee Brewers
-2026-09-08,21,Philadelphia Phillies,Andrew Painter,1487.3,Houston Astros
-2026-09-08,22,Colorado Rockies,Gabriel Hughes,1486.8,New York Yankees
-2026-09-08,23,Boston Red Sox,Patrick Sandoval,1483.9,Los Angeles Angels
-2026-09-08,24,Toronto Blue Jays,José Soriano,1482.5,Athletics
-2026-09-08,25,Minnesota Twins,Dean Kremer,1482.3,Detroit Tigers
-2026-09-08,26,Athletics,Jack Perkins,1477.7,Toronto Blue Jays
-2026-09-08,27,New York Mets,Sean Manaea,1473.2,Miami Marlins
-2026-09-08,28,Washington Nationals,Riley Cornelio,,San Diego Padres
+2026-09-08,2,Arizona Diamondbacks,Corbin Burnes,1577.1,Kansas City Royals
+2026-09-08,3,Cleveland Guardians,Tanner Bibee,1569.3,Baltimore Orioles
+2026-09-08,4,Tampa Bay Rays,Freddy Peralta,1566.5,Atlanta Braves
+2026-09-08,5,Miami Marlins,Sandy Alcantara,1561.8,New York Mets
+2026-09-08,6,Kansas City Royals,Michael Wacha,1561.5,Arizona Diamondbacks
+2026-09-08,7,Milwaukee Brewers,Jacob Misiorowski,1547.8,Chicago Cubs
+2026-09-08,8,New York Yankees,Cam Schlittler,1541.3,Colorado Rockies
+2026-09-08,9,Chicago White Sox,Sean Burke,1523.5,Pittsburgh Pirates
+2026-09-08,10,San Diego Padres,Casey Mize,1520.6,Washington Nationals
+2026-09-08,11,Pittsburgh Pirates,Bubba Chandler,1511.6,Chicago White Sox
+2026-09-08,12,San Francisco Giants,Landen Roupp,1511.5,St. Louis Cardinals
+2026-09-08,13,Cincinnati Reds,Nick Lodolo,1509.3,Los Angeles Dodgers
+2026-09-08,14,Baltimore Orioles,Brandon Young,1508.6,Cleveland Guardians
+2026-09-08,15,Houston Astros,Hayden Wesneski,1507.4,Philadelphia Phillies
+2026-09-08,16,Atlanta Braves,AJ Smith-Shawver,1505.4,Tampa Bay Rays
+2026-09-08,17,Washington Nationals,Riley Cornelio,1504.7,San Diego Padres
+2026-09-08,18,Detroit Tigers,Drew Anderson,1501.3,Minnesota Twins
+2026-09-08,19,St. Louis Cardinals,Quinn Mathews,1500.8,San Francisco Giants
+2026-09-08,20,Los Angeles Angels,Reid Detmers,1497.3,Boston Red Sox
+2026-09-08,21,Chicago Cubs,David Peterson,1493.7,Milwaukee Brewers
+2026-09-08,22,Colorado Rockies,Gabriel Hughes,1491.7,New York Yankees
+2026-09-08,23,Philadelphia Phillies,Andrew Painter,1491.4,Houston Astros
+2026-09-08,24,Boston Red Sox,Patrick Sandoval,1486.7,Los Angeles Angels
+2026-09-08,25,Minnesota Twins,Dean Kremer,1485.9,Detroit Tigers
+2026-09-08,26,Texas Rangers,Cal Quantrill,1482.9,Seattle Mariners
+2026-09-08,27,Toronto Blue Jays,José Soriano,1482.5,Athletics
+2026-09-08,28,Seattle Mariners,Bryce Miller,1482.2,Texas Rangers
+2026-09-08,29,Athletics,Jack Perkins,1477.7,Toronto Blue Jays
+2026-09-08,30,New York Mets,Sean Manaea,1477.4,Miami Marlins

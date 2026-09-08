@@ -1,16 +1,16 @@
 as_of_date,game_pk,home_team,home_combined_rating,away_team,away_combined_rating,elo_diff,home_win_prob
 2026-09-08,823092,Seattle Mariners,1492.5,Texas Rangers,1492.3,0.2,54.0
 2026-09-08,823174,San Francisco Giants,1463.1,St. Louis Cardinals,1500.1,-37.0,49.7
-2026-09-08,823250,San Diego Padres,1526.1,Washington Nationals,1483.3,42.8,59.7
-2026-09-08,823414,Philadelphia Phillies,1555.1,Houston Astros,1497.1,58.0,62.4
-2026-09-08,823500,New York Yankees,1550.1,Colorado Rockies,1424.3,125.8,71.2
-2026-09-08,823738,Milwaukee Brewers,1570.3,Chicago Cubs,1550.9,19.4,55.3
-2026-09-08,823821,Miami Marlins,1512.8,New York Mets,1508.2,4.6,53.7
+2026-09-08,823250,San Diego Padres,1526.2,Washington Nationals,1486.4,39.8,59.3
+2026-09-08,823414,Philadelphia Phillies,1555.2,Houston Astros,1502.4,52.8,61.7
+2026-09-08,823500,New York Yankees,1550.4,Colorado Rockies,1432.7,117.7,70.3
+2026-09-08,823738,Milwaukee Brewers,1570.9,Chicago Cubs,1554.2,16.7,55.0
+2026-09-08,823821,Miami Marlins,1513.4,New York Mets,1512.1,1.3,53.3
 2026-09-08,823901,Los Angeles Dodgers,1545.5,Cincinnati Reds,1492.6,52.9,63.6
-2026-09-08,824063,Kansas City Royals,1493.1,Arizona Diamondbacks,1528.0,-34.9,47.5
-2026-09-08,824228,Detroit Tigers,1498.4,Minnesota Twins,1474.6,23.8,56.2
-2026-09-08,824551,Chicago White Sox,1512.5,Pittsburgh Pirates,1515.2,-2.7,54.4
-2026-09-08,824714,Boston Red Sox,1565.3,Los Angeles Angels,1447.5,117.8,68.7
-2026-09-08,824792,Baltimore Orioles,1523.0,Cleveland Guardians,1508.6,14.4,51.9
-2026-09-08,824875,Atlanta Braves,1551.1,Tampa Bay Rays,1531.5,19.6,55.7
+2026-09-08,824063,Kansas City Royals,1493.8,Arizona Diamondbacks,1530.3,-36.5,47.3
+2026-09-08,824228,Detroit Tigers,1498.6,Minnesota Twins,1477.5,21.1,55.9
+2026-09-08,824551,Chicago White Sox,1513.0,Pittsburgh Pirates,1517.9,-4.9,54.1
+2026-09-08,824714,Boston Red Sox,1565.2,Los Angeles Angels,1451.7,113.5,68.1
+2026-09-08,824792,Baltimore Orioles,1523.4,Cleveland Guardians,1511.4,12.0,51.6
+2026-09-08,824875,Atlanta Braves,1551.0,Tampa Bay Rays,1534.2,16.8,55.3
 2026-09-08,824957,Athletics,1434.1,Toronto Blue Jays,1522.2,-88.1,40.4
