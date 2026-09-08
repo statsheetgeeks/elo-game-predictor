@@ -2154,14 +2154,29 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824469,2026-09-06,2026,Final,Cincinnati Reds,Milwaukee Brewers,12.0,8.0,Brady Singer,Kyle Harrison
 824552,2026-09-06,2026,Final,Chicago White Sox,Minnesota Twins,10.0,1.0,Bryan Hudson,Bailey Ober
 824794,2026-09-06,2026,Final,Baltimore Orioles,Boston Red Sox,1.0,3.0,Kyle Bradish,Payton Tolle
-823175,2026-09-07,2026,Preview,San Francisco Giants,St. Louis Cardinals,0.0,0.0,Logan Webb,Michael McGreevy
-823254,2026-09-07,2026,Live,San Diego Padres,Washington Nationals,3.0,0.0,Nick Pivetta,Jake Irvin
+823175,2026-09-07,2026,Final,San Francisco Giants,St. Louis Cardinals,5.0,4.0,Logan Webb,Michael McGreevy
+823254,2026-09-07,2026,Final,San Diego Padres,Washington Nationals,3.0,2.0,Nick Pivetta,Jake Irvin
 823415,2026-09-07,2026,Final,Philadelphia Phillies,Atlanta Braves,1.0,0.0,Jesús Luzardo,Grant Holmes
 823742,2026-09-07,2026,Final,Milwaukee Brewers,Chicago Cubs,4.0,3.0,Robert Gasser,Matthew Boyd
 823820,2026-09-07,2026,Final,Miami Marlins,New York Mets,4.0,9.0,Eury Pérez,Jonah Tong
-823902,2026-09-07,2026,Preview,Los Angeles Dodgers,Cincinnati Reds,0.0,0.0,Emmet Sheehan,Chase Burns
+823902,2026-09-07,2026,Final,Los Angeles Dodgers,Cincinnati Reds,6.0,3.0,Emmet Sheehan,Chase Burns
 824062,2026-09-07,2026,Final,Kansas City Royals,Arizona Diamondbacks,4.0,5.0,Noah Cameron,Derek Law
 824229,2026-09-07,2026,Final,Detroit Tigers,Minnesota Twins,5.0,4.0,Troy Melton,Joe Ryan
 824715,2026-09-07,2026,Final,Boston Red Sox,Los Angeles Angels,5.0,2.0,Brayan Bello,Grayson Rodriguez
 824793,2026-09-07,2026,Final,Baltimore Orioles,Cleveland Guardians,6.0,4.0,Trevor Rogers,Joey Cantillo
-824958,2026-09-07,2026,Preview,Athletics,Toronto Blue Jays,,,Jacob Lopez,Dylan Cease
+824958,2026-09-07,2026,Final,Athletics,Toronto Blue Jays,6.0,5.0,Jacob Lopez,Dylan Cease
+823092,2026-09-08,2026,Preview,Seattle Mariners,Texas Rangers,,,,
+823174,2026-09-08,2026,Preview,San Francisco Giants,St. Louis Cardinals,,,Landen Roupp,Quinn Mathews
+823250,2026-09-08,2026,Preview,San Diego Padres,Washington Nationals,,,Casey Mize,Riley Cornelio
+823414,2026-09-08,2026,Preview,Philadelphia Phillies,Houston Astros,,,Andrew Painter,Hayden Wesneski
+823500,2026-09-08,2026,Preview,New York Yankees,Colorado Rockies,,,Cam Schlittler,Gabriel Hughes
+823738,2026-09-08,2026,Preview,Milwaukee Brewers,Chicago Cubs,,,Jacob Misiorowski,David Peterson
+823821,2026-09-08,2026,Preview,Miami Marlins,New York Mets,,,Sandy Alcantara,Sean Manaea
+823901,2026-09-08,2026,Preview,Los Angeles Dodgers,Cincinnati Reds,,,Tarik Skubal,Nick Lodolo
+824063,2026-09-08,2026,Preview,Kansas City Royals,Arizona Diamondbacks,,,Michael Wacha,Corbin Burnes
+824228,2026-09-08,2026,Preview,Detroit Tigers,Minnesota Twins,,,Drew Anderson,Dean Kremer
+824551,2026-09-08,2026,Preview,Chicago White Sox,Pittsburgh Pirates,,,Sean Burke,Bubba Chandler
+824714,2026-09-08,2026,Preview,Boston Red Sox,Los Angeles Angels,,,Patrick Sandoval,Reid Detmers
+824792,2026-09-08,2026,Preview,Baltimore Orioles,Cleveland Guardians,,,Brandon Young,Tanner Bibee
+824875,2026-09-08,2026,Preview,Atlanta Braves,Tampa Bay Rays,,,AJ Smith-Shawver,Freddy Peralta
+824957,2026-09-08,2026,Preview,Athletics,Toronto Blue Jays,,,Jack Perkins,José Soriano
