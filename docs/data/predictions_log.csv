@@ -769,18 +769,18 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-09-08,824792,Baltimore Orioles,Cleveland Guardians,Baltimore Orioles,51.9,Baltimore Orioles,50-55%,Cleveland Guardians,False,False
 2026-09-08,824875,Atlanta Braves,Tampa Bay Rays,Atlanta Braves,55.7,Atlanta Braves,55-60%,Tampa Bay Rays,False,False
 2026-09-08,824957,Athletics,Toronto Blue Jays,Toronto Blue Jays,40.4,Toronto Blue Jays,40-45%,Toronto Blue Jays,True,True
-2026-09-09,823090,Seattle Mariners,Texas Rangers,Texas Rangers,53.2,Seattle Mariners,50-55%,,,
-2026-09-09,823172,San Francisco Giants,St. Louis Cardinals,St. Louis Cardinals,49.7,St. Louis Cardinals,45-50%,,,
-2026-09-09,823251,San Diego Padres,Washington Nationals,San Diego Padres,60.0,San Diego Padres,60-65%,,,
+2026-09-09,823090,Seattle Mariners,Texas Rangers,Texas Rangers,53.2,Seattle Mariners,50-55%,Seattle Mariners,False,True
+2026-09-09,823172,San Francisco Giants,St. Louis Cardinals,St. Louis Cardinals,49.7,St. Louis Cardinals,45-50%,St. Louis Cardinals,True,True
+2026-09-09,823251,San Diego Padres,Washington Nationals,San Diego Padres,60.0,San Diego Padres,60-65%,San Diego Padres,True,True
 2026-09-09,823416,Philadelphia Phillies,Houston Astros,Philadelphia Phillies,61.6,Philadelphia Phillies,60-65%,,,
 2026-09-09,823497,New York Yankees,Colorado Rockies,New York Yankees,70.9,New York Yankees,70-75%,,,
 2026-09-09,823739,Milwaukee Brewers,Chicago Cubs,Milwaukee Brewers,55.7,Milwaukee Brewers,55-60%,,,
 2026-09-09,823818,Miami Marlins,New York Mets,Miami Marlins,53.2,Miami Marlins,50-55%,,,
 2026-09-09,823900,Los Angeles Dodgers,Cincinnati Reds,Los Angeles Dodgers,63.8,Los Angeles Dodgers,60-65%,,,
 2026-09-09,824064,Kansas City Royals,Arizona Diamondbacks,Arizona Diamondbacks,47.2,Arizona Diamondbacks,45-50%,,,
-2026-09-09,824226,Detroit Tigers,Minnesota Twins,Detroit Tigers,55.4,Detroit Tigers,55-60%,,,
+2026-09-09,824226,Detroit Tigers,Minnesota Twins,Detroit Tigers,55.4,Detroit Tigers,55-60%,Detroit Tigers,True,True
 2026-09-09,824549,Chicago White Sox,Pittsburgh Pirates,Pittsburgh Pirates,53.8,Chicago White Sox,50-55%,,,
 2026-09-09,824713,Boston Red Sox,Los Angeles Angels,Boston Red Sox,68.0,Boston Red Sox,65-70%,,,
 2026-09-09,824791,Baltimore Orioles,Cleveland Guardians,Baltimore Orioles,51.4,Baltimore Orioles,50-55%,,,
 2026-09-09,824871,Atlanta Braves,Tampa Bay Rays,Atlanta Braves,55.1,Atlanta Braves,55-60%,,,
-2026-09-09,824956,Athletics,Toronto Blue Jays,Toronto Blue Jays,39.8,Toronto Blue Jays,35-40%,,,
+2026-09-09,824956,Athletics,Toronto Blue Jays,Toronto Blue Jays,39.8,Toronto Blue Jays,35-40%,Athletics,False,False
