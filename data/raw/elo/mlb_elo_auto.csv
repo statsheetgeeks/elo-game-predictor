@@ -15235,14 +15235,21 @@ date,season,game_pk,home_team,away_team,home_pitcher,away_pitcher,home_elo_pre,a
 2026-09-07,2026,824715,Boston Red Sox,Los Angeles Angels,Brayan Bello,Grayson Rodriguez,1547.9,1453.9,123.5,0.6706,0.3294,1549.6,1452.3,5,2,1
 2026-09-07,2026,824793,Baltimore Orioles,Cleveland Guardians,Trevor Rogers,Joey Cantillo,1503.7,1494.5,-8.1,0.4883,0.5117,1506.6,1491.6,6,4,1
 2026-09-07,2026,824958,Athletics,Toronto Blue Jays,Jacob Lopez,Dylan Cease,1443.3,1511.4,-99.5,0.3606,0.6394,1447.0,1507.6,6,5,1
-2026-09-08,2026,823250,San Diego Padres,Washington Nationals,Casey Mize,Riley Cornelio,1519.1,1487.6,66.1,0.594,0.406,1516.0,1490.7,0,0,0
-2026-09-08,2026,823414,Philadelphia Phillies,Houston Astros,Andrew Painter,Hayden Wesneski,1529.5,1500.8,50.4,0.572,0.428,1526.6,1503.7,0,0,0
-2026-09-08,2026,823500,New York Yankees,Colorado Rockies,Cam Schlittler,Gabriel Hughes,1529.5,1444.4,144.4,0.6966,0.3034,1525.5,1448.4,0,0,0
-2026-09-08,2026,823738,Milwaukee Brewers,Chicago Cubs,Jacob Misiorowski,David Peterson,1563.5,1538.3,72.1,0.6023,0.3977,1560.3,1541.5,0,0,0
-2026-09-08,2026,823821,Miami Marlins,New York Mets,Sandy Alcantara,Sean Manaea,1502.6,1499.5,69.4,0.5986,0.4014,1499.4,1502.7,0,0,0
-2026-09-08,2026,824063,Kansas City Royals,Arizona Diamondbacks,Michael Wacha,Corbin Burnes,1479.3,1524.6,-36.5,0.4476,0.5524,1477.3,1526.6,0,0,0
-2026-09-08,2026,824228,Detroit Tigers,Minnesota Twins,Drew Anderson,Dean Kremer,1482.9,1480.7,30.1,0.5432,0.4568,1480.2,1483.5,0,0,0
-2026-09-08,2026,824551,Chicago White Sox,Pittsburgh Pirates,Sean Burke,Bubba Chandler,1514.0,1505.3,48.6,0.5694,0.4306,1511.1,1508.3,0,0,0
-2026-09-08,2026,824714,Boston Red Sox,Los Angeles Angels,Patrick Sandoval,Reid Detmers,1549.6,1452.3,111.5,0.6552,0.3448,1545.9,1455.9,0,0,0
-2026-09-08,2026,824792,Baltimore Orioles,Cleveland Guardians,Brandon Young,Tanner Bibee,1506.6,1491.6,-18.0,0.4741,0.5259,1504.5,1493.8,0,0,0
-2026-09-08,2026,824875,Atlanta Braves,Tampa Bay Rays,AJ Smith-Shawver,Freddy Peralta,1531.0,1514.9,4.0,0.5057,0.4943,1528.5,1517.3,0,0,0
+2026-09-08,2026,823092,Seattle Mariners,Texas Rangers,Bryce Miller,Cal Quantrill,1462.1,1487.9,1.4,0.5021,0.4979,1458.6,1491.4,5,10,0
+2026-09-08,2026,823174,San Francisco Giants,St. Louis Cardinals,Landen Roupp,Quinn Mathews,1450.0,1500.2,-9.9,0.4858,0.5142,1452.8,1497.5,2,1,1
+2026-09-08,2026,823250,San Diego Padres,Washington Nationals,Casey Mize,Riley Cornelio,1519.1,1487.6,66.1,0.594,0.406,1521.0,1485.7,5,4,1
+2026-09-08,2026,823414,Philadelphia Phillies,Houston Astros,Andrew Painter,Hayden Wesneski,1529.5,1500.8,50.4,0.572,0.428,1526.4,1504.0,5,6,0
+2026-09-08,2026,823500,New York Yankees,Colorado Rockies,Cam Schlittler,Gabriel Hughes,1529.5,1444.4,144.4,0.6966,0.3034,1530.7,1443.2,5,3,1
+2026-09-08,2026,823738,Milwaukee Brewers,Chicago Cubs,Jacob Misiorowski,David Peterson,1563.5,1538.3,72.1,0.6023,0.3977,1565.3,1536.5,4,3,1
+2026-09-08,2026,823821,Miami Marlins,New York Mets,Sandy Alcantara,Sean Manaea,1502.6,1499.5,69.4,0.5986,0.4014,1499.0,1503.1,5,7,0
+2026-09-08,2026,823901,Los Angeles Dodgers,Cincinnati Reds,Tarik Skubal,Nick Lodolo,1529.2,1486.9,138.1,0.6889,0.3111,1530.3,1485.8,3,2,1
+2026-09-08,2026,824063,Kansas City Royals,Arizona Diamondbacks,Michael Wacha,Corbin Burnes,1479.3,1524.6,-36.5,0.4476,0.5524,1476.9,1527.0,3,5,0
+2026-09-08,2026,824228,Detroit Tigers,Minnesota Twins,Drew Anderson,Dean Kremer,1482.9,1480.7,30.1,0.5432,0.4568,1480.0,1483.7,2,3,0
+2026-09-08,2026,824551,Chicago White Sox,Pittsburgh Pirates,Sean Burke,Bubba Chandler,1514.0,1505.3,48.6,0.5694,0.4306,1509.8,1509.6,3,9,0
+2026-09-08,2026,824714,Boston Red Sox,Los Angeles Angels,Patrick Sandoval,Reid Detmers,1549.6,1452.3,111.5,0.6552,0.3448,1544.8,1457.0,1,6,0
+2026-09-08,2026,824792,Baltimore Orioles,Cleveland Guardians,Brandon Young,Tanner Bibee,1506.6,1491.6,-18.0,0.4741,0.5259,1503.6,1494.6,5,9,0
+2026-09-08,2026,824875,Atlanta Braves,Tampa Bay Rays,AJ Smith-Shawver,Freddy Peralta,1531.0,1514.9,4.0,0.5057,0.4943,1527.3,1518.6,1,7,0
+2026-09-08,2026,824957,Athletics,Toronto Blue Jays,Jack Perkins,José Soriano,1447.0,1507.6,-42.8,0.4387,0.5613,1444.7,1510.0,2,4,0
+2026-09-09,2026,823172,San Francisco Giants,St. Louis Cardinals,Blade Tidwell,Andre Pallante,1452.8,1497.5,-34.4,0.4507,0.5493,1450.8,1499.5,0,0,0
+2026-09-09,2026,824226,Detroit Tigers,Minnesota Twins,Keider Montero,Zebby Matthews,1480.0,1483.7,48.1,0.5688,0.4312,1477.0,1486.6,0,0,0
+2026-09-09,2026,824956,Athletics,Toronto Blue Jays,Brady Basso,Braydon Fisher,1444.7,1510.0,-54.7,0.4219,0.5781,1442.9,1511.7,0,0,0

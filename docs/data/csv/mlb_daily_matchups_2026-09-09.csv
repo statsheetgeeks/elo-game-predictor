@@ -1,0 +1,16 @@
+as_of_date,game_pk,home_team,home_combined_rating,away_team,away_combined_rating,elo_diff,home_win_prob
+2026-09-09,823090,Seattle Mariners,1491.9,Texas Rangers,1497.5,-5.6,53.2
+2026-09-09,823172,San Francisco Giants,1463.3,St. Louis Cardinals,1499.8,-36.5,49.7
+2026-09-09,823251,San Diego Padres,1526.1,Washington Nationals,1481.4,44.7,60.0
+2026-09-09,823416,Philadelphia Phillies,1554.8,Houston Astros,1502.6,52.2,61.6
+2026-09-09,823497,New York Yankees,1550.1,Colorado Rockies,1427.4,122.7,70.9
+2026-09-09,823739,Milwaukee Brewers,1570.6,Chicago Cubs,1549.0,21.6,55.7
+2026-09-09,823818,Miami Marlins,1512.7,New York Mets,1512.1,0.6,53.2
+2026-09-09,823900,Los Angeles Dodgers,1545.8,Cincinnati Reds,1491.6,54.2,63.8
+2026-09-09,824064,Kansas City Royals,1493.2,Arizona Diamondbacks,1530.7,-37.5,47.2
+2026-09-09,824226,Detroit Tigers,1498.7,Minnesota Twins,1480.7,18.0,55.4
+2026-09-09,824549,Chicago White Sox,1512.2,Pittsburgh Pirates,1518.9,-6.7,53.8
+2026-09-09,824713,Boston Red Sox,1565.0,Los Angeles Angels,1452.8,112.2,68.0
+2026-09-09,824791,Baltimore Orioles,1522.6,Cleveland Guardians,1511.7,10.9,51.4
+2026-09-09,824871,Atlanta Braves,1550.9,Tampa Bay Rays,1535.5,15.4,55.1
+2026-09-09,824956,Athletics,1434.2,Toronto Blue Jays,1526.2,-92.0,39.8
