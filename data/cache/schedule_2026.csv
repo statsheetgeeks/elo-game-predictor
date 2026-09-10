@@ -2195,8 +2195,8 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824791,2026-09-09,2026,Final,Baltimore Orioles,Cleveland Guardians,9.0,5.0,Shane Baz,Foster Griffin
 824871,2026-09-09,2026,Final,Atlanta Braves,Tampa Bay Rays,2.0,7.0,Reynaldo López,Griffin Jax
 824956,2026-09-09,2026,Final,Athletics,Toronto Blue Jays,2.0,0.0,Brady Basso,Braydon Fisher
-823088,2026-09-10,2026,Preview,Seattle Mariners,Texas Rangers,,,Logan Gilbert,Jacob deGrom
-823413,2026-09-10,2026,Live,Philadelphia Phillies,Houston Astros,0.0,0.0,Zack Wheeler,Cristian Javier
-823499,2026-09-10,2026,Preview,New York Yankees,Colorado Rockies,,,Max Fried,Ryan Feltner
-824550,2026-09-10,2026,Preview,Chicago White Sox,Pittsburgh Pirates,,,Hagen Smith,Jared Jones
-824872,2026-09-10,2026,Live,Atlanta Braves,Tampa Bay Rays,0.0,0.0,Martín Pérez,Nick Martinez
+823088,2026-09-10,2026,Live,Seattle Mariners,Texas Rangers,1.0,3.0,Logan Gilbert,Jacob deGrom
+823413,2026-09-10,2026,Final,Philadelphia Phillies,Houston Astros,1.0,2.0,Zack Wheeler,Cristian Javier
+823499,2026-09-10,2026,Preview,New York Yankees,Colorado Rockies,0.0,0.0,Max Fried,Ryan Feltner
+824550,2026-09-10,2026,Preview,Chicago White Sox,Pittsburgh Pirates,0.0,0.0,Hagen Smith,Jared Jones
+824872,2026-09-10,2026,Final,Atlanta Braves,Tampa Bay Rays,3.0,1.0,Martín Pérez,Nick Martinez

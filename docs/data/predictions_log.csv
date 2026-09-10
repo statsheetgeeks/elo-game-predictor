@@ -784,8 +784,8 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-09-09,824791,Baltimore Orioles,Cleveland Guardians,Baltimore Orioles,51.4,Baltimore Orioles,50-55%,Baltimore Orioles,True,True
 2026-09-09,824871,Atlanta Braves,Tampa Bay Rays,Atlanta Braves,55.1,Atlanta Braves,55-60%,Tampa Bay Rays,False,False
 2026-09-09,824956,Athletics,Toronto Blue Jays,Toronto Blue Jays,39.8,Toronto Blue Jays,35-40%,Athletics,False,False
-2026-09-10,823088,Seattle Mariners,Texas Rangers,Texas Rangers,53.5,Seattle Mariners,50-55%,,,
-2026-09-10,823413,Philadelphia Phillies,Houston Astros,Philadelphia Phillies,61.5,Philadelphia Phillies,60-65%,,,
+2026-09-10,823088,Seattle Mariners,Texas Rangers,Texas Rangers,53.5,Seattle Mariners,50-55%,Texas Rangers,True,False
+2026-09-10,823413,Philadelphia Phillies,Houston Astros,Philadelphia Phillies,61.5,Philadelphia Phillies,60-65%,Houston Astros,False,False
 2026-09-10,823499,New York Yankees,Colorado Rockies,New York Yankees,71.1,New York Yankees,70-75%,,,
 2026-09-10,824550,Chicago White Sox,Pittsburgh Pirates,Pittsburgh Pirates,53.4,Chicago White Sox,50-55%,,,
-2026-09-10,824872,Atlanta Braves,Tampa Bay Rays,Atlanta Braves,54.1,Atlanta Braves,50-55%,,,
+2026-09-10,824872,Atlanta Braves,Tampa Bay Rays,Atlanta Braves,54.1,Atlanta Braves,50-55%,Atlanta Braves,True,True
