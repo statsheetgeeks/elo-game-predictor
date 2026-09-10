@@ -1,13 +1,13 @@
 {
   "combined_elo_record": {
-    "wins": 424,
-    "losses": 351,
-    "pct": 54.7
+    "wins": 430,
+    "losses": 355,
+    "pct": 54.8
   },
   "home_prob_record": {
-    "wins": 420,
-    "losses": 355,
-    "pct": 54.2
+    "wins": 425,
+    "losses": 360,
+    "pct": 54.1
   },
   "calibration": [
     {
@@ -86,49 +86,49 @@
       "bucket": "45-50%",
       "range_low": 45,
       "range_high": 50,
-      "n_games": 161,
+      "n_games": 162,
       "avg_predicted_home_win_pct": 47.8,
-      "observed_home_win_pct": 50.9
+      "observed_home_win_pct": 51.2
     },
     {
       "bucket": "50-55%",
       "range_low": 50,
       "range_high": 55,
-      "n_games": 174,
+      "n_games": 177,
       "avg_predicted_home_win_pct": 52.4,
-      "observed_home_win_pct": 48.3
+      "observed_home_win_pct": 48.0
     },
     {
       "bucket": "55-60%",
       "range_low": 55,
       "range_high": 60,
-      "n_games": 211,
+      "n_games": 213,
       "avg_predicted_home_win_pct": 57.4,
-      "observed_home_win_pct": 60.2
+      "observed_home_win_pct": 60.1
     },
     {
       "bucket": "60-65%",
       "range_low": 60,
       "range_high": 65,
-      "n_games": 101,
+      "n_games": 103,
       "avg_predicted_home_win_pct": 62.1,
-      "observed_home_win_pct": 57.4
+      "observed_home_win_pct": 58.3
     },
     {
       "bucket": "65-70%",
       "range_low": 65,
       "range_high": 70,
-      "n_games": 21,
-      "avg_predicted_home_win_pct": 66.8,
-      "observed_home_win_pct": 52.4
+      "n_games": 22,
+      "avg_predicted_home_win_pct": 66.9,
+      "observed_home_win_pct": 50.0
     },
     {
       "bucket": "70-75%",
       "range_low": 70,
       "range_high": 75,
-      "n_games": 7,
+      "n_games": 8,
       "avg_predicted_home_win_pct": 71.1,
-      "observed_home_win_pct": 57.1
+      "observed_home_win_pct": 62.5
     },
     {
       "bucket": "75-80%",
@@ -171,7 +171,7 @@
       "observed_home_win_pct": null
     }
   ],
-  "n_resolved": 775,
-  "n_pending": 10,
-  "generated_at": "2026-09-09"
+  "n_resolved": 785,
+  "n_pending": 5,
+  "generated_at": "2026-09-10"
 }
