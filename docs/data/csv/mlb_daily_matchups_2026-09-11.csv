@@ -1,0 +1,16 @@
+as_of_date,game_pk,home_team,home_combined_rating,away_team,away_combined_rating,elo_diff,home_win_prob
+2026-09-11,822684,Washington Nationals,1478.1,Los Angeles Angels,1456.9,21.2,53.8
+2026-09-11,822767,Toronto Blue Jays,1520.9,Baltimore Orioles,1522.6,-1.7,53.1
+2026-09-11,822930,Tampa Bay Rays,1537.1,Houston Astros,1504.2,32.9,59.6
+2026-09-11,823012,St. Louis Cardinals,1494.2,Chicago White Sox,1512.3,-18.1,50.3
+2026-09-11,823173,San Francisco Giants,1463.2,San Diego Padres,1526.4,-63.2,45.9
+2026-09-11,823498,New York Yankees,1550.3,New York Mets,1514.6,35.7,59.6
+2026-09-11,823659,Minnesota Twins,1474.4,Cleveland Guardians,1508.6,-34.2,48.9
+2026-09-11,823736,Milwaukee Brewers,1570.7,Cincinnati Reds,1487.2,83.5,64.2
+2026-09-11,823817,Miami Marlins,1512.0,Los Angeles Dodgers,1546.2,-34.2,48.2
+2026-09-11,824227,Detroit Tigers,1498.6,Colorado Rockies,1423.1,75.5,63.4
+2026-09-11,824631,Chicago Cubs,1547.2,Pittsburgh Pirates,1528.5,18.7,55.0
+2026-09-11,824711,Boston Red Sox,1564.7,Kansas City Royals,1493.3,71.4,62.7
+2026-09-11,824873,Atlanta Braves,1551.1,Philadelphia Phillies,1555.2,-4.1,52.3
+2026-09-11,824954,Athletics,1434.2,Seattle Mariners,1492.2,-58.0,44.6
+2026-09-11,825036,Arizona Diamondbacks,1527.2,Texas Rangers,1492.6,34.6,57.2
