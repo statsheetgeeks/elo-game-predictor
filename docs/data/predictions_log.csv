@@ -799,7 +799,7 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-09-11,823736,Milwaukee Brewers,Cincinnati Reds,Milwaukee Brewers,64.2,Milwaukee Brewers,60-65%,,,
 2026-09-11,823817,Miami Marlins,Los Angeles Dodgers,Los Angeles Dodgers,48.2,Los Angeles Dodgers,45-50%,,,
 2026-09-11,824227,Detroit Tigers,Colorado Rockies,Detroit Tigers,63.4,Detroit Tigers,60-65%,,,
-2026-09-11,824631,Chicago Cubs,Pittsburgh Pirates,Chicago Cubs,55.0,Chicago Cubs,55-60%,,,
+2026-09-11,824631,Chicago Cubs,Pittsburgh Pirates,Chicago Cubs,55.0,Chicago Cubs,55-60%,Chicago Cubs,True,True
 2026-09-11,824711,Boston Red Sox,Kansas City Royals,Boston Red Sox,62.7,Boston Red Sox,60-65%,,,
 2026-09-11,824873,Atlanta Braves,Philadelphia Phillies,Philadelphia Phillies,52.3,Atlanta Braves,50-55%,,,
 2026-09-11,824954,Athletics,Seattle Mariners,Seattle Mariners,44.6,Seattle Mariners,40-45%,,,
