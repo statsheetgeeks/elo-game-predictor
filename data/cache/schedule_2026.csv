@@ -2215,18 +2215,18 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824873,2026-09-11,2026,Final,Atlanta Braves,Philadelphia Phillies,6.0,5.0,Chris Sale,Aaron Nola
 824954,2026-09-11,2026,Final,Athletics,Seattle Mariners,6.0,5.0,Jeffrey Springs,George Kirby
 825036,2026-09-11,2026,Final,Arizona Diamondbacks,Texas Rangers,9.0,1.0,Merrill Kelly,MacKenzie Gore
-822685,2026-09-12,2026,Preview,Washington Nationals,Los Angeles Angels,,,Andrew Alvarez,Walbert Ureña
-822768,2026-09-12,2026,Preview,Toronto Blue Jays,Baltimore Orioles,0.0,0.0,Spencer Miles,Kyle Bradish
-822927,2026-09-12,2026,Preview,Tampa Bay Rays,Houston Astros,,,Ian Seymour,Peter Lambert
-823009,2026-09-12,2026,Preview,St. Louis Cardinals,Chicago White Sox,,,Kyle Leahy,Sean Newcomb
-823170,2026-09-12,2026,Preview,San Francisco Giants,San Diego Padres,,,Cesar Perdomo,Michael King
-823496,2026-09-12,2026,Preview,New York Yankees,New York Mets,0.0,0.0,Gerrit Cole,Zac Thornton
-823657,2026-09-12,2026,Preview,Minnesota Twins,Cleveland Guardians,,,Connor Prielipp,Daniel Espino
-823737,2026-09-12,2026,Preview,Milwaukee Brewers,Cincinnati Reds,,,,Brady Singer
-823819,2026-09-12,2026,Preview,Miami Marlins,Los Angeles Dodgers,,,Tyler Phillips,Tyler Glasnow
-824224,2026-09-12,2026,Preview,Detroit Tigers,Colorado Rockies,0.0,0.0,Andrew Sears,Tanner Gordon
-824630,2026-09-12,2026,Preview,Chicago Cubs,Pittsburgh Pirates,0.0,0.0,Clay Holmes,Paul Skenes
-824712,2026-09-12,2026,Preview,Boston Red Sox,Kansas City Royals,0.0,0.0,Ranger Suarez,Randy Dobnak
-824870,2026-09-12,2026,Preview,Atlanta Braves,Philadelphia Phillies,,,Tyler Mahle,
+822685,2026-09-12,2026,Live,Washington Nationals,Los Angeles Angels,4.0,0.0,Andrew Alvarez,Walbert Ureña
+822768,2026-09-12,2026,Live,Toronto Blue Jays,Baltimore Orioles,7.0,3.0,Spencer Miles,Kyle Bradish
+822927,2026-09-12,2026,Preview,Tampa Bay Rays,Houston Astros,0.0,0.0,Ian Seymour,Peter Lambert
+823009,2026-09-12,2026,Preview,St. Louis Cardinals,Chicago White Sox,0.0,0.0,Kyle Leahy,Sean Newcomb
+823170,2026-09-12,2026,Live,San Francisco Giants,San Diego Padres,3.0,6.0,Cesar Perdomo,Michael King
+823496,2026-09-12,2026,Final,New York Yankees,New York Mets,2.0,12.0,Gerrit Cole,Zac Thornton
+823657,2026-09-12,2026,Live,Minnesota Twins,Cleveland Guardians,4.0,3.0,Connor Prielipp,Daniel Espino
+823737,2026-09-12,2026,Preview,Milwaukee Brewers,Cincinnati Reds,0.0,0.0,Shane Drohan,Brady Singer
+823819,2026-09-12,2026,Live,Miami Marlins,Los Angeles Dodgers,3.0,2.0,Tyler Phillips,Tyler Glasnow
+824224,2026-09-12,2026,Final,Detroit Tigers,Colorado Rockies,11.0,7.0,Andrew Sears,Tanner Gordon
+824630,2026-09-12,2026,Final,Chicago Cubs,Pittsburgh Pirates,4.0,3.0,Clay Holmes,Paul Skenes
+824712,2026-09-12,2026,Live,Boston Red Sox,Kansas City Royals,3.0,1.0,Ranger Suarez,Randy Dobnak
+824870,2026-09-12,2026,Preview,Atlanta Braves,Philadelphia Phillies,0.0,0.0,Tyler Mahle,Tim Mayza
 824955,2026-09-12,2026,Preview,Athletics,Seattle Mariners,,,Gage Jump,Bryan Woo
-825035,2026-09-12,2026,Preview,Arizona Diamondbacks,Texas Rangers,,,Brandon Pfaadt,Kumar Rocker
+825035,2026-09-12,2026,Preview,Arizona Diamondbacks,Texas Rangers,0.0,0.0,Brandon Pfaadt,Kumar Rocker

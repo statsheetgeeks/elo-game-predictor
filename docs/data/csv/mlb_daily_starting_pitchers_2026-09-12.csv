@@ -1,29 +1,31 @@
 as_of_date,rank,team,pitcher,rating,opponent
-2026-09-12,1,New York Yankees,Gerrit Cole,1611.4,New York Mets
-2026-09-12,2,Los Angeles Dodgers,Tyler Glasnow,1577.3,Miami Marlins
-2026-09-12,3,Baltimore Orioles,Kyle Bradish,1565.8,Toronto Blue Jays
-2026-09-12,4,Pittsburgh Pirates,Paul Skenes,1564.9,Chicago Cubs
-2026-09-12,5,Boston Red Sox,Ranger Suarez,1564.5,Kansas City Royals
-2026-09-12,6,San Diego Padres,Michael King,1545.2,San Francisco Giants
+2026-09-12,1,New York Yankees,Gerrit Cole,1600.3,New York Mets
+2026-09-12,2,Los Angeles Dodgers,Tyler Glasnow,1578.5,Miami Marlins
+2026-09-12,3,Boston Red Sox,Ranger Suarez,1563.5,Kansas City Royals
+2026-09-12,4,Pittsburgh Pirates,Paul Skenes,1561.2,Chicago Cubs
+2026-09-12,5,Baltimore Orioles,Kyle Bradish,1559.3,Toronto Blue Jays
+2026-09-12,6,San Diego Padres,Michael King,1545.4,San Francisco Giants
 2026-09-12,7,Seattle Mariners,Bryan Woo,1543.6,Athletics
-2026-09-12,8,Chicago Cubs,Clay Holmes,1532.8,Pittsburgh Pirates
+2026-09-12,8,Chicago Cubs,Clay Holmes,1530.1,Pittsburgh Pirates
 2026-09-12,9,Los Angeles Angels,Walbert Ureña,1524.8,Washington Nationals
-2026-09-12,10,Atlanta Braves,Tyler Mahle,1518.6,Philadelphia Phillies
-2026-09-12,11,Kansas City Royals,Randy Dobnak,1518.2,Boston Red Sox
-2026-09-12,12,St. Louis Cardinals,Kyle Leahy,1513.1,Chicago White Sox
-2026-09-12,13,New York Mets,Zac Thornton,1509.1,New York Yankees
-2026-09-12,14,Detroit Tigers,Andrew Sears,1502.7,Colorado Rockies
-2026-09-12,15,Washington Nationals,Andrew Alvarez,1501.3,Los Angeles Angels
-2026-09-12,16,Arizona Diamondbacks,Brandon Pfaadt,1500.8,Texas Rangers
-2026-09-12,17,Miami Marlins,Tyler Phillips,1500.5,Los Angeles Dodgers
-2026-09-12,18,San Francisco Giants,Cesar Perdomo,1500.3,San Diego Padres
-2026-09-12,19,Tampa Bay Rays,Ian Seymour,1496.8,Houston Astros
-2026-09-12,20,Toronto Blue Jays,Spencer Miles,1493.5,Baltimore Orioles
-2026-09-12,21,Chicago White Sox,Sean Newcomb,1493.1,St. Louis Cardinals
-2026-09-12,22,Houston Astros,Peter Lambert,1491.0,Tampa Bay Rays
-2026-09-12,23,Cincinnati Reds,Brady Singer,1488.3,Milwaukee Brewers
-2026-09-12,24,Athletics,Gage Jump,1480.0,Seattle Mariners
-2026-09-12,25,Texas Rangers,Kumar Rocker,1478.2,Arizona Diamondbacks
-2026-09-12,26,Minnesota Twins,Connor Prielipp,1466.5,Cleveland Guardians
-2026-09-12,27,Colorado Rockies,Tanner Gordon,1449.1,Detroit Tigers
-2026-09-12,28,Cleveland Guardians,Daniel Espino,,Minnesota Twins
+2026-09-12,10,Atlanta Braves,Tyler Mahle,1523.3,Philadelphia Phillies
+2026-09-12,11,St. Louis Cardinals,Kyle Leahy,1517.2,Chicago White Sox
+2026-09-12,12,Kansas City Royals,Randy Dobnak,1515.5,Boston Red Sox
+2026-09-12,13,New York Mets,Zac Thornton,1507.3,New York Yankees
+2026-09-12,14,Arizona Diamondbacks,Brandon Pfaadt,1504.5,Texas Rangers
+2026-09-12,15,Washington Nationals,Andrew Alvarez,1504.3,Los Angeles Angels
+2026-09-12,16,Philadelphia Phillies,Tim Mayza,1504.2,Atlanta Braves
+2026-09-12,17,Miami Marlins,Tyler Phillips,1503.8,Los Angeles Dodgers
+2026-09-12,18,Tampa Bay Rays,Ian Seymour,1501.0,Houston Astros
+2026-09-12,19,Milwaukee Brewers,Shane Drohan,1499.9,Cincinnati Reds
+2026-09-12,20,Cleveland Guardians,Daniel Espino,1499.9,Minnesota Twins
+2026-09-12,21,San Francisco Giants,Cesar Perdomo,1499.6,San Diego Padres
+2026-09-12,22,Chicago White Sox,Sean Newcomb,1497.2,St. Louis Cardinals
+2026-09-12,23,Detroit Tigers,Andrew Sears,1496.3,Colorado Rockies
+2026-09-12,24,Houston Astros,Peter Lambert,1495.7,Tampa Bay Rays
+2026-09-12,25,Cincinnati Reds,Brady Singer,1494.4,Milwaukee Brewers
+2026-09-12,26,Toronto Blue Jays,Spencer Miles,1490.7,Baltimore Orioles
+2026-09-12,27,Texas Rangers,Kumar Rocker,1483.1,Arizona Diamondbacks
+2026-09-12,28,Athletics,Gage Jump,1480.0,Seattle Mariners
+2026-09-12,29,Minnesota Twins,Connor Prielipp,1467.7,Cleveland Guardians
+2026-09-12,30,Colorado Rockies,Tanner Gordon,1439.0,Detroit Tigers

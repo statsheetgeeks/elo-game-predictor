@@ -1,16 +1,16 @@
 as_of_date,game_pk,home_team,home_combined_rating,away_team,away_combined_rating,elo_diff,home_win_prob
-2026-09-12,822685,Washington Nationals,1478.1,Los Angeles Angels,1454.7,23.4,54.1
-2026-09-12,822768,Toronto Blue Jays,1520.7,Baltimore Orioles,1521.8,-1.1,53.2
-2026-09-12,822927,Tampa Bay Rays,1537.5,Houston Astros,1502.3,35.2,60.0
-2026-09-12,823009,St. Louis Cardinals,1494.5,Chicago White Sox,1500.4,-5.9,52.1
-2026-09-12,823170,San Francisco Giants,1462.9,San Diego Padres,1537.5,-74.6,44.3
-2026-09-12,823496,New York Yankees,1551.0,New York Mets,1516.7,34.3,59.4
-2026-09-12,823657,Minnesota Twins,1474.3,Cleveland Guardians,1511.7,-37.4,48.5
-2026-09-12,823737,Milwaukee Brewers,1570.7,Cincinnati Reds,1480.3,90.4,65.1
-2026-09-12,823819,Miami Marlins,1511.9,Los Angeles Dodgers,1553.5,-41.6,47.1
-2026-09-12,824224,Detroit Tigers,1498.7,Colorado Rockies,1424.5,74.2,63.2
-2026-09-12,824630,Chicago Cubs,1547.2,Pittsburgh Pirates,1525.0,22.2,55.5
-2026-09-12,824712,Boston Red Sox,1565.4,Kansas City Royals,1495.2,70.2,62.5
-2026-09-12,824870,Atlanta Braves,1551.4,Philadelphia Phillies,1546.7,4.7,53.5
+2026-09-12,822685,Washington Nationals,1478.4,Los Angeles Angels,1451.8,26.6,54.6
+2026-09-12,822768,Toronto Blue Jays,1520.7,Baltimore Orioles,1515.6,5.1,54.1
+2026-09-12,822927,Tampa Bay Rays,1537.6,Houston Astros,1505.7,31.9,59.5
+2026-09-12,823009,St. Louis Cardinals,1495.0,Chicago White Sox,1503.1,-8.1,51.8
+2026-09-12,823170,San Francisco Giants,1463.1,San Diego Padres,1539.8,-76.7,44.0
+2026-09-12,823496,New York Yankees,1550.2,New York Mets,1518.7,31.5,59.0
+2026-09-12,823657,Minnesota Twins,1474.4,Cleveland Guardians,1508.9,-34.5,48.9
+2026-09-12,823737,Milwaukee Brewers,1570.9,Cincinnati Reds,1484.6,86.3,64.6
+2026-09-12,823819,Miami Marlins,1512.0,Los Angeles Dodgers,1550.4,-38.4,47.6
+2026-09-12,824224,Detroit Tigers,1498.6,Colorado Rockies,1418.6,80.0,64.0
+2026-09-12,824630,Chicago Cubs,1547.1,Pittsburgh Pirates,1519.6,27.5,56.3
+2026-09-12,824712,Boston Red Sox,1565.4,Kansas City Royals,1489.9,75.5,63.2
+2026-09-12,824870,Atlanta Braves,1551.4,Philadelphia Phillies,1549.4,2.0,53.2
 2026-09-12,824955,Athletics,1434.1,Seattle Mariners,1480.2,-46.1,46.3
-2026-09-12,825035,Arizona Diamondbacks,1527.6,Texas Rangers,1489.1,38.5,57.7
+2026-09-12,825035,Arizona Diamondbacks,1527.7,Texas Rangers,1492.6,35.1,57.3
