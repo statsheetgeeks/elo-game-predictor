@@ -15304,14 +15304,14 @@ date,season,game_pk,home_team,away_team,home_pitcher,away_pitcher,home_elo_pre,a
 2026-09-13,2026,822764,Toronto Blue Jays,Baltimore Orioles,Dylan Cease,Trevor Rogers,1506.6,1506.5,65.3,0.5928,0.4072,1509.8,1503.3,8,1,1
 2026-09-13,2026,822928,Tampa Bay Rays,Houston Astros,Freddy Peralta,Hayden Wesneski,1523.8,1501.7,90.2,0.627,0.373,1527.3,1498.2,14,4,1
 2026-09-13,2026,823008,St. Louis Cardinals,Chicago White Sox,Michael McGreevy,David Sandlin,1495.0,1503.0,8.3,0.5119,0.4881,1497.7,1500.3,3,1,1
-2026-09-13,2026,823171,San Francisco Giants,San Diego Padres,Logan Webb,Nick Pivetta,1451.8,1527.9,-22.9,0.4671,0.5329,1449.7,1530.0,0,0,0
+2026-09-13,2026,823171,San Francisco Giants,San Diego Padres,Logan Webb,Nick Pivetta,1451.8,1527.9,-22.9,0.4671,0.5329,1449.2,1530.5,4,6,0
 2026-09-13,2026,823495,New York Yankees,New York Mets,Cam Schlittler,Christian Scott,1530.6,1509.9,66.9,0.5951,0.4049,1532.7,1507.8,2,0,1
 2026-09-13,2026,823658,Minnesota Twins,Cleveland Guardians,Joe Ryan,Tanner Bibee,1480.6,1491.9,-12.0,0.4828,0.5172,1476.8,1495.7,2,9,0
 2026-09-13,2026,823734,Milwaukee Brewers,Cincinnati Reds,Robert Gasser,Chase Burns,1575.4,1474.5,109.5,0.6526,0.3474,1571.6,1478.3,3,4,0
 2026-09-13,2026,823815,Miami Marlins,Los Angeles Dodgers,Eury Pérez,Emmet Sheehan,1497.1,1533.1,-8.7,0.4874,0.5126,1500.0,1530.2,6,4,1
 2026-09-13,2026,824225,Detroit Tigers,Colorado Rockies,Jackson Jobe,Gabriel Hughes,1487.2,1435.0,81.0,0.6145,0.3855,1490.2,1432.0,8,1,1
 2026-09-13,2026,824628,Chicago Cubs,Pittsburgh Pirates,Matthew Boyd,Bubba Chandler,1540.1,1509.8,51.6,0.5737,0.4263,1536.9,1513.0,3,4,0
-2026-09-13,2026,824708,Boston Red Sox,Kansas City Royals,Payton Tolle,Noah Cameron,1539.0,1482.2,82.0,0.6158,0.3842,1540.7,1480.6,1,0,1
+2026-09-13,2026,824708,Boston Red Sox,Kansas City Royals,Payton Tolle,Noah Cameron,1539.0,1482.2,82.0,0.6158,0.3842,1541.1,1480.1,4,1,1
 2026-09-13,2026,824869,Atlanta Braves,Philadelphia Phillies,Grant Holmes,Andrew Painter,1531.7,1519.0,56.0,0.5799,0.4201,1527.6,1523.1,4,9,0
-2026-09-13,2026,824952,Athletics,Seattle Mariners,Jacob Lopez,Bryce Miller,1445.2,1466.6,0.4,0.5006,0.4994,1442.2,1469.6,2,5,0
-2026-09-13,2026,825033,Arizona Diamondbacks,Texas Rangers,Eduardo Rodriguez,Cal Quantrill,1522.5,1487.3,77.1,0.6092,0.3908,1518.0,1491.9,1,7,0
+2026-09-13,2026,824952,Athletics,Seattle Mariners,Jacob Lopez,Bryce Miller,1445.2,1466.6,0.4,0.5006,0.4994,1447.9,1464.0,8,7,1
+2026-09-13,2026,825033,Arizona Diamondbacks,Texas Rangers,Eduardo Rodriguez,Cal Quantrill,1522.5,1487.3,77.1,0.6092,0.3908,1519.0,1490.8,6,7,0

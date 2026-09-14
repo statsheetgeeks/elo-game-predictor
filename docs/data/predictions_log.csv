@@ -823,7 +823,7 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-09-13,822764,Toronto Blue Jays,Baltimore Orioles,Toronto Blue Jays,53.7,Toronto Blue Jays,50-55%,Toronto Blue Jays,True,True
 2026-09-13,822928,Tampa Bay Rays,Houston Astros,Tampa Bay Rays,59.8,Tampa Bay Rays,55-60%,Tampa Bay Rays,True,True
 2026-09-13,823008,St. Louis Cardinals,Chicago White Sox,Chicago White Sox,51.4,St. Louis Cardinals,50-55%,St. Louis Cardinals,False,True
-2026-09-13,823171,San Francisco Giants,San Diego Padres,San Diego Padres,44.0,San Diego Padres,40-45%,,,
+2026-09-13,823171,San Francisco Giants,San Diego Padres,San Diego Padres,44.0,San Diego Padres,40-45%,San Diego Padres,True,True
 2026-09-13,823495,New York Yankees,New York Mets,New York Yankees,58.5,New York Yankees,55-60%,New York Yankees,True,True
 2026-09-13,823658,Minnesota Twins,Cleveland Guardians,Cleveland Guardians,48.6,Cleveland Guardians,45-50%,Cleveland Guardians,True,True
 2026-09-13,823734,Milwaukee Brewers,Cincinnati Reds,Milwaukee Brewers,64.9,Milwaukee Brewers,60-65%,Cincinnati Reds,False,False
@@ -834,3 +834,13 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-09-13,824869,Atlanta Braves,Philadelphia Phillies,Atlanta Braves,53.8,Atlanta Braves,50-55%,Philadelphia Phillies,False,False
 2026-09-13,824952,Athletics,Seattle Mariners,Seattle Mariners,45.3,Seattle Mariners,45-50%,Seattle Mariners,True,True
 2026-09-13,825033,Arizona Diamondbacks,Texas Rangers,Arizona Diamondbacks,57.1,Arizona Diamondbacks,55-60%,Texas Rangers,False,False
+2026-09-14,822765,Toronto Blue Jays,Detroit Tigers,Toronto Blue Jays,56.6,Toronto Blue Jays,55-60%,,,
+2026-09-14,823006,St. Louis Cardinals,San Francisco Giants,St. Louis Cardinals,57.4,St. Louis Cardinals,55-60%,,,
+2026-09-14,823575,New York Mets,Baltimore Orioles,New York Mets,54.5,New York Mets,50-55%,,,
+2026-09-14,823656,Minnesota Twins,New York Yankees,New York Yankees,42.9,New York Yankees,40-45%,,,
+2026-09-14,823981,Los Angeles Angels,Seattle Mariners,Seattle Mariners,47.5,Seattle Mariners,45-50%,,,
+2026-09-14,824308,Colorado Rockies,San Diego Padres,San Diego Padres,36.5,San Diego Padres,35-40%,,,
+2026-09-14,824386,Cleveland Guardians,Chicago White Sox,Cleveland Guardians,54.7,Cleveland Guardians,50-55%,,,
+2026-09-14,824465,Cincinnati Reds,Los Angeles Dodgers,Los Angeles Dodgers,43.2,Los Angeles Dodgers,40-45%,,,
+2026-09-14,824629,Chicago Cubs,Atlanta Braves,Atlanta Braves,51.8,Chicago Cubs,50-55%,,,
+2026-09-14,825034,Arizona Diamondbacks,Miami Marlins,Arizona Diamondbacks,54.4,Arizona Diamondbacks,50-55%,,,
