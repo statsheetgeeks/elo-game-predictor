@@ -1,11 +1,11 @@
 as_of_date,game_pk,home_team,home_combined_rating,away_team,away_combined_rating,elo_diff,home_win_prob
-2026-09-14,822765,Toronto Blue Jays,1521.2,Detroit Tigers,1498.6,22.6,56.6
-2026-09-14,823006,St. Louis Cardinals,1494.7,San Francisco Giants,1463.1,31.6,57.4
-2026-09-14,823575,New York Mets,1516.9,Baltimore Orioles,1512.0,4.9,54.5
-2026-09-14,823656,Minnesota Twins,1474.1,New York Yankees,1550.7,-76.6,42.9
-2026-09-14,823981,Los Angeles Angels,1450.1,Seattle Mariners,1483.3,-33.2,47.5
-2026-09-14,824308,Colorado Rockies,1415.5,San Diego Padres,1541.8,-126.3,36.5
-2026-09-14,824386,Cleveland Guardians,1513.0,Chicago White Sox,1500.6,12.4,54.7
-2026-09-14,824465,Cincinnati Reds,1481.8,Los Angeles Dodgers,1547.2,-65.4,43.2
-2026-09-14,824629,Chicago Cubs,1547.1,Atlanta Braves,1551.0,-3.9,51.8
+2026-09-14,822765,Toronto Blue Jays,1521.1,Detroit Tigers,1511.3,9.8,54.8
+2026-09-14,823006,St. Louis Cardinals,1494.8,San Francisco Giants,1468.0,26.8,56.8
+2026-09-14,823575,New York Mets,1517.0,Baltimore Orioles,1515.1,1.9,54.1
+2026-09-14,823656,Minnesota Twins,1474.2,New York Yankees,1556.1,-81.9,42.2
+2026-09-14,823981,Los Angeles Angels,1450.7,Seattle Mariners,1485.6,-34.9,47.2
+2026-09-14,824308,Colorado Rockies,1416.2,San Diego Padres,1543.5,-127.3,36.3
+2026-09-14,824386,Cleveland Guardians,1513.4,Chicago White Sox,1503.5,9.9,54.3
+2026-09-14,824465,Cincinnati Reds,1482.2,Los Angeles Dodgers,1549.0,-66.8,43.0
+2026-09-14,824629,Chicago Cubs,1547.2,Atlanta Braves,1550.2,-3.0,51.9
 2026-09-14,825034,Arizona Diamondbacks,1527.2,Miami Marlins,1512.1,15.1,54.4

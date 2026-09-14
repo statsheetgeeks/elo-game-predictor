@@ -2245,13 +2245,13 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824869,2026-09-13,2026,Final,Atlanta Braves,Philadelphia Phillies,4.0,9.0,Grant Holmes,Andrew Painter
 824952,2026-09-13,2026,Final,Athletics,Seattle Mariners,8.0,7.0,Jacob Lopez,Bryce Miller
 825033,2026-09-13,2026,Final,Arizona Diamondbacks,Texas Rangers,6.0,7.0,Eduardo Rodriguez,Cal Quantrill
-822765,2026-09-14,2026,Preview,Toronto Blue Jays,Detroit Tigers,,,José Soriano,Troy Melton
-823006,2026-09-14,2026,Preview,St. Louis Cardinals,San Francisco Giants,,,Quinn Mathews,Landen Roupp
-823575,2026-09-14,2026,Preview,New York Mets,Baltimore Orioles,,,Jonah Tong,Brandon Young
-823656,2026-09-14,2026,Preview,Minnesota Twins,New York Yankees,,,Dean Kremer,Will Warren
-823981,2026-09-14,2026,Preview,Los Angeles Angels,Seattle Mariners,,,Reid Detmers,Kade Anderson
-824308,2026-09-14,2026,Preview,Colorado Rockies,San Diego Padres,,,Tomoyuki Sugano,Casey Mize
-824386,2026-09-14,2026,Preview,Cleveland Guardians,Chicago White Sox,,,Gavin Williams,Sean Newcomb
-824465,2026-09-14,2026,Preview,Cincinnati Reds,Los Angeles Dodgers,,,Nick Lodolo,Tarik Skubal
-824629,2026-09-14,2026,Preview,Chicago Cubs,Atlanta Braves,,,David Peterson,Reynaldo López
+822765,2026-09-14,2026,Live,Toronto Blue Jays,Detroit Tigers,0.0,0.0,José Soriano,Troy Melton
+823006,2026-09-14,2026,Preview,St. Louis Cardinals,San Francisco Giants,0.0,0.0,Quinn Mathews,Landen Roupp
+823575,2026-09-14,2026,Live,New York Mets,Baltimore Orioles,0.0,0.0,Jonah Tong,Brandon Young
+823656,2026-09-14,2026,Preview,Minnesota Twins,New York Yankees,0.0,0.0,Dean Kremer,Will Warren
+823981,2026-09-14,2026,Preview,Los Angeles Angels,Seattle Mariners,0.0,0.0,Reid Detmers,Kade Anderson
+824308,2026-09-14,2026,Preview,Colorado Rockies,San Diego Padres,0.0,0.0,Tomoyuki Sugano,Casey Mize
+824386,2026-09-14,2026,Live,Cleveland Guardians,Chicago White Sox,0.0,0.0,Gavin Williams,Sean Newcomb
+824465,2026-09-14,2026,Live,Cincinnati Reds,Los Angeles Dodgers,0.0,0.0,Nick Lodolo,Tarik Skubal
+824629,2026-09-14,2026,Preview,Chicago Cubs,Atlanta Braves,0.0,0.0,David Peterson,Reynaldo López
 825034,2026-09-14,2026,Preview,Arizona Diamondbacks,Miami Marlins,,,Corbin Burnes,Sandy Alcantara
