@@ -15315,12 +15315,13 @@ date,season,game_pk,home_team,away_team,home_pitcher,away_pitcher,home_elo_pre,a
 2026-09-13,2026,824869,Atlanta Braves,Philadelphia Phillies,Grant Holmes,Andrew Painter,1531.7,1519.0,56.0,0.5799,0.4201,1527.6,1523.1,4,9,0
 2026-09-13,2026,824952,Athletics,Seattle Mariners,Jacob Lopez,Bryce Miller,1445.2,1466.6,0.4,0.5006,0.4994,1447.9,1464.0,8,7,1
 2026-09-13,2026,825033,Arizona Diamondbacks,Texas Rangers,Eduardo Rodriguez,Cal Quantrill,1522.5,1487.3,77.1,0.6092,0.3908,1519.0,1490.8,6,7,0
-2026-09-14,2026,822765,Toronto Blue Jays,Detroit Tigers,José Soriano,Troy Melton,1509.8,1490.2,20.4,0.5294,0.4706,1507.1,1492.8,0,0,0
-2026-09-14,2026,823006,St. Louis Cardinals,San Francisco Giants,Quinn Mathews,Landen Roupp,1497.7,1449.2,62.0,0.5884,0.4116,1494.6,1452.3,0,0,0
-2026-09-14,2026,823575,New York Mets,Baltimore Orioles,Jonah Tong,Brandon Young,1507.8,1503.3,26.8,0.5385,0.4615,1505.1,1506.0,0,0,0
-2026-09-14,2026,823656,Minnesota Twins,New York Yankees,Dean Kremer,Will Warren,1476.8,1532.7,-19.6,0.4718,0.5282,1474.6,1534.8,0,0,0
-2026-09-14,2026,823981,Los Angeles Angels,Seattle Mariners,Reid Detmers,Kade Anderson,1454.4,1464.0,4.2,0.506,0.494,1452.0,1466.4,0,0,0
-2026-09-14,2026,824308,Colorado Rockies,San Diego Padres,Tomoyuki Sugano,Casey Mize,1432.0,1530.5,-67.2,0.4044,0.5956,1430.4,1532.1,0,0,0
-2026-09-14,2026,824386,Cleveland Guardians,Chicago White Sox,Gavin Williams,Sean Newcomb,1495.7,1500.3,41.4,0.5594,0.4406,1492.8,1503.2,0,0,0
-2026-09-14,2026,824465,Cincinnati Reds,Los Angeles Dodgers,Nick Lodolo,Tarik Skubal,1478.3,1530.2,-85.6,0.3792,0.6208,1476.9,1531.6,0,0,0
-2026-09-14,2026,824629,Chicago Cubs,Atlanta Braves,David Peterson,Reynaldo López,1536.9,1527.6,1.9,0.5028,0.4972,1534.5,1530.0,0,0,0
+2026-09-14,2026,822765,Toronto Blue Jays,Detroit Tigers,José Soriano,Troy Melton,1509.8,1490.2,20.4,0.5294,0.4706,1506.9,1493.0,5,6,0
+2026-09-14,2026,823006,St. Louis Cardinals,San Francisco Giants,Quinn Mathews,Landen Roupp,1497.7,1449.2,62.0,0.5884,0.4116,1499.6,1447.3,2,1,1
+2026-09-14,2026,823575,New York Mets,Baltimore Orioles,Jonah Tong,Brandon Young,1507.8,1503.3,26.8,0.5385,0.4615,1504.9,1506.2,1,2,0
+2026-09-14,2026,823656,Minnesota Twins,New York Yankees,Dean Kremer,Will Warren,1476.8,1532.7,-19.6,0.4718,0.5282,1473.6,1535.9,3,8,0
+2026-09-14,2026,823981,Los Angeles Angels,Seattle Mariners,Reid Detmers,Kade Anderson,1454.4,1464.0,4.2,0.506,0.494,1457.2,1461.2,6,4,1
+2026-09-14,2026,824308,Colorado Rockies,San Diego Padres,Tomoyuki Sugano,Casey Mize,1432.0,1530.5,-67.2,0.4044,0.5956,1430.2,1532.3,7,8,0
+2026-09-14,2026,824386,Cleveland Guardians,Chicago White Sox,Gavin Williams,Sean Newcomb,1495.7,1500.3,41.4,0.5594,0.4406,1491.9,1504.0,3,7,0
+2026-09-14,2026,824465,Cincinnati Reds,Los Angeles Dodgers,Nick Lodolo,Tarik Skubal,1478.3,1530.2,-85.6,0.3792,0.6208,1476.3,1532.2,1,4,0
+2026-09-14,2026,824629,Chicago Cubs,Atlanta Braves,David Peterson,Reynaldo López,1536.9,1527.6,1.9,0.5028,0.4972,1540.1,1524.4,7,3,1
+2026-09-14,2026,825034,Arizona Diamondbacks,Miami Marlins,Corbin Burnes,Sandy Alcantara,1519.0,1500.0,44.9,0.5642,0.4358,1521.1,1497.9,8,7,1
