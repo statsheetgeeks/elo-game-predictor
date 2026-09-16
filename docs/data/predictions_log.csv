@@ -860,17 +860,17 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-09-15,824627,Chicago Cubs,Atlanta Braves,Chicago Cubs,52.7,Chicago Cubs,50-55%,Atlanta Braves,False,False
 2026-09-15,825030,Arizona Diamondbacks,Miami Marlins,Arizona Diamondbacks,55.8,Arizona Diamondbacks,55-60%,Miami Marlins,False,False
 2026-09-16,822680,Washington Nationals,Philadelphia Phillies,Philadelphia Phillies,41.6,Philadelphia Phillies,40-45%,,,
-2026-09-16,822763,Toronto Blue Jays,Detroit Tigers,Toronto Blue Jays,53.7,Toronto Blue Jays,50-55%,,,
+2026-09-16,822763,Toronto Blue Jays,Detroit Tigers,Toronto Blue Jays,53.7,Toronto Blue Jays,50-55%,Toronto Blue Jays,True,True
 2026-09-16,822846,Texas Rangers,Boston Red Sox,Boston Red Sox,44.8,Boston Red Sox,40-45%,,,
 2026-09-16,822926,Tampa Bay Rays,Athletics,Tampa Bay Rays,68.7,Tampa Bay Rays,65-70%,,,
-2026-09-16,823004,St. Louis Cardinals,San Francisco Giants,St. Louis Cardinals,56.3,St. Louis Cardinals,55-60%,,,
+2026-09-16,823004,St. Louis Cardinals,San Francisco Giants,St. Louis Cardinals,56.3,St. Louis Cardinals,55-60%,San Francisco Giants,False,False
 2026-09-16,823332,Pittsburgh Pirates,Milwaukee Brewers,Milwaukee Brewers,43.8,Milwaukee Brewers,40-45%,,,
 2026-09-16,823576,New York Mets,Baltimore Orioles,Baltimore Orioles,53.6,New York Mets,50-55%,,,
-2026-09-16,823655,Minnesota Twins,New York Yankees,New York Yankees,41.4,New York Yankees,40-45%,,,
+2026-09-16,823655,Minnesota Twins,New York Yankees,New York Yankees,41.4,New York Yankees,40-45%,Minnesota Twins,False,False
 2026-09-16,823979,Los Angeles Angels,Seattle Mariners,Seattle Mariners,48.3,Seattle Mariners,45-50%,,,
 2026-09-16,824140,Houston Astros,Kansas City Royals,Houston Astros,56.9,Houston Astros,55-60%,,,
 2026-09-16,824306,Colorado Rockies,San Diego Padres,San Diego Padres,37.0,San Diego Padres,35-40%,,,
-2026-09-16,824382,Cleveland Guardians,Chicago White Sox,Cleveland Guardians,54.1,Cleveland Guardians,50-55%,,,
+2026-09-16,824382,Cleveland Guardians,Chicago White Sox,Cleveland Guardians,54.1,Cleveland Guardians,50-55%,Cleveland Guardians,True,True
 2026-09-16,824467,Cincinnati Reds,Los Angeles Dodgers,Los Angeles Dodgers,42.5,Los Angeles Dodgers,40-45%,,,
 2026-09-16,824626,Chicago Cubs,Atlanta Braves,Atlanta Braves,52.2,Chicago Cubs,50-55%,,,
 2026-09-16,825031,Arizona Diamondbacks,Miami Marlins,Arizona Diamondbacks,55.3,Arizona Diamondbacks,55-60%,,,
