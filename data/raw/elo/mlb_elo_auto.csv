@@ -15355,7 +15355,12 @@ date,season,game_pk,home_team,away_team,home_pitcher,away_pitcher,home_elo_pre,a
 2026-09-16,2026,824467,Cincinnati Reds,Los Angeles Dodgers,Andrew Abbott,Blake Snell,1474.0,1534.5,-72.5,0.3971,0.6029,1478.1,1530.4,6,2,1
 2026-09-16,2026,824626,Chicago Cubs,Atlanta Braves,Shota Imanaga,JR Ritchie,1536.5,1528.0,62.5,0.589,0.411,1539.0,1525.5,8,4,1
 2026-09-16,2026,825031,Arizona Diamondbacks,Miami Marlins,Merrill Kelly,Ryan Gusto,1518.1,1500.9,65.3,0.5929,0.4071,1514.7,1504.3,3,4,0
-2026-09-17,2026,822924,Tampa Bay Rays,Athletics,Drew Rasmussen,Jeffrey Springs,1529.6,1445.6,173.4,0.7307,0.2693,1525.3,1449.9,0,0,0
-2026-09-17,2026,823334,Pittsburgh Pirates,Milwaukee Brewers,Wilber Dotel,Kyle Harrison,1508.5,1576.1,-56.6,0.4193,0.5807,1512.4,1572.2,5,1,1
-2026-09-17,2026,824305,Colorado Rockies,San Diego Padres,Tanner Gordon,Michael King,1432.8,1529.7,-122.0,0.3313,0.6687,1431.8,1530.7,0,0,0
-2026-09-17,2026,824464,Cincinnati Reds,Los Angeles Dodgers,Brady Singer,Justin Wrobleski,1478.1,1530.4,-45.5,0.4348,0.5652,1474.7,1533.8,0,7,0
+2026-09-17,2026,822845,Texas Rangers,Boston Red Sox,Tyler Alexander,Sonny Gray,1497.1,1534.8,-53.1,0.4242,0.5758,1495.3,1536.6,0,0,0
+2026-09-17,2026,822924,Tampa Bay Rays,Athletics,Drew Rasmussen,Jeffrey Springs,1529.6,1445.6,173.4,0.7307,0.2693,1532.0,1443.1,10,1,1
+2026-09-17,2026,823334,Pittsburgh Pirates,Milwaukee Brewers,Wilber Dotel,Kyle Harrison,1508.5,1576.1,-56.6,0.4193,0.5807,1512.1,1572.4,7,4,1
+2026-09-17,2026,823573,New York Mets,Philadelphia Phillies,Nolan McLean,Aaron Nola,1498.4,1521.2,17.5,0.5251,0.4749,1495.8,1523.8,0,0,0
+2026-09-17,2026,823978,Los Angeles Angels,Minnesota Twins,Walbert Ureña,Taj Bradley,1457.1,1474.6,18.4,0.5265,0.4735,1454.5,1477.2,0,0,0
+2026-09-17,2026,824141,Houston Astros,Kansas City Royals,Miguel Ullola,Seth Lugo,1496.8,1481.5,53.0,0.5757,0.4243,1493.8,1484.5,0,0,0
+2026-09-17,2026,824305,Colorado Rockies,San Diego Padres,Tanner Gordon,Michael King,1432.8,1529.7,-122.0,0.3313,0.6687,1430.3,1532.2,2,9,0
+2026-09-17,2026,824464,Cincinnati Reds,Los Angeles Dodgers,Brady Singer,Justin Wrobleski,1478.1,1530.4,-45.5,0.4348,0.5652,1474.9,1533.6,2,8,0
+2026-09-17,2026,824548,Chicago White Sox,Detroit Tigers,Erick Fedde,Framber Valdez,1498.7,1494.9,-12.4,0.4822,0.5178,1496.5,1497.2,0,0,0

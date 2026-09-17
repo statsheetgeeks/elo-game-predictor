@@ -1,13 +1,13 @@
 as_of_date,rank,team,elo_rating,anticipated_win_pct
-2026-09-17,1,Milwaukee Brewers,1572.2,60.1
-2026-09-17,2,New York Yankees,1534.9,54.9
-2026-09-17,3,Boston Red Sox,1534.8,54.9
+2026-09-17,1,Milwaukee Brewers,1572.4,60.2
+2026-09-17,2,Boston Red Sox,1536.6,55.1
+2026-09-17,3,New York Yankees,1534.9,54.9
 2026-09-17,4,Chicago Cubs,1534.0,54.8
-2026-09-17,5,Los Angeles Dodgers,1533.8,54.7
-2026-09-17,6,San Diego Padres,1530.7,54.3
+2026-09-17,5,Los Angeles Dodgers,1533.6,54.7
+2026-09-17,6,San Diego Padres,1532.2,54.5
 2026-09-17,7,Atlanta Braves,1525.5,53.5
-2026-09-17,8,Arizona Diamondbacks,1523.5,53.3
-2026-09-17,9,Philadelphia Phillies,1521.2,52.9
+2026-09-17,8,Philadelphia Phillies,1523.8,53.3
+2026-09-17,9,Arizona Diamondbacks,1523.5,53.3
 2026-09-17,10,Tampa Bay Rays,1519.9,52.7
 2026-09-17,11,Pittsburgh Pirates,1513.0,51.8
 2026-09-17,12,Baltimore Orioles,1512.7,51.7
@@ -16,16 +16,16 @@ as_of_date,rank,team,elo_rating,anticipated_win_pct
 2026-09-17,15,Miami Marlins,1504.3,50.5
 2026-09-17,16,Chicago White Sox,1498.7,49.7
 2026-09-17,17,Houston Astros,1498.2,49.6
-2026-09-17,18,Cleveland Guardians,1495.7,49.3
-2026-09-17,19,Detroit Tigers,1494.9,49.2
+2026-09-17,18,Detroit Tigers,1497.2,49.5
+2026-09-17,19,Cleveland Guardians,1495.7,49.3
 2026-09-17,20,St. Louis Cardinals,1494.5,49.1
 2026-09-17,21,Texas Rangers,1490.8,48.6
-2026-09-17,22,Washington Nationals,1482.8,47.4
-2026-09-17,23,Kansas City Royals,1481.5,47.2
-2026-09-17,24,Minnesota Twins,1480.8,47.1
-2026-09-17,25,Cincinnati Reds,1478.3,46.8
+2026-09-17,22,Kansas City Royals,1484.5,47.7
+2026-09-17,23,Washington Nationals,1482.8,47.4
+2026-09-17,24,Cincinnati Reds,1478.3,46.8
+2026-09-17,25,Minnesota Twins,1477.2,46.6
 2026-09-17,26,Seattle Mariners,1461.3,44.3
 2026-09-17,27,San Francisco Giants,1455.4,43.5
 2026-09-17,28,Los Angeles Angels,1454.4,43.4
-2026-09-17,29,Athletics,1449.9,42.7
+2026-09-17,29,Athletics,1443.1,41.8
 2026-09-17,30,Colorado Rockies,1432.0,40.2
