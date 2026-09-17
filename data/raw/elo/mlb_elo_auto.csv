@@ -15340,16 +15340,22 @@ date,season,game_pk,home_team,away_team,home_pitcher,away_pitcher,home_elo_pre,a
 2026-09-15,2026,824466,Cincinnati Reds,Los Angeles Dodgers,Rhett Lowder,Yoshinobu Yamamoto,1476.3,1532.2,-89.7,0.3737,0.6263,1474.0,1534.5,0,4,0
 2026-09-15,2026,824627,Chicago Cubs,Atlanta Braves,Kevin Gausman,Martín Pérez,1540.1,1524.4,53.2,0.576,0.424,1536.5,1528.0,3,6,0
 2026-09-15,2026,825030,Arizona Diamondbacks,Miami Marlins,Michael Soroka,Janson Junk,1521.1,1497.9,18.8,0.527,0.473,1518.1,1500.9,2,4,0
-2026-09-16,2026,822680,Washington Nationals,Philadelphia Phillies,Jared Simpson,Zack Wheeler,1493.3,1519.2,-92.7,0.3697,0.6303,1492.0,1520.6,0,0,0
+2026-09-16,2026,822680,Washington Nationals,Philadelphia Phillies,Jared Simpson,Zack Wheeler,1493.3,1519.2,-92.7,0.3697,0.6303,1491.3,1521.2,0,3,0
 2026-09-16,2026,822763,Toronto Blue Jays,Detroit Tigers,Max Scherzer,Keider Montero,1502.1,1497.8,28.5,0.5409,0.4591,1505.0,1494.9,5,1,1
-2026-09-16,2026,822846,Texas Rangers,Boston Red Sox,MacKenzie Gore,Jake Bennett,1493.4,1538.5,-45.3,0.4351,0.5649,1491.5,1540.4,0,0,0
-2026-09-16,2026,822926,Tampa Bay Rays,Athletics,Nick Martinez,Brady Basso,1528.6,1446.6,146.4,0.699,0.301,1524.6,1450.6,0,0,0
+2026-09-16,2026,822846,Texas Rangers,Boston Red Sox,MacKenzie Gore,Jake Bennett,1493.4,1538.5,-45.3,0.4351,0.5649,1497.1,1534.8,7,3,1
+2026-09-16,2026,822926,Tampa Bay Rays,Athletics,Nick Martinez,Brady Basso,1528.6,1446.6,146.4,0.699,0.301,1529.6,1445.6,4,3,1
 2026-09-16,2026,823004,St. Louis Cardinals,San Francisco Giants,Matthew Liberatore,Anthony Molina,1494.7,1452.3,45.8,0.5655,0.4345,1491.5,1455.4,5,6,0
-2026-09-16,2026,823332,Pittsburgh Pirates,Milwaukee Brewers,Jared Jones,Logan Henderson,1510.3,1574.2,-64.2,0.4086,0.5914,1508.7,1575.9,0,0,0
-2026-09-16,2026,823576,New York Mets,Baltimore Orioles,Xzavion Curry,Chris Bassitt,1502.2,1509.0,5.9,0.5085,0.4915,1499.7,1511.4,0,0,0
+2026-09-16,2026,823332,Pittsburgh Pirates,Milwaukee Brewers,Jared Jones,Logan Henderson,1510.3,1574.2,-64.2,0.4086,0.5914,1508.5,1576.1,4,5,0
+2026-09-16,2026,823576,New York Mets,Baltimore Orioles,Xzavion Curry,Chris Bassitt,1502.2,1509.0,5.9,0.5085,0.4915,1498.4,1512.7,1,7,0
 2026-09-16,2026,823655,Minnesota Twins,New York Yankees,Zebby Matthews,Carlos Rodón,1470.9,1538.6,-93.7,0.3684,0.6316,1474.6,1534.9,5,4,1
-2026-09-16,2026,824140,Houston Astros,Kansas City Royals,Cristian Javier,Daniel Lynch IV,1500.5,1477.8,59.4,0.5847,0.4153,1497.4,1480.9,0,0,0
-2026-09-16,2026,824306,Colorado Rockies,San Diego Padres,Mason Adams,Robbie Ray,1435.4,1527.1,-93.0,0.3693,0.6307,1434.1,1528.4,0,0,0
+2026-09-16,2026,823979,Los Angeles Angels,Seattle Mariners,Yusei Kikuchi,George Kirby,1460.2,1458.1,-26.0,0.4627,0.5373,1457.1,1461.3,2,7,0
+2026-09-16,2026,824140,Houston Astros,Kansas City Royals,Cristian Javier,Daniel Lynch IV,1500.5,1477.8,59.4,0.5847,0.4153,1496.8,1481.5,2,5,0
+2026-09-16,2026,824306,Colorado Rockies,San Diego Padres,Mason Adams,Robbie Ray,1435.4,1527.1,-93.0,0.3693,0.6307,1432.8,1529.7,3,9,0
 2026-09-16,2026,824382,Cleveland Guardians,Chicago White Sox,Parker Messick,Anthony Kay,1494.5,1501.5,25.9,0.5372,0.4628,1497.2,1498.7,6,3,1
-2026-09-16,2026,824467,Cincinnati Reds,Los Angeles Dodgers,Andrew Abbott,Blake Snell,1474.0,1534.5,-72.5,0.3971,0.6029,1472.5,1536.1,0,0,0
-2026-09-16,2026,824626,Chicago Cubs,Atlanta Braves,Shota Imanaga,JR Ritchie,1536.5,1528.0,62.5,0.589,0.411,1533.4,1531.1,0,0,0
+2026-09-16,2026,824467,Cincinnati Reds,Los Angeles Dodgers,Andrew Abbott,Blake Snell,1474.0,1534.5,-72.5,0.3971,0.6029,1478.1,1530.4,6,2,1
+2026-09-16,2026,824626,Chicago Cubs,Atlanta Braves,Shota Imanaga,JR Ritchie,1536.5,1528.0,62.5,0.589,0.411,1539.0,1525.5,8,4,1
+2026-09-16,2026,825031,Arizona Diamondbacks,Miami Marlins,Merrill Kelly,Ryan Gusto,1518.1,1500.9,65.3,0.5929,0.4071,1514.7,1504.3,3,4,0
+2026-09-17,2026,822924,Tampa Bay Rays,Athletics,Drew Rasmussen,Jeffrey Springs,1529.6,1445.6,173.4,0.7307,0.2693,1525.3,1449.9,0,0,0
+2026-09-17,2026,823334,Pittsburgh Pirates,Milwaukee Brewers,Wilber Dotel,Kyle Harrison,1508.5,1576.1,-56.6,0.4193,0.5807,1512.4,1572.2,5,1,1
+2026-09-17,2026,824305,Colorado Rockies,San Diego Padres,Tanner Gordon,Michael King,1432.8,1529.7,-122.0,0.3313,0.6687,1431.8,1530.7,0,0,0
+2026-09-17,2026,824464,Cincinnati Reds,Los Angeles Dodgers,Brady Singer,Justin Wrobleski,1478.1,1530.4,-45.5,0.4348,0.5652,1474.7,1533.8,0,7,0

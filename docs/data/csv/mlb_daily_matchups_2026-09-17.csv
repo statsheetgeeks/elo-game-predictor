@@ -1,0 +1,10 @@
+as_of_date,game_pk,home_team,home_combined_rating,away_team,away_combined_rating,elo_diff,home_win_prob
+2026-09-17,822845,Texas Rangers,1497.3,Boston Red Sox,1552.0,-54.7,45.3
+2026-09-17,822924,Tampa Bay Rays,1538.1,Athletics,1440.0,98.1,68.3
+2026-09-17,823334,Pittsburgh Pirates,1523.0,Milwaukee Brewers,1581.8,-58.8,44.1
+2026-09-17,823573,New York Mets,1516.5,Philadelphia Phillies,1545.0,-28.5,49.7
+2026-09-17,823978,Los Angeles Angels,1449.8,Minnesota Twins,1473.9,-24.1,48.8
+2026-09-17,824141,Houston Astros,1496.9,Kansas City Royals,1488.9,8.0,56.4
+2026-09-17,824305,Colorado Rockies,1415.6,San Diego Padres,1541.8,-126.2,36.5
+2026-09-17,824464,Cincinnati Reds,1482.2,Los Angeles Dodgers,1552.0,-69.8,42.6
+2026-09-17,824548,Chicago White Sox,1498.8,Detroit Tigers,1512.7,-13.9,52.8

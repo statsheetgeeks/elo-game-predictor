@@ -2270,18 +2270,27 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824466,2026-09-15,2026,Final,Cincinnati Reds,Los Angeles Dodgers,0.0,4.0,Rhett Lowder,Yoshinobu Yamamoto
 824627,2026-09-15,2026,Final,Chicago Cubs,Atlanta Braves,3.0,6.0,Kevin Gausman,Martín Pérez
 825030,2026-09-15,2026,Final,Arizona Diamondbacks,Miami Marlins,2.0,4.0,Michael Soroka,Janson Junk
-822680,2026-09-16,2026,Live,Washington Nationals,Philadelphia Phillies,0.0,0.0,Jared Simpson,Zack Wheeler
+822680,2026-09-16,2026,Final,Washington Nationals,Philadelphia Phillies,0.0,3.0,Jared Simpson,Zack Wheeler
 822763,2026-09-16,2026,Final,Toronto Blue Jays,Detroit Tigers,5.0,1.0,Max Scherzer,Keider Montero
-822846,2026-09-16,2026,Preview,Texas Rangers,Boston Red Sox,0.0,0.0,MacKenzie Gore,Jake Bennett
-822926,2026-09-16,2026,Live,Tampa Bay Rays,Athletics,0.0,0.0,Nick Martinez,Brady Basso
+822846,2026-09-16,2026,Final,Texas Rangers,Boston Red Sox,7.0,3.0,MacKenzie Gore,Jake Bennett
+822926,2026-09-16,2026,Final,Tampa Bay Rays,Athletics,4.0,3.0,Nick Martinez,Brady Basso
 823004,2026-09-16,2026,Final,St. Louis Cardinals,San Francisco Giants,5.0,6.0,Matthew Liberatore,Anthony Molina
-823332,2026-09-16,2026,Live,Pittsburgh Pirates,Milwaukee Brewers,0.0,0.0,Jared Jones,Logan Henderson
-823576,2026-09-16,2026,Preview,New York Mets,Baltimore Orioles,0.0,0.0,Xzavion Curry,Chris Bassitt
+823332,2026-09-16,2026,Final,Pittsburgh Pirates,Milwaukee Brewers,4.0,5.0,Jared Jones,Logan Henderson
+823576,2026-09-16,2026,Final,New York Mets,Baltimore Orioles,1.0,7.0,Xzavion Curry,Chris Bassitt
 823655,2026-09-16,2026,Final,Minnesota Twins,New York Yankees,5.0,4.0,Zebby Matthews,Carlos Rodón
-823979,2026-09-16,2026,Preview,Los Angeles Angels,Seattle Mariners,,,Yusei Kikuchi,George Kirby
-824140,2026-09-16,2026,Preview,Houston Astros,Kansas City Royals,0.0,0.0,Cristian Javier,Daniel Lynch IV
-824306,2026-09-16,2026,Preview,Colorado Rockies,San Diego Padres,0.0,0.0,Mason Adams,Robbie Ray
+823979,2026-09-16,2026,Final,Los Angeles Angels,Seattle Mariners,2.0,7.0,Yusei Kikuchi,George Kirby
+824140,2026-09-16,2026,Final,Houston Astros,Kansas City Royals,2.0,5.0,Cristian Javier,Daniel Lynch IV
+824306,2026-09-16,2026,Final,Colorado Rockies,San Diego Padres,3.0,9.0,Mason Adams,Robbie Ray
 824382,2026-09-16,2026,Final,Cleveland Guardians,Chicago White Sox,6.0,3.0,Parker Messick,Anthony Kay
-824467,2026-09-16,2026,Live,Cincinnati Reds,Los Angeles Dodgers,0.0,0.0,Andrew Abbott,Blake Snell
-824626,2026-09-16,2026,Preview,Chicago Cubs,Atlanta Braves,0.0,0.0,Shota Imanaga,JR Ritchie
-825031,2026-09-16,2026,Preview,Arizona Diamondbacks,Miami Marlins,,,Merrill Kelly,Ryan Gusto
+824467,2026-09-16,2026,Final,Cincinnati Reds,Los Angeles Dodgers,6.0,2.0,Andrew Abbott,Blake Snell
+824626,2026-09-16,2026,Final,Chicago Cubs,Atlanta Braves,8.0,4.0,Shota Imanaga,JR Ritchie
+825031,2026-09-16,2026,Final,Arizona Diamondbacks,Miami Marlins,3.0,4.0,Merrill Kelly,Ryan Gusto
+822845,2026-09-17,2026,Preview,Texas Rangers,Boston Red Sox,,,Tyler Alexander,Sonny Gray
+822924,2026-09-17,2026,Live,Tampa Bay Rays,Athletics,0.0,0.0,Drew Rasmussen,Jeffrey Springs
+823334,2026-09-17,2026,Live,Pittsburgh Pirates,Milwaukee Brewers,5.0,1.0,Wilber Dotel,Kyle Harrison
+823573,2026-09-17,2026,Preview,New York Mets,Philadelphia Phillies,,,Nolan McLean,Aaron Nola
+823978,2026-09-17,2026,Preview,Los Angeles Angels,Minnesota Twins,,,Walbert Ureña,Taj Bradley
+824141,2026-09-17,2026,Preview,Houston Astros,Kansas City Royals,,,,Seth Lugo
+824305,2026-09-17,2026,Preview,Colorado Rockies,San Diego Padres,0.0,0.0,Tanner Gordon,Michael King
+824464,2026-09-17,2026,Live,Cincinnati Reds,Los Angeles Dodgers,0.0,7.0,Brady Singer,Justin Wrobleski
+824548,2026-09-17,2026,Preview,Chicago White Sox,Detroit Tigers,,,Erick Fedde,Framber Valdez
