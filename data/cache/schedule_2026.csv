@@ -2294,18 +2294,18 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824305,2026-09-17,2026,Final,Colorado Rockies,San Diego Padres,2.0,9.0,Tanner Gordon,Michael King
 824464,2026-09-17,2026,Final,Cincinnati Reds,Los Angeles Dodgers,2.0,8.0,Brady Singer,Justin Wrobleski
 824548,2026-09-17,2026,Final,Chicago White Sox,Detroit Tigers,3.0,1.0,Erick Fedde,Framber Valdez
-822847,2026-09-18,2026,Preview,Texas Rangers,Toronto Blue Jays,,,Kumar Rocker,Dylan Cease
-822923,2026-09-18,2026,Preview,Tampa Bay Rays,Boston Red Sox,,,Ian Seymour,Ranger Suarez
-823005,2026-09-18,2026,Preview,St. Louis Cardinals,Washington Nationals,,,Kyle Leahy,Cade Cavalli
+822847,2026-09-18,2026,Preview,Texas Rangers,Toronto Blue Jays,0.0,0.0,Kumar Rocker,Dylan Cease
+822923,2026-09-18,2026,Preview,Tampa Bay Rays,Boston Red Sox,0.0,0.0,Ian Seymour,Ranger Suarez
+823005,2026-09-18,2026,Preview,St. Louis Cardinals,Washington Nationals,0.0,0.0,Kyle Leahy,Cade Cavalli
 823252,2026-09-18,2026,Preview,San Diego Padres,Miami Marlins,,,Nick Pivetta,Tyler Phillips
-823331,2026-09-18,2026,Preview,Pittsburgh Pirates,Kansas City Royals,,,Paul Skenes,Randy Dobnak
-823572,2026-09-18,2026,Preview,New York Mets,Philadelphia Phillies,,,Zac Thornton,
+823331,2026-09-18,2026,Preview,Pittsburgh Pirates,Kansas City Royals,0.0,0.0,Paul Skenes,Randy Dobnak
+823572,2026-09-18,2026,Preview,New York Mets,Philadelphia Phillies,0.0,0.0,Zac Thornton,Tim Mayza
 823898,2026-09-18,2026,Preview,Los Angeles Dodgers,San Francisco Giants,,,Tyler Glasnow,Cesar Perdomo
 823977,2026-09-18,2026,Preview,Los Angeles Angels,Minnesota Twins,,,Grayson Rodriguez,Connor Prielipp
-824138,2026-09-18,2026,Preview,Houston Astros,Atlanta Braves,,,Peter Lambert,Tyler Mahle
-824303,2026-09-18,2026,Preview,Colorado Rockies,Seattle Mariners,,,,Bryan Woo
-824383,2026-09-18,2026,Preview,Cleveland Guardians,Athletics,,,Daniel Espino,Mason Barnett
-824463,2026-09-18,2026,Preview,Cincinnati Reds,Chicago Cubs,,,Chase Burns,Clay Holmes
-824547,2026-09-18,2026,Preview,Chicago White Sox,Detroit Tigers,,,David Sandlin,Andrew Sears
-824790,2026-09-18,2026,Preview,Baltimore Orioles,Milwaukee Brewers,,,Cade Povich,Dustin May
+824138,2026-09-18,2026,Preview,Houston Astros,Atlanta Braves,0.0,0.0,Peter Lambert,Tyler Mahle
+824303,2026-09-18,2026,Preview,Colorado Rockies,Seattle Mariners,0.0,0.0,Gabriel Hughes,Bryan Woo
+824383,2026-09-18,2026,Preview,Cleveland Guardians,Athletics,0.0,0.0,Daniel Espino,Mason Barnett
+824463,2026-09-18,2026,Preview,Cincinnati Reds,Chicago Cubs,0.0,0.0,Chase Burns,Clay Holmes
+824547,2026-09-18,2026,Preview,Chicago White Sox,Detroit Tigers,0.0,0.0,David Sandlin,Andrew Sears
+824790,2026-09-18,2026,Preview,Baltimore Orioles,Milwaukee Brewers,0.0,0.0,Cade Povich,Dustin May
 825032,2026-09-18,2026,Preview,Arizona Diamondbacks,New York Yankees,,,Eduardo Rodriguez,Gerrit Cole
