@@ -2285,12 +2285,27 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824467,2026-09-16,2026,Final,Cincinnati Reds,Los Angeles Dodgers,6.0,2.0,Andrew Abbott,Blake Snell
 824626,2026-09-16,2026,Final,Chicago Cubs,Atlanta Braves,8.0,4.0,Shota Imanaga,JR Ritchie
 825031,2026-09-16,2026,Final,Arizona Diamondbacks,Miami Marlins,3.0,4.0,Merrill Kelly,Ryan Gusto
-822845,2026-09-17,2026,Preview,Texas Rangers,Boston Red Sox,0.0,0.0,Tyler Alexander,Sonny Gray
+822845,2026-09-17,2026,Final,Texas Rangers,Boston Red Sox,3.0,4.0,Tyler Alexander,Sonny Gray
 822924,2026-09-17,2026,Final,Tampa Bay Rays,Athletics,10.0,1.0,Drew Rasmussen,Jeffrey Springs
 823334,2026-09-17,2026,Final,Pittsburgh Pirates,Milwaukee Brewers,7.0,4.0,Wilber Dotel,Kyle Harrison
-823573,2026-09-17,2026,Preview,New York Mets,Philadelphia Phillies,0.0,0.0,Nolan McLean,Aaron Nola
-823978,2026-09-17,2026,Preview,Los Angeles Angels,Minnesota Twins,0.0,0.0,Walbert Ureña,Taj Bradley
-824141,2026-09-17,2026,Preview,Houston Astros,Kansas City Royals,0.0,0.0,Miguel Ullola,Seth Lugo
+823573,2026-09-17,2026,Final,New York Mets,Philadelphia Phillies,0.0,3.0,Nolan McLean,Aaron Nola
+823978,2026-09-17,2026,Final,Los Angeles Angels,Minnesota Twins,5.0,4.0,Walbert Ureña,Taj Bradley
+824141,2026-09-17,2026,Final,Houston Astros,Kansas City Royals,6.0,2.0,Miguel Ullola,Seth Lugo
 824305,2026-09-17,2026,Final,Colorado Rockies,San Diego Padres,2.0,9.0,Tanner Gordon,Michael King
 824464,2026-09-17,2026,Final,Cincinnati Reds,Los Angeles Dodgers,2.0,8.0,Brady Singer,Justin Wrobleski
-824548,2026-09-17,2026,Preview,Chicago White Sox,Detroit Tigers,0.0,0.0,Erick Fedde,Framber Valdez
+824548,2026-09-17,2026,Final,Chicago White Sox,Detroit Tigers,3.0,1.0,Erick Fedde,Framber Valdez
+822847,2026-09-18,2026,Preview,Texas Rangers,Toronto Blue Jays,,,Kumar Rocker,Dylan Cease
+822923,2026-09-18,2026,Preview,Tampa Bay Rays,Boston Red Sox,,,Ian Seymour,Ranger Suarez
+823005,2026-09-18,2026,Preview,St. Louis Cardinals,Washington Nationals,,,Kyle Leahy,Cade Cavalli
+823252,2026-09-18,2026,Preview,San Diego Padres,Miami Marlins,,,Nick Pivetta,Tyler Phillips
+823331,2026-09-18,2026,Preview,Pittsburgh Pirates,Kansas City Royals,,,Paul Skenes,Randy Dobnak
+823572,2026-09-18,2026,Preview,New York Mets,Philadelphia Phillies,,,Zac Thornton,
+823898,2026-09-18,2026,Preview,Los Angeles Dodgers,San Francisco Giants,,,Tyler Glasnow,Cesar Perdomo
+823977,2026-09-18,2026,Preview,Los Angeles Angels,Minnesota Twins,,,Grayson Rodriguez,Connor Prielipp
+824138,2026-09-18,2026,Preview,Houston Astros,Atlanta Braves,,,Peter Lambert,Tyler Mahle
+824303,2026-09-18,2026,Preview,Colorado Rockies,Seattle Mariners,,,,Bryan Woo
+824383,2026-09-18,2026,Preview,Cleveland Guardians,Athletics,,,Daniel Espino,Mason Barnett
+824463,2026-09-18,2026,Preview,Cincinnati Reds,Chicago Cubs,,,Chase Burns,Clay Holmes
+824547,2026-09-18,2026,Preview,Chicago White Sox,Detroit Tigers,,,David Sandlin,Andrew Sears
+824790,2026-09-18,2026,Preview,Baltimore Orioles,Milwaukee Brewers,,,Cade Povich,Dustin May
+825032,2026-09-18,2026,Preview,Arizona Diamondbacks,New York Yankees,,,Eduardo Rodriguez,Gerrit Cole
