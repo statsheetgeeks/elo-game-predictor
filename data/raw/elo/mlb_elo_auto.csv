@@ -15364,14 +15364,20 @@ date,season,game_pk,home_team,away_team,home_pitcher,away_pitcher,home_elo_pre,a
 2026-09-17,2026,824305,Colorado Rockies,San Diego Padres,Tanner Gordon,Michael King,1432.8,1529.7,-122.0,0.3313,0.6687,1430.3,1532.2,2,9,0
 2026-09-17,2026,824464,Cincinnati Reds,Los Angeles Dodgers,Brady Singer,Justin Wrobleski,1478.1,1530.4,-45.5,0.4348,0.5652,1474.9,1533.6,2,8,0
 2026-09-17,2026,824548,Chicago White Sox,Detroit Tigers,Erick Fedde,Framber Valdez,1498.7,1494.9,-12.4,0.4822,0.5178,1501.7,1492.0,3,1,1
-2026-09-18,2026,822847,Texas Rangers,Toronto Blue Jays,Kumar Rocker,Dylan Cease,1495.1,1505.0,-38.9,0.4443,0.5557,1493.2,1506.9,0,0,0
-2026-09-18,2026,822923,Tampa Bay Rays,Boston Red Sox,Ian Seymour,Ranger Suarez,1532.0,1536.8,-4.0,0.4943,0.5057,1529.7,1539.1,0,0,0
-2026-09-18,2026,823005,St. Louis Cardinals,Washington Nationals,Kyle Leahy,Cade Cavalli,1491.5,1491.3,31.2,0.5447,0.4553,1488.8,1494.1,0,0,0
-2026-09-18,2026,823331,Pittsburgh Pirates,Kansas City Royals,Paul Skenes,Randy Dobnak,1512.1,1478.9,76.0,0.6076,0.3924,1508.9,1482.1,0,0,0
-2026-09-18,2026,823572,New York Mets,Philadelphia Phillies,Zac Thornton,Tim Mayza,1495.2,1524.5,4.7,0.5068,0.4932,1492.7,1526.9,0,0,0
-2026-09-18,2026,824138,Houston Astros,Atlanta Braves,Peter Lambert,Tyler Mahle,1499.4,1525.5,-4.5,0.4936,0.5064,1497.1,1527.8,0,0,0
-2026-09-18,2026,824303,Colorado Rockies,Seattle Mariners,Gabriel Hughes,Bryan Woo,1430.3,1461.3,-34.1,0.4511,0.5489,1428.3,1463.3,0,0,0
-2026-09-18,2026,824383,Cleveland Guardians,Athletics,Daniel Espino,Mason Barnett,1497.2,1443.1,80.7,0.6141,0.3859,1493.9,1446.5,0,0,0
-2026-09-18,2026,824463,Cincinnati Reds,Chicago Cubs,Chase Burns,Clay Holmes,1474.9,1539.0,-48.4,0.4308,0.5692,1473.1,1540.9,0,0,0
-2026-09-18,2026,824547,Chicago White Sox,Detroit Tigers,David Sandlin,Andrew Sears,1501.7,1492.0,45.6,0.5653,0.4347,1498.8,1494.9,0,0,0
-2026-09-18,2026,824790,Baltimore Orioles,Milwaukee Brewers,Cade Povich,Dustin May,1512.7,1572.4,-86.9,0.3775,0.6225,1511.3,1573.8,0,0,0
+2026-09-18,2026,822847,Texas Rangers,Toronto Blue Jays,Kumar Rocker,Dylan Cease,1495.1,1505.0,-38.9,0.4443,0.5557,1499.2,1500.9,7,1,1
+2026-09-18,2026,822923,Tampa Bay Rays,Boston Red Sox,Ian Seymour,Ranger Suarez,1532.0,1536.8,-4.0,0.4943,0.5057,1529.2,1539.6,2,4,0
+2026-09-18,2026,823005,St. Louis Cardinals,Washington Nationals,Kyle Leahy,Cade Cavalli,1491.5,1491.3,31.2,0.5447,0.4553,1487.1,1495.8,1,9,0
+2026-09-18,2026,823252,San Diego Padres,Miami Marlins,Nick Pivetta,Tyler Phillips,1532.2,1504.3,75.6,0.6071,0.3929,1535.0,1501.5,8,2,1
+2026-09-18,2026,823331,Pittsburgh Pirates,Kansas City Royals,Paul Skenes,Randy Dobnak,1512.1,1478.9,76.0,0.6076,0.3924,1514.3,1476.7,8,5,1
+2026-09-18,2026,823572,New York Mets,Philadelphia Phillies,Zac Thornton,Tim Mayza,1495.2,1524.5,4.7,0.5068,0.4932,1498.2,1521.5,6,3,1
+2026-09-18,2026,823898,Los Angeles Dodgers,San Francisco Giants,Tyler Glasnow,Cesar Perdomo,1533.6,1455.4,163.8,0.7197,0.2803,1535.5,1453.6,8,2,1
+2026-09-18,2026,823977,Los Angeles Angels,Minnesota Twins,Grayson Rodriguez,Connor Prielipp,1459.5,1472.2,6.6,0.5094,0.4906,1456.4,1475.3,0,3,0
+2026-09-18,2026,824138,Houston Astros,Atlanta Braves,Peter Lambert,Tyler Mahle,1499.4,1525.5,-4.5,0.4936,0.5064,1496.2,1528.7,2,6,0
+2026-09-18,2026,824303,Colorado Rockies,Seattle Mariners,Gabriel Hughes,Bryan Woo,1430.3,1461.3,-34.1,0.4511,0.5489,1428.0,1463.5,4,5,0
+2026-09-18,2026,824383,Cleveland Guardians,Athletics,Daniel Espino,Mason Barnett,1497.2,1443.1,80.7,0.6141,0.3859,1499.1,1441.2,5,3,1
+2026-09-18,2026,824463,Cincinnati Reds,Chicago Cubs,Chase Burns,Clay Holmes,1474.9,1539.0,-48.4,0.4308,0.5692,1478.3,1535.6,6,4,1
+2026-09-18,2026,824547,Chicago White Sox,Detroit Tigers,David Sandlin,Andrew Sears,1501.7,1492.0,45.6,0.5653,0.4347,1498.2,1495.5,8,11,0
+2026-09-18,2026,824790,Baltimore Orioles,Milwaukee Brewers,Cade Povich,Dustin May,1512.7,1572.4,-86.9,0.3775,0.6225,1511.1,1574.0,5,6,0
+2026-09-18,2026,825032,Arizona Diamondbacks,New York Yankees,Eduardo Rodriguez,Gerrit Cole,1514.7,1534.9,-42.6,0.439,0.561,1511.3,1538.3,2,9,0
+2026-09-19,2026,822921,Tampa Bay Rays,Boston Red Sox,Freddy Peralta,Brayan Bello,1529.2,1539.6,61.0,0.5869,0.4131,1526.1,1542.7,0,0,0
+2026-09-19,2026,824545,Chicago White Sox,Detroit Tigers,Sean Burke,Jackson Jobe,1498.2,1495.5,41.1,0.5589,0.4411,1495.3,1498.4,0,0,0
