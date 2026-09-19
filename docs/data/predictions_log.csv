@@ -903,13 +903,13 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-09-19,823003,St. Louis Cardinals,Washington Nationals,St. Louis Cardinals,53.2,St. Louis Cardinals,50-55%,,,
 2026-09-19,823249,San Diego Padres,Miami Marlins,San Diego Padres,58.9,San Diego Padres,55-60%,,,
 2026-09-19,823330,Pittsburgh Pirates,Kansas City Royals,Pittsburgh Pirates,58.1,Pittsburgh Pirates,55-60%,,,
-2026-09-19,823571,New York Mets,Philadelphia Phillies,Philadelphia Phillies,49.8,Philadelphia Phillies,45-50%,,,
+2026-09-19,823571,New York Mets,Philadelphia Phillies,Philadelphia Phillies,49.8,Philadelphia Phillies,45-50%,Philadelphia Phillies,True,True
 2026-09-19,823899,Los Angeles Dodgers,San Francisco Giants,Los Angeles Dodgers,67.5,Los Angeles Dodgers,65-70%,,,
 2026-09-19,823976,Los Angeles Angels,Minnesota Twins,Minnesota Twins,49.6,Minnesota Twins,45-50%,,,
 2026-09-19,824137,Houston Astros,Atlanta Braves,Atlanta Braves,47.8,Atlanta Braves,45-50%,,,
 2026-09-19,824304,Colorado Rockies,Seattle Mariners,Seattle Mariners,44.6,Seattle Mariners,40-45%,,,
 2026-09-19,824380,Cleveland Guardians,Athletics,Cleveland Guardians,64.3,Cleveland Guardians,60-65%,,,
 2026-09-19,824461,Cincinnati Reds,Chicago Cubs,Chicago Cubs,43.0,Chicago Cubs,40-45%,,,
-2026-09-19,824545,Chicago White Sox,Detroit Tigers,Detroit Tigers,52.4,Chicago White Sox,50-55%,,,
-2026-09-19,824788,Baltimore Orioles,Milwaukee Brewers,Milwaukee Brewers,41.0,Milwaukee Brewers,40-45%,,,
+2026-09-19,824545,Chicago White Sox,Detroit Tigers,Detroit Tigers,52.4,Chicago White Sox,50-55%,Chicago White Sox,False,True
+2026-09-19,824788,Baltimore Orioles,Milwaukee Brewers,Milwaukee Brewers,41.0,Milwaukee Brewers,40-45%,Milwaukee Brewers,True,True
 2026-09-19,825029,Arizona Diamondbacks,New York Yankees,New York Yankees,47.5,New York Yankees,45-50%,,,

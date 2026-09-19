@@ -1,16 +1,16 @@
 as_of_date,game_pk,home_team,home_combined_rating,away_team,away_combined_rating,elo_diff,home_win_prob
-2026-09-19,822843,Texas Rangers,1497.5,Toronto Blue Jays,1515.3,-17.8,50.6
-2026-09-19,822921,Tampa Bay Rays,1538.2,Boston Red Sox,1560.7,-22.5,51.8
-2026-09-19,823003,St. Louis Cardinals,1493.4,Washington Nationals,1491.4,2.0,53.2
+2026-09-19,822843,Texas Rangers,1497.6,Toronto Blue Jays,1517.8,-20.2,50.3
+2026-09-19,822921,Tampa Bay Rays,1538.2,Boston Red Sox,1560.6,-22.4,51.8
+2026-09-19,823003,St. Louis Cardinals,1493.9,Washington Nationals,1494.2,-0.3,52.9
 2026-09-19,823249,San Diego Padres,1543.3,Miami Marlins,1506.2,37.1,58.9
-2026-09-19,823330,Pittsburgh Pirates,1523.0,Kansas City Royals,1483.7,39.3,58.1
-2026-09-19,823571,New York Mets,1517.1,Philadelphia Phillies,1545.3,-28.2,49.8
-2026-09-19,823899,Los Angeles Dodgers,1551.8,San Francisco Giants,1468.9,82.9,67.5
-2026-09-19,823976,Los Angeles Angels,1450.0,Minnesota Twins,1468.4,-18.4,49.6
-2026-09-19,824137,Houston Astros,1496.9,Atlanta Braves,1548.6,-51.7,47.8
-2026-09-19,824304,Colorado Rockies,1415.3,Seattle Mariners,1483.0,-67.7,44.6
-2026-09-19,824380,Cleveland Guardians,1512.7,Athletics,1430.5,82.2,64.3
-2026-09-19,824461,Cincinnati Reds,1482.3,Chicago Cubs,1549.1,-66.8,43.0
-2026-09-19,824545,Chicago White Sox,1499.2,Detroit Tigers,1516.3,-17.1,52.4
-2026-09-19,824788,Baltimore Orioles,1521.7,Milwaukee Brewers,1583.4,-61.7,41.0
-2026-09-19,825029,Arizona Diamondbacks,1527.2,New York Yankees,1560.2,-33.0,47.5
+2026-09-19,823330,Pittsburgh Pirates,1523.3,Kansas City Royals,1487.3,36.0,57.6
+2026-09-19,823571,New York Mets,1517.2,Philadelphia Phillies,1548.4,-31.2,49.3
+2026-09-19,823899,Los Angeles Dodgers,1552.2,San Francisco Giants,1473.2,79.0,67.0
+2026-09-19,823976,Los Angeles Angels,1450.3,Minnesota Twins,1468.4,-18.1,49.7
+2026-09-19,824137,Houston Astros,1497.0,Atlanta Braves,1551.2,-54.2,47.5
+2026-09-19,824304,Colorado Rockies,1415.6,Seattle Mariners,1485.7,-70.1,44.2
+2026-09-19,824380,Cleveland Guardians,1513.1,Athletics,1434.6,78.5,63.8
+2026-09-19,824461,Cincinnati Reds,1482.7,Chicago Cubs,1551.2,-68.5,42.8
+2026-09-19,824545,Chicago White Sox,1499.1,Detroit Tigers,1511.2,-12.1,53.1
+2026-09-19,824788,Baltimore Orioles,1522.1,Milwaukee Brewers,1585.4,-63.3,40.8
+2026-09-19,825029,Arizona Diamondbacks,1527.5,New York Yankees,1562.8,-35.3,47.2
