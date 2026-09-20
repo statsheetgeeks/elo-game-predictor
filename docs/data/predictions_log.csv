@@ -898,18 +898,33 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-09-18,824547,Chicago White Sox,Detroit Tigers,Detroit Tigers,53.2,Chicago White Sox,50-55%,Detroit Tigers,True,False
 2026-09-18,824790,Baltimore Orioles,Milwaukee Brewers,Milwaukee Brewers,41.3,Milwaukee Brewers,40-45%,Milwaukee Brewers,True,True
 2026-09-18,825032,Arizona Diamondbacks,New York Yankees,New York Yankees,48.1,New York Yankees,45-50%,New York Yankees,True,True
-2026-09-19,822843,Texas Rangers,Toronto Blue Jays,Toronto Blue Jays,50.6,Texas Rangers,50-55%,,,
-2026-09-19,822921,Tampa Bay Rays,Boston Red Sox,Boston Red Sox,51.8,Tampa Bay Rays,50-55%,,,
-2026-09-19,823003,St. Louis Cardinals,Washington Nationals,St. Louis Cardinals,53.2,St. Louis Cardinals,50-55%,,,
-2026-09-19,823249,San Diego Padres,Miami Marlins,San Diego Padres,58.9,San Diego Padres,55-60%,,,
-2026-09-19,823330,Pittsburgh Pirates,Kansas City Royals,Pittsburgh Pirates,58.1,Pittsburgh Pirates,55-60%,,,
+2026-09-19,822843,Texas Rangers,Toronto Blue Jays,Toronto Blue Jays,50.6,Texas Rangers,50-55%,Texas Rangers,False,True
+2026-09-19,822921,Tampa Bay Rays,Boston Red Sox,Boston Red Sox,51.8,Tampa Bay Rays,50-55%,Tampa Bay Rays,False,True
+2026-09-19,823003,St. Louis Cardinals,Washington Nationals,St. Louis Cardinals,53.2,St. Louis Cardinals,50-55%,Washington Nationals,False,False
+2026-09-19,823249,San Diego Padres,Miami Marlins,San Diego Padres,58.9,San Diego Padres,55-60%,San Diego Padres,True,True
+2026-09-19,823330,Pittsburgh Pirates,Kansas City Royals,Pittsburgh Pirates,58.1,Pittsburgh Pirates,55-60%,Pittsburgh Pirates,True,True
 2026-09-19,823571,New York Mets,Philadelphia Phillies,Philadelphia Phillies,49.8,Philadelphia Phillies,45-50%,Philadelphia Phillies,True,True
-2026-09-19,823899,Los Angeles Dodgers,San Francisco Giants,Los Angeles Dodgers,67.5,Los Angeles Dodgers,65-70%,,,
-2026-09-19,823976,Los Angeles Angels,Minnesota Twins,Minnesota Twins,49.6,Minnesota Twins,45-50%,,,
-2026-09-19,824137,Houston Astros,Atlanta Braves,Atlanta Braves,47.8,Atlanta Braves,45-50%,,,
-2026-09-19,824304,Colorado Rockies,Seattle Mariners,Seattle Mariners,44.6,Seattle Mariners,40-45%,,,
-2026-09-19,824380,Cleveland Guardians,Athletics,Cleveland Guardians,64.3,Cleveland Guardians,60-65%,,,
-2026-09-19,824461,Cincinnati Reds,Chicago Cubs,Chicago Cubs,43.0,Chicago Cubs,40-45%,,,
+2026-09-19,823899,Los Angeles Dodgers,San Francisco Giants,Los Angeles Dodgers,67.5,Los Angeles Dodgers,65-70%,Los Angeles Dodgers,True,True
+2026-09-19,823976,Los Angeles Angels,Minnesota Twins,Minnesota Twins,49.6,Minnesota Twins,45-50%,Los Angeles Angels,False,False
+2026-09-19,824137,Houston Astros,Atlanta Braves,Atlanta Braves,47.8,Atlanta Braves,45-50%,Atlanta Braves,True,True
+2026-09-19,824304,Colorado Rockies,Seattle Mariners,Seattle Mariners,44.6,Seattle Mariners,40-45%,Colorado Rockies,False,False
+2026-09-19,824380,Cleveland Guardians,Athletics,Cleveland Guardians,64.3,Cleveland Guardians,60-65%,Cleveland Guardians,True,True
+2026-09-19,824461,Cincinnati Reds,Chicago Cubs,Chicago Cubs,43.0,Chicago Cubs,40-45%,Chicago Cubs,True,True
 2026-09-19,824545,Chicago White Sox,Detroit Tigers,Detroit Tigers,52.4,Chicago White Sox,50-55%,Chicago White Sox,False,True
 2026-09-19,824788,Baltimore Orioles,Milwaukee Brewers,Milwaukee Brewers,41.0,Milwaukee Brewers,40-45%,Milwaukee Brewers,True,True
-2026-09-19,825029,Arizona Diamondbacks,New York Yankees,New York Yankees,47.5,New York Yankees,45-50%,,,
+2026-09-19,825029,Arizona Diamondbacks,New York Yankees,New York Yankees,47.5,New York Yankees,45-50%,Arizona Diamondbacks,False,False
+2026-09-20,822844,Texas Rangers,Toronto Blue Jays,Toronto Blue Jays,50.7,Texas Rangers,50-55%,,,
+2026-09-20,822922,Tampa Bay Rays,Boston Red Sox,Boston Red Sox,52.2,Tampa Bay Rays,50-55%,,,
+2026-09-20,823001,St. Louis Cardinals,Washington Nationals,Washington Nationals,52.3,St. Louis Cardinals,50-55%,,,
+2026-09-20,823247,San Diego Padres,Miami Marlins,San Diego Padres,59.2,San Diego Padres,55-60%,,,
+2026-09-20,823329,Pittsburgh Pirates,Kansas City Royals,Pittsburgh Pirates,57.9,Pittsburgh Pirates,55-60%,,,
+2026-09-20,823570,New York Mets,Philadelphia Phillies,Philadelphia Phillies,50.0,New York Mets,50-55%,,,
+2026-09-20,823896,Los Angeles Dodgers,San Francisco Giants,Los Angeles Dodgers,67.3,Los Angeles Dodgers,65-70%,,,
+2026-09-20,823975,Los Angeles Angels,Minnesota Twins,Minnesota Twins,50.0,Los Angeles Angels,50-55%,,,
+2026-09-20,824139,Houston Astros,Atlanta Braves,Atlanta Braves,47.1,Atlanta Braves,45-50%,,,
+2026-09-20,824300,Colorado Rockies,Seattle Mariners,Seattle Mariners,44.7,Seattle Mariners,40-45%,,,
+2026-09-20,824381,Cleveland Guardians,Athletics,Cleveland Guardians,64.2,Cleveland Guardians,60-65%,,,
+2026-09-20,824462,Cincinnati Reds,Chicago Cubs,Chicago Cubs,42.4,Chicago Cubs,40-45%,,,
+2026-09-20,824546,Chicago White Sox,Detroit Tigers,Detroit Tigers,52.8,Chicago White Sox,50-55%,,,
+2026-09-20,824789,Baltimore Orioles,Milwaukee Brewers,Milwaukee Brewers,40.8,Milwaukee Brewers,40-45%,,,
+2026-09-20,825028,Arizona Diamondbacks,New York Yankees,New York Yankees,48.0,New York Yankees,45-50%,,,
