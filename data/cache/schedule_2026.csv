@@ -2324,18 +2324,18 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824545,2026-09-19,2026,Final,Chicago White Sox,Detroit Tigers,3.0,1.0,Sean Burke,Jackson Jobe
 824788,2026-09-19,2026,Final,Baltimore Orioles,Milwaukee Brewers,0.0,1.0,Trevor Rogers,Robert Gasser
 825029,2026-09-19,2026,Final,Arizona Diamondbacks,New York Yankees,5.0,3.0,Brandon Pfaadt,Cam Schlittler
-822844,2026-09-20,2026,Preview,Texas Rangers,Toronto Blue Jays,0.0,0.0,Jacob deGrom,Spencer Miles
-822922,2026-09-20,2026,Preview,Tampa Bay Rays,Boston Red Sox,0.0,0.0,Griffin Jax,Patrick Sandoval
-823001,2026-09-20,2026,Preview,St. Louis Cardinals,Washington Nationals,0.0,0.0,Quinn Mathews,Jake Irvin
-823247,2026-09-20,2026,Preview,San Diego Padres,Miami Marlins,,,Walker Buehler,Sandy Alcantara
-823329,2026-09-20,2026,Live,Pittsburgh Pirates,Kansas City Royals,0.0,0.0,Lake Bachar,Michael Wacha
-823570,2026-09-20,2026,Live,New York Mets,Philadelphia Phillies,0.0,0.0,Jonah Tong,Cristopher Sánchez
-823896,2026-09-20,2026,Preview,Los Angeles Dodgers,San Francisco Giants,0.0,0.0,,Matt Wilkinson
-823975,2026-09-20,2026,Preview,Los Angeles Angels,Minnesota Twins,,,Ryan Johnson,Dean Kremer
-824139,2026-09-20,2026,Preview,Houston Astros,Atlanta Braves,0.0,0.0,Hunter Brown,Martín Pérez
-824300,2026-09-20,2026,Preview,Colorado Rockies,Seattle Mariners,0.0,0.0,Tomoyuki Sugano,Kade Anderson
-824381,2026-09-20,2026,Preview,Cleveland Guardians,Athletics,0.0,0.0,Gavin Williams,Jack Perkins
-824462,2026-09-20,2026,Preview,Cincinnati Reds,Chicago Cubs,0.0,0.0,Rhett Lowder,David Peterson
-824546,2026-09-20,2026,Preview,Chicago White Sox,Detroit Tigers,0.0,0.0,Davis Martin,Troy Melton
-824789,2026-09-20,2026,Preview,Baltimore Orioles,Milwaukee Brewers,,,Brandon Young,Jacob Misiorowski
-825028,2026-09-20,2026,Preview,Arizona Diamondbacks,New York Yankees,,,Corbin Burnes,Will Warren
+822844,2026-09-20,2026,Final,Texas Rangers,Toronto Blue Jays,2.0,7.0,Jacob deGrom,Spencer Miles
+822922,2026-09-20,2026,Final,Tampa Bay Rays,Boston Red Sox,5.0,1.0,Griffin Jax,Patrick Sandoval
+823001,2026-09-20,2026,Final,St. Louis Cardinals,Washington Nationals,5.0,3.0,Quinn Mathews,Jake Irvin
+823247,2026-09-20,2026,Live,San Diego Padres,Miami Marlins,4.0,3.0,Walker Buehler,Sandy Alcantara
+823329,2026-09-20,2026,Final,Pittsburgh Pirates,Kansas City Royals,4.0,3.0,Lake Bachar,Michael Wacha
+823570,2026-09-20,2026,Final,New York Mets,Philadelphia Phillies,2.0,7.0,Jonah Tong,Cristopher Sánchez
+823896,2026-09-20,2026,Live,Los Angeles Dodgers,San Francisco Giants,1.0,1.0,Jack Dreyer,Matt Wilkinson
+823975,2026-09-20,2026,Live,Los Angeles Angels,Minnesota Twins,0.0,5.0,Ryan Johnson,Dean Kremer
+824139,2026-09-20,2026,Final,Houston Astros,Atlanta Braves,2.0,4.0,Hunter Brown,Martín Pérez
+824300,2026-09-20,2026,Final,Colorado Rockies,Seattle Mariners,1.0,2.0,Tomoyuki Sugano,Kade Anderson
+824381,2026-09-20,2026,Live,Cleveland Guardians,Athletics,1.0,0.0,Gavin Williams,Jack Perkins
+824462,2026-09-20,2026,Final,Cincinnati Reds,Chicago Cubs,1.0,9.0,Rhett Lowder,David Peterson
+824546,2026-09-20,2026,Live,Chicago White Sox,Detroit Tigers,0.0,0.0,Davis Martin,Troy Melton
+824789,2026-09-20,2026,Preview,Baltimore Orioles,Milwaukee Brewers,0.0,0.0,Brandon Young,Jacob Misiorowski
+825028,2026-09-20,2026,Live,Arizona Diamondbacks,New York Yankees,6.0,4.0,Corbin Burnes,Will Warren

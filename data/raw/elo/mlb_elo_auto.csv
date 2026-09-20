@@ -15394,14 +15394,18 @@ date,season,game_pk,home_team,away_team,home_pitcher,away_pitcher,home_elo_pre,a
 2026-09-19,2026,824545,Chicago White Sox,Detroit Tigers,Sean Burke,Jackson Jobe,1498.2,1495.5,41.1,0.5589,0.4411,1500.5,1493.2,3,1,1
 2026-09-19,2026,824788,Baltimore Orioles,Milwaukee Brewers,Trevor Rogers,Robert Gasser,1511.1,1574.0,-70.3,0.4001,0.5999,1509.3,1575.8,0,1,0
 2026-09-19,2026,825029,Arizona Diamondbacks,New York Yankees,Brandon Pfaadt,Cam Schlittler,1511.3,1538.3,-34.5,0.4505,0.5495,1514.6,1535.1,5,3,1
-2026-09-20,2026,822844,Texas Rangers,Toronto Blue Jays,Jacob deGrom,Spencer Miles,1502.3,1497.8,75.3,0.6067,0.3933,1499.0,1501.1,0,0,0
-2026-09-20,2026,822922,Tampa Bay Rays,Boston Red Sox,Griffin Jax,Patrick Sandoval,1531.1,1537.6,32.1,0.5461,0.4539,1528.4,1540.4,0,0,0
-2026-09-20,2026,823001,St. Louis Cardinals,Washington Nationals,Quinn Mathews,Jake Irvin,1483.9,1498.9,23.4,0.5336,0.4664,1481.3,1501.6,0,0,0
-2026-09-20,2026,823329,Pittsburgh Pirates,Kansas City Royals,Lake Bachar,Michael Wacha,1516.2,1474.8,37.6,0.554,0.446,1513.4,1477.6,0,0,0
-2026-09-20,2026,823570,New York Mets,Philadelphia Phillies,Jonah Tong,Cristopher Sánchez,1501.9,1517.8,-31.8,0.4544,0.5456,1499.8,1519.8,0,0,0
-2026-09-20,2026,823896,Los Angeles Dodgers,San Francisco Giants,,Matt Wilkinson,1537.1,1451.9,130.4,0.6793,0.3207,1533.3,1455.7,0,0,0
-2026-09-20,2026,824139,Houston Astros,Atlanta Braves,Hunter Brown,Martín Pérez,1493.3,1531.6,5.5,0.5079,0.4921,1490.9,1534.0,0,0,0
-2026-09-20,2026,824300,Colorado Rockies,Seattle Mariners,Tomoyuki Sugano,Kade Anderson,1430.6,1461.0,9.9,0.5142,0.4858,1428.0,1463.5,0,0,0
-2026-09-20,2026,824381,Cleveland Guardians,Athletics,Gavin Williams,Jack Perkins,1501.4,1439.0,113.2,0.6574,0.3426,1497.7,1442.6,0,0,0
-2026-09-20,2026,824462,Cincinnati Reds,Chicago Cubs,Rhett Lowder,David Peterson,1475.8,1538.2,-48.8,0.4302,0.5698,1473.9,1540.0,0,0,0
+2026-09-20,2026,822844,Texas Rangers,Toronto Blue Jays,Jacob deGrom,Spencer Miles,1502.3,1497.8,75.3,0.6067,0.3933,1498.0,1502.2,2,7,0
+2026-09-20,2026,822922,Tampa Bay Rays,Boston Red Sox,Griffin Jax,Patrick Sandoval,1531.1,1537.6,32.1,0.5461,0.4539,1534.0,1534.8,5,1,1
+2026-09-20,2026,823001,St. Louis Cardinals,Washington Nationals,Quinn Mathews,Jake Irvin,1483.9,1498.9,23.4,0.5336,0.4664,1486.5,1496.4,5,3,1
+2026-09-20,2026,823247,San Diego Padres,Miami Marlins,Walker Buehler,Sandy Alcantara,1536.9,1499.6,54.5,0.5778,0.4222,1538.9,1497.6,4,3,1
+2026-09-20,2026,823329,Pittsburgh Pirates,Kansas City Royals,Lake Bachar,Michael Wacha,1516.2,1474.8,37.6,0.554,0.446,1518.4,1472.6,4,3,1
+2026-09-20,2026,823570,New York Mets,Philadelphia Phillies,Jonah Tong,Cristopher Sánchez,1501.9,1517.8,-31.8,0.4544,0.5456,1498.8,1520.9,2,7,0
+2026-09-20,2026,823896,Los Angeles Dodgers,San Francisco Giants,Jack Dreyer,Matt Wilkinson,1537.1,1451.9,125.9,0.6737,0.3263,1533.3,1455.7,1,1,0
+2026-09-20,2026,823975,Los Angeles Angels,Minnesota Twins,Ryan Johnson,Dean Kremer,1459.1,1472.6,18.0,0.5259,0.4741,1455.4,1476.2,0,5,0
+2026-09-20,2026,824139,Houston Astros,Atlanta Braves,Hunter Brown,Martín Pérez,1493.3,1531.6,5.5,0.5079,0.4921,1490.5,1534.4,2,4,0
+2026-09-20,2026,824300,Colorado Rockies,Seattle Mariners,Tomoyuki Sugano,Kade Anderson,1430.6,1461.0,9.9,0.5142,0.4858,1427.8,1463.7,1,2,0
+2026-09-20,2026,824381,Cleveland Guardians,Athletics,Gavin Williams,Jack Perkins,1501.4,1439.0,113.2,0.6574,0.3426,1502.7,1437.6,1,0,1
+2026-09-20,2026,824462,Cincinnati Reds,Chicago Cubs,Rhett Lowder,David Peterson,1475.8,1538.2,-48.8,0.4302,0.5698,1472.2,1541.7,1,9,0
 2026-09-20,2026,824546,Chicago White Sox,Detroit Tigers,Davis Martin,Troy Melton,1500.5,1493.2,24.4,0.5351,0.4649,1497.8,1495.8,0,0,0
+2026-09-20,2026,824789,Baltimore Orioles,Milwaukee Brewers,Brandon Young,Jacob Misiorowski,1509.3,1575.8,-91.5,0.3713,0.6287,1507.9,1577.2,0,0,0
+2026-09-20,2026,825028,Arizona Diamondbacks,New York Yankees,Corbin Burnes,Will Warren,1514.6,1535.1,50.7,0.5724,0.4276,1516.8,1532.8,6,4,1
