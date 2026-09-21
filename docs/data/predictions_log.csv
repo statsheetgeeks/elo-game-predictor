@@ -929,5 +929,5 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-09-20,824789,Baltimore Orioles,Milwaukee Brewers,Milwaukee Brewers,40.8,Milwaukee Brewers,40-45%,Milwaukee Brewers,True,True
 2026-09-20,825028,Arizona Diamondbacks,New York Yankees,New York Yankees,48.0,New York Yankees,45-50%,Arizona Diamondbacks,False,False
 2026-09-21,823169,San Francisco Giants,Minnesota Twins,Minnesota Twins,54.3,San Francisco Giants,50-55%,,,
-2026-09-21,824221,Detroit Tigers,Washington Nationals,Detroit Tigers,55.0,Detroit Tigers,55-60%,,,
+2026-09-21,824221,Detroit Tigers,Washington Nationals,Detroit Tigers,55.0,Detroit Tigers,55-60%,Detroit Tigers,True,True
 2026-09-21,824787,Baltimore Orioles,Toronto Blue Jays,Baltimore Orioles,50.7,Baltimore Orioles,50-55%,,,

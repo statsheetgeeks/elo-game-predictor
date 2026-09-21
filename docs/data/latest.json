@@ -1,6 +1,6 @@
 {
   "as_of_date": "2026-09-21",
-  "generated_at_utc": "2026-09-21T19:03:21.390878+00:00",
+  "generated_at_utc": "2026-09-21T23:01:06.057543+00:00",
   "model_flags": {
     "base_K": 4.790024057931767,
     "base_home_adv": 20.281754999102375,
@@ -39,7 +39,7 @@
         "primary": "#0C2340",
         "secondary": "#FA4616",
         "logo": "https://www.mlbstatic.com/team-logos/116.svg",
-        "combined_rating": 1507.0
+        "combined_rating": 1506.9
       },
       "away": {
         "name": "Washington Nationals",
@@ -47,10 +47,10 @@
         "primary": "#AB0003",
         "secondary": "#14225A",
         "logo": "https://www.mlbstatic.com/team-logos/120.svg",
-        "combined_rating": 1491.9
+        "combined_rating": 1489.3
       },
-      "elo_diff": 15.1,
-      "home_win_prob": 55.0
+      "elo_diff": 17.6,
+      "home_win_prob": 55.4
     },
     {
       "game_pk": 824787,
@@ -60,7 +60,7 @@
         "primary": "#DF4601",
         "secondary": "#000000",
         "logo": "https://www.mlbstatic.com/team-logos/110.svg",
-        "combined_rating": 1522.4
+        "combined_rating": 1522.9
       },
       "away": {
         "name": "Toronto Blue Jays",
@@ -68,10 +68,10 @@
         "primary": "#134A8E",
         "secondary": "#E8291C",
         "logo": "https://www.mlbstatic.com/team-logos/141.svg",
-        "combined_rating": 1516.3
+        "combined_rating": 1519.1
       },
-      "elo_diff": 6.1,
-      "home_win_prob": 50.7
+      "elo_diff": 3.8,
+      "home_win_prob": 50.4
     }
   ],
   "rankings": [
@@ -189,16 +189,26 @@
       "team": "Baltimore Orioles",
       "abbr": "BAL",
       "combined_rank": 12,
-      "combined_power_rating": 1522.4,
+      "combined_power_rating": 1522.9,
       "elo_rank": 12,
       "elo_rating": 1512.7,
       "home_adv": -1.2,
-      "avg_rotation_pitcher_rating": 1518.3
+      "avg_rotation_pitcher_rating": 1519.3
+    },
+    {
+      "team": "Toronto Blue Jays",
+      "abbr": "TOR",
+      "combined_rank": 13,
+      "combined_power_rating": 1519.1,
+      "elo_rank": 14,
+      "elo_rating": 1504.8,
+      "home_adv": 23.5,
+      "avg_rotation_pitcher_rating": 1527.0
     },
     {
       "team": "New York Mets",
       "abbr": "NYM",
-      "combined_rank": 13,
+      "combined_rank": 14,
       "combined_power_rating": 1517.1,
       "elo_rank": 13,
       "elo_rating": 1507.8,
@@ -206,21 +216,11 @@
       "avg_rotation_pitcher_rating": 1517.6
     },
     {
-      "team": "Toronto Blue Jays",
-      "abbr": "TOR",
-      "combined_rank": 14,
-      "combined_power_rating": 1516.3,
-      "elo_rank": 14,
-      "elo_rating": 1502.2,
-      "home_adv": 23.5,
-      "avg_rotation_pitcher_rating": 1526.6
-    },
-    {
       "team": "Cleveland Guardians",
       "abbr": "CLE",
       "combined_rank": 15,
       "combined_power_rating": 1512.8,
-      "elo_rank": 19,
+      "elo_rank": 18,
       "elo_rating": 1495.7,
       "home_adv": 20.3,
       "avg_rotation_pitcher_rating": 1532.2
@@ -229,11 +229,11 @@
       "team": "Detroit Tigers",
       "abbr": "DET",
       "combined_rank": 16,
-      "combined_power_rating": 1507.0,
+      "combined_power_rating": 1506.9,
       "elo_rank": 22,
       "elo_rating": 1489.5,
       "home_adv": 19.8,
-      "avg_rotation_pitcher_rating": 1533.0
+      "avg_rotation_pitcher_rating": 1532.8
     },
     {
       "team": "Miami Marlins",
@@ -280,7 +280,7 @@
       "abbr": "STL",
       "combined_rank": 21,
       "combined_power_rating": 1493.2,
-      "elo_rank": 20,
+      "elo_rank": 19,
       "elo_rating": 1494.5,
       "home_adv": 20.4,
       "avg_rotation_pitcher_rating": 1497.5
@@ -289,9 +289,9 @@
       "team": "Washington Nationals",
       "abbr": "WSH",
       "combined_rank": 22,
-      "combined_power_rating": 1491.9,
-      "elo_rank": 18,
-      "elo_rating": 1496.4,
+      "combined_power_rating": 1489.3,
+      "elo_rank": 20,
+      "elo_rating": 1493.8,
       "home_adv": 5.3,
       "avg_rotation_pitcher_rating": 1491.5
     },
@@ -382,7 +382,7 @@
       "team": "Baltimore Orioles",
       "abbr": "BAL",
       "pitcher": "Shane Baz",
-      "rating": 1535.6,
+      "rating": 1539.8,
       "opponent": "Toronto Blue Jays"
     },
     {
@@ -390,7 +390,7 @@
       "team": "Toronto Blue Jays",
       "abbr": "TOR",
       "pitcher": "Trey Yesavage",
-      "rating": 1507.9,
+      "rating": 1512.2,
       "opponent": "Baltimore Orioles"
     },
     {
@@ -398,7 +398,7 @@
       "team": "Detroit Tigers",
       "abbr": "DET",
       "pitcher": "River Ryan",
-      "rating": 1507.4,
+      "rating": 1511.4,
       "opponent": "Washington Nationals"
     },
     {
@@ -406,7 +406,7 @@
       "team": "Washington Nationals",
       "abbr": "WSH",
       "pitcher": "DJ Herz",
-      "rating": 1495.8,
+      "rating": 1497.8,
       "opponent": "Detroit Tigers"
     },
     {

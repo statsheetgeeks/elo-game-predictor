@@ -2340,5 +2340,5 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824789,2026-09-20,2026,Final,Baltimore Orioles,Milwaukee Brewers,0.0,3.0,Brandon Young,Jacob Misiorowski
 825028,2026-09-20,2026,Final,Arizona Diamondbacks,New York Yankees,8.0,4.0,Corbin Burnes,Will Warren
 823169,2026-09-21,2026,Preview,San Francisco Giants,Minnesota Twins,,,Blade Tidwell,Zebby Matthews
-824221,2026-09-21,2026,Preview,Detroit Tigers,Washington Nationals,,,River Ryan,DJ Herz
-824787,2026-09-21,2026,Preview,Baltimore Orioles,Toronto Blue Jays,,,Shane Baz,Trey Yesavage
+824221,2026-09-21,2026,Live,Detroit Tigers,Washington Nationals,2.0,0.0,River Ryan,DJ Herz
+824787,2026-09-21,2026,Preview,Baltimore Orioles,Toronto Blue Jays,0.0,0.0,Shane Baz,Trey Yesavage
