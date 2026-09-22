@@ -767,7 +767,6 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 823222,2026-05-23,2026,Final,San Francisco Giants,Chicago White Sox,10.0,3.0,Adrian Houser,Bryan Hudson
 823300,2026-05-23,2026,Final,San Diego Padres,Athletics,2.0,0.0,Lucas Giolito,J.T. Ginn
 823458,2026-05-23,2026,Final,Philadelphia Phillies,Cleveland Guardians,3.0,0.0,Zack Wheeler,Slade Cecconi
-823543,2026-05-23,2026,Final,New York Yankees,Tampa Bay Rays,,,Ryan Weathers,Drew Rasmussen
 823787,2026-05-23,2026,Final,Milwaukee Brewers,Los Angeles Dodgers,3.0,11.0,Robert Gasser,Roki Sasaki
 823862,2026-05-23,2026,Final,Miami Marlins,New York Mets,4.0,1.0,Max Meyer,Freddy Peralta
 824030,2026-05-23,2026,Final,Los Angeles Angels,Texas Rangers,5.0,2.0,Walbert Ureña,Nathan Eovaldi
@@ -2339,6 +2338,22 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824546,2026-09-20,2026,Final,Chicago White Sox,Detroit Tigers,8.0,1.0,Davis Martin,Troy Melton
 824789,2026-09-20,2026,Final,Baltimore Orioles,Milwaukee Brewers,0.0,3.0,Brandon Young,Jacob Misiorowski
 825028,2026-09-20,2026,Final,Arizona Diamondbacks,New York Yankees,8.0,4.0,Corbin Burnes,Will Warren
-823169,2026-09-21,2026,Preview,San Francisco Giants,Minnesota Twins,,,Blade Tidwell,Zebby Matthews
-824221,2026-09-21,2026,Live,Detroit Tigers,Washington Nationals,2.0,0.0,River Ryan,DJ Herz
-824787,2026-09-21,2026,Preview,Baltimore Orioles,Toronto Blue Jays,0.0,0.0,Shane Baz,Trey Yesavage
+823169,2026-09-21,2026,Final,San Francisco Giants,Minnesota Twins,5.0,2.0,Blade Tidwell,Zebby Matthews
+824221,2026-09-21,2026,Final,Detroit Tigers,Washington Nationals,9.0,2.0,River Ryan,DJ Herz
+824787,2026-09-21,2026,Final,Baltimore Orioles,Toronto Blue Jays,4.0,3.0,Shane Baz,Trey Yesavage
+822840,2026-09-22,2026,Preview,Texas Rangers,New York Mets,,,MacKenzie Gore,Sean Manaea
+823089,2026-09-22,2026,Preview,Seattle Mariners,Houston Astros,,,Logan Gilbert,Cristian Javier
+823166,2026-09-22,2026,Preview,San Francisco Giants,Minnesota Twins,,,Anthony Molina,Taj Bradley
+823328,2026-09-22,2026,Preview,Pittsburgh Pirates,St. Louis Cardinals,,,Jared Jones,Andre Pallante
+823412,2026-09-22,2026,Preview,Philadelphia Phillies,Milwaukee Brewers,,,Zack Wheeler,Dustin May
+823494,2026-09-22,2026,Preview,New York Yankees,Tampa Bay Rays,,,Max Fried,Drew Rasmussen
+823543,2026-09-22,2026,Live,New York Yankees,Tampa Bay Rays,0.0,0.0,Carlos Rodón,Nick Martinez
+823897,2026-09-22,2026,Preview,Los Angeles Dodgers,San Diego Padres,,,,Michael King
+824061,2026-09-22,2026,Preview,Kansas City Royals,Chicago White Sox,,,Daniel Lynch IV,Anthony Kay
+824222,2026-09-22,2026,Preview,Detroit Tigers,Washington Nationals,,,Drew Anderson,Riley Cornelio
+824302,2026-09-22,2026,Preview,Colorado Rockies,Arizona Diamondbacks,,,Kyle Freeland,Michael Soroka
+824624,2026-09-22,2026,Preview,Chicago Cubs,Miami Marlins,,,Shota Imanaga,Janson Junk
+824709,2026-09-22,2026,Preview,Boston Red Sox,Cleveland Guardians,,,Payton Tolle,Parker Messick
+824785,2026-09-22,2026,Preview,Baltimore Orioles,Toronto Blue Jays,,,Chris Bassitt,Max Scherzer
+824867,2026-09-22,2026,Preview,Atlanta Braves,Cincinnati Reds,,,JR Ritchie,Brandon Williamson
+824953,2026-09-22,2026,Preview,Athletics,Los Angeles Angels,,,Brady Basso,Yusei Kikuchi

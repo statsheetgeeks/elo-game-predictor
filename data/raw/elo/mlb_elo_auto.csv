@@ -15409,5 +15409,7 @@ date,season,game_pk,home_team,away_team,home_pitcher,away_pitcher,home_elo_pre,a
 2026-09-20,2026,824546,Chicago White Sox,Detroit Tigers,Davis Martin,Troy Melton,1500.5,1493.2,24.4,0.5351,0.4649,1504.1,1489.5,8,1,1
 2026-09-20,2026,824789,Baltimore Orioles,Milwaukee Brewers,Brandon Young,Jacob Misiorowski,1509.3,1575.8,-91.5,0.3713,0.6287,1507.3,1577.8,0,3,0
 2026-09-20,2026,825028,Arizona Diamondbacks,New York Yankees,Corbin Burnes,Will Warren,1514.6,1535.1,50.7,0.5724,0.4276,1517.2,1532.4,8,4,1
-2026-09-21,2026,824221,Detroit Tigers,Washington Nationals,River Ryan,DJ Herz,1489.5,1496.4,19.1,0.5274,0.4726,1492.1,1493.8,2,0,1
-2026-09-21,2026,824787,Baltimore Orioles,Toronto Blue Jays,Shane Baz,Trey Yesavage,1507.3,1502.2,18.6,0.5267,0.4733,1504.7,1504.8,0,0,0
+2026-09-21,2026,823169,San Francisco Giants,Minnesota Twins,Blade Tidwell,Zebby Matthews,1450.4,1476.9,12.8,0.5184,0.4816,1453.3,1474.0,5,2,1
+2026-09-21,2026,824221,Detroit Tigers,Washington Nationals,River Ryan,DJ Herz,1489.5,1496.4,19.1,0.5274,0.4726,1493.2,1492.7,9,2,1
+2026-09-21,2026,824787,Baltimore Orioles,Toronto Blue Jays,Shane Baz,Trey Yesavage,1507.3,1502.2,18.6,0.5267,0.4733,1509.7,1499.8,4,3,1
+2026-09-22,2026,823543,New York Yankees,Tampa Bay Rays,Carlos Rodón,Nick Martinez,1532.4,1534.0,37.7,0.5541,0.4459,1529.6,1536.9,0,0,0
