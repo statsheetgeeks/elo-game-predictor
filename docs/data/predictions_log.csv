@@ -937,7 +937,7 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-09-22,823328,Pittsburgh Pirates,St. Louis Cardinals,Pittsburgh Pirates,56.8,Pittsburgh Pirates,55-60%,,,
 2026-09-22,823412,Philadelphia Phillies,Milwaukee Brewers,Milwaukee Brewers,48.0,Milwaukee Brewers,45-50%,,,
 2026-09-22,823494,New York Yankees,Tampa Bay Rays,Tampa Bay Rays,54.3,New York Yankees,50-55%,,,
-2026-09-22,823543,New York Yankees,Tampa Bay Rays,Tampa Bay Rays,54.3,New York Yankees,50-55%,,,
+2026-09-22,823543,New York Yankees,Tampa Bay Rays,Tampa Bay Rays,54.3,New York Yankees,50-55%,New York Yankees,False,True
 2026-09-22,823897,Los Angeles Dodgers,San Diego Padres,Los Angeles Dodgers,57.5,Los Angeles Dodgers,55-60%,,,
 2026-09-22,824061,Kansas City Royals,Chicago White Sox,Chicago White Sox,49.7,Chicago White Sox,45-50%,,,
 2026-09-22,824222,Detroit Tigers,Washington Nationals,Detroit Tigers,55.5,Detroit Tigers,55-60%,,,

@@ -2344,16 +2344,16 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 822840,2026-09-22,2026,Preview,Texas Rangers,New York Mets,,,MacKenzie Gore,Sean Manaea
 823089,2026-09-22,2026,Preview,Seattle Mariners,Houston Astros,,,Logan Gilbert,Cristian Javier
 823166,2026-09-22,2026,Preview,San Francisco Giants,Minnesota Twins,,,Anthony Molina,Taj Bradley
-823328,2026-09-22,2026,Preview,Pittsburgh Pirates,St. Louis Cardinals,,,Jared Jones,Andre Pallante
-823412,2026-09-22,2026,Preview,Philadelphia Phillies,Milwaukee Brewers,,,Zack Wheeler,Dustin May
-823494,2026-09-22,2026,Preview,New York Yankees,Tampa Bay Rays,,,Max Fried,Drew Rasmussen
-823543,2026-09-22,2026,Live,New York Yankees,Tampa Bay Rays,0.0,0.0,Carlos Rodón,Nick Martinez
-823897,2026-09-22,2026,Preview,Los Angeles Dodgers,San Diego Padres,,,,Michael King
-824061,2026-09-22,2026,Preview,Kansas City Royals,Chicago White Sox,,,Daniel Lynch IV,Anthony Kay
-824222,2026-09-22,2026,Preview,Detroit Tigers,Washington Nationals,,,Drew Anderson,Riley Cornelio
-824302,2026-09-22,2026,Preview,Colorado Rockies,Arizona Diamondbacks,,,Kyle Freeland,Michael Soroka
-824624,2026-09-22,2026,Preview,Chicago Cubs,Miami Marlins,,,Shota Imanaga,Janson Junk
-824709,2026-09-22,2026,Preview,Boston Red Sox,Cleveland Guardians,,,Payton Tolle,Parker Messick
-824785,2026-09-22,2026,Preview,Baltimore Orioles,Toronto Blue Jays,,,Chris Bassitt,Max Scherzer
-824867,2026-09-22,2026,Preview,Atlanta Braves,Cincinnati Reds,,,JR Ritchie,Brandon Williamson
-824953,2026-09-22,2026,Preview,Athletics,Los Angeles Angels,,,Brady Basso,Yusei Kikuchi
+823328,2026-09-22,2026,Live,Pittsburgh Pirates,St. Louis Cardinals,0.0,0.0,Jared Jones,Andre Pallante
+823412,2026-09-22,2026,Live,Philadelphia Phillies,Milwaukee Brewers,0.0,0.0,Zack Wheeler,Dustin May
+823494,2026-09-22,2026,Preview,New York Yankees,Tampa Bay Rays,0.0,0.0,Max Fried,Drew Rasmussen
+823543,2026-09-22,2026,Final,New York Yankees,Tampa Bay Rays,2.0,0.0,Carlos Rodón,Nick Martinez
+823897,2026-09-22,2026,Preview,Los Angeles Dodgers,San Diego Padres,,,Brock Stewart,Michael King
+824061,2026-09-22,2026,Preview,Kansas City Royals,Chicago White Sox,0.0,0.0,Daniel Lynch IV,Anthony Kay
+824222,2026-09-22,2026,Live,Detroit Tigers,Washington Nationals,0.0,0.0,Drew Anderson,Riley Cornelio
+824302,2026-09-22,2026,Preview,Colorado Rockies,Arizona Diamondbacks,0.0,0.0,Kyle Freeland,Michael Soroka
+824624,2026-09-22,2026,Preview,Chicago Cubs,Miami Marlins,0.0,0.0,Shota Imanaga,Janson Junk
+824709,2026-09-22,2026,Live,Boston Red Sox,Cleveland Guardians,0.0,0.0,Payton Tolle,Parker Messick
+824785,2026-09-22,2026,Final,Baltimore Orioles,Toronto Blue Jays,,,Chris Bassitt,Max Scherzer
+824867,2026-09-22,2026,Preview,Atlanta Braves,Cincinnati Reds,0.0,0.0,JR Ritchie,Brandon Williamson
+824953,2026-09-22,2026,Preview,Athletics,Los Angeles Angels,0.0,0.0,Brady Basso,Yusei Kikuchi
