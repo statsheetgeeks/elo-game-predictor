@@ -1,17 +1,17 @@
 as_of_date,game_pk,home_team,home_combined_rating,away_team,away_combined_rating,elo_diff,home_win_prob
-2026-09-23,822841,Texas Rangers,1497.2,New York Mets,1511.3,-14.1,51.2
+2026-09-23,822841,Texas Rangers,1497.2,New York Mets,1514.1,-16.9,50.8
 2026-09-23,823086,Seattle Mariners,1482.8,Houston Astros,1494.0,-11.2,52.4
-2026-09-23,823168,San Francisco Giants,1465.2,Minnesota Twins,1472.6,-7.4,53.9
-2026-09-23,823327,Pittsburgh Pirates,1523.1,St. Louis Cardinals,1483.0,40.1,58.2
-2026-09-23,823410,Philadelphia Phillies,1545.1,Milwaukee Brewers,1585.7,-40.6,48.4
-2026-09-23,823492,New York Yankees,1554.5,Tampa Bay Rays,1555.1,-0.6,54.5
+2026-09-23,823168,San Francisco Giants,1465.2,Minnesota Twins,1472.9,-7.7,53.9
+2026-09-23,823327,Pittsburgh Pirates,1523.2,St. Louis Cardinals,1486.8,36.4,57.7
+2026-09-23,823410,Philadelphia Phillies,1545.6,Milwaukee Brewers,1587.9,-42.3,48.2
+2026-09-23,823492,New York Yankees,1555.1,Tampa Bay Rays,1558.4,-3.3,54.1
 2026-09-23,823894,Los Angeles Dodgers,1551.8,San Diego Padres,1547.0,4.8,57.0
-2026-09-23,824060,Kansas City Royals,1479.5,Chicago White Sox,1507.0,-27.5,48.6
-2026-09-23,824223,Detroit Tigers,1507.4,Washington Nationals,1494.4,13.0,54.7
-2026-09-23,824301,Colorado Rockies,1415.4,Arizona Diamondbacks,1523.7,-108.3,38.9
-2026-09-23,824625,Chicago Cubs,1555.1,Miami Marlins,1506.6,48.5,59.2
-2026-09-23,824710,Boston Red Sox,1552.6,Cleveland Guardians,1523.2,29.4,56.9
-2026-09-23,824784,Baltimore Orioles,1522.9,Toronto Blue Jays,1516.5,6.4,50.7
-2026-09-23,824785,Baltimore Orioles,1522.9,Toronto Blue Jays,1516.5,6.4,50.7
-2026-09-23,824868,Atlanta Braves,1554.4,Cincinnati Reds,1480.2,74.2,63.2
-2026-09-23,824951,Athletics,1426.5,Los Angeles Angels,1447.0,-20.5,50.0
+2026-09-23,824060,Kansas City Royals,1479.9,Chicago White Sox,1509.2,-29.3,48.3
+2026-09-23,824223,Detroit Tigers,1507.0,Washington Nationals,1495.1,11.9,54.5
+2026-09-23,824301,Colorado Rockies,1415.6,Arizona Diamondbacks,1525.3,-109.7,38.7
+2026-09-23,824625,Chicago Cubs,1555.3,Miami Marlins,1510.2,45.1,58.7
+2026-09-23,824710,Boston Red Sox,1553.2,Cleveland Guardians,1526.6,26.6,56.5
+2026-09-23,824784,Baltimore Orioles,1522.8,Toronto Blue Jays,1513.7,9.1,51.1
+2026-09-23,824785,Baltimore Orioles,1522.8,Toronto Blue Jays,1513.7,9.1,51.1
+2026-09-23,824868,Atlanta Braves,1555.0,Cincinnati Reds,1484.6,70.4,62.7
+2026-09-23,824951,Athletics,1426.7,Los Angeles Angels,1449.5,-22.8,49.6

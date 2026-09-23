@@ -944,18 +944,18 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-09-22,824302,Colorado Rockies,Arizona Diamondbacks,Arizona Diamondbacks,38.4,Arizona Diamondbacks,35-40%,Arizona Diamondbacks,True,True
 2026-09-22,824624,Chicago Cubs,Miami Marlins,Chicago Cubs,59.9,Chicago Cubs,55-60%,Miami Marlins,False,False
 2026-09-22,824709,Boston Red Sox,Cleveland Guardians,Boston Red Sox,58.3,Boston Red Sox,55-60%,Cleveland Guardians,False,False
-2026-09-22,824785,Baltimore Orioles,Toronto Blue Jays,Baltimore Orioles,51.1,Baltimore Orioles,50-55%,,,
+2026-09-22,824785,Baltimore Orioles,Toronto Blue Jays,Baltimore Orioles,51.1,Baltimore Orioles,50-55%,Baltimore Orioles,True,True
 2026-09-22,824867,Atlanta Braves,Cincinnati Reds,Atlanta Braves,63.0,Atlanta Braves,60-65%,Cincinnati Reds,False,False
 2026-09-22,824953,Athletics,Los Angeles Angels,Los Angeles Angels,49.6,Los Angeles Angels,45-50%,Athletics,False,False
 2026-09-23,822841,Texas Rangers,New York Mets,New York Mets,51.2,Texas Rangers,50-55%,,,
 2026-09-23,823086,Seattle Mariners,Houston Astros,Houston Astros,52.4,Seattle Mariners,50-55%,,,
-2026-09-23,823168,San Francisco Giants,Minnesota Twins,Minnesota Twins,53.9,San Francisco Giants,50-55%,,,
+2026-09-23,823168,San Francisco Giants,Minnesota Twins,Minnesota Twins,53.9,San Francisco Giants,50-55%,Minnesota Twins,True,False
 2026-09-23,823327,Pittsburgh Pirates,St. Louis Cardinals,Pittsburgh Pirates,58.2,Pittsburgh Pirates,55-60%,,,
 2026-09-23,823410,Philadelphia Phillies,Milwaukee Brewers,Milwaukee Brewers,48.4,Milwaukee Brewers,45-50%,,,
 2026-09-23,823492,New York Yankees,Tampa Bay Rays,Tampa Bay Rays,54.5,New York Yankees,50-55%,,,
 2026-09-23,823894,Los Angeles Dodgers,San Diego Padres,Los Angeles Dodgers,57.0,Los Angeles Dodgers,55-60%,,,
 2026-09-23,824060,Kansas City Royals,Chicago White Sox,Chicago White Sox,48.6,Chicago White Sox,45-50%,,,
-2026-09-23,824223,Detroit Tigers,Washington Nationals,Detroit Tigers,54.7,Detroit Tigers,50-55%,,,
+2026-09-23,824223,Detroit Tigers,Washington Nationals,Detroit Tigers,54.7,Detroit Tigers,50-55%,Washington Nationals,False,False
 2026-09-23,824301,Colorado Rockies,Arizona Diamondbacks,Arizona Diamondbacks,38.9,Arizona Diamondbacks,35-40%,,,
 2026-09-23,824625,Chicago Cubs,Miami Marlins,Chicago Cubs,59.2,Chicago Cubs,55-60%,,,
 2026-09-23,824710,Boston Red Sox,Cleveland Guardians,Boston Red Sox,56.9,Boston Red Sox,55-60%,,,

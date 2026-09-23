@@ -1,12 +1,12 @@
 {
   "combined_elo_record": {
-    "wins": 529,
-    "losses": 418,
+    "wins": 531,
+    "losses": 419,
     "pct": 55.9
   },
   "home_prob_record": {
-    "wins": 524,
-    "losses": 423,
+    "wins": 525,
+    "losses": 425,
     "pct": 55.3
   },
   "calibration": [
@@ -94,9 +94,9 @@
       "bucket": "50-55%",
       "range_low": 50,
       "range_high": 55,
-      "n_games": 225,
+      "n_games": 228,
       "avg_predicted_home_win_pct": 52.5,
-      "observed_home_win_pct": 49.3
+      "observed_home_win_pct": 49.1
     },
     {
       "bucket": "55-60%",
@@ -171,7 +171,7 @@
       "observed_home_win_pct": null
     }
   ],
-  "n_resolved": 947,
-  "n_pending": 16,
+  "n_resolved": 950,
+  "n_pending": 13,
   "generated_at": "2026-09-23"
 }
