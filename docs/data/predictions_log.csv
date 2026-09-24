@@ -962,15 +962,15 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-09-23,824784,Baltimore Orioles,Toronto Blue Jays,Baltimore Orioles,50.7,Baltimore Orioles,50-55%,Baltimore Orioles,True,True
 2026-09-23,824868,Atlanta Braves,Cincinnati Reds,Atlanta Braves,63.2,Atlanta Braves,60-65%,Atlanta Braves,True,True
 2026-09-23,824951,Athletics,Los Angeles Angels,Los Angeles Angels,50.0,Athletics,50-55%,Athletics,False,True
-2026-09-24,822842,Texas Rangers,New York Mets,New York Mets,50.3,Texas Rangers,50-55%,,,
+2026-09-24,822842,Texas Rangers,New York Mets,New York Mets,50.3,Texas Rangers,50-55%,Texas Rangers,False,True
 2026-09-24,823087,Seattle Mariners,Los Angeles Angels,Seattle Mariners,59.6,Seattle Mariners,55-60%,,,
-2026-09-24,823326,Pittsburgh Pirates,St. Louis Cardinals,Pittsburgh Pirates,57.1,Pittsburgh Pirates,55-60%,,,
-2026-09-24,823411,Philadelphia Phillies,Milwaukee Brewers,Milwaukee Brewers,48.1,Milwaukee Brewers,45-50%,,,
+2026-09-24,823326,Pittsburgh Pirates,St. Louis Cardinals,Pittsburgh Pirates,57.1,Pittsburgh Pirates,55-60%,Pittsburgh Pirates,True,True
+2026-09-24,823411,Philadelphia Phillies,Milwaukee Brewers,Milwaukee Brewers,48.1,Milwaukee Brewers,45-50%,Milwaukee Brewers,True,True
 2026-09-24,823493,New York Yankees,Tampa Bay Rays,New York Yankees,55.0,New York Yankees,55-60%,,,
 2026-09-24,823895,Los Angeles Dodgers,San Diego Padres,Los Angeles Dodgers,56.4,Los Angeles Dodgers,55-60%,,,
-2026-09-24,824059,Kansas City Royals,Chicago White Sox,Chicago White Sox,48.7,Chicago White Sox,45-50%,,,
-2026-09-24,824298,Colorado Rockies,Arizona Diamondbacks,Arizona Diamondbacks,38.5,Arizona Diamondbacks,35-40%,,,
-2026-09-24,824623,Chicago Cubs,Miami Marlins,Chicago Cubs,58.3,Chicago Cubs,55-60%,,,
+2026-09-24,824059,Kansas City Royals,Chicago White Sox,Chicago White Sox,48.7,Chicago White Sox,45-50%,Chicago White Sox,True,True
+2026-09-24,824298,Colorado Rockies,Arizona Diamondbacks,Arizona Diamondbacks,38.5,Arizona Diamondbacks,35-40%,Arizona Diamondbacks,True,True
+2026-09-24,824623,Chicago Cubs,Miami Marlins,Chicago Cubs,58.3,Chicago Cubs,55-60%,Chicago Cubs,True,True
 2026-09-24,824707,Boston Red Sox,Cleveland Guardians,Boston Red Sox,57.2,Boston Red Sox,55-60%,,,
 2026-09-24,824866,Atlanta Braves,Cincinnati Reds,Atlanta Braves,63.4,Atlanta Braves,60-65%,,,
 2026-09-24,824950,Athletics,Houston Astros,Houston Astros,43.6,Houston Astros,40-45%,,,

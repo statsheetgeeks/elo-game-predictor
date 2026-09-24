@@ -2372,15 +2372,15 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824785,2026-09-23,2026,Final,Baltimore Orioles,Toronto Blue Jays,4.0,2.0,Chris Bassitt,Max Scherzer
 824868,2026-09-23,2026,Final,Atlanta Braves,Cincinnati Reds,3.0,2.0,Chris Sale,Andrew Abbott
 824951,2026-09-23,2026,Final,Athletics,Los Angeles Angels,7.0,3.0,Jeffrey Springs,Walbert Ureña
-822842,2026-09-24,2026,Preview,Texas Rangers,New York Mets,0.0,0.0,Kumar Rocker,Zac Thornton
-823087,2026-09-24,2026,Preview,Seattle Mariners,Los Angeles Angels,,,Bryan Woo,Grayson Rodriguez
-823326,2026-09-24,2026,Live,Pittsburgh Pirates,St. Louis Cardinals,1.0,1.0,Paul Skenes,Kyle Leahy
-823411,2026-09-24,2026,Preview,Philadelphia Phillies,Milwaukee Brewers,,,Andrew Painter,Shane Drohan
-823493,2026-09-24,2026,Preview,New York Yankees,Tampa Bay Rays,,,Cam Schlittler,Ian Seymour
-823895,2026-09-24,2026,Preview,Los Angeles Dodgers,San Diego Padres,,,Tyler Glasnow,Nick Pivetta
-824059,2026-09-24,2026,Live,Kansas City Royals,Chicago White Sox,0.0,0.0,Randy Dobnak,David Sandlin
-824298,2026-09-24,2026,Preview,Colorado Rockies,Arizona Diamondbacks,0.0,0.0,Tanner Gordon,Eduardo Rodriguez
-824623,2026-09-24,2026,Live,Chicago Cubs,Miami Marlins,0.0,0.0,Matthew Boyd,Tyler Phillips
-824707,2026-09-24,2026,Preview,Boston Red Sox,Cleveland Guardians,,,Ranger Suarez,Daniel Espino
-824866,2026-09-24,2026,Preview,Atlanta Braves,Cincinnati Reds,,,Tyler Mahle,Brady Singer
+822842,2026-09-24,2026,Final,Texas Rangers,New York Mets,3.0,1.0,Kumar Rocker,Zac Thornton
+823087,2026-09-24,2026,Preview,Seattle Mariners,Los Angeles Angels,0.0,0.0,Bryan Woo,Grayson Rodriguez
+823326,2026-09-24,2026,Final,Pittsburgh Pirates,St. Louis Cardinals,2.0,1.0,Paul Skenes,Kyle Leahy
+823411,2026-09-24,2026,Live,Philadelphia Phillies,Milwaukee Brewers,0.0,1.0,Andrew Painter,Shane Drohan
+823493,2026-09-24,2026,Live,New York Yankees,Tampa Bay Rays,0.0,0.0,Cam Schlittler,Ian Seymour
+823895,2026-09-24,2026,Preview,Los Angeles Dodgers,San Diego Padres,0.0,0.0,Tyler Glasnow,Nick Pivetta
+824059,2026-09-24,2026,Final,Kansas City Royals,Chicago White Sox,1.0,9.0,Randy Dobnak,David Sandlin
+824298,2026-09-24,2026,Final,Colorado Rockies,Arizona Diamondbacks,8.0,12.0,Tanner Gordon,Eduardo Rodriguez
+824623,2026-09-24,2026,Final,Chicago Cubs,Miami Marlins,2.0,1.0,Matthew Boyd,Tyler Phillips
+824707,2026-09-24,2026,Live,Boston Red Sox,Cleveland Guardians,0.0,0.0,Ranger Suarez,Daniel Espino
+824866,2026-09-24,2026,Preview,Atlanta Braves,Cincinnati Reds,0.0,0.0,Tyler Mahle,Brady Singer
 824950,2026-09-24,2026,Preview,Athletics,Houston Astros,,,Mason Barnett,Peter Lambert
