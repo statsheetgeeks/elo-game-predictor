@@ -974,14 +974,14 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-09-24,824707,Boston Red Sox,Cleveland Guardians,Boston Red Sox,57.2,Boston Red Sox,55-60%,Cleveland Guardians,False,False
 2026-09-24,824866,Atlanta Braves,Cincinnati Reds,Atlanta Braves,63.4,Atlanta Braves,60-65%,Cincinnati Reds,False,False
 2026-09-24,824950,Athletics,Houston Astros,Houston Astros,43.6,Houston Astros,40-45%,Houston Astros,True,True
-2026-09-25,822681,Washington Nationals,New York Mets,New York Mets,48.3,New York Mets,45-50%,,,
+2026-09-25,822681,Washington Nationals,New York Mets,New York Mets,48.3,New York Mets,45-50%,New York Mets,True,True
 2026-09-25,822760,Toronto Blue Jays,Cincinnati Reds,Toronto Blue Jays,57.0,Toronto Blue Jays,55-60%,,,
 2026-09-25,823085,Seattle Mariners,Los Angeles Angels,Seattle Mariners,59.0,Seattle Mariners,55-60%,,,
 2026-09-25,823167,San Francisco Giants,Los Angeles Dodgers,Los Angeles Dodgers,42.5,Los Angeles Dodgers,40-45%,,,
 2026-09-25,823248,San Diego Padres,Arizona Diamondbacks,San Diego Padres,57.6,San Diego Padres,55-60%,,,
-2026-09-25,823409,Philadelphia Phillies,Tampa Bay Rays,Tampa Bay Rays,53.6,Philadelphia Phillies,50-55%,,,
+2026-09-25,823409,Philadelphia Phillies,Tampa Bay Rays,Tampa Bay Rays,53.6,Philadelphia Phillies,50-55%,Tampa Bay Rays,True,False
 2026-09-25,823489,New York Yankees,Baltimore Orioles,New York Yankees,58.3,New York Yankees,55-60%,,,
-2026-09-25,823491,New York Yankees,Baltimore Orioles,New York Yankees,58.3,New York Yankees,55-60%,,,
+2026-09-25,823491,New York Yankees,Baltimore Orioles,New York Yankees,58.3,New York Yankees,55-60%,Baltimore Orioles,False,False
 2026-09-25,823652,Minnesota Twins,Texas Rangers,Texas Rangers,50.4,Minnesota Twins,50-55%,,,
 2026-09-25,823735,Milwaukee Brewers,St. Louis Cardinals,Milwaukee Brewers,67.0,Milwaukee Brewers,65-70%,,,
 2026-09-25,823816,Miami Marlins,Atlanta Braves,Atlanta Braves,46.4,Atlanta Braves,45-50%,,,
