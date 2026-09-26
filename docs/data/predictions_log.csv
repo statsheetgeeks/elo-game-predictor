@@ -992,15 +992,15 @@ date,game_pk,home_team,away_team,combined_elo_pick,home_win_prob,home_prob_pick,
 2026-09-25,824706,Boston Red Sox,Chicago Cubs,Boston Red Sox,52.9,Boston Red Sox,50-55%,Boston Red Sox,True,True
 2026-09-25,824947,Athletics,Houston Astros,Houston Astros,43.2,Houston Astros,40-45%,Athletics,False,False
 2026-09-26,822678,Washington Nationals,New York Mets,New York Mets,49.0,New York Mets,45-50%,Washington Nationals,False,False
-2026-09-26,822759,Toronto Blue Jays,Cincinnati Reds,Toronto Blue Jays,56.9,Toronto Blue Jays,55-60%,,,
+2026-09-26,822759,Toronto Blue Jays,Cincinnati Reds,Toronto Blue Jays,56.9,Toronto Blue Jays,55-60%,Cincinnati Reds,False,False
 2026-09-26,823083,Seattle Mariners,Los Angeles Angels,Seattle Mariners,58.5,Seattle Mariners,55-60%,,,
-2026-09-26,823165,San Francisco Giants,Los Angeles Dodgers,Los Angeles Dodgers,41.9,Los Angeles Dodgers,40-45%,,,
+2026-09-26,823165,San Francisco Giants,Los Angeles Dodgers,Los Angeles Dodgers,41.9,Los Angeles Dodgers,40-45%,Los Angeles Dodgers,True,True
 2026-09-26,823245,San Diego Padres,Arizona Diamondbacks,San Diego Padres,57.0,San Diego Padres,55-60%,,,
 2026-09-26,823407,Philadelphia Phillies,Tampa Bay Rays,Tampa Bay Rays,53.2,Philadelphia Phillies,50-55%,,,
 2026-09-26,823653,Minnesota Twins,Texas Rangers,Texas Rangers,50.3,Minnesota Twins,50-55%,,,
 2026-09-26,823733,Milwaukee Brewers,St. Louis Cardinals,Milwaukee Brewers,67.3,Milwaukee Brewers,65-70%,,,
-2026-09-26,823813,Miami Marlins,Atlanta Braves,Atlanta Braves,47.6,Atlanta Braves,45-50%,,,
+2026-09-26,823813,Miami Marlins,Atlanta Braves,Atlanta Braves,47.6,Atlanta Braves,45-50%,Atlanta Braves,True,True
 2026-09-26,824057,Kansas City Royals,Cleveland Guardians,Cleveland Guardians,45.6,Cleveland Guardians,45-50%,,,
-2026-09-26,824219,Detroit Tigers,Pittsburgh Pirates,Pittsburgh Pirates,49.8,Pittsburgh Pirates,45-50%,,,
+2026-09-26,824219,Detroit Tigers,Pittsburgh Pirates,Pittsburgh Pirates,49.8,Pittsburgh Pirates,45-50%,Detroit Tigers,False,False
 2026-09-26,824543,Chicago White Sox,Colorado Rockies,Chicago White Sox,69.0,Chicago White Sox,65-70%,,,
 2026-09-26,824949,Athletics,Houston Astros,Houston Astros,43.7,Houston Astros,40-45%,,,

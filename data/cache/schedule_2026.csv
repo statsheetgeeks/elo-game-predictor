@@ -2401,16 +2401,16 @@ game_pk,date,year,status,home_team,away_team,home_score,away_score,home_probable
 824703,2026-09-25,2026,Final,Boston Red Sox,Chicago Cubs,4.0,3.0,Alec Gamboa,Clay Holmes
 824706,2026-09-25,2026,Final,Boston Red Sox,Chicago Cubs,2.0,0.0,Brayan Bello,David Peterson
 824947,2026-09-25,2026,Final,Athletics,Houston Astros,6.0,5.0,Jacob Lopez,Hunter Brown
-822678,2026-09-26,2026,Live,Washington Nationals,New York Mets,1.0,0.0,Connelly Early,Jonah Tong
-822759,2026-09-26,2026,Preview,Toronto Blue Jays,Cincinnati Reds,0.0,0.0,Trey Yesavage,Rhett Lowder
+822678,2026-09-26,2026,Final,Washington Nationals,New York Mets,1.0,7.0,Connelly Early,Jonah Tong
+822759,2026-09-26,2026,Final,Toronto Blue Jays,Cincinnati Reds,1.0,5.0,Trey Yesavage,Rhett Lowder
 823083,2026-09-26,2026,Preview,Seattle Mariners,Los Angeles Angels,,,Kade Anderson,Ryan Johnson
-823165,2026-09-26,2026,Preview,San Francisco Giants,Los Angeles Dodgers,0.0,0.0,Matt Wilkinson,Blake Snell
-823245,2026-09-26,2026,Preview,San Diego Padres,Arizona Diamondbacks,,,Walker Buehler,
-823407,2026-09-26,2026,Preview,Philadelphia Phillies,Tampa Bay Rays,,,,Griffin Jax
-823653,2026-09-26,2026,Preview,Minnesota Twins,Texas Rangers,0.0,0.0,Bailey Ober,Nathan Eovaldi
-823733,2026-09-26,2026,Preview,Milwaukee Brewers,St. Louis Cardinals,,,Dustin May,Quinn Mathews
-823813,2026-09-26,2026,Preview,Miami Marlins,Atlanta Braves,0.0,0.0,Jack Ralston,Brent Suter
-824057,2026-09-26,2026,Preview,Kansas City Royals,Cleveland Guardians,,,Michael Wacha,Tanner Bibee
-824219,2026-09-26,2026,Live,Detroit Tigers,Pittsburgh Pirates,0.0,0.0,Justin Verlander,Kirby Yates
-824543,2026-09-26,2026,Preview,Chicago White Sox,Colorado Rockies,,,Davis Martin,Jose Quintana
+823165,2026-09-26,2026,Live,San Francisco Giants,Los Angeles Dodgers,2.0,3.0,Matt Wilkinson,Blake Snell
+823245,2026-09-26,2026,Preview,San Diego Padres,Arizona Diamondbacks,0.0,0.0,Walker Buehler,
+823407,2026-09-26,2026,Preview,Philadelphia Phillies,Tampa Bay Rays,0.0,0.0,Aaron Nola,Griffin Jax
+823653,2026-09-26,2026,Live,Minnesota Twins,Texas Rangers,0.0,0.0,Bailey Ober,Nathan Eovaldi
+823733,2026-09-26,2026,Preview,Milwaukee Brewers,St. Louis Cardinals,0.0,0.0,Dustin May,Quinn Mathews
+823813,2026-09-26,2026,Live,Miami Marlins,Atlanta Braves,2.0,6.0,Jack Ralston,Brent Suter
+824057,2026-09-26,2026,Preview,Kansas City Royals,Cleveland Guardians,0.0,0.0,Michael Wacha,Tanner Bibee
+824219,2026-09-26,2026,Final,Detroit Tigers,Pittsburgh Pirates,4.0,3.0,Justin Verlander,Kirby Yates
+824543,2026-09-26,2026,Preview,Chicago White Sox,Colorado Rockies,0.0,0.0,Davis Martin,Jose Quintana
 824949,2026-09-26,2026,Preview,Athletics,Houston Astros,,,Jack Perkins,Hayden Wesneski
