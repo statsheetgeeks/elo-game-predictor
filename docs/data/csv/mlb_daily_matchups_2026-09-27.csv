@@ -1,16 +1,16 @@
 as_of_date,game_pk,home_team,home_combined_rating,away_team,away_combined_rating,elo_diff,home_win_prob
-2026-09-27,822679,Washington Nationals,1495.2,New York Mets,1516.5,-21.3,47.7
-2026-09-27,822761,Toronto Blue Jays,1508.3,Cincinnati Reds,1487.6,20.7,56.3
-2026-09-27,823084,Seattle Mariners,1482.5,Los Angeles Angels,1450.1,32.4,58.6
-2026-09-27,823164,San Francisco Giants,1465.1,Los Angeles Dodgers,1558.5,-93.4,41.6
-2026-09-27,823246,San Diego Padres,1555.0,Arizona Diamondbacks,1532.6,22.4,56.9
-2026-09-27,823408,Philadelphia Phillies,1545.6,Tampa Bay Rays,1561.5,-15.9,52.0
-2026-09-27,823490,New York Yankees,1554.8,Baltimore Orioles,1527.8,27.0,58.4
-2026-09-27,823650,Minnesota Twins,1473.1,Texas Rangers,1502.2,-29.1,49.7
-2026-09-27,823731,Milwaukee Brewers,1592.0,St. Louis Cardinals,1487.6,104.4,66.9
-2026-09-27,823814,Miami Marlins,1509.2,Atlanta Braves,1550.6,-41.4,47.1
-2026-09-27,824055,Kansas City Royals,1478.2,Cleveland Guardians,1532.5,-54.3,44.8
-2026-09-27,824217,Detroit Tigers,1506.7,Pittsburgh Pirates,1525.8,-19.1,50.1
-2026-09-27,824542,Chicago White Sox,1508.0,Colorado Rockies,1411.4,96.6,67.9
-2026-09-27,824705,Boston Red Sox,1553.3,Chicago Cubs,1546.9,6.4,53.6
-2026-09-27,824948,Athletics,1426.0,Houston Astros,1497.1,-71.1,42.7
+2026-09-27,822679,Washington Nationals,1495.1,New York Mets,1510.9,-15.8,48.5
+2026-09-27,822761,Toronto Blue Jays,1508.3,Cincinnati Reds,1481.9,26.4,57.1
+2026-09-27,823084,Seattle Mariners,1482.2,Los Angeles Angels,1444.3,37.9,59.3
+2026-09-27,823164,San Francisco Giants,1465.1,Los Angeles Dodgers,1559.4,-94.3,41.5
+2026-09-27,823246,San Diego Padres,1554.6,Arizona Diamondbacks,1526.2,28.4,57.7
+2026-09-27,823408,Philadelphia Phillies,1545.3,Tampa Bay Rays,1555.1,-9.8,52.9
+2026-09-27,823490,New York Yankees,1554.8,Baltimore Orioles,1527.7,27.1,58.4
+2026-09-27,823650,Minnesota Twins,1473.0,Texas Rangers,1496.3,-23.3,50.5
+2026-09-27,823731,Milwaukee Brewers,1591.6,St. Louis Cardinals,1481.9,109.7,67.6
+2026-09-27,823814,Miami Marlins,1509.0,Atlanta Braves,1545.3,-36.3,47.9
+2026-09-27,824055,Kansas City Royals,1478.2,Cleveland Guardians,1527.2,-49.0,45.5
+2026-09-27,824217,Detroit Tigers,1506.7,Pittsburgh Pirates,1526.1,-19.4,50.1
+2026-09-27,824542,Chicago White Sox,1507.8,Colorado Rockies,1405.9,101.9,68.6
+2026-09-27,824705,Boston Red Sox,1553.3,Chicago Cubs,1547.5,5.8,53.5
+2026-09-27,824948,Athletics,1425.9,Houston Astros,1499.1,-73.2,42.4
